@@ -1,0 +1,362 @@
+{
+  "text": "[{\"Start\":0,\"End\":38.3,\"Speaker\":0,\"Content\":\"Welcome to Getting Started with Paperclip, and I'm Dota, your host and the creator of Paperclip, and I'm so excited to show you how to get started with this brand new open source agent orchestrator. I'm going to walk you through your first steps of how to get Paperclip started, what it looks like when you have a huge organization, and some of my best advanced tips for working with AI agents, and so you can create your own zero human company. Now, the tagline that we have for Paperclip is that it's for open source orchestration for zero human companies.\"},{\"Start\":38.3,\"End\":75.34,\"Speaker\":0,\"Content\":\"um you can hire employees, set goals, automate jobs, your business can nearly run itself. Well, you know, maybe that's a bit of a headline. I would say that Paperclip is the human control plane for AI labor. Really, the idea behind Paperclip is that you're able to set up an org chart of agents where you can manage them all and um invoke your taste in what these agents how they work and have them complete real work. Um so let me walk you through a little bit how how to get started.\"},{\"Start\":75.34,\"End\":105.67,\"Speaker\":0,\"Content\":\"The first thing that you do is you should just open up your terminal and run npx paperclipai onboard. You can pass -jes if you want the default options, but let me talk about like what is Paperclip? Paperclip is a um a a way that you can accomplish real work that you are accountable for using AI agents. Maybe you've seen tools um where they have you create a task and then it automatically creates a business for you.\"},{\"Start\":105.67,\"End\":143.79,\"Speaker\":0,\"Content\":\"With Paperclip, um you actually are involved in the steps to have your preferences accounted for and um and you are involved in the task process from the higher level design all the way to actually executing. So, what I'm going to do here actually is I'm going to show you this is the real instance that I use uh to manage Paperclip itself. And I'm going to walk you through a little bit um this kind of finished product and then we'll start a brand new company and I'll show you how you can do it on your own. So, this is the company that I use to manage Paperclip itself.\"},{\"Start\":143.79,\"End\":181.14,\"Speaker\":0,\"Content\":\"you've got here the CEO who's the man in charge. We've got a CTO and under him he has quite a lot of coders. Um, I would say that the two coders that I use the most would be the Codex coder as well as the Claude coder. And an important thing about Paperclip is that you bring your own agent. So you can use Gemini, you can use Pi, you can use Hermes, you can use Open Claw. A key part of uh Paperclip is that any agent that you want to use can be brought in to Paperclip as a employee and then it can sort of uh negotiate and communicate.\"},{\"Start\":181.14,\"End\":184.54,\"Speaker\":0,\"Content\":\"and have its memory stored with the rest of Paperclip.\"},{\"Start\":185.04,\"End\":222.72,\"Speaker\":0,\"Content\":\"If you look over here for a quick example, we've got our marketing organization. And one of the things that we have here under the CMO is content strategist and also a video writer. Now, we've been super thankful with how quickly Paperclip has grown. We actually crossed uh this week 40,000 GitHub stars, which I was stoked about. Um and that's really through kind of the contributions of the whole community. Probably by the time you're watching this, we've already crossed 50,000 stars. Now, normally what I would do is I would actually just uh publish a tweet or at most a screenshot celebrating 40,000 stars and call it a day.\"},{\"Start\":222.72,\"End\":252.54,\"Speaker\":0,\"Content\":\"but I realized, you know, I wonder if I can use Paperclip to accelerate this process. And so, what I did is I came in here and I created a new issue. And I assigned it to my CEO. The idea behind Paperclip is that you are the CEO and you are working, um, you are basically giving your CEO instructions and then your CEO is designed to, uh, break down the tasks to your executive branch and then down to the individual visual contributors.\"},{\"Start\":252.54,\"End\":269.14,\"Speaker\":0,\"Content\":\"So, one of the things uh that I did is I asked the CEO uh please hire a video writer and have them write uh a Remotion video uh celebrating 40,000 stars.\"},{\"Start\":269.14,\"End\":270.62,\"Speaker\":0,\"Content\":\"So\"},{\"Start\":270.62,\"End\":307.99,\"Speaker\":0,\"Content\":\"Here's the thing. Every piece of the Paperclip app has an agentic surface. So your CEO knows how to hire new agents. They know how to install new skills. There is a skills manager built into Paperclip. So for example, I'm sure you've seen skills.sh. From there, um we would install the Remotion best practices skill. The CEO knows how to find this and do this. And Remotion, if you don't know, is a open source React, uh, actually I don't know if it's React based. It's an open source tool that you can use for creating videos. You don't need to sign up for anything.\"},{\"Start\":307.99,\"End\":338.42,\"Speaker\":0,\"Content\":\"The CEO hired our video writer agent and gave her the um Remotion best practices skill, yeah, video creation in React. And from there, I was able to create a prompt to say, plan this video for the stats dashboard. So I say, go look at the dashboard we're at mentioning another project that we already have. We already had a dashboard and our stats are stats, you know, these agents can don't mind typos. Make a plan for a Remotion video that we can create that celebrates 40,000 stars.\"},{\"Start\":338.42,\"End\":338.98,\"Speaker\":0,\"Content\":\"Okay.\"},{\"Start\":338.98,\"End\":374.93,\"Speaker\":0,\"Content\":\"So, this was my entire prompt right here to make this video that I showed you uh over here. I I I wrote this prompt and then the agent wrote this plan. Um, Paperclip has first class first class support for plans. And um then after I read the plan briefly, I gave it some feedback. I said, you know what, your cuts need to be like two seconds, not six, and just have the 40,000 stars animate, etcetera, right? So I go through here and I actually give my agent, we have a bit of a conversation around how we want the video to look.\"},{\"Start\":374.93,\"End\":414.82,\"Speaker\":0,\"Content\":\"And then bam, within about uh five minutes, we had this like beautiful animation that is on brand, that's the real stats, it has charts and and and so the question is like, well, how did it have all this context? And the answer is that it had it from Paperclip. You know, you could do this with Claude Code and what you would have to do is you'd have to go track down all your stats, you would have to track down your brand guide, you'd have to give it the ReMotion skill, you have to give it access to your dashboard. With Paperclip, all of those things are built into the system. So for example, um we already had the dashboard, we already have a Paperclip uh branding guide, which the uh\"},{\"Start\":414.82,\"End\":454.3,\"Speaker\":0,\"Content\":\"agents already know about for the brand identity. So when we create videos, we know that it looks good and something that might have taken me a week actually becomes an afterthought with Paperclip. So, um, let me point out another really interesting thing here is because we are now, um, creating multiple videos, we've created some other videos with this same, um, agent. We actually can go over the list of feedback that we've given our agents and learn how to make the skill better where we have not only a generic ReMotion skill, but also a Paperclip specific skill that has our branding guides, our preferences, our style, like pacing choices.\"},{\"Start\":454.3,\"End\":490.3,\"Speaker\":0,\"Content\":\"if we start to see that the agents are always having their cuts be two seconds and not six, then, um, that gives us something that we can learn from over time. And so, for now, how that happens is you create an agent which learns from the conversations, but this will be something that's built more into Paperclip in the future versions. Something I want to note is that we released Paperclip on, uh, March 4th. It is now April 8th, so we're looking at something like 34 days, give or take, of it being in open source. We've already had an incredible amount of pull requests, and I want you to know that it is getting better every single day.\"},{\"Start\":490.3,\"End\":526.59,\"Speaker\":0,\"Content\":\"So, this would be one of the like sort of most simple ideas with Paperclip, which is, um, hopefully it looks sort of obvious. You, um, have an org chart where you create these agents. You can configure them however you'd like. You have projects, which are very familiar to the sort of like task management interface. Um, and then your agents are assigned these projects and then they, uh, these tasks, and, um, and then they work through the tasks to complete the work. But of course, as, um, anyone knows, uh, keeping them on task can always be a bit of a challenge.\"},{\"Start\":526.59,\"End\":566.42,\"Speaker\":0,\"Content\":\"And so, Paperclip provides um a variety of kind of workflows that are important to the orchestrator in order to um actually uh complete the work successfully. So, for example, one of the main things that you will often see in a good Paperclip organization would be QA. Um the QA agent has the agent browser skill, which is a skill that lets you trigger tasks like open a website, fill out a form, click a button. Probably if you use agents, you're already using this skill. And one of the things that you'll want to be able to do is have it uh configured such that\"},{\"Start\":566.42,\"End\":584.94,\"Speaker\":0,\"Content\":\"Your tasks are require a reviewer or potentially an approver. And this idea is, um, I'm sure you've tried this in Claude Code before where you might have 30 Claude Code tabs open, you can't remember what they're all working on, and you um...\"},{\"Start\":585.67,\"End\":602.75,\"Speaker\":0,\"Content\":\"And and then you ask your coding agent to say, \\\"Hey, please test this in the browser before you send it back to me.\\\" And what happens? It doesn't do it, right? Um you you and so people are creating all sorts of these complicated hooks and harnesses, but of course hooks only work one way in Claude and another way in Codex.\"},{\"Start\":603.25,\"End\":643.23,\"Speaker\":0,\"Content\":\"And everyone knows that these agents just have such different personalities. Anyone who does work, agentic work knows that you really want to be able to pull in models from lots of different labs and and and so Paperclip gives you this kind of vendor-neutral harness where you can create these higher-level workflows where you can say, when the assignee is complete, is finished with this task, you must have the QA agent boot and give a review on it. You also can have an approver, right? So these are two sort of different roles because QA might review it and then you iterate between the coder and the reviewer.\"},{\"Start\":643.23,\"End\":683.36,\"Speaker\":0,\"Content\":\"And but the manager might be the one who kind of approves it and says, yes, the work that the two of you did is sufficient to be take part in our organization and our brand. So, um, one of the things that you will find when you use Paperclip is that there is just this higher degree of reliability to making sure that your agents actually complete the work that you instructed them to do. So, um, there are other ways that you can have workflows with your agents. For example, we have routines. One of the things that I use Paperclip for a lot is, um, I I use um Twitter bookmarks to be able to track ideas that I'm interested in, especially to um improve Paperclip.\"},{\"Start\":683.36,\"End\":721.84,\"Speaker\":0,\"Content\":\"So we can come here and look at some of the uh bookmarks, uh let me see, we can look here at some of the bookmarks that I saved uh a day ago. And within the routines uh section, what you're able to do is is set up things like, you know, here's how we deal with a PR. Create a Discord message of everything that was merged into the master branch today. Write the release change log. Um and you can sort of group these by project or agent and and and these would be things that you can set up to run on a schedule or you can also set them to run manually um with template variables in them like for example, you know, create a single PR in this branch.\"},{\"Start\":721.84,\"End\":762.02,\"Speaker\":0,\"Content\":\"and and then when we go to run it, you've got these variables where you can put in the branch that you're talking about. So, when you finally have these reusable tasks that you're you're, you know, instead of kind of having a prompt folder or having to copy and paste, um, you can create these routines, you know, it overlaps a little bit with um skills for example. You you also can use your skills in your routines. So certainly there's a bit of like overlap in terms of how you manage it, right? Maybe you already have a PR branch for uh PR merging skill for your organization, you should certainly use that. For example, for the open source project, we use grep tile in order to do code reviews, first pass code reviews for community contributions.\"},{\"Start\":762.02,\"End\":797.62,\"Speaker\":0,\"Content\":\"And you can see here in this routine, we say use the grep loop skill after you've submitted the PR, and that way, um, it will go to GitHub, it will review the uh changes, uh and and come back. But I will say that this right here is very much a kind of coding workflow. And the important thing I want you to understand about Paperclip is it is not a coding tool. Paperclip is not a code review tool. Paperclip is designed for creating uh businesses. If you are a coder and you like using Cursor or GitHub, you can use those, but you do not have to be a coder to use Paperclip.\"},{\"Start\":797.62,\"End\":837.72,\"Speaker\":0,\"Content\":\"Um, you can use Paperclip to um to to run your marketing to help deal with uh sales leads, to uh deal with finance operations. This is designed to be a tool that everyone in your organization can use to wrangle AI agents. So, if we go back to this example of uh looking at our bookmarks for example, here's one where we have the report where there's a bookmark strategy report where we look at um you know some of these these other execution uh adapters, some memory adapters. Um the ideas around uh using CLIs versus chat.\"},{\"Start\":837.72,\"End\":877.7,\"Speaker\":0,\"Content\":\"And today when you look at this, uh what Paperclip has produced is simply a report. However, uh the Paperclip of tomorrow will have buttons in here where you can say, well, create an issue out of this. Why don't you create a plan for this? Why don't we why don't we start to integrate this as a feature into our app where we'll be surfacing a lot more of sort of action into uh what you are the work products that you are sort of getting out of Paperclip. So, um this is sort of the first version of Paperclip. You can see that I've got a lot of uh other companies over here. When you create your own company, you'll be prompted.\"},{\"Start\":877.7,\"End\":890.54,\"Speaker\":0,\"Content\":\"we could say, oh, let's say, uh, you know, Dota's MCP directory. Let's say we wanted to have a MCP directory where we uh like like like a like agent tools directory. Let's call it this.\"},{\"Start\":890.54,\"End\":928.44,\"Speaker\":0,\"Content\":\"Agent Tools Directory. And, um, the goal of this company is to, uh, charge for hosted agent tools. We are a proxy for all, uh, third-party tools. So your agent just has to auth one time and you can control control it, right? Something like this. Um, the initial agent we might hire is the CEO. You can see we've got all kinds of additional additional agent types: Gemini, OpenCode, Hermes, Pi, Cursor. Um, I prefer Claude Code or Codex for your CEO. I think that's a good idea.\"},{\"Start\":929.54,\"End\":967.63,\"Speaker\":0,\"Content\":\"And uh then from there, after this agent is created, we say, hire your first engineer and create a hiring plan. Now again, your work might not have anything to do with engineering. You might be doing with marketing or um sales or something else. So feel free to edit your initial task, but we can just leave this now. Um we can say, um uh the initial product will need uh partners from the large SaaS companies or whatever however you want to think about your business. That's, you know, these tools can do anything uh except know what you value.\"},{\"Start\":967.63,\"End\":1004.16,\"Speaker\":0,\"Content\":\"And so what you need to be able to do is to communicate accurately what you sort of expect this to do. So, you can see we've got a new org here. This org really only has one agent, our CEO. Our CEO right now is working on our hiring plan, um and we'll sort of watch him and uh let him work. We'll let him do his work. Now, one of the things that I would tell you as you are building out your organization, we have um there are templates that exist where you can import huge organizations by default and try to use them. My suggestion for you when you're just getting started with agents is just start with the agents that you need.\"},{\"Start\":1004.16,\"End\":1039.78,\"Speaker\":0,\"Content\":\"you don't actually have to install um something like uh that has 130 agents and a huge marketing team and um you know you you really like if you if you don't take the time to kind of craft for the agents how you expect them to behave then you won't get good results. Okay, look here. Our CEO is actually um uh is asking us if they can hire a CTO. Great. We will approve this. We approve. You may hire this chief technology officer. And um now that we've approved it, we'll sort of let him him work.\"},{\"Start\":1039.78,\"End\":1041.22,\"Speaker\":0,\"Content\":\"So, yeah.\"},{\"Start\":1041.22,\"End\":1069.51,\"Speaker\":0,\"Content\":\"Some of the key things that I want to tell you is that you need to build your organization sort of agent by agent, make sure the quality level is high and that it actually necessitates you fanning out into other agents. Um, you know, everything that you do might not need to pay frontier model prices. You might not need to pay um Claude for example for or or or OpenAI for every agent. Maybe just your most intelligent agents need to do that.\"},{\"Start\":1069.51,\"End\":1103.45,\"Speaker\":0,\"Content\":\"We support um open code and OpenRouter through OpenCode as an agent, which means that you can go to their router and you can find all sorts of other models that will be cheaper. I mean, look here, the Qwen 3.6 plus is actually free right now. So you could hire an agent that uses Qwen 3.6 plus and uh you will won't have to pay for inference until you sort of hit the limits. And so, yeah, I think OpenRouter is a great resource for kind of uh maybe some agents for which these models are good enough.\"},{\"Start\":1103.45,\"End\":1124.16,\"Speaker\":0,\"Content\":\"That said, I would also say that many of these models won't be um great for high intelligence services. You may need um some better models for uh for your best work. So\"},{\"Start\":1124.16,\"End\":1149.14,\"Speaker\":0,\"Content\":\"Um, here you go, you can see that we've got our first engineer and create a hiring plan. We've got a hiring plan here. Um, the CEO says, all right, phase one, hire a CTO, then uh core engineering, go to market, whatever. We have approved it and um now we um just want to say like we approve the plan. Keep going.\"},{\"Start\":1149.38,\"End\":1150.54,\"Speaker\":0,\"Content\":\"Right?\"},{\"Start\":1150.54,\"End\":1180.91,\"Speaker\":0,\"Content\":\"So, we'll tell the CEO that we approve and he is able to hire the rest of the crew. Now, one of the things with Paperclip is it does keep track of your monthly spend. You can set budgets per agent and budgets per project. Um, we, you're seeing zero monthly spend here because we are able to use the subscriptions at the moment. We're using subscriptions for uh both Claude and Codex. Of course, as your team scales up, that might not uh be the case. All right, so you can see...\"},{\"Start\":1180.91,\"End\":1220.62,\"Speaker\":0,\"Content\":\"Our CEO has started, um, a bit more like work where we're building prototype SaaS partner integration, setting up development infrastructure, defining the product infrastructure. All of these agents are live. By default, the agents are actually configured to only run, um, one in parallel. So, if you are getting kind of nerdy, you can dig in here to the concurrency and add more. We're just going to leave it on the defaults for now. And one of the important things I want to tell you is it's very important that you configure your agents to do what you want them to do. So, let me show you my Codex coder.\"},{\"Start\":1220.62,\"End\":1259.05,\"Speaker\":0,\"Content\":\"I actually have instructions here that I am constantly working on, like I'm adding things by saying, you know, uh if there's a blocker, tell us your best guess on how to fix it. Don't just say it's blocked, say, here, give me a tutorial on how to fix it. If you write tests, don't write the whole test suite and so on, right? I'm giving my agents instructions on a regular basis. Whenever they do something wrong, you want to stop and take the time and have it um do better. We even start to create sort of um meta agents. Like here we have a skill consultant and the skill consultant's job is to actually work with the other agents within the organization to make sure that they are using their skills to the best of their ability.\"},{\"Start\":1259.05,\"End\":1298.12,\"Speaker\":0,\"Content\":\"when we have an agent that isn't using skills that we expect, we come and we ask the skill consultant to sort of um do a diagnosis and iterate on it. And I would say in the version that you're seeing of Paperclip today, many of these steps are manual. This kind of organizational learning is something that we are building into Paperclip to happen for you automatically. Now, this Paperclip version is very, very early. Um there are some missing pieces. We have introduced um experimental support for uh workspaces. So you can have isolated workspaces. This is more of a coding thing where you can manage um pull requests and uh work trees.\"},{\"Start\":1298.12,\"End\":1308.34,\"Speaker\":0,\"Content\":\"We are adding uh features like the CEO chat. So you can see our roadmap here on uh the GitHub repo. Hey, look at this.\"},{\"Start\":1308.34,\"End\":1313.78,\"Speaker\":0,\"Content\":\"We just crossed 50,000 stars. You were here for the first moment that I saw us cross 50,000 stars. Incredible.\"},{\"Start\":1313.78,\"End\":1353.83,\"Speaker\":0,\"Content\":\"So, um, you can see our roadmap here where we talk about that we are going to add more about artifacts and deployments. We're going to add a CEO chat. We're adding maximizer mode, which is when you've got a dream and tokens to burn and you want the agents to work as hard as they can, um, to do whatever it takes to create your business and you want them to keep going without stopping. That would be the Paperclip Maximizer. Another piece you'll notice is missing is that there's not multiple human users. That is a huge gap. We are working on this feature really this week, um, because you should be able to deploy it to a cloud and have your entire team work on Paperclip.\"},{\"Start\":1353.83,\"End\":1383.86,\"Speaker\":0,\"Content\":\"We're also working on cloud and sandboxing agents so that you'll be able to uh run agents in E2B or dev.exe or cloud agent deployments, any of these things. Um and we're also working on a desktop app, which will be a free open source desktop app. And cloud deployments will host uh Paperclip Cloud and really just general like stability, um working with memory, um the knowledge base. These are all sort of features that we'll be adding over the next 30 days.\"},{\"Start\":1383.86,\"End\":1396.46,\"Speaker\":0,\"Content\":\"So probably by the time you're watching this video, um check out the latest version of Paperclip because you will see a lot more of these features um into the app and it will be that much more powerful.\"},{\"Start\":1398.0,\"End\":1437.9,\"Speaker\":0,\"Content\":\"So, well, that is Paperclip in a nutshell. Um, you can see that our agents are working to set up the deployment infrastructure, the CI pipeline, building some initial partner integrations. I think one of the first things we're going to want to do is have it work on the marketing. Um, and really, the idea with Paperclip is it's a free product that will give you the power as a human to to to have control over AI labor. Do not worry about AI taking your job. When you use something like Paperclip, you will be in charge of thousands of agents, um, helping you build your business, helping you with your company.\"},{\"Start\":1438.74,\"End\":1460.08,\"Speaker\":0,\"Content\":\"Paperclip is a free tool that you can use um to manage the chaos of work, um where you can debug what's happening, you can guide your individual employees, you can provide them the context they need to do the work that's required to bring it up to the quality of your brand. So, yeah. Go to paperclip.ing right now.\"},{\"Start\":1460.18,\"End\":1473.62,\"Speaker\":0,\"Content\":\"Type this command, fire up Paperclip even if you're not technical, you can use Paperclip today uh to help you with your AI agent. So, thanks so much and uh go download Paperclip.\"}]",
+  "segments": [
+    {
+      "text": "Welcome to Getting Started with Paperclip, and I'm Dota, your host and the creator of Paperclip, and I'm so excited to show you how to get started with this brand new open source agent orchestrator. I'm going to walk you through your first steps of how to get Paperclip started, what it looks like when you have a huge organization, and some of my best advanced tips for working with AI agents, and so you can create your own zero human company. Now, the tagline that we have for Paperclip is that it's for open source orchestration for zero human companies.",
+      "start": 0,
+      "end": 38.3,
+      "duration": 38.3,
+      "speaker_id": 0
+    },
+    {
+      "text": "um you can hire employees, set goals, automate jobs, your business can nearly run itself. Well, you know, maybe that's a bit of a headline. I would say that Paperclip is the human control plane for AI labor. Really, the idea behind Paperclip is that you're able to set up an org chart of agents where you can manage them all and um invoke your taste in what these agents how they work and have them complete real work. Um so let me walk you through a little bit how how to get started.",
+      "start": 38.3,
+      "end": 75.34,
+      "duration": 37.040000000000006,
+      "speaker_id": 0
+    },
+    {
+      "text": "The first thing that you do is you should just open up your terminal and run npx paperclipai onboard. You can pass -jes if you want the default options, but let me talk about like what is Paperclip? Paperclip is a um a a way that you can accomplish real work that you are accountable for using AI agents. Maybe you've seen tools um where they have you create a task and then it automatically creates a business for you.",
+      "start": 75.34,
+      "end": 105.67,
+      "duration": 30.33,
+      "speaker_id": 0
+    },
+    {
+      "text": "With Paperclip, um you actually are involved in the steps to have your preferences accounted for and um and you are involved in the task process from the higher level design all the way to actually executing. So, what I'm going to do here actually is I'm going to show you this is the real instance that I use uh to manage Paperclip itself. And I'm going to walk you through a little bit um this kind of finished product and then we'll start a brand new company and I'll show you how you can do it on your own. So, this is the company that I use to manage Paperclip itself.",
+      "start": 105.67,
+      "end": 143.79,
+      "duration": 38.11999999999999,
+      "speaker_id": 0
+    },
+    {
+      "text": "you've got here the CEO who's the man in charge. We've got a CTO and under him he has quite a lot of coders. Um, I would say that the two coders that I use the most would be the Codex coder as well as the Claude coder. And an important thing about Paperclip is that you bring your own agent. So you can use Gemini, you can use Pi, you can use Hermes, you can use Open Claw. A key part of uh Paperclip is that any agent that you want to use can be brought in to Paperclip as a employee and then it can sort of uh negotiate and communicate.",
+      "start": 143.79,
+      "end": 181.14,
+      "duration": 37.349999999999994,
+      "speaker_id": 0
+    },
+    {
+      "text": "and have its memory stored with the rest of Paperclip.",
+      "start": 181.14,
+      "end": 184.54,
+      "duration": 3.4000000000000057,
+      "speaker_id": 0
+    },
+    {
+      "text": "If you look over here for a quick example, we've got our marketing organization. And one of the things that we have here under the CMO is content strategist and also a video writer. Now, we've been super thankful with how quickly Paperclip has grown. We actually crossed uh this week 40,000 GitHub stars, which I was stoked about. Um and that's really through kind of the contributions of the whole community. Probably by the time you're watching this, we've already crossed 50,000 stars. Now, normally what I would do is I would actually just uh publish a tweet or at most a screenshot celebrating 40,000 stars and call it a day.",
+      "start": 185.04,
+      "end": 222.72,
+      "duration": 37.68000000000001,
+      "speaker_id": 0
+    },
+    {
+      "text": "but I realized, you know, I wonder if I can use Paperclip to accelerate this process. And so, what I did is I came in here and I created a new issue. And I assigned it to my CEO. The idea behind Paperclip is that you are the CEO and you are working, um, you are basically giving your CEO instructions and then your CEO is designed to, uh, break down the tasks to your executive branch and then down to the individual visual contributors.",
+      "start": 222.72,
+      "end": 252.54,
+      "duration": 29.819999999999993,
+      "speaker_id": 0
+    },
+    {
+      "text": "So, one of the things uh that I did is I asked the CEO uh please hire a video writer and have them write uh a Remotion video uh celebrating 40,000 stars.",
+      "start": 252.54,
+      "end": 269.14,
+      "duration": 16.599999999999994,
+      "speaker_id": 0
+    },
+    {
+      "text": "So",
+      "start": 269.14,
+      "end": 270.62,
+      "duration": 1.4800000000000182,
+      "speaker_id": 0
+    },
+    {
+      "text": "Here's the thing. Every piece of the Paperclip app has an agentic surface. So your CEO knows how to hire new agents. They know how to install new skills. There is a skills manager built into Paperclip. So for example, I'm sure you've seen skills.sh. From there, um we would install the Remotion best practices skill. The CEO knows how to find this and do this. And Remotion, if you don't know, is a open source React, uh, actually I don't know if it's React based. It's an open source tool that you can use for creating videos. You don't need to sign up for anything.",
+      "start": 270.62,
+      "end": 307.99,
+      "duration": 37.370000000000005,
+      "speaker_id": 0
+    },
+    {
+      "text": "The CEO hired our video writer agent and gave her the um Remotion best practices skill, yeah, video creation in React. And from there, I was able to create a prompt to say, plan this video for the stats dashboard. So I say, go look at the dashboard we're at mentioning another project that we already have. We already had a dashboard and our stats are stats, you know, these agents can don't mind typos. Make a plan for a Remotion video that we can create that celebrates 40,000 stars.",
+      "start": 307.99,
+      "end": 338.42,
+      "duration": 30.430000000000007,
+      "speaker_id": 0
+    },
+    {
+      "text": "Okay.",
+      "start": 338.42,
+      "end": 338.98,
+      "duration": 0.5600000000000023,
+      "speaker_id": 0
+    },
+    {
+      "text": "So, this was my entire prompt right here to make this video that I showed you uh over here. I I I wrote this prompt and then the agent wrote this plan. Um, Paperclip has first class first class support for plans. And um then after I read the plan briefly, I gave it some feedback. I said, you know what, your cuts need to be like two seconds, not six, and just have the 40,000 stars animate, etcetera, right? So I go through here and I actually give my agent, we have a bit of a conversation around how we want the video to look.",
+      "start": 338.98,
+      "end": 374.93,
+      "duration": 35.94999999999999,
+      "speaker_id": 0
+    },
+    {
+      "text": "And then bam, within about uh five minutes, we had this like beautiful animation that is on brand, that's the real stats, it has charts and and and so the question is like, well, how did it have all this context? And the answer is that it had it from Paperclip. You know, you could do this with Claude Code and what you would have to do is you'd have to go track down all your stats, you would have to track down your brand guide, you'd have to give it the ReMotion skill, you have to give it access to your dashboard. With Paperclip, all of those things are built into the system. So for example, um we already had the dashboard, we already have a Paperclip uh branding guide, which the uh",
+      "start": 374.93,
+      "end": 414.82,
+      "duration": 39.889999999999986,
+      "speaker_id": 0
+    },
+    {
+      "text": "agents already know about for the brand identity. So when we create videos, we know that it looks good and something that might have taken me a week actually becomes an afterthought with Paperclip. So, um, let me point out another really interesting thing here is because we are now, um, creating multiple videos, we've created some other videos with this same, um, agent. We actually can go over the list of feedback that we've given our agents and learn how to make the skill better where we have not only a generic ReMotion skill, but also a Paperclip specific skill that has our branding guides, our preferences, our style, like pacing choices.",
+      "start": 414.82,
+      "end": 454.3,
+      "duration": 39.48000000000002,
+      "speaker_id": 0
+    },
+    {
+      "text": "if we start to see that the agents are always having their cuts be two seconds and not six, then, um, that gives us something that we can learn from over time. And so, for now, how that happens is you create an agent which learns from the conversations, but this will be something that's built more into Paperclip in the future versions. Something I want to note is that we released Paperclip on, uh, March 4th. It is now April 8th, so we're looking at something like 34 days, give or take, of it being in open source. We've already had an incredible amount of pull requests, and I want you to know that it is getting better every single day.",
+      "start": 454.3,
+      "end": 490.3,
+      "duration": 36.0,
+      "speaker_id": 0
+    },
+    {
+      "text": "So, this would be one of the like sort of most simple ideas with Paperclip, which is, um, hopefully it looks sort of obvious. You, um, have an org chart where you create these agents. You can configure them however you'd like. You have projects, which are very familiar to the sort of like task management interface. Um, and then your agents are assigned these projects and then they, uh, these tasks, and, um, and then they work through the tasks to complete the work. But of course, as, um, anyone knows, uh, keeping them on task can always be a bit of a challenge.",
+      "start": 490.3,
+      "end": 526.59,
+      "duration": 36.29000000000002,
+      "speaker_id": 0
+    },
+    {
+      "text": "And so, Paperclip provides um a variety of kind of workflows that are important to the orchestrator in order to um actually uh complete the work successfully. So, for example, one of the main things that you will often see in a good Paperclip organization would be QA. Um the QA agent has the agent browser skill, which is a skill that lets you trigger tasks like open a website, fill out a form, click a button. Probably if you use agents, you're already using this skill. And one of the things that you'll want to be able to do is have it uh configured such that",
+      "start": 526.59,
+      "end": 566.42,
+      "duration": 39.82999999999993,
+      "speaker_id": 0
+    },
+    {
+      "text": "Your tasks are require a reviewer or potentially an approver. And this idea is, um, I'm sure you've tried this in Claude Code before where you might have 30 Claude Code tabs open, you can't remember what they're all working on, and you um...",
+      "start": 566.42,
+      "end": 584.94,
+      "duration": 18.520000000000095,
+      "speaker_id": 0
+    },
+    {
+      "text": "And and then you ask your coding agent to say, \"Hey, please test this in the browser before you send it back to me.\" And what happens? It doesn't do it, right? Um you you and so people are creating all sorts of these complicated hooks and harnesses, but of course hooks only work one way in Claude and another way in Codex.",
+      "start": 585.67,
+      "end": 602.75,
+      "duration": 17.08000000000004,
+      "speaker_id": 0
+    },
+    {
+      "text": "And everyone knows that these agents just have such different personalities. Anyone who does work, agentic work knows that you really want to be able to pull in models from lots of different labs and and and so Paperclip gives you this kind of vendor-neutral harness where you can create these higher-level workflows where you can say, when the assignee is complete, is finished with this task, you must have the QA agent boot and give a review on it. You also can have an approver, right? So these are two sort of different roles because QA might review it and then you iterate between the coder and the reviewer.",
+      "start": 603.25,
+      "end": 643.23,
+      "duration": 39.98000000000002,
+      "speaker_id": 0
+    },
+    {
+      "text": "And but the manager might be the one who kind of approves it and says, yes, the work that the two of you did is sufficient to be take part in our organization and our brand. So, um, one of the things that you will find when you use Paperclip is that there is just this higher degree of reliability to making sure that your agents actually complete the work that you instructed them to do. So, um, there are other ways that you can have workflows with your agents. For example, we have routines. One of the things that I use Paperclip for a lot is, um, I I use um Twitter bookmarks to be able to track ideas that I'm interested in, especially to um improve Paperclip.",
+      "start": 643.23,
+      "end": 683.36,
+      "duration": 40.129999999999995,
+      "speaker_id": 0
+    },
+    {
+      "text": "So we can come here and look at some of the uh bookmarks, uh let me see, we can look here at some of the bookmarks that I saved uh a day ago. And within the routines uh section, what you're able to do is is set up things like, you know, here's how we deal with a PR. Create a Discord message of everything that was merged into the master branch today. Write the release change log. Um and you can sort of group these by project or agent and and and these would be things that you can set up to run on a schedule or you can also set them to run manually um with template variables in them like for example, you know, create a single PR in this branch.",
+      "start": 683.36,
+      "end": 721.84,
+      "duration": 38.48000000000002,
+      "speaker_id": 0
+    },
+    {
+      "text": "and and then when we go to run it, you've got these variables where you can put in the branch that you're talking about. So, when you finally have these reusable tasks that you're you're, you know, instead of kind of having a prompt folder or having to copy and paste, um, you can create these routines, you know, it overlaps a little bit with um skills for example. You you also can use your skills in your routines. So certainly there's a bit of like overlap in terms of how you manage it, right? Maybe you already have a PR branch for uh PR merging skill for your organization, you should certainly use that. For example, for the open source project, we use grep tile in order to do code reviews, first pass code reviews for community contributions.",
+      "start": 721.84,
+      "end": 762.02,
+      "duration": 40.17999999999995,
+      "speaker_id": 0
+    },
+    {
+      "text": "And you can see here in this routine, we say use the grep loop skill after you've submitted the PR, and that way, um, it will go to GitHub, it will review the uh changes, uh and and come back. But I will say that this right here is very much a kind of coding workflow. And the important thing I want you to understand about Paperclip is it is not a coding tool. Paperclip is not a code review tool. Paperclip is designed for creating uh businesses. If you are a coder and you like using Cursor or GitHub, you can use those, but you do not have to be a coder to use Paperclip.",
+      "start": 762.02,
+      "end": 797.62,
+      "duration": 35.60000000000002,
+      "speaker_id": 0
+    },
+    {
+      "text": "Um, you can use Paperclip to um to to run your marketing to help deal with uh sales leads, to uh deal with finance operations. This is designed to be a tool that everyone in your organization can use to wrangle AI agents. So, if we go back to this example of uh looking at our bookmarks for example, here's one where we have the report where there's a bookmark strategy report where we look at um you know some of these these other execution uh adapters, some memory adapters. Um the ideas around uh using CLIs versus chat.",
+      "start": 797.62,
+      "end": 837.72,
+      "duration": 40.10000000000002,
+      "speaker_id": 0
+    },
+    {
+      "text": "And today when you look at this, uh what Paperclip has produced is simply a report. However, uh the Paperclip of tomorrow will have buttons in here where you can say, well, create an issue out of this. Why don't you create a plan for this? Why don't we why don't we start to integrate this as a feature into our app where we'll be surfacing a lot more of sort of action into uh what you are the work products that you are sort of getting out of Paperclip. So, um this is sort of the first version of Paperclip. You can see that I've got a lot of uh other companies over here. When you create your own company, you'll be prompted.",
+      "start": 837.72,
+      "end": 877.7,
+      "duration": 39.98000000000002,
+      "speaker_id": 0
+    },
+    {
+      "text": "we could say, oh, let's say, uh, you know, Dota's MCP directory. Let's say we wanted to have a MCP directory where we uh like like like a like agent tools directory. Let's call it this.",
+      "start": 877.7,
+      "end": 890.54,
+      "duration": 12.839999999999918,
+      "speaker_id": 0
+    },
+    {
+      "text": "Agent Tools Directory. And, um, the goal of this company is to, uh, charge for hosted agent tools. We are a proxy for all, uh, third-party tools. So your agent just has to auth one time and you can control control it, right? Something like this. Um, the initial agent we might hire is the CEO. You can see we've got all kinds of additional additional agent types: Gemini, OpenCode, Hermes, Pi, Cursor. Um, I prefer Claude Code or Codex for your CEO. I think that's a good idea.",
+      "start": 890.54,
+      "end": 928.44,
+      "duration": 37.90000000000009,
+      "speaker_id": 0
+    },
+    {
+      "text": "And uh then from there, after this agent is created, we say, hire your first engineer and create a hiring plan. Now again, your work might not have anything to do with engineering. You might be doing with marketing or um sales or something else. So feel free to edit your initial task, but we can just leave this now. Um we can say, um uh the initial product will need uh partners from the large SaaS companies or whatever however you want to think about your business. That's, you know, these tools can do anything uh except know what you value.",
+      "start": 929.54,
+      "end": 967.63,
+      "duration": 38.09000000000003,
+      "speaker_id": 0
+    },
+    {
+      "text": "And so what you need to be able to do is to communicate accurately what you sort of expect this to do. So, you can see we've got a new org here. This org really only has one agent, our CEO. Our CEO right now is working on our hiring plan, um and we'll sort of watch him and uh let him work. We'll let him do his work. Now, one of the things that I would tell you as you are building out your organization, we have um there are templates that exist where you can import huge organizations by default and try to use them. My suggestion for you when you're just getting started with agents is just start with the agents that you need.",
+      "start": 967.63,
+      "end": 1004.16,
+      "duration": 36.52999999999997,
+      "speaker_id": 0
+    },
+    {
+      "text": "you don't actually have to install um something like uh that has 130 agents and a huge marketing team and um you know you you really like if you if you don't take the time to kind of craft for the agents how you expect them to behave then you won't get good results. Okay, look here. Our CEO is actually um uh is asking us if they can hire a CTO. Great. We will approve this. We approve. You may hire this chief technology officer. And um now that we've approved it, we'll sort of let him him work.",
+      "start": 1004.16,
+      "end": 1039.78,
+      "duration": 35.620000000000005,
+      "speaker_id": 0
+    },
+    {
+      "text": "So, yeah.",
+      "start": 1039.78,
+      "end": 1041.22,
+      "duration": 1.4400000000000546,
+      "speaker_id": 0
+    },
+    {
+      "text": "Some of the key things that I want to tell you is that you need to build your organization sort of agent by agent, make sure the quality level is high and that it actually necessitates you fanning out into other agents. Um, you know, everything that you do might not need to pay frontier model prices. You might not need to pay um Claude for example for or or or OpenAI for every agent. Maybe just your most intelligent agents need to do that.",
+      "start": 1041.22,
+      "end": 1069.51,
+      "duration": 28.289999999999964,
+      "speaker_id": 0
+    },
+    {
+      "text": "We support um open code and OpenRouter through OpenCode as an agent, which means that you can go to their router and you can find all sorts of other models that will be cheaper. I mean, look here, the Qwen 3.6 plus is actually free right now. So you could hire an agent that uses Qwen 3.6 plus and uh you will won't have to pay for inference until you sort of hit the limits. And so, yeah, I think OpenRouter is a great resource for kind of uh maybe some agents for which these models are good enough.",
+      "start": 1069.51,
+      "end": 1103.45,
+      "duration": 33.940000000000055,
+      "speaker_id": 0
+    },
+    {
+      "text": "That said, I would also say that many of these models won't be um great for high intelligence services. You may need um some better models for uh for your best work. So",
+      "start": 1103.45,
+      "end": 1124.16,
+      "duration": 20.710000000000036,
+      "speaker_id": 0
+    },
+    {
+      "text": "Um, here you go, you can see that we've got our first engineer and create a hiring plan. We've got a hiring plan here. Um, the CEO says, all right, phase one, hire a CTO, then uh core engineering, go to market, whatever. We have approved it and um now we um just want to say like we approve the plan. Keep going.",
+      "start": 1124.16,
+      "end": 1149.14,
+      "duration": 24.980000000000018,
+      "speaker_id": 0
+    },
+    {
+      "text": "Right?",
+      "start": 1149.38,
+      "end": 1150.54,
+      "duration": 1.1599999999998545,
+      "speaker_id": 0
+    },
+    {
+      "text": "So, we'll tell the CEO that we approve and he is able to hire the rest of the crew. Now, one of the things with Paperclip is it does keep track of your monthly spend. You can set budgets per agent and budgets per project. Um, we, you're seeing zero monthly spend here because we are able to use the subscriptions at the moment. We're using subscriptions for uh both Claude and Codex. Of course, as your team scales up, that might not uh be the case. All right, so you can see...",
+      "start": 1150.54,
+      "end": 1180.91,
+      "duration": 30.37000000000012,
+      "speaker_id": 0
+    },
+    {
+      "text": "Our CEO has started, um, a bit more like work where we're building prototype SaaS partner integration, setting up development infrastructure, defining the product infrastructure. All of these agents are live. By default, the agents are actually configured to only run, um, one in parallel. So, if you are getting kind of nerdy, you can dig in here to the concurrency and add more. We're just going to leave it on the defaults for now. And one of the important things I want to tell you is it's very important that you configure your agents to do what you want them to do. So, let me show you my Codex coder.",
+      "start": 1180.91,
+      "end": 1220.62,
+      "duration": 39.70999999999981,
+      "speaker_id": 0
+    },
+    {
+      "text": "I actually have instructions here that I am constantly working on, like I'm adding things by saying, you know, uh if there's a blocker, tell us your best guess on how to fix it. Don't just say it's blocked, say, here, give me a tutorial on how to fix it. If you write tests, don't write the whole test suite and so on, right? I'm giving my agents instructions on a regular basis. Whenever they do something wrong, you want to stop and take the time and have it um do better. We even start to create sort of um meta agents. Like here we have a skill consultant and the skill consultant's job is to actually work with the other agents within the organization to make sure that they are using their skills to the best of their ability.",
+      "start": 1220.62,
+      "end": 1259.05,
+      "duration": 38.430000000000064,
+      "speaker_id": 0
+    },
+    {
+      "text": "when we have an agent that isn't using skills that we expect, we come and we ask the skill consultant to sort of um do a diagnosis and iterate on it. And I would say in the version that you're seeing of Paperclip today, many of these steps are manual. This kind of organizational learning is something that we are building into Paperclip to happen for you automatically. Now, this Paperclip version is very, very early. Um there are some missing pieces. We have introduced um experimental support for uh workspaces. So you can have isolated workspaces. This is more of a coding thing where you can manage um pull requests and uh work trees.",
+      "start": 1259.05,
+      "end": 1298.12,
+      "duration": 39.069999999999936,
+      "speaker_id": 0
+    },
+    {
+      "text": "We are adding uh features like the CEO chat. So you can see our roadmap here on uh the GitHub repo. Hey, look at this.",
+      "start": 1298.12,
+      "end": 1308.34,
+      "duration": 10.220000000000027,
+      "speaker_id": 0
+    },
+    {
+      "text": "We just crossed 50,000 stars. You were here for the first moment that I saw us cross 50,000 stars. Incredible.",
+      "start": 1308.34,
+      "end": 1313.78,
+      "duration": 5.440000000000055,
+      "speaker_id": 0
+    },
+    {
+      "text": "So, um, you can see our roadmap here where we talk about that we are going to add more about artifacts and deployments. We're going to add a CEO chat. We're adding maximizer mode, which is when you've got a dream and tokens to burn and you want the agents to work as hard as they can, um, to do whatever it takes to create your business and you want them to keep going without stopping. That would be the Paperclip Maximizer. Another piece you'll notice is missing is that there's not multiple human users. That is a huge gap. We are working on this feature really this week, um, because you should be able to deploy it to a cloud and have your entire team work on Paperclip.",
+      "start": 1313.78,
+      "end": 1353.83,
+      "duration": 40.049999999999955,
+      "speaker_id": 0
+    },
+    {
+      "text": "We're also working on cloud and sandboxing agents so that you'll be able to uh run agents in E2B or dev.exe or cloud agent deployments, any of these things. Um and we're also working on a desktop app, which will be a free open source desktop app. And cloud deployments will host uh Paperclip Cloud and really just general like stability, um working with memory, um the knowledge base. These are all sort of features that we'll be adding over the next 30 days.",
+      "start": 1353.83,
+      "end": 1383.86,
+      "duration": 30.029999999999973,
+      "speaker_id": 0
+    },
+    {
+      "text": "So probably by the time you're watching this video, um check out the latest version of Paperclip because you will see a lot more of these features um into the app and it will be that much more powerful.",
+      "start": 1383.86,
+      "end": 1396.46,
+      "duration": 12.600000000000136,
+      "speaker_id": 0
+    },
+    {
+      "text": "So, well, that is Paperclip in a nutshell. Um, you can see that our agents are working to set up the deployment infrastructure, the CI pipeline, building some initial partner integrations. I think one of the first things we're going to want to do is have it work on the marketing. Um, and really, the idea with Paperclip is it's a free product that will give you the power as a human to to to have control over AI labor. Do not worry about AI taking your job. When you use something like Paperclip, you will be in charge of thousands of agents, um, helping you build your business, helping you with your company.",
+      "start": 1398.0,
+      "end": 1437.9,
+      "duration": 39.90000000000009,
+      "speaker_id": 0
+    },
+    {
+      "text": "Paperclip is a free tool that you can use um to manage the chaos of work, um where you can debug what's happening, you can guide your individual employees, you can provide them the context they need to do the work that's required to bring it up to the quality of your brand. So, yeah. Go to paperclip.ing right now.",
+      "start": 1438.74,
+      "end": 1460.08,
+      "duration": 21.339999999999918,
+      "speaker_id": 0
+    },
+    {
+      "text": "Type this command, fire up Paperclip even if you're not technical, you can use Paperclip today uh to help you with your AI agent. So, thanks so much and uh go download Paperclip.",
+      "start": 1460.18,
+      "end": 1473.62,
+      "duration": 13.439999999999827,
+      "speaker_id": 0
+    }
+  ]
+}
