@@ -1,35 +1,35 @@
 # Wiki Schema
 
 ## Domain
-Fitness, strength training, bodybuilding, nutrition, and physical performance. Covers training methodology, exercise science, nutrition principles, program design, recovery, and supplementation.
+AI/ML agents, local LLM inference, AI-powered content creation, and productivity automation. Covers agent architectures, local inference optimization (Apple Silicon, consumer GPU), vibe coding, UGC systems, B2B services, and the creator-developer crossover. This is a personal knowledge base for understanding what's real vs. hype in the fast-moving AI space.
 
 ## Conventions
-- File names: lowercase, hyphens, no spaces (e.g., `progressive-overload.md`)
+- File names: lowercase, hyphens, no spaces (e.g., `hermes-agent-delegation.md`)
 - Every wiki page starts with YAML frontmatter (see below)
 - Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
-- **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/articles/source-file.md]`
+- **Provenance markers:** On pages synthesizing 3+ sources, append `^[raw/articles/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
   claim back without re-reading the whole raw file. Optional on single-source pages where the
   `sources:` frontmatter is enough.
 
 ## Frontmatter
-  ```yaml
-  ---
-  title: Page Title
-  created: YYYY-MM-DD
-  updated: YYYY-MM-DD
-  type: entity | concept | comparison | query | summary
-  tags: [from taxonomy below]
-  sources: [raw/articles/source-name.md]
-  # Optional quality signals:
-  confidence: high | medium | low        # how well-supported the claims are
-  contested: true                        # set when the page has unresolved contradictions
-  contradictions: [other-page-slug]      # pages this one conflicts with
-  ---
-  ```
+```yaml
+---
+title: Page Title
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+type: entity | concept | comparison | query
+tags: [from taxonomy below]
+sources: [raw/articles/source-name.md]
+# Optional quality signals:
+confidence: high | medium | low
+contested: true
+contradictions: [other-page-slug]
+---
+```
 
 `confidence` and `contested` are optional but recommended for opinion-heavy or fast-moving
 topics. Lint surfaces `contested: true` and `confidence: low` pages for review so weak claims
@@ -48,15 +48,26 @@ sha256: <hex digest of the raw content below the frontmatter>
 ```
 
 ## Tag Taxonomy
-[Define top-level tags for the fitness domain. Add new tags here BEFORE using them.]
+[Stable top-level tags. Add new tags here BEFORE using them.]
 
-- Training: strength, hypertrophy, endurance, cardio, mobility, program-design, periodization
-- Nutrition: protein, carbs, fats, calories, supplementation, cutting, bulking, meal-planning
-- Physiology: muscle-growth, recovery, hormones, sleep, stress, injury
-- Exercises: compound, isolation, barbell, dumbbell, machine, bodyweight, cardio
-- Goals: muscle-gain, fat-loss, strength-goals, body-composition, performance
-- Equipment: gym, home-gym, barbells, dumbbells, machines, cables
-- Meta: comparison, timeline, controversy, evidence, methodology
+**AI/ML & Models**
+- ai, llm, model, vision, speech, image, video, generation, inference, quantization
+- local-llm, mlx, apple-silicon, gpu, consumer-gpu, gguf, onnx
+
+**Agent Systems**
+- agent, agents, orchestration, workflow, memory, skills, delegation, tools
+
+**Content & Creator**
+- ugc, content, creator, x, tiktok, instagram, video, viral, seo, marketing
+
+**Business & Monetization**
+- monetization, b2b, business, lead-gen, services, agency, productivity
+
+**Technical**
+- open-source, oss, computer-vision, architecture, coding, optimization, research
+
+**Meta**
+- comparison, method, failure, knowledge, person, company, product, platform
 
 ## Page Thresholds
 - **Create a page** when an entity/concept appears in 2+ sources OR is central to one source
@@ -86,6 +97,13 @@ Side-by-side analyses. Include:
 - Verdict or synthesis
 - Sources
 
+## Query Pages
+Filed answers to specific questions. Include:
+- Question (explicit)
+- Answer
+- Practical verdict
+- Related pages ([[wikilinks]])
+
 ## Update Policy
 When new information conflicts with existing content:
 1. Check the dates — newer sources generally supersede older ones
@@ -98,3 +116,6 @@ When new information conflicts with existing content:
 - Pages over 200 lines get flagged for splitting
 - Tags must come from the taxonomy above
 - Provenance markers required on multi-source synthesis pages
+- `sources:` (plural) required on all wiki pages — empty array if no direct sources
+- Field ordering for concept pages: title, created, updated, type, tags, sources, related_entity, author
+- Field ordering for entity pages: title, created, updated, type, tags, sources
