@@ -3,7 +3,7 @@ title: IdeaBlock RAG Pipeline
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [rag, vector-search, ai-agents, data-pipeline, semantic-distillation, blockify]
+tags: [agent, ai-agent, blockify, data-pipeline, rag, semantic-distillation, vector-search]
 sources: [raw/articles/xarticle-ideablock-2026-05-10.md]
 ---
 

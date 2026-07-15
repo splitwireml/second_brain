@@ -3,7 +3,7 @@ title: "Obsidian Productivity Plugins"
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [productivity, tools]
+tags: [tools, productivity]
 sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md]
 ---
 

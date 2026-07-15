@@ -1,9 +1,9 @@
 ---
 title: granite-speech-4.1-2b
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-06-14
 type: entity
-tags: [model, llm, oss-ai, transcription, audio, speech]
+tags: [llm, model, audio, oss-ai, speech, transcription]
 sources: [raw/articles/ibm-granite-granite-speech-4-1-2b-plus-2026-04-28.md]
 related_entity: [[ibm-granite]]
 ---
@@ -19,3 +19,6 @@ WER performance is slightly better than the plus variant (5.33 vs 5.71 average),
 - [[granite-speech-4-1-2b-plus]] — plus variant with speaker attribution and timestamps
 - [[granite-speech-4-1-2b-nar]] — non-autoregressive variant
 - [[granite-4-0-1b-base]] — LLM backbone
+
+## Related
+- [[ibm-granite]] — related entity from frontmatter; explicit cross-link

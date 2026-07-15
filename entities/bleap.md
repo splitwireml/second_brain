@@ -3,7 +3,7 @@ title: Bleap
 created: 2026-04-12
 updated: 2026-04-12
 type: entity
-tags: [finance, llm, monetization]
+tags: [llm, finance, monetization]
 sources: [raw/articles/noisyb0y1-ai-cost-optimization-2026-04-10.md]
 ---
 

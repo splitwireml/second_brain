@@ -3,7 +3,7 @@ title: JayaGup10
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [person, x-creator, ai-business, organizational-design]
+tags: [person, ai-business, organizational-design, x-creator]
 sources: [raw/articles/xarticle-JayaGup10-2052870394093408558.md]
 ---
 

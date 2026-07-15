@@ -1,9 +1,9 @@
 ---
 title: Generation-Evaluation Gap
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-14
 type: concept
-tags: [llm, method, training]
+tags: [llm, training, method]
 sources: [raw/papers/autoreason.tex]
 related_entity: [[autoreason]]
 ---
@@ -53,3 +53,6 @@ Huang et al. (2023) showed LLMs cannot self-correct reasoning without external f
 > Match your refinement architecture to the model's position on the capability curve.
 
 For mid-tier models (where the gap is wide): use structured multi-candidate evaluation like autoreason. For frontier models (where the gap is narrow): simple methods suffice. For weakest models: invest in generation quality first.
+
+## Related
+- [[autoreason]] — related entity from frontmatter; explicit cross-link

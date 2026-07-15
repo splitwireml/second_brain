@@ -3,7 +3,7 @@ title: Model Self-Evolution
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [model, agent, training, llm]
+tags: [agent, llm, model, training]
 sources: [raw/articles/minimax-m27-huggingface-2026-04-15.md]
 related_entity: [[minimax]]
 ---

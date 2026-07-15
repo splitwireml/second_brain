@@ -3,7 +3,7 @@ title: OpenAI
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
-tags: [AI-company]
+tags: [company, ai-company]
 sources: [https://openai.com]
 related_entity: []
 ---

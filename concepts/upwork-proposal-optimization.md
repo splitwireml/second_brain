@@ -3,7 +3,7 @@ title: Upwork Proposal Optimization
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [upwork, proposal, freelancing, client-acquisition]
+tags: [client-acquisition, freelancing, proposal, upwork]
 sources: [raw/transcripts/2026-04-21-Why-Your-Upwork-Proposals-Get-Ignored.md, raw/assets/2026-04-21-Why Your Upwork Proposals Get Ignored.m4a]
 related_entity: [[ryan-ramshaw]]
 author: [[ryan-ramshaw]]

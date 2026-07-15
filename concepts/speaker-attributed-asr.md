@@ -3,7 +3,7 @@ title: Speaker Attributed ASR
 created: 2026-05-01
 updated: 2026-05-01
 type: concept
-tags: [transcription, audio, speech]
+tags: [audio, speech, transcription]
 sources: [raw/articles/ibm-granite-granite-speech-4-1-2b-plus-2026-04-28.md]
 related_entity: [[granite-speech-4-1-2b-plus]]
 ---

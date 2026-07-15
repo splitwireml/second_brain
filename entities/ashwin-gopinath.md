@@ -3,7 +3,7 @@ title: Ashwin Gopinath
 created: 2026-05-03
 updated: 2026-05-04
 type: entity
-tags: [person, x-creator, company-brain]
+tags: [person, company-brain, x-creator]
 sources: [raw/articles/xarticle-ashwingop-2052777467732283817.md, raw/articles/company-brain-part-4-action-memory-ashwingop-2026-05-04.md, raw/articles/company-brain-part-3-interaction-memory-ashwingop-2026-05-03.md]
 related_entity: [[sentra]]
 ---

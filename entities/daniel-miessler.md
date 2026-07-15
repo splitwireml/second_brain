@@ -1,9 +1,9 @@
 ---
 title: Daniel Miessler
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-14
 type: entity
-tags: [person, x-creator, content-creator, security, ai]
+tags: [person, ai, content-creator, security, x-creator]
 sources: [raw/articles/thread-daniel-miessler-2050666594188304484.md]
 ---
 
@@ -41,3 +41,6 @@ This thesis is closely related to [[enterprise-ai-failure-modes]] — both ident
 
 - [[enterprise-ai-failure-modes]] — related framing of enterprise AI deployment failures
 - [[varick-agents]] — enterprise AI deployment company with overlapping thesis
+
+## Related
+- [[enterprise-ai-readiness-gap]] — Daniel Miessler's enterprise AI thesis

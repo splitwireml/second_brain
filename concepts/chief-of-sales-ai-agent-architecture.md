@@ -1,9 +1,9 @@
 ---
 title: Chief of Sales AI Agent Architecture
 created: 2026-05-09
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [ai-agent, sales, b2b, automation]
+tags: [agent, ai-agent, automation, b2b, sales]
 sources: []
 related_entity: [[KeshWelch]]
 author: [[KeshWelch]]
@@ -49,3 +49,6 @@ A 7-layer architecture for replacing manual sales admin work with AI agents, pot
 ## Sources
 
 - [Claude Opus, $10m chief of sales - KeshWelch](https://x.com/i/status/2052486245218177361) - 2026-05-07
+
+## Related
+- [[KeshWelch]] — related entity from frontmatter; explicit cross-link

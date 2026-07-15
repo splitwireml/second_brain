@@ -3,7 +3,7 @@ title: OpenMontage
 created: 2026-04-12
 updated: 2026-04-12
 type: entity
-tags: [tools, genai, oss-ai, product]
+tags: [product, tools, genai, oss-ai]
 sources: [raw/articles/open-montage-github-repo-2026-04-12.md]
 ---
 

@@ -5,7 +5,7 @@ type: entity
 created: 2026-05-09
 updated: 2026-05-09
 source: https://x.com/i/status/2052015573710623076
-tags: [peptide-marketing, ugc, ecommerce, affiliate-marketing]
+tags: [affiliate-marketing, ecommerce, peptide-marketing, ugc]
 ---
 
 # Roman Khaves

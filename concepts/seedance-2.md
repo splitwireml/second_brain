@@ -3,7 +3,7 @@ title: seedance-2
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
-tags: [video-generation, ai-video, model]
+tags: [model, ai-video, video-generation]
 sources: []
 related_entity:
 ---

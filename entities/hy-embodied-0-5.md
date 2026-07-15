@@ -3,7 +3,7 @@ title: HY-Embodied-0.5
 created: 2026-04-14
 updated: 2026-04-14
 type: entity
-tags: [model, llm, moe, vision-language, robotics, oss-ai]
+tags: [llm, model, moe, oss-ai, robotics, vision-language]
 sources: [raw/articles/tencent-hy-embodied-0-5-model-card-2026-04-14.md]
 ---
 

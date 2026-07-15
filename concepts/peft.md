@@ -3,7 +3,7 @@ title: Parameter-Efficient Fine-Tuning (PEFT)
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [training, llm, efficiency]
+tags: [llm, training, efficiency]
 sources: []
 ---
 

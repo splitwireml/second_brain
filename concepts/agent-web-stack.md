@@ -3,7 +3,7 @@ title: Agent Web Stack
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [agent, framework, automation]
+tags: [agent, automation, framework]
 sources: [raw/articles/theahmadosman-agent-web-stack-2026-04-15.md]
 author: [[theahmadosman]]
 ---

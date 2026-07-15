@@ -3,7 +3,7 @@ title: Shalev
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [person, content-creator, ai-persona, ugc]
+tags: [person, ai-persona, content-creator, ugc]
 sources: [raw/articles/shalev-ai-monk-500k-2047670111709143100.md]
 ---
 

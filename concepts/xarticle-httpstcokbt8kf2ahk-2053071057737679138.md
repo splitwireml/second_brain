@@ -3,7 +3,7 @@ title: "X Article (2053071057737679138) by bidah"
 created: 2026-05-11
 updated: 2026-05-11
 type: concept
-tags: [x-article, export-failed, bird-read-failure]
+tags: [bird-read-failure, export-failed, x-article]
 sources: [raw/articles/xarticle-httpstcokbt8kf2ahk-2053071057737679138.md]
 related_entity: [[bidah]]
 ---

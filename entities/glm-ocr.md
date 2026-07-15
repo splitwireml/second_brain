@@ -3,7 +3,7 @@ title: GLM-OCR
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [ocr, document-understanding, multimodal, vision-language, open-source, inference]
+tags: [inference, document-understanding, multimodal, ocr, open-source, vision-language]
 sources: [raw/articles/zai-org-glm-ocr-2026-04-16.md]
 related_entity: [[zai-org]]
 ---

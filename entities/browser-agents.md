@@ -3,7 +3,7 @@ title: browser-agents
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [browser-agents, browser-automation, ai-agent]
+tags: [agent, ai-agent, browser-agents, browser-automation]
 sources: []
 ---
 

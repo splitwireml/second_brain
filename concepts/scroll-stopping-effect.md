@@ -3,7 +3,7 @@ title: Scroll-Stopping Effect
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [marketing, ugc, content-marketing]
+tags: [content-marketing, marketing, ugc]
 sources: [raw/articles/john-virality-ai-ugc-virality-mechanics-2045501261131190488.md]
 related_entity: [[john-virality]]
 ---

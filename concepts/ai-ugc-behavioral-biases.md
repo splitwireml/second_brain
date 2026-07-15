@@ -1,9 +1,9 @@
 ---
 title: ai-ugc-behavioral-biases
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-14
 type: concept
-tags: [ugc, virality, marketing, ai-video]
+tags: [ai-video, marketing, ugc, virality]
 sources: [raw/articles/adriansolarzz-human-biases-ai-ugc-2047675131166671159.md]
 related_entity: [[adriansolarzz]]
 author: [[adriansolarzz]]
@@ -74,3 +74,6 @@ The compounding effect comes from stacking biases across the complete campaign a
 - [[instagram-ugc-system]] — multi-account AI UGC system that implements mere exposure effect across accounts
 - [[seedance-2-0]] — video generation tool used for AI UGC production (mentioned for "handheld phone camera feel" anti-polish prompting)
 - [[viral-marketing]] — general viral content mechanics; the bias stack is the behavioral science substrate
+
+## Related
+- [[behavioral-science-ugc]] — Behavioral-science UGC frames this bias library as a content-generation pattern

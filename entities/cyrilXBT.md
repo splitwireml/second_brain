@@ -1,10 +1,10 @@
 ---
 title: cyrilXBT
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-06-22
 type: entity
-tags: [x-creator, ai-content, productivity, pkm]
-sources: [raw/articles/xarticle-cyrilXBT-2052235121416188114.md, raw/articles/xarticle-cyrilXBT-2052361597000032594.md]
+tags: [ai-content, pkm, productivity, x-creator]
+sources: [raw/articles/xarticle-cyrilXBT-2052235121416188114.md, raw/articles/xarticle-cyrilXBT-2052361597000032594.md, raw/articles/xarticle-the-10-hermes-agent-settings-most-users-never-find-2062720923942228205.md, raw/articles/xarticle-how-to-use-obsidian-vellum-to-build-a-second-brain-2059461814333673705.md, raw/articles/xarticle-how-to-build-a-multi-agent-system-that-actually-fi-2068135133618540931.md]
 ---
 
 # cyrilXBT
@@ -13,10 +13,17 @@ X creator (@cyrilXBT). Posts content on AI agents, productivity systems, and kno
 
 ## Content
 
-- [[obsidian-knowledge-vault-system]] — X Article: How to Build an Obsidian Knowledge Vault That Gets Smarter Every Day; 3,466 likes, 389 RTs (May 2026)
+- [[obsidian-knowledge-vault-system]] — five-folder Obsidian vault with automated capture, weekly synthesis, and a Vellum instruction layer
+- [[hermes-agent-24-7-automation-patterns]] — X Article: ten hidden Hermes settings covering memory persistence, scheduler timezone, skill hot reload, notifications, chaining, consolidation, and failure recovery (June 2026)
+- [[multi-agent-orchestration]] — full-course breakdown of finish-line-first agent design: definition of done, researcher / builder / judge / manager separation, structured handoffs, and bounded revision loops
+
+## 2026-06-11 Update
+
+A newer bookmark expands Cyril's vault pattern from a simple Obsidian + Claude setup into a fuller operator stack: type-organized capture folders, a dedicated VELLUM.md operating file, weekly workflow prompts, and N8N/Telegram/voice-note capture loops that keep the system live without manual filing.
 
 ## Related
 
+- [[hermes-agent]] — major recurring topic in Cyril's operating-system style posts
 - [[obsidian]] — the PKM tool at the center of the system
-- [[claude]] — the AI layer that makes the vault intelligent
+- [[obsidian-knowledge-vault-system]] — canonical page for the vault architecture
 - [[second-brain]] — the broader concept being described

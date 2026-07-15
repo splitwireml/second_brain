@@ -3,7 +3,7 @@ title: "Costco Algorithm"
 created: 2026-04-11
 updated: 2026-04-11
 type: concept
-tags: [marketing, monetization, method]
+tags: [marketing, method, monetization]
 sources: [raw/articles/antonio-linares-stock-market-wealth-2026-04-10.md]
 ---
 

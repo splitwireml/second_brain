@@ -3,7 +3,7 @@ title: AI Influencer Marketing
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [marketing, ugc, ai, influencer, virality]
+tags: [ai, influencer, marketing, ugc, virality]
 sources: [raw/articles/ernesto-software-ai-influencer-480k-2047111389890629654.md]
 ---
 

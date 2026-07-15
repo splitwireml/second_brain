@@ -3,7 +3,7 @@ title: u2net-mlx
 created: 2026-04-26
 updated: 2026-04-26
 type: entity
-tags: [model, background-removal, mlx, apple-silicon, image-segmentation]
+tags: [model, apple-silicon, background-removal, image-segmentation, mlx]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md]
 ---
 

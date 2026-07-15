@@ -3,7 +3,7 @@ title: "Vane (ItzCrazyKns)"
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [ai-tools, rag, search, open-source, self-hosted]
+tags: [tools, ai-tools, open-source, rag, search, self-hosted]
 sources: [raw/articles/itzcrazykns-vane-ai-answering-engine.md]
 ---
 

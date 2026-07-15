@@ -3,7 +3,7 @@ title: Marc Bowen
 created: 2026-04-19
 updated: 2026-05-01
 type: entity
-tags: [person, apple-silicon, inference, x-creator]
+tags: [person, inference, apple-silicon, x-creator]
 sources: [raw/articles/marcw4ovt-apple-wwdc-2026-m5-ultra-2026-04-19.md]
 ---
 

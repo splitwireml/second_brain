@@ -1,7 +1,7 @@
 ---
 title: Dami Defi
 created: 2026-04-24
-updated: 2026-05-05
+updated: 2026-06-14
 type: entity
 tags: [person, content-creator]
 sources: [raw/articles/dami-defi-2047612989201600948.md, raw/articles/dami-defi-ios-monetization-2050197937578193153.md]
@@ -21,3 +21,9 @@ X creator (@DamiDefi). [Thread](https://x.com/DamiDefi/status/204761298920160094
 
 - [[suryansh-tiwari]] — another X creator focused on Claude Code system design
 - [[claude-code]] — AI coding agent context for these content creators
+
+## Additional notes (merged from DamiDefi)
+
+X creator (@DamiDefi). Posts about Claude AI tools, crypto analysis, and building productivity systems.
+- X: https://x.com/DamiDefi
+- [[jarvis-obsidian-second-brain]] — Built JARVIS in Obsidian: a compounding second brain powered by Claude Code; full setup guide (214 likes, 28 RTs)

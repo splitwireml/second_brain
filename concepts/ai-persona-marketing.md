@@ -3,7 +3,7 @@ title: AI Persona Marketing
 created: 2026-04-27
 updated: 2026-04-27
 type: concept
-tags: [ai-persona, marketing, ugc, instagram]
+tags: [ai-persona, instagram, marketing, ugc]
 sources: [raw/articles/rohit-solo-founder-stack-2026-2047699770308014406.md]
 ---
 

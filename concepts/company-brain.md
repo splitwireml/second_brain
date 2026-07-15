@@ -3,7 +3,7 @@ title: Company Brain
 created: 2026-05-03
 updated: 2026-05-04
 type: concept
-tags: [enterprise-ai, memory, knowledge-management, ai-agent]
+tags: [agent, ai-agent, memory, enterprise-ai, knowledge-management]
 sources: [raw/articles/xarticle-ashwingop-2052777467732283817.md, raw/articles/company-brain-part-4-action-memory-ashwingop-2026-05-04.md, raw/articles/company-brain-part-3-interaction-memory-ashwingop-2026-05-03.md]
 related_entity: [[sentra]]
 author: [[ashwin-gopinath]]

@@ -3,7 +3,7 @@ title: RF-DETR with Neural Architecture Search
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [computer-vision, object-detection, architecture, deep-learning, inference]
+tags: [inference, architecture, computer-vision, deep-learning, object-detection]
 sources: [raw/articles/skalskip92-rf-detr-nas-roboflow-2026-04-20.md]
 related_entity: [[roboflow]]
 ---

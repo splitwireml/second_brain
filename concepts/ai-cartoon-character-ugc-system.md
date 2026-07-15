@@ -1,10 +1,10 @@
 ---
 title: AI Cartoon Character UGC System
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-07-12
 type: concept
-tags: [ugc, monetization, ai-tools, tiktok, content-marketing]
-sources: [raw/articles/babeclipping-cartoon-characters-money-2026-04-19.md]
+tags: [tools, ai-tools, content-marketing, monetization, tiktok, ugc]
+sources: [raw/articles/babeclipping-cartoon-characters-money-2026-04-19.md, raw/articles/xarticle-how-to-turn-a-boring-study-app-into-5m-with-one-ma-2074823642798563727.md]
 author: [[babeclipping]]
 ---
 
@@ -40,8 +40,13 @@ System for building and monetizing AI-generated cartoon character content on Tik
 - US-only audience required for premium CPM rates (requires virtual US setup)
 - Platform dependency — should not be primary income stream
 
+## Product-growth variant
+
+The pixclipper article describes a related use of a locked mascot for study and productivity apps: the same character appears across scenarios tied to real user moments, turning faceless AI UGC into one recognizable brand rather than unrelated avatar output. Its retention, acquisition, and revenue figures remain source claims.^[raw/articles/xarticle-how-to-turn-a-boring-study-app-into-5m-with-one-ma-2074823642798563727.md]
+
 ## Related Concepts
 
+- [[mascot-driven-app-growth]] — character-led app growth framework
 - [[ai-ugc-ad-scaling-system]] — Broader AI UGC ad workflow
 - [[ai-cartoon-ugc-monetization]] — monetization mechanics for AI cartoon UGC via TikTok Shop, Amazon, and Instagram placements
 - [[ugc]] — broader UGC concept that encompasses AI-generated user content formats

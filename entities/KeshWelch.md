@@ -13,7 +13,8 @@ bio: |
   sales floor output by 4.7x.
 tags:
   - sales
-  - ai-agents
+  - agent
+  - ai-agent
   - automation
   - b2b
   - organizational-design

@@ -3,7 +3,7 @@ title: Training-Free
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [training-free, deep-learning, efficiency]
+tags: [deep-learning, efficiency, training-free]
 sources: []
 ---
 

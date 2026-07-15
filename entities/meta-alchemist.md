@@ -3,7 +3,7 @@ title: Meta Alchemist
 created: 2026-05-04
 updated: 2026-05-04
 type: entity
-tags: [person, x-creator, ai-curator]
+tags: [person, ai-curator, x-creator]
 sources: [raw/articles/thread-meta_alchemist-2050834716157501710.md, raw/articles/xarticle-meta-alchemist-2051264391908344283.md]
 ---
 

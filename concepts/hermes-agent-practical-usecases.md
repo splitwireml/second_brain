@@ -1,7 +1,7 @@
 ---
 title: Hermes Agent Practical Uses
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-06-14
 type: concept
 tags: [agent, hermes-agent, workflow-automation]
 sources: [raw/articles/matt-van-horn-hermes-agent-actual-uses-2045935785661349956.md]
@@ -73,3 +73,6 @@ Most users set up Hermes for the daily digest. They stay for the skill loop.
 ## References
 
 - [[matt-van-horn]] — source author; https://x.com/mvanhorn/status/2045935785661349956
+
+## Related
+- [[telegram]] — Telegram channel distribution

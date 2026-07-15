@@ -3,7 +3,7 @@ title: GitHub Repo Trust Verification
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [security, open-source, tools, method, agent]
+tags: [tools, agent, method, open-source, security]
 sources: [raw/articles/the-smart-ape-github-repo-trust-2026-04-13.md]
 related_entity: [[the-smart-ape]]
 author: [[the-smart-ape]]

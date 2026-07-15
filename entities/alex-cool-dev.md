@@ -3,7 +3,7 @@ title: Alex Cool Dev
 created: 2026-04-19
 updated: 2026-04-27
 type: entity
-tags: [person, content-creator, tiktok, automation]
+tags: [person, automation, content-creator, tiktok]
 sources: [raw/articles/tiktok-slideshow-claude-opus-47-alex-nguyen-2044820024695947654.md, raw/articles/alex-nguyen-tiktok-slideshow-automation-2047715075457507452.md]
 ---
 

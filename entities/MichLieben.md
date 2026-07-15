@@ -1,9 +1,9 @@
 ---
 title: "Michel Lieben"
 created: 2026-04-19
-updated: 2026-05-10
+updated: 2026-06-14
 type: entity
-tags: [person, x-creator, ai-curator, b2b, marketing]
+tags: [person, ai-curator, b2b, marketing, x-creator]
 sources: [raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md]
 related_entity: [[coldiq]]
 ---
@@ -19,3 +19,6 @@ related_entity: [[coldiq]]
 
 ## Notes
 Tweets about AI agents, content engines, and growth systems.
+
+## Related
+- [[coldiq]] — related entity from frontmatter; explicit cross-link

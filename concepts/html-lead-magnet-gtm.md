@@ -1,9 +1,9 @@
 ---
 title: HTML Lead Magnet GTM
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-06-14
 type: concept
-tags: [gtm, marketing, lead-magnet, cold-email, outbound, conversion]
+tags: [cold-email, conversion, gtm, lead-magnet, marketing, outbound]
 sources: [raw/articles/xarticle-gtm-html-lead-magnet-2053502564113797343.md]
 related_entity: [[termsheetinator]]
 ---
@@ -50,6 +50,9 @@ Source: [[xarticle-gtm-html-lead-magnet-2053502564113797343]]
 - [[gtm]]
 - [[cold-email]]
 - [[outbound]]
-- [[lead-magnet]]
+- lead-magnet
 - [[conversion]]
 - [[claude-code]]
+
+## Related
+- [[termsheetinator]] — related entity from frontmatter; explicit cross-link

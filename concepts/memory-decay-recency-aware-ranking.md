@@ -3,7 +3,7 @@ title: Memory Decay (Mem0)
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [ai-agents, memory, recency-ranking, mem0, llm, search-ranking]
+tags: [agent, ai-agent, llm, memory, mem0, recency-ranking, search-ranking]
 sources: [raw/articles/xarticle-mem0ai-2026.md]
 related_entity: [[mem0ai]]
 ---

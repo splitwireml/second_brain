@@ -3,7 +3,7 @@ title: Mobile Inference
 created: 2026-04-29
 updated: 2026-04-29
 type: concept
-tags: [inference, efficiency, model, chinese-ai]
+tags: [model, inference, chinese-ai, efficiency]
 sources: [raw/articles/hy-mt1.5-1.8b-1.25bit-tencent-2026-04-29.md]
 related_entity: [[hy-mt1.5-1.8b-1.25bit]]
 ---

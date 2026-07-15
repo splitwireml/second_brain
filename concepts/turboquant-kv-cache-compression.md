@@ -3,7 +3,7 @@ title: TurboQuant — KV Cache Compression for LLMs
 created: 2026-04-11
 updated: 2026-04-13
 type: concept
-tags: [inference, quantization, optimization, llm]
+tags: [llm, inference, quantization, optimization]
 sources: [raw/transcripts/2026-04-11-After This, 16GB Feels Different.md, raw/articles/x-bookmarks-2026.md]
 author: [[alex-ziskind]]
 ---

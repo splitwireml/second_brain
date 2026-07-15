@@ -1,10 +1,10 @@
 ---
 title: Gemma 4
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-06-11
 type: entity
-tags: [model, llm, google, oss-ai, inference, moe]
-sources: [raw/articles/google-multi-token-prediction-gemma-4.md]
+tags: [llm, model, inference, google, moe, oss-ai]
+sources: [raw/articles/google-multi-token-prediction-gemma-4.md, raw/articles/thread-Prince_Canuma-2062224761841672509.md]
 ---
 
 # Gemma 4
@@ -19,6 +19,7 @@ Google's open-weight model family (Apache 2.0). Over 60 million downloads in the
 | 26B | MoE (mixture-of-experts) | Personal computers, consumer GPUs |
 | E2B | Dense | Edge devices |
 | E4B | Dense | Edge devices |
+| 12B | Dense multimodal | Apple Silicon / local multimodal workflows |
 
 ## Multi-Token Prediction (MTP) Drafters
 
@@ -29,6 +30,10 @@ Key technical details:
 - For E2B/E4B edge models: efficient clustering technique in the embedder to accelerate logit calculation
 - On 26B MoE + Apple Silicon: ~2.2× speedup at batch sizes 4–8 (vs batch size 1 which has routing challenges)
 - On Nvidia A100: similar gains with larger batch sizes
+
+## Apple Silicon update
+
+A June 2026 MLX-focused thread added a practical deployment angle for **Gemma 4 12B** on Apple Silicon: 256K context, built-in reasoning mode, dynamic-resolution vision, OCR/UI/chart understanding, native audio features, function calling for agents, and interleaved text-image-audio support. The framing is important because it treats Gemma 4 less as a benchmark artifact and more as a locally runnable multimodal agent model.
 
 ## Deployment
 
@@ -48,6 +53,7 @@ Apache 2.0 license. Available on:
 - Complementary to [[block-diffusion-speculative-decoding]] (DFlash) — both are speculative decoding techniques but DFlash drafts entire blocks in parallel while MTP drafts autoregressively
 - [[turboquant-kv-cache-compression]] is a complementary optimization (KV cache compression vs MTP draft acceleration)
 - Inference optimization stack: [[llm-server-throughput-optimization]], [[inference-kernel-optimization]]
+- Apple Silicon distribution context surfaced by [[prince-canuma]]
 
 ## See Also
 

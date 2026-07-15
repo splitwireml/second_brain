@@ -3,7 +3,7 @@ title: Personal AI Agent Architecture
 created: 2026-05-01
 updated: 2026-05-10
 type: concept
-tags: [ai-agent, agent, mcp, workflow, automation, claude]
+tags: [agent, ai-agent, workflow, automation, claude, mcp]
 sources: [raw/articles/xarticle-2050007245216256051.md]
 related_entity: [[claude-desktop]]
 author: [[seelffff]]
@@ -12,6 +12,14 @@ author: [[seelffff]]
 # Personal AI Agent Architecture
 
 A personal AI agent setup that manages the owner's daily life, built by [[seelffff]]. The architecture combines a desktop AI assistant with external tool integrations and a persistent memory layer.
+
+## Relationship to Other Agent Memory Systems
+
+This page focuses on [[seelffff]]'s specific setup. For other implementations:
+
+- [[agent-memory-architecture]] — generic principles that informed this and similar setups
+- [[context-os]] — [[tony-simons]]'s more elaborate 11-layer Context OS on [[hermes-agent]]
+- [[personal-ai-infrastructure]] — [[noisy]]'s community-built PAI Life OS (12k+ stars) on [[claude-code]]
 
 ## Architecture Components
 

@@ -3,7 +3,7 @@ title: How LLM Inference Works
 created: 2026-05-03
 updated: 2026-05-03
 type: concept
-tags: [llm, inference, optimization, transformer, quantization, kv-cache, gpu, efficiency]
+tags: [llm, inference, quantization, efficiency, gpu, kv-cache, optimization, transformer]
 sources: [raw/articles/xarticle-how-llm-inference-works-akshay-pachaar-2050941458614751327.md]
 related_entity: [[akshay-pachaar]]
 references:

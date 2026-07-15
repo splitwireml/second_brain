@@ -3,7 +3,7 @@ title: Open Higgsfield AI — Open-Source AI Image/Video/Cinema/Lip Sync Studio
 created: 2026-04-10
 updated: 2026-04-10
 type: entity
-tags: [tools, genai, oss-ai, product]
+tags: [product, tools, genai, oss-ai]
 sources: [raw/articles/open-higgsfield-ai-github-repo-2026-04-10.md]
 ---
 

@@ -3,7 +3,7 @@ title: "xarticle-httpstcohi7guotpx6-2050772618605895852"
 created: 2026-05-06
 updated: 2026-05-06
 type: concept
-tags: [x-article, export-failure, ai-automation, workflow]
+tags: [workflow, ai-automation, export-failure, x-article]
 sources: [raw/articles/xarticle-httpstcohi7guotpx6-2050772618605895852.md]
 related_entity: [[levikmunneke]]
 author: [[levikmunneke]]

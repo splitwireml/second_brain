@@ -3,7 +3,7 @@ title: Flash-MoE
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [inference, moe, apple-silicon, efficiency, llm]
+tags: [llm, inference, apple-silicon, efficiency, moe]
 sources: [raw/articles/danveloper-flash-moe-qwen-397b-2026-04-16.md]
 related_entity: [[dan-woods]]
 author: [[dan-woods]]

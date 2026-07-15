@@ -1,9 +1,9 @@
 ---
 title: "INSID3: Training-Free In-Context Segmentation with DINOv3"
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: concept
-tags: [computer-vision, segmentation, training-free, zero-shot, cvpr-2026]
+tags: [computer-vision, cvpr-2026, segmentation, training-free, zero-shot]
 sources: [raw/papers/insid3-arxiv-2603.28480.md, raw/papers/skalski-p-top-cvpr-2026-papers.md]
 related_entity: [[skalski-p-top-cvpr-2026-papers]]
 ---
@@ -30,3 +30,6 @@ INSID3 leverages DINOv3's visual representations for zero-shot, training-free se
 - [[cvpr-2026-videomt]] — ViT-based video segmentation
 - [[cvpr-2026-matanyone-2]] — video matting with quality evaluator
 - [[cvpr-2026-topics]] — parent topic
+
+## Related
+- [[skalski-p-top-cvpr-2026-papers]] — related entity from frontmatter; explicit cross-link

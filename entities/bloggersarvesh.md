@@ -1,10 +1,10 @@
 ---
 title: "Sarvesh Shrivastava"
 created: 2026-03-25
-updated: 2026-03-25
+updated: 2026-05-14
 type: entity
-tags: [marketing, monetization, brand]
-sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md]
+tags: [brand, local-seo, marketing, monetization]
+sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md]
 ---
 
 # Sarvesh Shrivastava
@@ -22,6 +22,7 @@ Sarvesh Shrivastava (@bloggersarvesh) is a local SEO practitioner and founder of
 ## Key Work
 
 - [[claude-cowork-seo-system]] — 20-prompt system built on [[claude-cowork]] Chrome extension; offered as a service by [[alventra-marketing]]
+  - "How to use Claude Cowork for SEO so well it feels illegal" (2026-04-19) — full 20-prompt breakdown across GBP, website, backlinks, and content tracking
 
 ## Related Concepts
 

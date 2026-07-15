@@ -3,7 +3,7 @@ title: UberHaus Landing Page + SEO
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [idea, marketing, seo, opportunity]
+tags: [idea, marketing, opportunity, seo]
 sources: []
 related_entity: [[waleed]]
 ---

@@ -3,7 +3,7 @@ title: Hermes Agent - Market Claims & Positioning
 created: 2026-04-09
 updated: 2026-04-09
 type: concept
-tags: [marketing, agent, llm, product]
+tags: [product, agent, llm, marketing]
 sources: [raw/articles/x-hermes-paperclip-nashville-event.md]
 ---
 

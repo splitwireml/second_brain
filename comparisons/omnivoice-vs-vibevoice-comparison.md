@@ -3,7 +3,7 @@ title: OmniVoice vs VibeVoice Comparison
 created: 2026-04-10
 updated: 2026-04-10
 type: comparison
-tags: [comparison, speech, model]
+tags: [model, comparison, speech]
 sources: [raw/articles/omnivoice-huggingface-2026.md, raw/articles/omnivoice-arxiv-2604-00688.md, entities/vibevoice.md]
 ---
 

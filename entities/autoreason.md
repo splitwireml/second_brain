@@ -3,7 +3,7 @@ title: Autoreason
 created: 2026-04-14
 updated: 2026-04-14
 type: entity
-tags: [oss-ai, method, agent, llm]
+tags: [agent, llm, method, oss-ai]
 sources: [raw/papers/autoreason.tex, raw/papers/autoreason-readme.md]
 ---
 

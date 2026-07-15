@@ -3,7 +3,7 @@ title: Levi Munnike
 created: 2026-04-15
 updated: 2026-04-15
 type: entity
-tags: [person, outbound, lead-gen, claude-code]
+tags: [person, claude-code, lead-gen, outbound]
 sources: [raw/articles/levikmunneke-google-maps-lead-gen-2026-04-15.md, raw/articles/article-httpstcoexfqfovwrk-2047832094509006868.md]
 ---
 

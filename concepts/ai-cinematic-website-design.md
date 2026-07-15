@@ -1,40 +1,60 @@
 ---
 title: AI Cinematic Website Design
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-07-01
 type: concept
-domain: methods
-tags: [vibe-coding, website, genai, marketing, monetization]
-sources: [raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md]
+tags: [claude-code, design, ui-design, workflow, website, monetization]
+sources: [raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md]
+related_entity: [[monokern]]
+confidence: medium
 ---
 
-## Overview
+# AI Cinematic Website Design
 
-The practice of building high-value, animated, cinematic marketing websites using a stack of AI tools — image generation (Flux), video/animation (Seedance 2.0), and large language models (Gemini 3.1) — to sell as premium client services at $10k+ price points.
+AI cinematic website design is the practice of using generative tools and coding agents to produce premium-looking, animation-heavy sites that mimic high-end agency work while cutting production time from days or weeks to hours.
 
-## Core Pattern
+## Two main workflow variants
 
-The workflow Viktor Oddy documented has four stages:
+The wiki now has two clear variants of this pattern:
 
-1. **Style discovery** — Find reference aesthetics on Pinterest (3D avatars, characters, abstract backgrounds)
-2. **Image generation** — Use Flux/Hexler to generate unique backgrounds and characters matching the reference style
-3. **Animation** — Use Seedance 2.0 to create looping videos from the generated images (supersedes Kling 3.0)
-4. **Website compilation** — Assemble animated assets into a cinematic marketing site
+1. **Asset-first cinematic build** — generate bespoke visuals, then animate them and assemble the site. This is the Seedance/Flux-style pipeline captured in the earlier source.
+2. **Reference-first Claude build** — start from elite design references, feed section-specific screenshots and constraints into [[claude-code]], then use iterative prompting to get the interaction and polish closer to agency-level work.^[raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md]
 
-## Key Claims
+Both variants are attempts to sell or self-produce websites that feel more expensive than the labor actually invested.
 
-- Seedance 2.0 produces smoother looping animations than Kling 3.0 (no cutoff at loop point)
-- No need to build from scratch — replicate what already works in the AI era
-- The workflow enables selling "cinematic $10k websites" as a service
-- Nana Banana Pro 2 is preferred for 3D avatar/character generation
+## Monokern's reference-first method
 
-## Relationship to Vibe Coding
+[[monokern]] describes a six-step implementation loop inside [[claude-code]]:
 
-This pattern is a specific vertical of vibe-coding focused on high-ticket marketing sites rather than general web apps. It differs from tools like [[open-lovable]] or [[lovable-dev]] by producing animated video-rich sites rather than React code.
+1. Install design-oriented helpers, including Anthropic's frontend-design skill and a separate UI/UX style plugin.
+2. Collect references section by section instead of copying one whole site.
+3. Put those references in a local folder and prompt Claude against the specific files.
+4. Ask clarifying questions before buildout so Claude locks style, typography, sections, and animation level early.
+5. Specify interaction ideas directly, such as a cursor-driven flashlight reveal in the hero section.
+6. Run two explicit feedback rounds: first for obvious bugs, then for typography/color/hierarchy/animation/mobile/copy polish.^[raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md]
 
-## Related Concepts
+The distinctive insight is that the quality jump comes less from one magic prompt and more from structured art direction: curated references, targeted interaction specs, and batched critique.
 
-- [[ai-ugc-ad-scaling-system]] — broader AI content creation for marketing
-- [[seedance-2-0]] — the animation model enabling the video loops
-- [[prompt-engineering-patterns]] — prompts used to generate the images and guide the workflow
-- [[vibe-coding]] — the broader paradigm this technique lives within (natural-language-to-code AI tools like Lovable, v0, Cursor)
+## What makes the workflow work
+
+Several recurring principles show up across sources:
+
+- **Reference compression beats abstract taste descriptions.** Instead of saying "make it premium," the builder points Claude at concrete section examples.
+- **Interaction design is specified as behavior, not vibes.** The flashlight example includes radius, edge softness, and reveal behavior, which makes it easier for the model to implement.
+- **Polish is a separate phase.** First build gets the structure; later passes fix lag, overflow, font mismatch, mobile issues, and abrupt transitions.
+- **Pricing narrative matters.** The whole frame is "looks like a $10k agency site," which ties the design workflow to [[monetization]] and premium service positioning.
+
+## Relation to adjacent concepts
+
+This concept sits between [[vibe-coding]] and broader [[website]] production. It is narrower than generic AI-assisted web development because the goal is not just shipping a site; it is shipping a site with motion, restraint, and visual specificity that reads as custom design work.
+
+It also overlaps with [[claude-code-workflows]]: the tool is not only writing code, but acting as a responsive implementation partner once the human supplies stronger creative direction.
+
+## Related
+
+- [[monokern]]
+- [[claude-code]]
+- [[website]]
+- [[vibe-coding]]
+- [[claude-code-workflows]]
+- [[anthropic]]

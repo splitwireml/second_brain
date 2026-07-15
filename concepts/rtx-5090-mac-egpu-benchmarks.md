@@ -3,7 +3,7 @@ title: RTX 5090 Mac eGPU Benchmarks
 created: 2026-04-13
 updated: 2026-04-18
 type: concept
-tags: [inference, performance, apple-silicon, benchmark, llm]
+tags: [llm, inference, apple-silicon, benchmark, performance]
 sources: [raw/transcripts/2026-04-13-rtx-5090-mac-egpu.md, raw/articles/x-bookmark-2044813085358117062.md]
 author: [[alex-ziskind]]
 ---

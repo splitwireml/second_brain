@@ -3,7 +3,7 @@ title: Autonomous iOS UI Testing
 created: 2026-04-10
 updated: 2026-04-10
 type: concept
-tags: [agent, platform, product, project]
+tags: [product, platform, agent, project]
 sources: [raw/articles/flowdeck-autonomous-ios-testing.md]
 ---
 

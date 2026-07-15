@@ -3,7 +3,7 @@ title: Ollama
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [open-source, local-llm, inference, llama.cpp]
+tags: [inference, llama.cpp, local-llm, open-source]
 sources: []
 ---
 

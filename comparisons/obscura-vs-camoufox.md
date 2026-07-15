@@ -3,7 +3,7 @@ title: "obscura vs camoufox"
 created: 2026-04-25
 updated: 2026-04-25
 type: comparison
-tags: [browser-automation, web-scraping, performance, anti-detection]
+tags: [anti-detection, browser-automation, performance, web-scraping]
 sources:
   - raw/articles/nftcps-obscura-rust-browser-2046777680792850720.md
   - raw/articles/github-h4ckf0r0day-obscura-2026-04-25.md
@@ -122,3 +122,7 @@ Python (camoufox library)
 **camoufox** is the workhorse for anything that hits anti-bot protection or requires the full Playwright API. Notion, Cloudflare-protected sites, and any workflow needing session persistence make camoufox the default choice.
 
 **Practical rule:** Try obscura first for static sites. Fall back to camoufox when you see blocks or need features obscura doesn't have.
+
+## Related
+
+- [[nftcps]]

@@ -3,7 +3,7 @@ title: "Kartik"
 created: 2026-05-06
 updated: 2026-05-06
 type: entity
-tags: [x-creator, person]
+tags: [person, x-creator]
 sources: [raw/articles/xarticle-httpstcohzcci755lz-2050631735529095575.md]
 ---
 

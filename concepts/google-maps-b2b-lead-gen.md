@@ -1,10 +1,10 @@
 ---
 title: Google Maps B2B Lead Generation with Claude Code
 created: 2026-04-15
-updated: 2026-04-15
+updated: 2026-06-14
 type: concept
-tags: [lead-gen, outbound, b2b, web-scraping, claude-code, automation, monetization]
-sources: [raw/articles/levikmunneke-google-maps-lead-gen-2026-04-15.md]
+tags: [automation, b2b, claude-code, lead-gen, monetization, outbound, web-scraping]
+sources: [raw/articles/levikmunneke-google-maps-lead-gen-2026-04-15.md, raw/articles/xarticle-how-to-put-b2b-lead-gen-on-full-autopilot-with-one-2064382296975675867.md]
 related_entity: [[levikmunnke]]
 ---
 
@@ -67,3 +67,14 @@ The methodology is adjacent to several other systems in the wiki:
 - RapidAPI "maps data" by alexanderxbx — not independently confirmed to exist or function as described
 - Actual lead quality and deliverability rates not independently verified
 - Blocklist (gmail/yahoo personal domains) may drop valid small business contacts using personal addresses
+
+## Related
+
+- [[levikmunnke]] — related entity from frontmatter; explicit cross-link
+- [[levi-munneke]]
+
+## Agent-run outbound layer
+
+A June 2026 source by [[din-scales26]] extends this lead-gen stack beyond list building. Instead of stopping at scraped and cleaned leads, the system adds a sequential agent layer: a research agent reads the market and competitor language, a discovery agent assembles ideal-fit accounts, a copywriting agent generates deliverability-aware messaging, and an AI setter proposes times and books calls through a scheduling API.
+
+The strategic claim is that the data advantage and the labor automation belong together: cheap public-data extraction without automated qualification and outreach still leaves a human bottleneck, while outbound automation without proprietary lead discovery is stuck on recycled Apollo or ZoomInfo lists. This makes the concept adjacent to [[google-maps-data-extraction]] and [[codex-lead-database-pipeline]], but more explicitly end-to-end.

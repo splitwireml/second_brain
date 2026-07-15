@@ -1,9 +1,9 @@
 ---
 title: Gemma 4 - Drafter Explained
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-14
 type: concept
-tags: [inference, google, llm, optimization, model]
+tags: [llm, model, inference, google, optimization]
 sources: [raw/articles/google-gemma-4-drafter-explained-2051694045869879749.md]
 related_entity: [[google-gemma-4-drafter]]
 ---
@@ -53,3 +53,6 @@ The drafter for Gemma 4 E2B has approximately:
 
 - X Article: [x.com/googlegemma/status/2051694045869879749](https://x.com/googlegemma/status/2051694045869879749)
 - Google Blog: [Multi-Token Prediction for Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
+
+## Related
+- [[google-gemma-4-drafter]] — related entity from frontmatter; explicit cross-link

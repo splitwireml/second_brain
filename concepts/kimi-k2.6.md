@@ -3,7 +3,7 @@ title: Kimi K2.6
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [ai-model, agent-swarm, moonshot-ai, open-source, koai]
+tags: [agent-swarm, ai-model, koai, moonshot-ai, open-source]
 sources: [raw/articles/thread-defileo-2050656413006053793.md]
 related_entity: [[moonshot-ai]]
 ---

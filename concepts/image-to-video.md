@@ -3,7 +3,7 @@ title: "Image-to-Video Generation"
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [model, architecture, inference, multimodal]
+tags: [model, inference, architecture, multimodal]
 sources: [raw/articles/xarticle-meet-davinci-magihuman-2047107948401541142.md]
 ---
 

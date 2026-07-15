@@ -1,9 +1,9 @@
 ---
 title: itsalexvacca
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-14
 type: entity
-tags: [person, x-creator, content-creator, agency, b2b]
+tags: [person, agency, b2b, content-creator, x-creator]
 sources: [raw/articles/xarticle-itsalexvacca-2052740083820958072.md]
 related_entity: [[alex-vacca]]
 ---
@@ -24,3 +24,6 @@ X creator and operator of ColdIQ, an AI-native outbound services agency.
 ## Links
 - Profile: https://x.com/itsalexvacca
 - ColdIQ: https://aiagency.io/
+
+## Related
+- [[alex-vacca]] — related entity from frontmatter; explicit cross-link

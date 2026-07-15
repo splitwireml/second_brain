@@ -3,7 +3,7 @@ title: Cloudflare Email Service
 created: 2026-04-18
 updated: 2026-04-18
 type: entity
-tags: [platform, inference, apple-silicon, benchmark, llm]
+tags: [platform, llm, inference, apple-silicon, benchmark]
 sources: [raw/articles/x-bookmark-2044813085358117062.md, raw/articles/x-bookmark-2044766954032951792.md]
 related_entity: [[llama-cpp]]
 ---

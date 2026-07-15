@@ -3,7 +3,7 @@ title: Claude Design
 created: 2026-04-21
 updated: 2026-04-22
 type: entity
-tags: [design-tool, ai-design, anthropic]
+tags: [ai-design, anthropic, design-tool]
 sources: [comparisons/paper-design-vs-huashu-design.md, raw/articles/vibemarketer-how-to-master-claude-design-2046591625409745037.md]
 related_entity: [[claude-code]]
 ---

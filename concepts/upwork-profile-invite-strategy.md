@@ -3,7 +3,7 @@ title: Upwork Profile Invite Strategy
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [lead-gen, outbound, marketing, upwork]
+tags: [lead-gen, marketing, outbound, upwork]
 sources: [raw/transcripts/2026-04-21-How-I-Get-250-Upwork-Invites-Every-90-days.md]
 author: [[ryan-ramshaw]]
 ---

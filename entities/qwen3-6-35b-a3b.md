@@ -3,7 +3,7 @@ title: Qwen3-6-35B-A3B
 created: 2026-05-03
 updated: 2026-05-03
 type: entity
-tags: [llm, qwen, moe, model, open-source, chinese-ai]
+tags: [llm, model, chinese-ai, moe, open-source, qwen]
 sources: [raw/articles/qwen3-6-35b-rtx4070-12gb-iam-shanmukha-2026-05-01.md]
 related_entity: [[iam-shanmukha]]
 ---

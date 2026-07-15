@@ -3,7 +3,7 @@ title: Design Automation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [design-tool, automation]
+tags: [automation, design-tool]
 sources: []
 ---
 

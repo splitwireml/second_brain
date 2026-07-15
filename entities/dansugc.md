@@ -3,7 +3,7 @@ title: DansUGC
 created: 2026-04-15
 updated: 2026-04-15
 type: entity
-tags: [ugc, video, product, service]
+tags: [product, service, ugc, video]
 sources: [raw/articles/x-bookmark-2044346237239894229.md]
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Generalist Entrepreneurship
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-07-05
 type: concept
-tags: [business, brand, content-strategy, monetization, idea]
-sources: [raw/articles/the-dankoe-multiple-interests-superpower.md]
+tags: [brand, business, content-strategy, idea, monetization]
+sources: [raw/articles/the-dankoe-multiple-interests-superpower.md, raw/articles/xarticle-the-most-profitable-skill-of-the-21st-century-not-ai-2073418764058825045.md]
 author: [[dan-koe]]
 ---
 
@@ -50,12 +50,21 @@ The missing piece is not more learning — it is a **vessel**: a way to channel 
 
 **Path 2 — Development-Based** (preferred): Turn yourself into the customer avatar. You pursue your goals → this validates the usefulness of your offer → you help the past version of yourself. This path subsumes Path 1 (you still need marketable skills) but starts from genuine interest rather than chasing profit.
 
+## Extension: Human Nature as the Meta-Skill
+
+Dan's later "human nature" article adds a missing mechanism to this page. Generalist entrepreneurship is not just collecting many skills; it requires translating those skills into recognizable value for other people. The durable layer beneath specific skills is understanding how people pay attention, form identity, imagine transformation, and decide to act.
+
+That makes [[human-nature-meta-skill]] the persuasion layer of [[generalist-entrepreneurship]]: curiosity supplies raw material, self-education builds skill, and human-nature literacy turns the work into content, offers, relationships, and products that other humans can understand and support.
+
 ## Related Concepts
 
 - [[brand-as-environment]] — his framework for brand-building as a generalist creator
+- [[human-nature-meta-skill]] — the behavioral layer that turns generalist skill into attention, trust, and action
 - The idea-museum and swipe-file concept for curating high-signal ideas
 
 ## Source
 
 > "If you've ever helped someone with your interests, you're qualified to start a business."
 > — [[dan-koe]], [x.com/thedankoe/status/2010042119121957316](https://x.com/thedankoe/status/2010042119121957316)
+
+- [[dan-koe]], [x.com/thedankoe/status/2073418764058825045](https://x.com/thedankoe/status/2073418764058825045) — X Article arguing that human nature is the meta-skill beneath changing AI-era high-value skills

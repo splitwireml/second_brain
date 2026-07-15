@@ -3,7 +3,7 @@ title: "0xDepressionn"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
-tags: [person, ai-agents, content-creator]
+tags: [person, agent, ai-agent, content-creator]
 sources: [raw/articles/0xdepressionn-ai-landscape-battle-2026-04-20.md, raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-5-ai-personas-127000month-no-models-no-team-claude-2051304679607291924.md]
 ---
 

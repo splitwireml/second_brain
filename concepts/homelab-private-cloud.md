@@ -3,7 +3,7 @@ title: Homelab Private Cloud
 created: 2026-05-01
 updated: 2026-05-03
 type: concept
-tags: [self-hosted, platform, local-first, infrastructure]
+tags: [platform, infrastructure, local-first, self-hosted]
 sources: [raw/articles/homelab-private-cloud-ahmad-2026-05-01.md]
 related_entity: [[proxmox]]
 author: [[theahmadosman]]

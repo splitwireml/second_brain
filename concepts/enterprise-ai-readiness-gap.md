@@ -3,7 +3,7 @@ title: Enterprise AI Readiness Gap
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [enterprise, enterprise-ai, ai, business]
+tags: [ai, business, enterprise, enterprise-ai]
 sources: [raw/articles/thread-daniel-miessler-2050666594188304484.md]
 related_entity: [[daniel-miessler]]
 author: [[daniel-miessler]]

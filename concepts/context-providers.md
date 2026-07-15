@@ -3,7 +3,7 @@ title: Context Providers
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [agent, framework, ai-agent, orchestration]
+tags: [agent, ai-agent, orchestration, framework]
 sources: [raw/articles/scout-ashpreetbedi-2049180168200106150.md]
 related_entity: [[scout]]
 author: [[ashpreet-bedi]]

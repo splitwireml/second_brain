@@ -3,7 +3,7 @@ title: "6 Open-Source Fine-Tuning Libraries (May 2026)"
 created: 2026-05-06
 updated: 2026-05-06
 type: concept
-tags: [llm, fine-tuning, open-source, tools]
+tags: [tools, llm, fine-tuning, open-source]
 sources: [raw/articles/thread-techwith_ram-2050573365459783910.md]
 related_entity: [[techwith_ram]]
 ---

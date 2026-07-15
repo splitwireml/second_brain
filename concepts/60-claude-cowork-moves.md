@@ -1,9 +1,9 @@
 ---
 title: 60-claude-cowork-moves
 created: 2026-05-07
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [x-article, ai, productivity, workflow]
+tags: [workflow, ai, productivity, x-article]
 sources: [raw/articles/shmidt-60-claude-cowork-moves-2051755298772095238.md]
 related_entity: [[shmidt-60-claude-cowork-moves]]
 author: [[shmidt]]
@@ -111,7 +111,7 @@ Scheduled background tasks:
 
 ## Source
 
-[[raw/articles/shmidt-60-claude-cowork-moves-2051755298772095238.md]]
+[[shmidt-60-claude-cowork-moves-2051755298772095238]]
 
 ## Related Concepts
 
@@ -119,3 +119,6 @@ Scheduled background tasks:
 - [[shmidt-hermes-agent-99-percent-unused-features]] — same author's similar catalog of Hermes Agent features
 - [[ai-cost-optimization]] — related to the /cost command and token discipline
 - [[skillify]] — related to skill building methodology
+
+## Related
+- [[shmidt-60-claude-cowork-moves]] — related entity from frontmatter; explicit cross-link

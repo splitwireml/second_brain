@@ -1,9 +1,9 @@
 ---
 title: Video Segmentation
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: concept
-tags: [video-segmentation, computer-vision, video]
+tags: [computer-vision, video, video-segmentation]
 sources: []
 ---
 
@@ -43,3 +43,6 @@ Unlike image segmentation, video segmentation must handle:
 
 - [[segmentation]] — foundational task
 - [[point-tracking]] — related temporal correspondence task
+
+## Related
+- [[falcon-perception]] — video segmentation / object tracking

@@ -1,9 +1,9 @@
 ---
 title: "CJ Zafir"
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-14
 type: entity
-tags: [person, ai-researcher, fine-tuning, slm, vertical-language-models]
+tags: [person, fine-tuning, ai-researcher, slm, vertical-language-models]
 sources: []
 related_entity: [[vertical-language-models-slm-fine-tuning]]
 ---
@@ -22,3 +22,6 @@ related_entity: [[vertical-language-models-slm-fine-tuning]]
 
 ## Social
 - X: https://x.com/cjzafir
+
+## Related
+- [[vertical-language-models-slm-fine-tuning]] — related entity from frontmatter; explicit cross-link

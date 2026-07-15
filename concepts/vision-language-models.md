@@ -1,10 +1,10 @@
 ---
 title: Vision-Language Models (VLM)
 created: 2026-04-14
-updated: 2026-04-16
+updated: 2026-06-11
 type: concept
-tags: [vision-language, llm, model, computer-vision, research]
-sources: [raw/articles/liquid-ai-lfm2-5-vl-450m-model-card-2026-04-16.md]
+tags: [llm, model, computer-vision, research, vision-language]
+sources: [raw/articles/liquid-ai-lfm2-5-vl-450m-model-card-2026-04-16.md, raw/articles/thread-HappyyPablo-2056839665551024474.md]
 ---
 
 # Vision-Language Models (VLM)
@@ -22,6 +22,7 @@ Typical VLM architecture:
 
 - [[hy-embodied-0-5]] — Embodied VLM with MoT architecture for robotics/VLA
 - [[lfm2-5-vl-450m]] — Liquid AI VLM; SigLIP2 vision encoder + LFM2.5-350M backbone; bounding box prediction, function calling
+- [[marlin-2b]] — lightweight video-native VLM for dense captioning and temporal grounding in agent loops
 - GPT-4V, Claude Vision, Gemini Vision
 - LLaVA, CogVLM, Yi-VL
 
@@ -37,9 +38,17 @@ Key vision encoder families used in VLMs:
 
 VLMs output text. [[vla-robotics]] models extend VLMs by also outputting physical actions for robot control.
 
+## Video-native VLMs
+
+Most VLM discourse centers on images, but video understanding pushes the stack toward dense captioning, temporal grounding, and retrieval over event sequences rather than single frames. [[marlin-2b]] is a useful example of this narrower design point: instead of maximizing broad multimodal chat ability, it specializes in answering what happened and when in a clip, which is directly useful for [[computer-vision]] pipelines and agentic video indexing.
+
 ## See Also
 
 - [[hy-embodied-0-5]]
 - [[embodied-ai]]
 - [[vla-robotics]]
 - [[tencent]]
+
+## Related
+
+- [[siglip2]]

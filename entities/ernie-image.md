@@ -3,7 +3,7 @@ title: Ernie Image
 created: 2026-04-23
 updated: 2026-04-26
 type: entity
-tags: [oss-ai, diffusion, image-generation, chinese-ai, baidu, comfyui]
+tags: [baidu, chinese-ai, comfyui, diffusion, image-generation, oss-ai]
 sources:
   - type: transcript
     path: raw/transcripts/2026-04-23-Ernie-Image-AI-ComfyUI.md

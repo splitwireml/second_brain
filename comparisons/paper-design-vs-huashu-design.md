@@ -3,7 +3,7 @@ title: "Paper.design vs huashu-design vs Pencil"
 created: 2026-04-21
 updated: 2026-04-21
 type: comparison
-tags: [comparison, design-tool, ai-design, html, mcp]
+tags: [ai-design, comparison, design-tool, html, mcp]
 sources: [web/paper.design, web/pencil.dev, web/pencil.dev/download, web/pencil.dev/pricing]
 participants:
   - [[paper-design]]

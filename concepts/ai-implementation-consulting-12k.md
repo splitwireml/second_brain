@@ -3,7 +3,7 @@ title: AI Implementation Consulting
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [monetization, service, business, opportunity]
+tags: [business, monetization, opportunity, service]
 sources: [raw/articles/zephyr-12k-month-ai-implementation-consulting-2045575416010686889.md]
 related_entity: [[zephyr-hg]]
 ---

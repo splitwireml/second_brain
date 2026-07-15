@@ -3,7 +3,7 @@ title: OmniVoice
 created: 2026-04-10
 updated: 2026-04-10
 type: entity
-tags: [speech, model, oss-ai, inference, genai]
+tags: [model, inference, genai, oss-ai, speech]
 sources: [raw/articles/omnivoice-huggingface-2026.md, raw/articles/omnivoice-arxiv-2604-00688.md]
 ---
 

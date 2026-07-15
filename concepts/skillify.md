@@ -1,9 +1,9 @@
 ---
 title: Skillify
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-06-14
 type: concept
-tags: [agent, skill, reliability, testing, llm]
+tags: [agent, llm, reliability, skill, testing]
 sources: [raw/articles/garrytan-skillify-agent-reliability-2046876981711769720.md]
 related_entity: [[garrytan]]
 author: [[garrytan]]
@@ -53,6 +53,7 @@ LangChain raised $160M but only gives testing tools, not an opinionated workflow
 
 ## Related
 
+- [[garrytan]] — related entity from frontmatter; explicit cross-link
 - [[openclaw]] — framework where skillify is implemented
 - [[hermes-agent]] — compared in article (Hermes handles creation, GBrain handles verification)
 - [[hermes-tool-plugin-architecture]] — Hermes's skill architecture

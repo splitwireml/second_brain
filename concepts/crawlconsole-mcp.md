@@ -3,7 +3,7 @@ title: crawlconsole-mcp
 created: 2026-05-11
 updated: 2026-05-11
 type: concept
-tags: [mcp, seo, backlinks, ai-agent, competitor-analysis]
+tags: [agent, ai-agent, backlinks, competitor-analysis, mcp, seo]
 sources: [raw/articles/thread-tomzaragoza-2052582722795720933.md]
 related_entity: [[tomzaragoza]]
 ---

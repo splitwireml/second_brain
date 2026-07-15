@@ -3,7 +3,7 @@ title: Model Shortcuts
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [orchestration, llm, agent, oss-ai]
+tags: [agent, llm, orchestration, oss-ai]
 sources: []
 related_entity: [[hermes-agent]]
 ---

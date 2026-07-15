@@ -1,9 +1,9 @@
 ---
 title: Brand as Environment
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-07-05
 type: concept
-tags: [brand, content-strategy, marketing, idea]
+tags: [brand, content-strategy, idea, marketing]
 sources: [raw/articles/the-dankoe-multiple-interests-superpower.md]
 author: [[dan-koe]]
 ---
@@ -48,6 +48,7 @@ When creating content or products, filter everything through your story. This do
 - [[generalist-entrepreneurship]] — the broader philosophy this brand framework sits within
 - The idea-museum and swipe-file workflow for building content idea density
 - [[dan-koe]] — the author who articulated this framework
+- [[personal-brand-establishment]] — synthesized operating model for turning worldview, proof, distribution, and conversion into durable trust
 
 ## Source
 

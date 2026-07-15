@@ -3,7 +3,7 @@ title: Noah Frydberg
 created: 2026-04-25
 updated: 2026-04-25
 type: entity
-tags: [person, ugc, tiktok, marketing, ecommerce]
+tags: [person, ecommerce, marketing, tiktok, ugc]
 source: raw/articles/noah-frydberg-cartoon-ugc-monetization-2026-04-24.md
 ---
 

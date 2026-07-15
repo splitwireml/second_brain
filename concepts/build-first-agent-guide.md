@@ -3,7 +3,7 @@ title: "build-first-agent-guide"
 created: 2026-05-09
 updated: 2026-05-10
 type: concept
-tags: [ai-agent, llm, agent, tutorial]
+tags: [agent, ai-agent, llm, tutorial]
 sources: []
 related_entity: [[_heyrico]]
 author: [[_heyrico]]

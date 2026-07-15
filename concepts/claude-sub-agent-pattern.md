@@ -3,9 +3,9 @@ title: Claude Sub-Agent Pattern
 created: 2026-05-12
 updated: 2026-05-12
 type: concept
-tags: [ai-agent, claude, sub-agent, orchestration, multi-agent, architecture]
+tags: [agent, ai-agent, multi-agent, orchestration, architecture, claude, sub-agent]
 sources: [raw/articles/xarticle-KeshWelch-2052486245218177361.md, raw/articles/thread-defileo-2050656413006053793.md, concepts/agent-swarm.md, concepts/agent-orchestration-patterns.md]
-related_entity: [[KeshWelch, defileo, kimi-k2.6]]
+related_entity: [[KeshWelch]]
 author: [[KeshWelch]]
 ---
 

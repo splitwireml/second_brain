@@ -3,7 +3,7 @@ title: Lyra 2.0
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [model, architecture, 3d-vision, image-generation, genai, computer-vision, research]
+tags: [model, 3d-vision, architecture, computer-vision, genai, image-generation, research]
 sources: [raw/articles/huggingmodels-lyra-2-0-image-to-3d-2048825266290757931.md]
 ---
 

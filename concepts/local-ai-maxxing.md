@@ -3,7 +3,7 @@ title: Local AI Maxxing
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [local-ai, hermes-agent, inference, apple-silicon, agent, knowledge-management, workflow]
+tags: [agent, inference, workflow, apple-silicon, hermes-agent, knowledge-management, local-ai]
 sources: [raw/articles/xarticle-httpstco3v4gw8yf31-2051305175961272810.md, raw/articles/xarticle-im-local-ai-maxxing-my-hermes-agent-will-help-2051305175961272810.md]
 author: [[witcheer]]
 ---

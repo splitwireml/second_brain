@@ -1,9 +1,9 @@
 ---
 title: "Running Local LLMs: From First Run to Fine-Tuned"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-06-14
 type: concept
-tags: [local-llm, inference, quantization, apple-silicon, nvidia, fine-tuning, gguf, kv-cache]
+tags: [inference, quantization, fine-tuning, apple-silicon, gguf, kv-cache, local-llm, nvidia]
 sources: [raw/articles/xarticle-running-local-llms-from-first-run-to-fine-tuned-2053217139369095252.md]
 related_entity: [[michaelzguo]]
 ---
@@ -30,3 +30,8 @@ Comprehensive practical guide covering the five layers of local LLM deployment: 
 ## Source
 
 [X Article by @Michaelzsguo](https://x.com/Michaelzsguo/status/2053217139369095252) — Sat May 09 2026 (190 likes, 32 RTs)
+
+## Related
+
+- [[michaelzguo]] — related entity from frontmatter; explicit cross-link
+- [[0xsero]]

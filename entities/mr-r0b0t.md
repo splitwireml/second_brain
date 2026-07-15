@@ -3,7 +3,7 @@ title: mr_r0b0t
 created: 2026-05-04
 updated: 2026-05-04
 type: entity
-tags: [x-creator, content-creator]
+tags: [content-creator, x-creator]
 sources: [raw/articles/projects-md-mr_r0b0t-2049682402386039256.md]
 ---
 

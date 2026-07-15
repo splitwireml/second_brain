@@ -3,7 +3,7 @@ title: help.ai — threaded AI step follow-ups
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [idea, ai-tools]
+tags: [tools, ai-tools, idea]
 sources: []
 ---
 

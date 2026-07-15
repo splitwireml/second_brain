@@ -3,7 +3,7 @@ title: FiveM GTA UGC
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [ai-agents, monetization, content-creator]
+tags: [agent, ai-agent, content-creator, monetization]
 sources: [raw/articles/0xdepressionn-ai-landscape-battle-2026-04-20.md]
 author: [[0xdepressionn]]
 ---

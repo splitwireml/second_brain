@@ -3,7 +3,7 @@ title: granite-4.0-1b-base
 created: 2026-05-01
 updated: 2026-05-01
 type: entity
-tags: [model, llm, oss-ai]
+tags: [llm, model, oss-ai]
 sources: [raw/articles/ibm-granite-granite-speech-4-1-2b-plus-2026-04-28.md]
 related_entity: [[ibm-granite]]
 ---

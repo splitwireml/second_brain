@@ -1,10 +1,10 @@
 ---
 title: "Browserbase Autobrowse — Browser Agent Memory"
 created: 2026-05-09
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [browser-agents, memory, automation, skill-learning, ai-agents, open-source]
-sources: [raw/articles/xarticle-browserbase-autobrowse-2052103973377867913.md]
+tags: [agent, ai-agent, memory, automation, browser-agents, open-source, skill-learning]
+sources: [raw/articles/xarticle-browserbase-autobrowse-2052103973377867913.md, raw/articles/thread-JulianGoldieSEO-2058397577234817381.md]
 ---
 
 # Browserbase Autobrowse — Browser Agent Memory
@@ -37,14 +37,21 @@ Same idea as Karpathy's autonomous ML loop, but applied to the open web instead 
 
 A small, readable markdown file — no transcript, no vector embeddings, no screenshot reel. Just markdown that any future agent can load and execute. The skill is the memory.
 
+## From learned skills to installed skills
+
+A later thread by [[juliangoldie]] shows the next distribution step for this idea: Browserbase's website-specific playbooks can be surfaced through a Browse hub that [[hermes-agent]] can query from inside the agent runtime.^[raw/articles/thread-JulianGoldieSEO-2058397577234817381.md]
+
+That shifts the value proposition from "agents can eventually learn a site" to "agents can start with a reusable site map." The thread claims 100+ browser skills are available for search, preview, and install, which makes the memory portable across runs and easier to repair when a site changes. In practice, this is the bridge from one-off Autobrowse graduation into a reusable skills catalogue for [[browser-agents]].
+
 ## Context
 
-Authored by [[DeRonin_]] (@DeRonin_) in response to [[kylejeong]]'s Autobrowse announcement. [[autobrowse-browser-agent-memory]] concept covers the full technical writeup from Browserbase.
+Authored by [[deronin]] (@DeRonin_) in response to [[kylejeong]]'s Autobrowse announcement. [[autobrowse-browser-agent-memory]] concept covers the full technical writeup from Browserbase.
 
 ## Sources
 
 - [x.com/i/status/2052697237856088114](https://x.com/i/status/2052697237856088114) — DeRonin_'s viral thread; 1,812 likes, 121 RTs (May 08, 2026)
 - [x.com/i/status/2052103973377867913](https://x.com/i/status/2052103973377867913) — kylejeong's full Autobrowse announcement (May 06, 2026)
+- [x.com/i/status/2058397577234817381](https://x.com/i/status/2058397577234817381) — Julian Goldie SEO thread on Hermes Browse-hub integration (May 24, 2026)
 
 ## Related Concepts
 

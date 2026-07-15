@@ -1,9 +1,9 @@
 ---
 title: Hawks0x
 created: 2026-03-26
-updated: 2026-03-26
+updated: 2026-06-14
 type: entity
-tags: [person, fitness, ai-tools]
+tags: [person, tools, ai-tools, fitness]
 source: raw/articles/hawks0x-claude-fitness-prompts-2026-03-26.md
 related_entity: [[claude-code]]
 ---
@@ -20,5 +20,6 @@ Published a complementary "5 step plan to get you shredded for the summer" X Art
 
 ## Related
 
+- [[claude-code]] — related entity from frontmatter; explicit cross-link
 - [[claude-fitness-prompts]] — the concept page covering these 7 prompts
 - [[prompt-engineering-patterns]] — broader prompting framework context

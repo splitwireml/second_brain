@@ -1,9 +1,9 @@
 ---
 title: Factual Memory
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-14
 type: concept
-tags: [enterprise-ai, memory, knowledge-management, company-brain]
+tags: [memory, company-brain, enterprise-ai, knowledge-management]
 sources: [raw/articles/company-brain-part-3-interaction-memory-ashwingop-2026-05-03.md]
 related_entity: [[sentra]]
 author: [[ashwin-gopinath]]
@@ -48,3 +48,6 @@ But by the time the artifact appears, the real context has already been compress
 - [[company-brain]] — the framework
 - [[interaction-memory]] — the layer above
 - [[action-memory]] — the layer above
+
+## Related
+- [[sentra]] — related entity from frontmatter; explicit cross-link

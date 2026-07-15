@@ -1,9 +1,9 @@
 ---
 title: vibe-coding-landing-pages
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-14
 type: concept
-tags: [vibe-coding, website, workflow]
+tags: [workflow, vibe-coding, website]
 sources: [raw/articles/clear-graphics-vibe-coding-landing-pages-2051737941198647642.md]
 related_entity: [[clear-graphics-vibe-coding-landing-pages]]
 ---
@@ -50,3 +50,6 @@ The gap between vibe-coded and professionally designed pages is smaller than eve
 - [[ai-design-workflow]] — end-to-end brand pipeline: brainstorm Claude → Claude Design → ship via Claude Code + Vercel
 - [[vibe-coding-in-production]] — Eric Mishra's responsible vibe coding in production framework (be Claude's PM, verify without reading code, know the danger zone)
 - [[clear-graphics]] — entity: X creator (@clear_graphics) posting landing page conversion patterns for YC startups
+
+## Related
+- [[clear-graphics-vibe-coding-landing-pages]] — related entity from frontmatter; explicit cross-link

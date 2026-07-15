@@ -3,7 +3,7 @@ title: "Mindshare Arbitrage"
 created: 2026-05-09
 updated: 2026-05-10
 type: concept
-tags: [content-automation, viral-marketing, claude-code]
+tags: [claude-code, content-automation, viral-marketing]
 sources: []
 related_entity: [[robin_faraj]]
 author: [[robin_faraj]]

@@ -3,7 +3,7 @@ title: Qwen3.6 Consumer GPU Tuning
 created: 2026-05-02
 updated: 2026-05-04
 type: concept
-tags: [llm, llama.cpp, quantization, local-llm, qwen, gpu]
+tags: [llm, quantization, gpu, llama.cpp, local-llm, qwen]
 sources: [raw/articles/thread-Michaelzsguo-2050380832007721213.md]
 related_concept: [moe-consumer-gpu-tuning]
 ---

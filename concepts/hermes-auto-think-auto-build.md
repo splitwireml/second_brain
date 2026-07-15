@@ -1,9 +1,9 @@
 ---
 title: Hermes Auto-Think / Auto-Build
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-06-14
 type: concept
-tags: [hermes-agent, ai-agent, self-improvement, skill-authoring, autonomous]
+tags: [agent, ai-agent, autonomous, hermes-agent, self-improvement, skill-authoring]
 sources: [raw/articles/openclaw-hermes-source-code-elvis-2045155784577687862.md, raw/articles/garrytan-skillify-agent-reliability-2046876981711769720.md, raw/articles/xarticle-shmidt-hermes-agent-99-percent-never-touched-these-2051307460208578864.md]
 related_entity: [[hermes-agent]]
 ---
@@ -130,3 +130,6 @@ More efficient execution, fewer tool calls
 - @elvissun — source code analysis of self-improvement loop
 - @garrytan — skill_manage tool and latent/deterministic framework
 - @shmidt — /reasoning toggle documentation
+
+## Related
+- [[hermes-agent]] — related entity from frontmatter; explicit cross-link

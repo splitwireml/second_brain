@@ -3,7 +3,7 @@ title: Qwen3-8B-OpusReasoning
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [llm, reasoning, distillation, qwen, open-source]
+tags: [llm, reasoning, distillation, open-source, qwen]
 sources: [raw/articles/huggingmodels-qwen3-8b-opus-reasoning-2026-04-20.md]
 related_entity: [[autoreason]]
 ---

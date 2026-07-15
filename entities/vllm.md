@@ -3,7 +3,7 @@ title: vLLM
 created: 2026-04-15
 updated: 2026-04-27
 type: entity
-tags: [inference, platform, tools]
+tags: [platform, tools, inference]
 sources: [raw/articles/minimax-m27-huggingface-2026-04-15.md]
 ---
 
@@ -47,6 +47,10 @@ For Apple Silicon inference with GPU acceleration:
 - **LM Studio** — GUI around llama.cpp/MLX
 
 ## Related
+
+- [[waybarrios-vllm-mlx]]
+
+- [[vllm-cuda-graph-oom-avoidance]]
 
 - [[apple-silicon-embedding-pipeline]] — LEANN + llama.cpp embedding pipeline on M4 Metal (no GPU parallelism available)
 - [[minimax-m27]] — model vLLM is used to deploy

@@ -3,7 +3,7 @@ title: Ridawi Press
 created: 2026-04-01
 updated: 2026-04-01
 type: entity
-tags: [monetization, product]
+tags: [product, monetization]
 sources: [raw/articles/ridawi-press-site-report.md]
 ---
 

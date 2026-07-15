@@ -1,9 +1,9 @@
 ---
 title: "Google Maps Client Acquisition"
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [lead-gen, client-acquisition, google-maps, local-business, outbound]
+tags: [client-acquisition, google-maps, lead-gen, local-business, outbound]
 sources: []
 related_entity: [[explorax_]]
 ---
@@ -34,6 +34,7 @@ Practical guide for finding unlimited paying clients using Google Maps and a fre
 
 ## Related
 
+- [[explorax_]] — related entity from frontmatter; explicit cross-link
 - [[claude-code-lead-gen]]
 - [[local-business-ai-automation]]
 - [[cold-email-automation]]

@@ -3,7 +3,7 @@ title: AI Side Hustle Models
 created: 2026-04-27
 updated: 2026-04-29
 type: concept
-tags: [monetization, ai-business, solo-founder, side-hustle]
+tags: [ai-business, monetization, side-hustle, solo-founder]
 sources: [raw/articles/zephyr-ai-side-hustles-2047580592699527602.md, raw/articles/xarticle-the-7kmonth-boring-ai-service-you-can-sell-to-loca-2049063166471033257.md]
 related_entity: [[zephyr-hg]]
 ---

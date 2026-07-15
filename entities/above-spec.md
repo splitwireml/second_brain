@@ -3,7 +3,7 @@ title: AboveSpec
 created: 2026-05-01
 updated: 2026-05-01
 type: entity
-tags: [person, x-creator, content-creator, local-llm, moe, llm]
+tags: [person, llm, content-creator, local-llm, moe, x-creator]
 sources: [raw/articles/above-spec-moe-35b-rtx4060ti-2026-05-01.md]
 ---
 

@@ -3,7 +3,7 @@ title: Three-Tier Local Model Routing
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [agent, inference, optimization, method]
+tags: [agent, inference, method, optimization]
 sources: [raw/articles/leopardracer-mac-mini-35b-local-routing-2026-04-14.md]
 related_entity: [[leopardracer]]
 author: [[leopardracer]]

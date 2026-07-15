@@ -3,7 +3,7 @@ title: ai-user-acquisition-agent
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [growth, ai-agents, user-acquisition]
+tags: [agent, ai-agent, growth, user-acquisition]
 sources: [raw/articles/askokara-first-100-users-2046191939792277592.md]
 ---
 

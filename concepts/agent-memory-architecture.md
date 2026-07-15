@@ -1,10 +1,10 @@
 ---
 title: Agent Memory Architecture
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-06-29
 type: concept
-tags: [agent, memory, knowledge-management, architecture]
-sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md]
+tags: [agent, memory, architecture, knowledge-management]
+sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md, raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
 related_entity: [[mercury-agent]]
 
 ---
@@ -12,6 +12,15 @@ related_entity: [[mercury-agent]]
 # Agent Memory Architecture
 
 The design principles for memory systems that serve autonomous agents running continuously, as distinct from human-facing knowledge bases.
+
+## Relationship to Other Agent Memory Systems
+
+This page focuses on the **principles** of agent-scale memory. For concrete implementations:
+
+- [[context-os]] — [[tony-simons]]'s 11-layer implementation on [[hermes-agent]], including SOUL.md identity, holographic fact_store, LCM compression
+- [[personal-ai-infrastructure]] — [[noisy]]'s PAI Life OS (12k+ stars, 45 skills, 171 workflows) built on [[claude-code]]
+- [[personal-ai-agent-architecture]] — [[seelffff]]'s simpler two-layer setup combining desktop AI + memory + tools
+- [[soul-md-agent-framework]] — the SOUL.md identity file that serves as the top layer in Tony Simons' Context OS
 
 ## Human vs Agent Memory Requirements
 
@@ -47,10 +56,28 @@ This gives humans readability and agents efficiency without forcing one format t
 - **Scoring metadata** — confidence, freshness, importance, reinforcement
 - **Conflict resolution** — deterministic rules for contradictory facts
 - **Decay** — time-based weakening and archival
+- **Budgeted always-on context** — keep the permanently injected layer aggressively small, because instruction files that load every session compete directly with task context.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+
+## Push vs Pull Memory
+
+Matt Van Horn's June 2026 article makes a useful operational distinction that sharpens the earlier theory.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+
+- **Push memory** is loaded automatically at session start: `CLAUDE.md`, auto-memory, or any always-on instruction layer. Its failure mode is not just cost but silent degradation: oversized files get truncated, stale rules keep steering decisions, and skill-specific lessons poison unrelated sessions.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+- **Pull memory** sits outside the prompt and gets queried only when needed: search, structured stores, or external knowledge layers like gbrain, supermemory, Mem0, Letta, Zep, and Cognee. This preserves recall without bloating every run.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+
+The practical rule is scarcity at the push layer and retrieval at the pull layer: keep the always-loaded surface short enough to actually steer, and move durable but scoped lessons into skills, repos, or queryable stores instead of journaling them into global memory.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+
+## Operational Hygiene
+
+- **Skill-specific lessons should ship as skill updates**, not private memory notes, so the fix becomes versioned behavior instead of stale tribal knowledge.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+- **Finished work should be archived, not kept hot**, because shipped PRs and completed tasks are provenance, not steering context.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+- **Project-level instruction files should avoid duplication**: using `CLAUDE.md` as a thin importer for `AGENTS.md` keeps cross-agent conventions synchronized and reduces instruction drift.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
 
 ## Related
 
 - [[karpathy-llm-wiki]] — human-facing pattern that inspired this analysis
 - [[knowledge-graph-rag]] — graph-based structured memory approach
 - [[hermes-omi-obsidian-workflow]] — human-centric three-layer memory stack
+- [[karpathy-claude-md]] — always-on instruction budgeting and behavior contracts for `CLAUDE.md`
+- [[ai-memory-systems]] — broader ecosystem of persistent memory tooling
 - [[mercury-agent]] — open-source implementation of these principles

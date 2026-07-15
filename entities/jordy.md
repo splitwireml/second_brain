@@ -3,7 +3,7 @@ title: jordy
 created: 2026-04-20
 updated: 2026-04-23
 type: entity
-tags: [person, ai-agents, openclaw, hermes-agent]
+tags: [person, agent, ai-agent, hermes-agent, openclaw]
 sources: [raw/articles/jordy-larrybrain-skills-hub-2046305218409779530.md, raw/articles/jordy-ai-agent-setup-comprehensive-2026-04-20.md]
 ---
 

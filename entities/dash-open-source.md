@@ -3,7 +3,7 @@ title: Dash (agno-agi)
 created: 2026-04-26
 updated: 2026-04-26
 type: entity
-tags: [oss-ai, agent, model]
+tags: [agent, model, oss-ai]
 sources: [raw/articles/ashpreet-bedi-systems-engineering-agentic-software-2041568919085854847.md]
 ---
 

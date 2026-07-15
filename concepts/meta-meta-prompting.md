@@ -3,7 +3,7 @@ title: Meta-Meta-Prompting
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: [ai-agent, skill, knowledge-management, second-brain, context-engineering, prompting, agentic-ai]
+tags: [agent, ai-agent, agentic-ai, context-engineering, knowledge-management, prompting, second-brain, skill]
 sources: [raw/articles/xarticle-meta-meta-prompting-the-secret-to-making-ai-agents-2053127519872614419.md]
 related_entity: [[garrytan]]
 author: [[garrytan]]

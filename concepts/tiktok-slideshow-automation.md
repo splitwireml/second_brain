@@ -3,7 +3,7 @@ title: TikTok Slideshow Automation
 created: 2026-04-27
 updated: 2026-04-27
 type: concept
-tags: [tiktok, content-automation, slideshow, ai-content]
+tags: [ai-content, content-automation, slideshow, tiktok]
 sources: [raw/articles/alex-nguyen-tiktok-slideshow-automation-2047715075457507452.md]
 related_entity:
 ---

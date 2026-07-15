@@ -3,7 +3,7 @@ title: clear-graphics-vibe-coding-landing-pages
 created: 2026-05-07
 updated: 2026-05-07
 type: entity
-tags: [vibe-coding, website, workflow]
+tags: [workflow, vibe-coding, website]
 sources: [raw/articles/clear-graphics-vibe-coding-landing-pages-2051737941198647642.md]
 ---
 

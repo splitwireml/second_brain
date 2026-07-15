@@ -3,7 +3,7 @@ title: SEO Blog Indexing Blueprint
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [seo, content-marketing, indexing, blog, marketing]
+tags: [blog, content-marketing, indexing, marketing, seo]
 sources: [raw/articles/thread-shannholmberg-2051255584729784581.md]
 related_entity: [[shann-holmberg]]
 author: [[shann-holmberg]]

@@ -3,7 +3,7 @@ title: Knowledge Graph RAG
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [rag, knowledge-graph, database]
+tags: [database, knowledge-graph, rag]
 sources: [raw/articles/akshay-pachaar-wiki-vs-graph-falkordb-2026-04-23.md]
 author: [[akshay-pachaar]]
 ---

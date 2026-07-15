@@ -3,7 +3,7 @@ title: "Alventra Marketing"
 created: 2026-03-25
 updated: 2026-04-12
 type: entity
-tags: [marketing, monetization, brand]
+tags: [brand, marketing, monetization]
 sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md]
 ---
 

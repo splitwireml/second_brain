@@ -1,7 +1,7 @@
 ---
 title: Agentic Software Five-Layer Framework
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-14
 type: concept
 tags: [agent, architecture, framework]
 sources: [raw/articles/ashpreet-bedi-systems-engineering-agentic-software-2041568919085854847.md]
@@ -40,6 +40,7 @@ Systems engineering framework for building production agentic software. Argues t
 
 ## Related
 
+- [[ashpreet-bedi]] — related entity from frontmatter; explicit cross-link
 - [[autoreason]] — Nous Research's iterative self-refinement method
 - [[council-of-high-intelligence]] — Multi-agent deliberation framework
 - [[agent-teams]] — Multi-agent collaboration paradigm

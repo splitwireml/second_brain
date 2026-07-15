@@ -3,7 +3,7 @@ title: "AI 3D Scroll-Effect Websites"
 created: 2026-05-04
 updated: 2026-05-10
 type: concept
-tags: [ai, website-design, 3d-animation, scroll-effect, claude-code, kling, no-code]
+tags: [3d-animation, ai, claude-code, kling, no-code, scroll-effect, website-design]
 sources: [raw/articles/2026-05-04-explorax-ai-3d-scroll-websites-2051261067339157657.md, raw/articles/explorax_-2051261067339157657.md]
 ---
 

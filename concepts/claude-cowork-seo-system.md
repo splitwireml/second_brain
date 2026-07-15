@@ -1,10 +1,10 @@
 ---
 title: "Claude Cowork SEO System"
 created: 2026-03-25
-updated: 2026-03-25
+updated: 2026-05-14
 type: concept
-tags: [marketing, agent, tools, monetization]
-sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md]
+tags: [tools, agent, local-seo, marketing, monetization]
+sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md]
 ---
 
 # Claude Cowork SEO System

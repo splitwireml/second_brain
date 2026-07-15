@@ -3,7 +3,7 @@ title: "shmidt Hermes 15 Unused Features"
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [hermes-agent, ai-agent, prompt-engineering, productivity]
+tags: [agent, ai-agent, hermes-agent, productivity, prompt-engineering]
 sources: [raw/articles/xarticle-shmidt-hermes-agent-99-percent-never-touched-these-2051307460208578864.md]
 related_entity: [[shmidt]]
 author: [[shmidt]]

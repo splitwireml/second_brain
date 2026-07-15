@@ -3,7 +3,7 @@ title: "ByteRover CLI vs docmancer vs Skill Graph Content Engine"
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison
-tags: [comparison, agent, tools, productivity]
+tags: [tools, agent, comparison, productivity]
 sources: [raw/articles/kevinnguyendn-obsidian-byterover-2026-04-13.md, raw/articles/docmancer-github-repo-2026-04-12.md, raw/articles/deronin-skill-graph-content-engine-2026-04-10.md]
 participants:
   - [[byterover-cli]]

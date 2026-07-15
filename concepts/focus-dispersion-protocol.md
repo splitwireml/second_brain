@@ -1,10 +1,10 @@
 ---
 title: Focus-Dispersion Protocol
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-05-27
 type: concept
 tags: [method]
-sources: [raw/articles/rian-doris-dispersion-neuroscience-2026-04-10.md]
+sources: [raw/articles/rian-doris-dispersion-neuroscience-2026-04-10.md, raw/articles/flow-flywheel-rian-doris-2058591921291809084.md]
 ---
 
 # Focus-Dispersion Protocol
@@ -72,6 +72,10 @@ Entrepreneurs score high in **Openness to Experience** (Big Five personality). T
 
 **Key insight**: Flow has carryover effect. A high-flow lifestyle protects a low-flow business phase. "When work stops being exciting, make your life exciting instead."
 
+## Extension
+
+The Flow Flywheel can be read as the weekly operational layer that sits downstream of this protocol: once a person has chosen a pursuit and cut distractions, the weekly review and domino-selection loop provide a concrete mechanism for staying aligned with that pursuit.
+
 ## Key Quotes
 
 - "Ten years of focus turns ordinary talent into something no one can compete with. Ten years of dispersion turns extraordinary talent into a long list of things that almost worked."
@@ -83,3 +87,5 @@ Entrepreneurs score high in **Openness to Experience** (Big Five personality). T
 - Dopamine-driven behavior — the neurochemical mechanism underlying dispersion
 - [[singularity-scalers]] — companies that maintain focus through compounding flywheels
 - [[ai-freelancer-200-hour-guide]] — practical focus application in independent work
+
+- [[flow-flywheel]] — Weekly review ritual that operationalizes goal alignment after a primary pursuit has been chosen

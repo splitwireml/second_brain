@@ -3,7 +3,7 @@ title: awesome-claude-code
 created: 2026-04-25
 updated: 2026-04-25
 type: entity
-tags: [open-source, project, claude-code, agent]
+tags: [agent, claude-code, open-source, project]
 related_entity: [[kaize]]
 sources: [raw/articles/kaize-100-claude-code-repos-2026-04-25.md, raw/articles/kaize-100-claude-code-repos-2048059417661174052-2026-04-25.md]
 ---

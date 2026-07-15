@@ -3,7 +3,7 @@ title: BRIA AI
 created: 2026-04-26
 updated: 2026-04-26
 type: entity
-tags: [company, ai-company, background-removal, image-segmentation, bria-ai, generative-ai]
+tags: [company, ai-company, background-removal, bria-ai, generative-ai, image-segmentation]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md]
 ---
 

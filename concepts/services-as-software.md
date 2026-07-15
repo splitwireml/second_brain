@@ -3,7 +3,7 @@ title: Services-as-Software
 created: 2026-04-29
 updated: 2026-04-29
 type: concept
-tags: [business-model, ai-services, agency, monetization, outbound]
+tags: [agency, ai-services, business-models, monetization, outbound]
 sources: [raw/articles/xarticle-how-to-build-a-one-person-services-as-software-com-2048486401105358933.md]
 related_entity: [[alex-vacca]]
 author: [[alex-vacca]]

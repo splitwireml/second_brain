@@ -1,9 +1,9 @@
 ---
 title: AI Business Workflow Autopilot
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-06-14
 type: concept
-tags: [ai-automation, workflow-automation, business, productivity]
+tags: [ai-automation, business, productivity, workflow-automation]
 sources: [raw/articles/khairallah-ai-business-workflow-autopilot-2026-04-25.md]
 related_entity: [[khairallah-al-awady]]
 ---
@@ -70,3 +70,6 @@ Monthly: fix lowest-scoring workflow. Quarterly: assess new AI capabilities.
 ## Sources
 
 - raw/articles/khairallah-ai-business-workflow-autopilot-2026-04-25.md
+
+## Related
+- [[khairallah-al-awady]] — related entity from frontmatter; explicit cross-link

@@ -3,7 +3,7 @@ title: Apple Silicon Local Image Background Removal
 created: 2026-04-26
 updated: 2026-04-27
 type: concept
-tags: [apple-silicon, mlx, background-removal, local-ai, image-processing]
+tags: [apple-silicon, background-removal, image-processing, local-ai, mlx]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md]
 related_entity: [[mlx]]
 ---

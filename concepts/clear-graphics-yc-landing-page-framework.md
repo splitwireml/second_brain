@@ -3,7 +3,7 @@ title: clear-graphics-yc-landing-page-framework
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
-tags: [website, marketing, startup, growth]
+tags: [growth, marketing, startup, website]
 sources: [raw/articles/clear-graphics-landing-page-yc-companies-2046646231498121519.md]
 related_entity: [[clear-graphics]]
 ---

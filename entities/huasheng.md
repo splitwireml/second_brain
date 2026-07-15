@@ -3,7 +3,7 @@ title: huasheng
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [person, chinese-ai, independent-developer, content-creator]
+tags: [person, chinese-ai, content-creator, independent-developer]
 sources: [raw/articles/huashu-design-readme-en-2026-04-21.md]
 ---
 

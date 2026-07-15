@@ -1,9 +1,9 @@
 ---
 title: "B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates"
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: concept
-tags: [computer-vision, 3d-vision, 3dgs, segmentation, training-free, cvpr-2026]
+tags: [3d-vision, 3dgs, computer-vision, cvpr-2026, segmentation, training-free]
 sources: [raw/papers/b3-seg-arxiv-2602.17134.md, raw/papers/skalski-p-top-cvpr-2026-papers.md]
 related_entity: [[skalski-p-top-cvpr-2026-papers]]
 ---
@@ -30,3 +30,6 @@ B³-Seg segments objects within 3D Gaussian Splatting reconstructions without re
 - [[cvpr-2026-d4rt-dynamic-scenes]] — dynamic scene reconstruction with 3DGS
 - [[cvpr-2026-insid3]] — training-free segmentation (2D)
 - [[cvpr-2026-topics]] — parent topic
+
+## Related
+- [[skalski-p-top-cvpr-2026-papers]] — related entity from frontmatter; explicit cross-link

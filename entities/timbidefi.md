@@ -3,7 +3,7 @@ title: timbidefi
 created: 2026-05-05
 updated: 2026-05-05
 type: entity
-tags: [person, content-creator, ai-tools, monetization, local-business, lead-gen]
+tags: [person, tools, ai-tools, content-creator, lead-gen, local-business, monetization]
 sources: [raw/articles/xarticle-the-only-google-maps-claude-10kweek-method-2051219084092506144.md]
 ---
 

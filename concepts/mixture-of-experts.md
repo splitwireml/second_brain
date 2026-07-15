@@ -3,7 +3,7 @@ title: Mixture of Experts (MoE)
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [architecture, moe, llm, training, efficiency]
+tags: [llm, training, architecture, efficiency, moe]
 sources: []
 ---
 

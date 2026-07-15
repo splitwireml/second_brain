@@ -3,7 +3,7 @@ title: HTTP-Based Browser Automation for AI Agents
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [browser-automation, ai-agents, http-api, tools]
+tags: [tools, agent, ai-agent, browser-automation, http-api]
 sources: [raw/articles/heynavtoor-pinchtab-browser-automation-2026-03-03.md, raw/articles/pinchtab-github-repo-2026-04-16.md]
 related_entity: [[pinchtab]]
 author: [[heynavtoor]]

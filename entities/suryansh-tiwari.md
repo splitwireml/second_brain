@@ -3,7 +3,7 @@ title: Suryansh Tiwari
 created: 2026-04-25
 updated: 2026-04-24
 type: entity
-tags: [person, content-creator, claude-code]
+tags: [person, claude-code, content-creator]
 sources: [raw/articles/suryansh-tiwari-stop-prompts-design-systems-2026-04-25.md, raw/articles/suryansh-tiwari-2047694444787577236.md, raw/articles/xarticle-stop-writing-prompts-start-designing-systems-claud-2048055574185779638.md]
 ---
 

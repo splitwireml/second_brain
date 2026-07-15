@@ -1,9 +1,9 @@
 ---
 title: "Efficiently Reconstructing Dynamic Scenes One D4RT at a Time"
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: concept
-tags: [computer-vision, 3d-vision, dynamic-scenes, reconstruction, cvpr-2026]
+tags: [3d-vision, computer-vision, cvpr-2026, dynamic-scenes, reconstruction]
 sources: [raw/papers/d4rt-dynamic-scenes-arxiv-2512.08924.md, raw/papers/skalski-p-top-cvpr-2026-papers.md]
 related_entity: [[skalski-p-top-cvpr-2026-papers]]
 ---
@@ -30,3 +30,6 @@ Presents an approach for efficiently reconstructing dynamic scenes — scenes wi
 - [[cvpr-2026-b3-seg]] — 3DGS segmentation (training-free)
 - [[cvpr-2026-fmpose3d]] — 3D pose estimation
 - [[cvpr-2026-topics]] — parent topic
+
+## Related
+- [[skalski-p-top-cvpr-2026-papers]] — related entity from frontmatter; explicit cross-link

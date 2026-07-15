@@ -3,7 +3,7 @@ title: Seedance 2.0
 created: 2026-04-13
 updated: 2026-04-17
 type: entity
-tags: [product, genai, marketing, tools, video-generation]
+tags: [product, tools, genai, marketing, video-generation]
 sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md]
 ---
 

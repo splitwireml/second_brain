@@ -3,7 +3,7 @@ title: Z.ai (zai-org)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [chinese-ai, company, ocr, document-understanding, open-source]
+tags: [company, chinese-ai, document-understanding, ocr, open-source]
 sources: [raw/articles/zai-org-glm-ocr-2026-04-16.md]
 ---
 

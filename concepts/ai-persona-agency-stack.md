@@ -3,7 +3,7 @@ title: AI Persona Agency Stack
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [ai-persona, agent, orchestration, monetization, solo-founder]
+tags: [agent, orchestration, ai-persona, monetization, solo-founder]
 sources: [raw/articles/xarticle-5-ai-personas-127000month-no-models-no-team-claude-2051304679607291924.md]
 related_entity: [[0xdepressionn]]
 author: [[0xdepressionn]]

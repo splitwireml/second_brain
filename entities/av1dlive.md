@@ -3,7 +3,7 @@ title: Av1dlive
 created: 2026-04-25
 updated: 2026-04-26
 type: entity
-tags: [person, content-creator, orchestration, agent]
+tags: [person, agent, orchestration, content-creator]
 sources:
   - raw/articles/x-av1dlive-paperclip-course-2047977902449611165.md
   - raw/transcripts/2026-04-25-avid-ai-agent-course.md
@@ -31,3 +31,4 @@ Promoted a 24-minute video course on building AI-powered companies using [[paper
 
 - [[paperclipai-paperclip]] — main subject of the course
 - [[ai-company-stack]] — broader concept of AI-native company infrastructure
+- [[the-hive-claude-code-architecture]] — reconstructed three-tier Claude Code operating model inspired by Boris Cherny's public workflow descriptions

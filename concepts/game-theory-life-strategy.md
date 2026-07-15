@@ -3,7 +3,7 @@ title: "Game Theory Life Strategy"
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [psychology, behavioral-science, strategy]
+tags: [behavioral-science, psychology, strategy]
 sources: [raw/articles/daywrotethis-game-theory-cheat-code-2049752634865901955.md]
 author: [[daywrotethis]]
 ---

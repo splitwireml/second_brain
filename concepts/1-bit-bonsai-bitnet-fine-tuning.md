@@ -3,7 +3,7 @@ title: 1-bit Bonsai & BitNet b1.58 Fine-Tuning on RTX 40 Series
 created: 2026-04-01
 updated: 2026-04-01
 type: concept
-tags: [model, training, quantization]
+tags: [model, quantization, training]
 sources: [raw/articles/x-bookmarks-2026.md]
 ---
 

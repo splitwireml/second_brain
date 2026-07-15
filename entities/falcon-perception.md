@@ -3,7 +3,7 @@ title: Falcon Perception
 created: 2026-04-15
 updated: 2026-04-15
 type: entity
-tags: [perception, video-segmentation, object-tracking, computer-vision]
+tags: [computer-vision, object-tracking, perception, video-segmentation]
 sources: [raw/articles/x-bookmark-2044372250644901899.md]
 ---
 

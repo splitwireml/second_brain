@@ -3,7 +3,7 @@ title: qwen2vl-2b-png-to-svg-gguf
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [qwen, vision-language, gguf, image-to-svg, quantization]
+tags: [quantization, gguf, image-to-svg, qwen, vision-language]
 sources: []
 ---
 

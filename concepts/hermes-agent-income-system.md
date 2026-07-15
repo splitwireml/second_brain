@@ -1,9 +1,9 @@
 ---
 title: hermes-agent-income-system
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-06-14
 type: concept
-tags: [hermes-agent, ai-agent, monetization, side-hustle, income-system, business-loop]
+tags: [agent, ai-agent, business-loop, hermes-agent, income-system, monetization, side-hustle]
 sources: [raw/articles/xarticle-sharbel-2052023759654023635.md]
 ---
 
@@ -64,3 +64,6 @@ Money-making workflows are loops: Monitor → Filter → Analyze → Package →
 ## Source
 
 [[sharbel]] — X Article (May 2026); 239 likes, 16 RTs
+
+## Related
+- [[sharbel-hermes-agent-money-framework]] — Sharbel's money framework is the income-producing application of this broader income system

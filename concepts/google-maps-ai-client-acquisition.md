@@ -3,7 +3,7 @@ title: Google Maps AI Client Acquisition
 created: 2026-04-27
 updated: 2026-04-27
 type: concept
-tags: [ai-tools, marketing, monetization, local-business, workflow]
+tags: [tools, ai-tools, workflow, local-business, marketing, monetization]
 sources: [raw/articles/xarticle-chatgpt-55-found-my-first-clients-on-google-maps-i-2048396579065799151.md]
 ---
 

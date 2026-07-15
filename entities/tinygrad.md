@@ -3,7 +3,7 @@ title: TinyGrad
 created: 2026-04-13
 updated: 2026-04-18
 type: entity
-tags: [oss-ai, inference, framework, open-source]
+tags: [inference, framework, open-source, oss-ai]
 sources: [raw/transcripts/2026-04-13-rtx-5090-mac-egpu.md, raw/articles/x-bookmark-2044813085358117062.md]
 ---
 

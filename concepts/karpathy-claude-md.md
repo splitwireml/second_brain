@@ -3,7 +3,7 @@ title: Karpathy CLAUDE.md
 created: 2026-04-23
 updated: 2026-05-12
 type: concept
-tags: [claude-code, code-generation, skill, agent]
+tags: [agent, claude-code, code-generation, skill]
 sources: [raw/articles/defileo-agentic-llm-stack-2026-04-20.md, raw/articles/xarticle-karpathy-claude-md-12-rules-2053116311132155938.md]
 author: [[defileo]]
 ---

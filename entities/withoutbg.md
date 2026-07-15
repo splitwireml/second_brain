@@ -3,7 +3,7 @@ title: withoutbg
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [ai-tool, background-removal, onnx, computer-vision]
+tags: [tools, ai-tools, background-removal, computer-vision, onnx]
 sources: []
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: AI Cartoon UGC Monetization
 created: 2026-04-24
-updated: 2026-05-03
+updated: 2026-06-14
 type: concept
-tags: [ai-ugc, ugc, tiktok, monetization, marketing, ai-generated-ads]
+tags: [ai-generated-ads, ai-ugc, marketing, monetization, tiktok, ugc]
 sources: [raw/articles/noah-frydberg-cartoon-ugc-monetization-2026-04-24.md]
 related_entity: [[maverick-creative]]
 author: [[noah-frydberg]]
@@ -57,3 +57,6 @@ Using AI-generated cartoon characters (SpongeBob, Peppa Pig, etc.) as the format
 
 - Raw: noah-frydberg-cartoon-ugc-monetization-2026-04-24
 - Tweet: https://x.com/maverickecom/status/2047712265667850733
+
+## Related
+- [[maverick-creative]] — related entity from frontmatter; explicit cross-link

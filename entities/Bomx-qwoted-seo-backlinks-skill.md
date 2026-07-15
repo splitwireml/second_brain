@@ -3,7 +3,7 @@ title: qwoted-seo-backlinks-skill
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [seo, backlink, outbound, automation, claude-code, skill, agent-tool]
+tags: [agent-tool, automation, backlink, claude-code, outbound, seo, skill]
 sources:
   - raw/articles/github-Bomx-qwoted-seo-backlinks-skill-2026-04-27.md
 url: https://github.com/Bomx/qwoted-seo-backlinks-skill

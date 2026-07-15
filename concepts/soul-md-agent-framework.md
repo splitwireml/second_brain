@@ -3,7 +3,7 @@ title: "SOUL.md — AI Agent System Prompt Framework"
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: [hermes-agent, productivity, system-prompt-design, agent]
+tags: [agent, hermes-agent, productivity, system-prompt-design]
 sources: [raw/articles/xarticle-tonysimons_-2051473178682118241.md]
 related_entity: [[tony-simons]]
 author: [[tony-simons]]

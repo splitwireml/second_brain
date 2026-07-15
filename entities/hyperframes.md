@@ -3,7 +3,7 @@ title: HyperFrames
 created: 2026-04-18
 updated: 2026-04-18
 type: entity
-tags: [genai, video-generation, ai-tools, agent, open-source]
+tags: [tools, ai-tools, agent, genai, open-source, video-generation]
 sources: [raw/articles/x-bookmark-2044827454460871072.md]
 related_entity: [[heygen]]
 ---

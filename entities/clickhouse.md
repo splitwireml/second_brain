@@ -3,7 +3,7 @@ title: ClickHouse
 created: 2026-05-01
 updated: 2026-05-01
 type: entity
-tags: [infrastructure, database, self-hosted]
+tags: [database, infrastructure, self-hosted]
 sources: [raw/articles/homelab-private-cloud-ahmad-2026-05-01.md]
 url: https://clickhouse.com/
 ---

@@ -4,7 +4,7 @@ type: entity
 created: 2026-05-09
 updated: 2026-05-09
 source: x.com/ghumare64
-tags: [x-creator, ai-agents, memory, claude-code]
+tags: [agent, ai-agent, memory, claude-code, x-creator]
 ---
 
 # ghumare64

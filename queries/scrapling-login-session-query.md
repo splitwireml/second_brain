@@ -3,7 +3,7 @@ title: Scrapling follow-up query — logged-in scraping, session persistence, co
 created: 2026-04-13
 updated: 2026-04-14
 type: query
-tags: [tools, web-scraping, automation, method]
+tags: [tools, automation, method, web-scraping]
 sources: [raw/articles/scrapling-technical-research-2026-04-13.md]
 question: "How does Scrapling handle authenticated scraping, including persistent sessions, manual cookies, storage_state-style artifacts, and Firefox profile reuse?"
 answer_status: answered

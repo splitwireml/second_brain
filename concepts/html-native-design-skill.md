@@ -1,9 +1,9 @@
 ---
 title: HTML-native design skill
 created: 2026-04-21
-updated: 2026-04-24
+updated: 2026-06-14
 type: concept
-tags: [design, skill, agent-tool, vibe-coding, workflow]
+tags: [workflow, agent-tool, design, skill, vibe-coding]
 sources: [raw/articles/huashu-design-readme-en-2026-04-21.md, raw/articles/huashu-design-skill-md-2026-04-21.md]
 related_entity: [[huashu-design]]
 ---
@@ -73,7 +73,7 @@ See [[huashu-design]] for full installation instructions including agent compati
 - [[design-automation]] — general theme of automated visual production
 - [[ai-ugc-ad-scaling-system]] — where this pattern intersects with UGC ad workflows
 - [[google-labs-code-design]] — Google's design.md format spec for AI coding agents; complementary design-system-to-agent format; both enable design-consistent AI code generation
-- [[meng-to]] — designer/educator (@MengTo); DesignCode, Builder OS; 400+ design systems + Claude workflow for template generation; broader context for AI design workflows beyond this specific skill pattern
+- [[mengto]] — designer/educator (@MengTo); DesignCode, Builder OS; 400+ design systems + Claude workflow for template generation; broader context for AI design workflows beyond this specific skill pattern
 
 ## Tags
 

@@ -3,7 +3,7 @@ title: AI UGC Ad Scaling System
 created: 2026-04-13
 updated: 2026-04-26
 type: concept
-tags: [marketing, automation, genai, monetization, method]
+tags: [automation, genai, marketing, method, monetization]
 sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md]
 related_entity: [[makeugc]]
 author: [[stijn-feijen]]

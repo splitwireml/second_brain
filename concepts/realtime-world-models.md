@@ -1,10 +1,10 @@
 ---
 title: Realtime World Models
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-07-12
 type: concept
-tags: [ai, world-models, real-time-generation, generative-ai, infrastructure]
-sources: [raw/articles/xarticle-_bschmidtchen-2052454092061179945.md]
+tags: [ai, generative-ai, infrastructure, real-time-generation, world-models]
+sources: [raw/articles/xarticle-_bschmidtchen-2052454092061179945.md, raw/articles/thread-aisearchio-2075684084815450306.md]
 ---
 
 # Realtime World Models
@@ -17,6 +17,8 @@ sources: [raw/articles/xarticle-_bschmidtchen-2052454092061179945.md]
 ## Overview
 
 Real-time World Models represent the next frontier in AI — systems capable of generating immersive worlds in real-time. Reactor World (@reactorworld) is building infrastructure to enable this capability with global low-latency distribution.
+
+An adjacent July 10, 2026 local bookmark from [[aisearchio]] describes a “realtime gf simulator” with 720p/60 fps streaming and controllable events. Because the export does not explicitly identify it as a world model, the narrower claim is filed separately as [[realtime-gf-simulator]].^[raw/articles/thread-aisearchio-2075684084815450306.md]
 
 ## Key Claims
 
@@ -36,6 +38,7 @@ Real-time World Models represent the next frontier in AI — systems capable of 
 
 - [[_bschmidtchen]] — Author of the announcement
 - [[reactor-world]] — Company building this technology
+- [[realtime-gf-simulator]] — adjacent source-described realtime simulator; not explicitly identified as a world model
 
 ## Sources
 

@@ -1,9 +1,9 @@
 ---
 title: AI Lead Gen Agent
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-14
 type: concept
-tags: [ai-agent, automation, lead-gen, hermes-agent, memory, workflow, outbound, b2b]
+tags: [agent, ai-agent, memory, workflow, automation, b2b, hermes-agent, lead-gen, outbound]
 sources: [raw/articles/michel-lieben-ai-lead-gen-agent-hermes-2051707320699396454.md]
 related_entity: [[michel-lieben]]
 ---
@@ -69,3 +69,6 @@ Once a lead clears qualification, the workflow runs: API query → enrichment (L
 - [[api-led-gtm]] — Michel Lieben's related GTM methodology
 - [[four-layer-b2b-funnel]] — ColdIQ's B2B demand-gen architecture
 - [[content-automation]] — Automated content creation workflows
+
+## Related
+- [[michel-lieben]] — related entity from frontmatter; explicit cross-link

@@ -1,9 +1,9 @@
 ---
 title: hermes-agent-15-features
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-14
 type: concept
-tags: [hermes-agent, agent-tool, productivity]
+tags: [agent-tool, hermes-agent, productivity]
 sources: [raw/articles/sharbel-hermes-agent-features-2049158152709382177.md]
 author: [[sharbel]]
 ---
@@ -86,3 +86,6 @@ Built-in cron scheduler: plain-language schedules with delivery destinations. "E
 
 - [[hermes-agent]] — the product itself
 - [[mcp]] — Model Context Protocol for tool extensions
+
+## Related
+- [[shmidt-hermes-agent-99-percent-unused-features]] — Shmidt's hermes-agent 99% unused-features thesis complements this 15-features breakdown

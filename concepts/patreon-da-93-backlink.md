@@ -3,7 +3,7 @@ title: Patreon DA 93 Backlink Method
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
-tags: [seo, backlink, patreon, growth, content-strategy]
+tags: [backlink, content-strategy, growth, patreon, seo]
 sources: [raw/articles/itsjoaki-patreon-da-93-2046518284887986254.md]
 author: [[itsjoaki]]
 ---

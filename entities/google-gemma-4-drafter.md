@@ -3,7 +3,7 @@ title: Google Gemma 4 - Drafter Explained
 created: 2026-05-07
 updated: 2026-05-07
 type: entity
-tags: [google, llm, ml, inference, oss-ai, model]
+tags: [llm, model, inference, google, ml, oss-ai]
 sources: [raw/articles/google-gemma-4-drafter-explained-2051694045869879749.md]
 ---
 

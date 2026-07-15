@@ -3,7 +3,7 @@ title: Scrapling follow-up query — API scraping, full-site crawl, JavaScript p
 created: 2026-04-13
 updated: 2026-04-14
 type: query
-tags: [tools, web-scraping, automation, method]
+tags: [tools, automation, method, web-scraping]
 sources: [raw/articles/scrapling-technical-research-2026-04-13.md]
 question: "Is Scrapling better than raw curl_cffi for API scraping, does it support full-site crawling, can it extract JavaScript-loaded content, and how does it fit SSR pages?"
 answer_status: answered

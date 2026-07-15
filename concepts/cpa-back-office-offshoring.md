@@ -4,10 +4,10 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 status: ideation
-vector: ai-agent-automation-for-smes
-tags: [idea, service, business, b2b]
+tags: [agency, b2b, business, idea, service, services]
 sources: [reddit/r/Accounting, reddit/r/taxpros, reddit/r/Bookkeeping, reddit/r/QuickBooks, reddit/r/smallbusiness, reddit/r/CPA]
 ---
+# CPA Back-Office Offshoring
 
 ## Thesis
 
@@ -18,6 +18,16 @@ PE firms are buying these practices at 1.2x revenue, merging them, and extractin
 **The opportunity:** Position an Indian team as the dedicated back office for 2–3 US CPA firms simultaneously. Not an agency. A named person or small team who knows each firm's clients, works US hours, and is accountable. The CPA pays $1,500–$3,000/month per firm — a fraction of the $60–80k annual cost of an American employee who does not exist.
 
 **The PE angle:** A separate service offering — build a deal-sourcing pipeline for PE firms doing CPA rollups. Public data (CPAverify, AICPA Peer Review, Google Maps, BuiltWith, Indeed) scraped and scored into weekly target lists. PE pays for sourcing, not leads.
+
+---
+
+## Related Concepts
+
+- [[monetization]] — service business model and retainer revenue
+- [[b2b]] — B2B client acquisition for SMB services
+- [[lead-gen]] — scraping and targeting pipelines for PE deal sourcing
+- [[agency]] — positioning as a dedicated team vs. a vendor
+- [[ai-agent-automation]] — how AI tools reduce the human overhead in back-office work
 
 ---
 

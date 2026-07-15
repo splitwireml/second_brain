@@ -3,7 +3,7 @@ title: 4-Beat Short-Form Ad Structure
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [marketing, ugc, ai-generated-ads, method]
+tags: [ai-generated-ads, marketing, method, ugc]
 sources: [raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md]
 related_entity: [[vadoo]]
 ---

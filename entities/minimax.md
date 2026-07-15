@@ -3,7 +3,7 @@ title: MiniMax
 created: 2026-04-15
 updated: 2026-04-15
 type: entity
-tags: [AI-company, model, agent, oss-ai]
+tags: [company, agent, model, ai-company, oss-ai]
 sources: [raw/articles/minimax-m27-huggingface-2026-04-15.md]
 ---
 

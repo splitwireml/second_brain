@@ -3,7 +3,7 @@ title: Paperclip Heartbeat Cost Optimization
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [agent, inference, optimization, orchestration]
+tags: [agent, inference, orchestration, optimization]
 sources: [raw/articles/aronprins-paperclip-heartbeats-2026-04-11.md]
 author: [[aron-prins]]
 ---

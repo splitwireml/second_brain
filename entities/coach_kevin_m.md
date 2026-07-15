@@ -3,7 +3,7 @@ title: Kevin Middleton
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [person, x-creator, football, analytics, marketplace]
+tags: [person, analytics, football, marketplace, x-creator]
 sources: [raw/articles/xarticle-coach_kevin_m-2052750458146423185.md]
 ---
 

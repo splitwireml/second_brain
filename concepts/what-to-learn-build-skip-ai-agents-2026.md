@@ -1,9 +1,9 @@
 ---
 title: "What to Learn, Build, and Skip in AI Agents (2026)"
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-06-14
 type: concept
-tags: [x-article, ai-agents, orchestration, evaluation, context-engineering, tooling, solo-founder]
+tags: [tooling, agent, ai-agent, orchestration, context-engineering, evaluation, solo-founder, x-article]
 sources: [raw/articles/rohit4verse-ai-agents-2026.md]
 author: [[rohit]]
 ---
@@ -84,3 +84,6 @@ A comprehensive field guide to durable primitives in AI agents — what to learn
 - [[rohit]] — Author; 2 years in agent space, stealth company technical lead
 - [[claude-code]] — Referenced for subagent architecture and April 2026 regression
 - [[anthropic]] — Cited for context engineering and multi-agent research
+
+## Related
+- [[harvey]] — AI agent product analysis

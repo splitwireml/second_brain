@@ -3,7 +3,7 @@ title: LLM Server Throughput Optimization — Multi-Instance Llama.cpp + Nginx
 created: 2026-04-11
 updated: 2026-04-13
 type: concept
-tags: [inference, optimization, llama.cpp, llm, performance]
+tags: [llm, inference, llama.cpp, optimization, performance]
 sources: [raw/transcripts/2026-04-11-Your-local-LLM-is-10x-slower.md]
 author: [[alex-ziskind]]
 ---

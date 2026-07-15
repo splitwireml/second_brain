@@ -3,7 +3,7 @@ title: virality
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
-tags: [marketing, virality, content]
+tags: [content, marketing, virality]
 sources: []
 related_entity:
 ---

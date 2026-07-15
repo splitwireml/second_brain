@@ -3,7 +3,7 @@ title: Background Removal vs Matting
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
-tags: [image-processing, background-removal, alpha-matting, terminology]
+tags: [alpha-matting, background-removal, image-processing, terminology]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md]
 ---
 

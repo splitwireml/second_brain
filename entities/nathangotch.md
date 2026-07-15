@@ -3,7 +3,7 @@ title: nathangotch
 created: 2026-04-22
 updated: 2026-04-22
 type: entity
-tags: [person, seo, content-strategy, local-seo]
+tags: [person, content-strategy, local-seo, seo]
 sources: [raw/articles/nathangotch-seo-2026-2046539369230606598.md]
 ---
 

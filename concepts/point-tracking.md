@@ -3,7 +3,7 @@ title: Point Tracking
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [point-tracking, computer-vision, video]
+tags: [computer-vision, point-tracking, video]
 sources: []
 ---
 

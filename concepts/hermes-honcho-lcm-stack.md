@@ -1,9 +1,9 @@
 ---
 title: Hermes Honcho LCM Stack
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-06-14
 type: concept
-tags: [hermes-agent, agent, memory, observability, architecture]
+tags: [agent, memory, architecture, hermes-agent, observability]
 sources: [raw/articles/bayendor-hermes-honcho-lcm-stack-2046755138501800427.md]
 related_entity: [[bayendor]]
 author: [[bayendor]]
@@ -44,6 +44,7 @@ Session state, logs, usage, results
 
 ## Related
 
+- [[bayendor]] — related entity from frontmatter; explicit cross-link
 - [[hermes-agent]] — execution layer
 - [[hermes-lcm]] — measurement layer
 - [[honcho]] — memory provider for Hermes

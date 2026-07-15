@@ -1,24 +1,29 @@
 ---
-title: Khairallah AL-Awady
-created: 2026-04-25
-updated: 2026-04-25
+title: "Khairallah AL-Awady"
+created: "2026-05-19"
+updated: "2026-07-02"
 type: entity
-tags: [person, content-creator, ai-automation, workflow-automation]
-sources: [raw/articles/khairallah-ai-business-workflow-autopilot-2026-04-25.md, raw/articles/xarticle-how-to-build-ai-workflows-that-run-your-entire-bus-2047970333865746734.md, raw/articles/xarticle-httpstcoigv4uj0idx-2050505874125529592.md]
+tags: [person, ai, creator, x]
+sources: [raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2055215784092401966.md, raw/articles/xarticle-httpstcow1btvs7oxn-2055943098572980489.md, raw/articles/xarticle-httpstcowo3vvigjz2-2058116763372453997.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md]
 ---
 
 # Khairallah AL-Awady
 
-X creator (@eng_khairallah1) focused on AI workflow automation for businesses.
+X creator (@eng_khairallah1) focused on AI courses, tools, and workflows. Posts educational content about AI agent systems, multi-agent orchestration, and practical AI implementation.
 
 ## Overview
 
-Published a full course on building AI-powered business workflow systems that operate autonomously, freeing founders to focus on strategy rather than execution.
+Engineering educator sharing tutorials on building AI systems. Content emphasizes practical, production-ready implementations over theoretical concepts.
 
 ## Key Content
 
-- "How to Build AI Workflows That Run Your Entire Business on Autopilot" — full X Article covering 5-phase system for mapping, designing, building, connecting, and monitoring AI workflows
+- [[multi-agent-orchestration]] — Full course on building teams of AI agents that work together
+- [[ghumare64]] — AI agent memory systems (agentmemory: infinite context for Claude Code/Hermes/Codex)
+- [[hermes-agent]] — documented [[khairallah-custom-mcp-servers]] course on custom MCP server development
+- Published the multi-agent tutorial following Anthropic's Code with Claude event (May 6, 2026)
+- [[xarticle-httpstcowo3vvigjz2-2058116763372453997]] — export-failure placeholder preserving a later Khairallah bookmark for future recovery
+- Shared a viral [[andrej-karpathy]] / [[anthropic]] `LOOPS.md` anecdote that reinforces his recurring theme: the leverage move is to build the system around [[claude-code]]-style model use rather than keep chatting one prompt at a time.
 
-## Sources
+## References
 
-- raw/articles/khairallah-ai-business-workflow-autopilot-2026-04-25.md
+- [@eng_khairallah1](https://x.com/eng_khairallah1)

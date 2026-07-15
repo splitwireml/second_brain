@@ -3,7 +3,7 @@ title: "Meta Alchemist X Article — May 4 2026"
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [x-article, ai-curator, export-failure]
+tags: [ai-curator, export-failure, x-article]
 sources: [raw/articles/xarticle-meta-alchemist-2051264391908344283.md]
 author: [[meta-alchemist]]
 ---

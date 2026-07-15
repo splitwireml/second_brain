@@ -3,7 +3,7 @@ title: notebooklm-py
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [llm, oss-ai, inference, automation]
+tags: [llm, inference, automation, oss-ai]
 sources: [raw/articles/notebooklm-py-technical-research-2026-04-13.md]
 ---
 

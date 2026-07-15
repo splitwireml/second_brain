@@ -3,7 +3,7 @@ title: MiniMax-M2.7
 created: 2026-04-15
 updated: 2026-04-16
 type: entity
-tags: [model, agent, benchmark, oss-ai]
+tags: [agent, model, benchmark, oss-ai]
 sources: [raw/articles/minimax-m27-huggingface-2026-04-15.md]
 related_entity: [[minimax]]
 ---

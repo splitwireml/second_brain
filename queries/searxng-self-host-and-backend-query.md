@@ -3,7 +3,7 @@ title: "SearXNG: self-hostable and backend operation"
 created: 2026-04-18
 updated: 2026-04-18
 type: query
-tags: [search, self-hosted, tools]
+tags: [tools, search, self-hosted]
 sources: [raw/articles/searxng-deep-technical-research-2026-04-18.md, raw/articles/theahmadosman-agent-web-stack-2026-04-15.md]
 question: "Is SearXNG self-hostable, and can it run as a backend (not just a front-end UI)?"
 answer_status: answered

@@ -3,7 +3,7 @@ title: "Perplexity Computer App Idea Research"
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [monetization, marketing]
+tags: [marketing, monetization]
 sources: [raw/articles/perplexity-computer-app-idea-research-2026-04-13.md]
 related_entity: [[ios-app-mrr-guide]]
 ---

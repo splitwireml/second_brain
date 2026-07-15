@@ -3,7 +3,7 @@ title: Code Agent CLI Automation — Prompting, Model Switching & Sessions
 created: 2026-04-02
 updated: 2026-04-02
 type: concept
-tags: [agent, platform]
+tags: [platform, agent]
 sources: [raw/articles/x-bookmarks-2026.md]
 ---
 

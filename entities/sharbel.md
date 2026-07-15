@@ -3,7 +3,7 @@ title: sharbel
 created: 2026-05-04
 updated: 2026-05-04
 type: entity
-tags: [x-creator, content-creator]
+tags: [content-creator, x-creator]
 sources: [raw/articles/sharbel-hermes-agent-features-2049158152709382177.md]
 ---
 

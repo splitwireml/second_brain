@@ -3,7 +3,7 @@ title: AI Agent
 created: 2026-04-11
 updated: 2026-04-26
 type: concept
-tags: [ai-agent-automation, llm]
+tags: [llm, ai-agent-automation]
 sources: []
 ---
 

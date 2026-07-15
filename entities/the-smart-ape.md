@@ -3,7 +3,7 @@ title: The Smart Ape
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [person, security, agent]
+tags: [person, agent, security]
 sources: [raw/articles/the-smart-ape-github-repo-trust-2026-04-13.md]
 ---
 

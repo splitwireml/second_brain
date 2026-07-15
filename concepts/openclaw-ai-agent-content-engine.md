@@ -1,9 +1,9 @@
 ---
 title: "OpenClaw AI Agent Content Engine"
 created: 2026-05-08
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [ai-agent, content, linkedin-growth, openclaw, automation]
+tags: [agent, ai-agent, automation, content, linkedin-growth, openclaw]
 sources: []
 related_entity: [[MichLieben]]
 author: [[MichLieben]]
@@ -52,6 +52,7 @@ A 5-phase playbook for building an AI-powered content system that grew a LinkedI
 > "Curation is the moat. Knowing what's a great resource and what's noise becomes its own discipline."
 
 ## Related
+- [[MichLieben]] — related entity from frontmatter; explicit cross-link
 - [[openclaw]]
 - [[ai-agent-teams]]
 - [[content-automation]]

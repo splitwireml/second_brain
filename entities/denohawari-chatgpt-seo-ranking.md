@@ -3,7 +3,7 @@ title: "How To Rank On ChatGPT in 100 Days (Complete Roadmap)"
 created: 2026-05-07
 updated: 2026-05-07
 type: entity
-tags: [seo, marketing, ai, x-article, content-creator]
+tags: [ai, content-creator, marketing, seo, x-article]
 sources: [raw/articles/denohawari-chatgpt-seo-ranking-2051631168567885892.md]
 ---
 

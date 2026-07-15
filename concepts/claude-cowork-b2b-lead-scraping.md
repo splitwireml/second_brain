@@ -1,9 +1,9 @@
 ---
 title: Claude Cowork B2B Lead Scraping
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-06-14
 type: concept
-tags: [claude, lead-gen, b2b, web-scraping, ai-automation]
+tags: [ai-automation, b2b, claude, lead-gen, web-scraping]
 sources: [raw/articles/dimitar-angelov-claude-cowork-b2b-leads-2026-04-25.md]
 related_entity: [[dimitar-angelov]]
 ---
@@ -57,3 +57,6 @@ Opus 4.7's visual accuracy upgrade enables scraping platforms with:
 ## Sources
 
 - raw/articles/dimitar-angelov-claude-cowork-b2b-leads-2026-04-25.md
+
+## Related
+- [[dimitar-angelov]] — related entity from frontmatter; explicit cross-link

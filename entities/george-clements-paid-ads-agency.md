@@ -3,7 +3,7 @@ title: George Clements Paid Ads Agency Funnel
 created: 2026-05-07
 updated: 2026-05-07
 type: entity
-tags: [marketing, agency, b2b, lead-gen, content-strategy, conversion]
+tags: [agency, b2b, content-strategy, conversion, lead-gen, marketing]
 sources: [raw/articles/george-clements-paid-ads-agency-funnel-2051697261101322556.md]
 ---
 

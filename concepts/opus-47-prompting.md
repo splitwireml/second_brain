@@ -3,7 +3,7 @@ title: Opus 4.7 Prompting Differences from 4.6
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [llm, reasoning, agent]
+tags: [agent, llm, reasoning]
 sources: [raw/articles/opus-47-prompting-guide-smart-ape-2045070676063649908.md]
 author: [[the-smart-ape]]
 ---

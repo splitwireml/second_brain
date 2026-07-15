@@ -3,7 +3,7 @@ title: Unsloth
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
-tags: [company, oss-ai, quantization, llm, inference, tools]
+tags: [company, tools, llm, inference, quantization, oss-ai]
 sources: [raw/articles/huggingface-unsloth-qwen-image-layered-gguf-2026-04-23.md]
 related_entity: [[qwen-image-layered]]
 ---

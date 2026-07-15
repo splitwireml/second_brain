@@ -1,9 +1,9 @@
 ---
 title: above-the-fold-design
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-06-14
 type: concept
-tags: [website, conversion, marketing]
+tags: [conversion, marketing, website]
 sources: [raw/articles/xarticle-clear-graphics-2052513744249352319.md]
 related_entity: [[clear-graphics]]
 author: [[clear-graphics]]
@@ -42,3 +42,6 @@ The fold was a constraint imposed by physical newspaper real estate. Mobile web 
 - [[conversion]] — Conversion rate optimization and funnel improvement
 - [[website]] — Website building and landing page design
 - [[marketing]] — Broader marketing strategy and user acquisition
+
+## Related
+- [[clear-graphics]] — related entity from frontmatter; explicit cross-link

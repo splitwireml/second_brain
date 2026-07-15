@@ -3,7 +3,7 @@ title: Claude Fitness Prompts
 created: 2026-03-26
 updated: 2026-03-26
 type: concept
-tags: [ai-tools, fitness, prompting, claude-code]
+tags: [tools, ai-tools, claude-code, fitness, prompting]
 sources: [raw/articles/hawks0x-claude-fitness-prompts-2026-03-26.md]
 related_entity: [[hawks0x]]
 author: [[hawks0x]]

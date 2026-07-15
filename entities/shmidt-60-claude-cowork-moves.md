@@ -29,7 +29,7 @@ Key highlights:
 
 ## Source
 
-- [[raw/articles/shmidt-60-claude-cowork-moves-2051755298772095238.md]]
+- [[shmidt-60-claude-cowork-moves-2051755298772095238]]
 
 ## Related
 

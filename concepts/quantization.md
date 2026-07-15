@@ -3,7 +3,7 @@ title: Quantization (1.25-bit)
 created: 2026-04-29
 updated: 2026-04-29
 type: concept
-tags: [quantization, inference, efficiency, model]
+tags: [model, inference, quantization, efficiency]
 sources: [raw/articles/hy-mt1.5-1.8b-1.25bit-tencent-2026-04-29.md]
 related_entity: [[hy-mt1.5-1.8b-1.25bit]]
 ---

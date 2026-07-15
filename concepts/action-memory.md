@@ -1,9 +1,9 @@
 ---
 title: Action Memory
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-06-14
 type: concept
-tags: [enterprise-ai, memory, knowledge-management, company-brain]
+tags: [memory, company-brain, enterprise-ai, knowledge-management]
 sources: [raw/articles/company-brain-part-4-action-memory-ashwingop-2026-05-04.md, raw/articles/company-brain-part-3-interaction-memory-ashwingop-2026-05-03.md]
 related_entity: [[sentra]]
 author: [[ashwin-gopinath]]
@@ -122,3 +122,6 @@ This is how the Company Brain stops being a better knowledge base and starts bec
 - [[company-brain]] — the overall framework
 - [[factual-memory]] — Layer 1
 - [[interaction-memory]] — Layer 2
+
+## Related
+- [[sentra]] — related entity from frontmatter; explicit cross-link

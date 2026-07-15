@@ -3,7 +3,7 @@ title: Trevin Chow
 created: 2026-05-05
 updated: 2026-05-05
 type: entity
-tags: [x-creator, person]
+tags: [person, x-creator]
 sources: [raw/articles/xarticle-httpstcoe6yy79onuu-2051316002730991795.md]
 ---
 

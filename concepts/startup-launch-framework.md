@@ -3,7 +3,7 @@ title: Startup Launch Framework
 created: 2026-01-27
 updated: 2026-01-27
 type: concept
-tags: [startup, user-acquisition, saas]
+tags: [saas, startup, user-acquisition]
 sources: [raw/articles/adam-robinson-launch-ai-company-2026-01-27.md]
 related_entity: [[adam-robinson]]
 author: [[adam-robinson]]

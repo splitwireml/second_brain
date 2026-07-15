@@ -1,9 +1,9 @@
 ---
 title: Agent Orchestration Patterns
 created: 2026-05-05
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [agent, orchestration, llm, multi-agent, architecture]
+tags: [agent, multi-agent, llm, orchestration, architecture]
 sources: []
 related_entity: [[AlphaSignalAI]]
 ---
@@ -11,6 +11,10 @@ related_entity: [[AlphaSignalAI]]
 # Agent Orchestration Patterns
 
 This concept covers four multi-agent system architectures for coordinating LLMs and AI agents in production workloads.
+
+## Relationship to Multi-Agent Orchestration
+
+This page provides the four-pattern taxonomy (Sequential, Parallel, Fan-out/Fan-in, Router). For a deeper treatment of the same topic including the "dreaming" pattern and team-based execution, see [[multi-agent-orchestration]] — which was authored after this page and references [[khairallah-al-awady]]'s full course.
 
 ## The Four Patterns
 
@@ -55,3 +59,6 @@ Use the **least complex pattern that can handle the workload**:
 - NYU benchmark study (Siddhant and Yukta Kulkarni): arxiv.org/abs/2603.22651
 - Paper on agent architecture risks: arxiv.org/abs/2604.18071
 - Tweet: https://x.com/i/status/2051663458114887718
+
+## Related
+- [[AlphaSignalAI]] — related entity from frontmatter; explicit cross-link

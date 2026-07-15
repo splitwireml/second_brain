@@ -3,7 +3,7 @@ title: HTML as Agent Output Format
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [html, claude-code, agent, information-density]
+tags: [agent, claude-code, html, information-density]
 sources: []
 related_entity: [[trq212]]
 author: [[trq212]]

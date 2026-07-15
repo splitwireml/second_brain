@@ -3,7 +3,7 @@ title: Scrapling follow-up query — ZenRows gap, browser parallelism, multi-bro
 created: 2026-04-13
 updated: 2026-04-14
 type: query
-tags: [tools, web-scraping, automation, method]
+tags: [tools, automation, method, web-scraping]
 sources: [raw/articles/scrapling-technical-research-2026-04-13.md]
 question: "Where can Scrapling still lose to ZenRows, how far can its browser execution parallelize, and what are the local resource tradeoffs?"
 answer_status: answered

@@ -14,3 +14,7 @@ X creator (@JayanthSanku01).
 ## Sources
 
 - Tweet [2050963464915743150](https://x.com/JayanthSanku01/status/2050963464915743150) — May 3, 2026; export failed (bird read --json); only t.co shortlink captured; 66 likes, 3 retweets
+
+## Related
+
+- [[xarticle-2050963464915743150]]

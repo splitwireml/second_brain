@@ -3,7 +3,7 @@ title: "OpenMontage vs OpenHiggsfield AI"
 created: 2026-04-12
 updated: 2026-04-12
 type: comparison
-tags: [comparison, genai, tools]
+tags: [tools, comparison, genai]
 sources: [raw/articles/open-montage-github-repo-2026-04-12.md, raw/articles/open-higgsfield-ai-github-repo-2026-04-10.md]
 participants:
   - [[open-montage]]
@@ -80,3 +80,7 @@ These tools solve different problems and can be used together:
 **OpenHiggsfield AI** is for: users who want direct access to 200+ generative AI models in a polished UI without managing multiple subscriptions or provider accounts. Best for artists and creators who want to iterate on individual assets (images, clips, lip syncs) quickly.
 
 **Use both:** OpenHiggsfield AI as the asset generation hub, OpenMontage as the production orchestration layer on top of it.
+
+## Related
+
+- [[reallynattu]]

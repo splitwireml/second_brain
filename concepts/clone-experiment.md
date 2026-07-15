@@ -3,7 +3,7 @@ title: clone-experiment
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
-tags: [ai-persona, ugc, experiment]
+tags: [ai-persona, experiment, ugc]
 sources: []
 related_entity:
 ---

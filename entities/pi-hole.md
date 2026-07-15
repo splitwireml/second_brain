@@ -3,7 +3,7 @@ title: Pi-hole
 created: 2026-05-01
 updated: 2026-05-01
 type: entity
-tags: [infrastructure, self-hosted, platform]
+tags: [platform, infrastructure, self-hosted]
 sources: [raw/articles/homelab-private-cloud-ahmad-2026-05-01.md]
 url: https://pi-hole.net/
 ---

@@ -3,7 +3,7 @@ title: 12-Rule CLAUDE.md Template
 created: 2026-05-11
 updated: 2026-05-11
 type: concept
-tags: [claude-code, agent, coding, prompting, prompt-engineering, reliability, agent-tool]
+tags: [agent, agent-tool, claude-code, coding, prompt-engineering, prompting, reliability]
 sources: [raw/articles/xarticle-karpathys-4-claudemd-rules-cut-claude-mistakes-fro-2053116311132155938.md]
 related_entity: [[mnilax]]
 ---

@@ -3,7 +3,7 @@ title: Building Effective Agents
 created: 2026-04-20
 updated: 2026-04-26
 type: entity
-tags: [agent, paper, anthropic]
+tags: [agent, anthropic, paper]
 sources: [raw/transcripts/0xMovez_full.md]
 ---
 

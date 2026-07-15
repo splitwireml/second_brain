@@ -3,7 +3,7 @@ title: ugc
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
-tags: [content, marketing, ugc, social-media]
+tags: [content, marketing, social-media, ugc]
 sources: []
 related_entity:
 ---

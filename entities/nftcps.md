@@ -3,7 +3,7 @@ title: NFTCPS
 created: 2026-04-22
 updated: 2026-04-22
 type: entity
-tags: [x-creator, chinese-ai, browser-automation, web-scraping]
+tags: [browser-automation, chinese-ai, web-scraping, x-creator]
 sources: [raw/articles/nftcps-obscura-rust-browser-2046777680792850720.md]
 related_entity: [[obscura]]
 ---

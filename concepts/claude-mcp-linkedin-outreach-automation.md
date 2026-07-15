@@ -1,9 +1,9 @@
 ---
 title: Claude MCP LinkedIn Outreach Automation
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-14
 type: concept
-tags: [automation, agent, marketing, llm]
+tags: [agent, llm, automation, marketing]
 sources: [raw/articles/pierreeliottlal-claude-mcp-linkedin-2026-04-12.md]
 related_entity: [[gojiberry-ai]]
 author: [[pierreeliottlal]]
@@ -50,3 +50,6 @@ The MCP bridge (Gojiberry) solves the API access problem: Claude cannot connect 
 ## Source
 
 > How I Book 2–5 Meetings/Day Using Claude MCP + LinkedIn — Pierre-Eliott Lallemant (@pierreeliottlal), 2026-04-12
+
+## Related
+- [[gojiberry-ai]] — related entity from frontmatter; explicit cross-link

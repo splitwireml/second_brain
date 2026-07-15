@@ -1,9 +1,9 @@
 ---
 title: ChatGPT SEO Ranking
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-14
 type: concept
-tags: [seo, marketing, ai, content-strategy]
+tags: [ai, content-strategy, marketing, seo]
 sources: [raw/articles/denohawari-chatgpt-seo-ranking-2051631168567885892.md]
 related_entity: [[denohawari-chatgpt-seo-ranking]]
 author: [[denohawari]]
@@ -40,3 +40,6 @@ Get mentioned on external sites (guest posts, podcasts, interviews). Create "ref
 
 - [[programmatic-seo]] — building pages at scale using replicable keyword patterns
 - [[content-strategy]] — content planning and distribution frameworks
+
+## Related
+- [[denohawari-chatgpt-seo-ranking]] — related entity from frontmatter; explicit cross-link

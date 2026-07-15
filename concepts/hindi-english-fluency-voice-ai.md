@@ -1,9 +1,9 @@
 ---
 title: Hindi-English Fluency Voice AI
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-06-14
 type: concept
-tags: [idea, ai-agent-automation, saas]
+tags: [ai-agent-automation, idea, saas]
 sources: []
 related_entity: [[waleed]]
 ---
@@ -128,3 +128,6 @@ Mobile Apps vector (primary). SaaS vector (secondary — backend API, institutio
 3. Start with a narrow domain (e.g., job interview prep only) and expand
 4. Let user self-select and crowd-source which scenarios feel right
 
+
+## Related
+- [[waleed]] — related entity from frontmatter; explicit cross-link

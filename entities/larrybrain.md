@@ -3,7 +3,7 @@ title: larrybrain
 created: 2026-04-20
 updated: 2026-04-20
 type: entity
-tags: [product, ai-agents, marketplace]
+tags: [product, agent, ai-agent, marketplace]
 sources: [raw/articles/jordy-larrybrain-skills-hub-2046305218409779530.md]
 ---
 

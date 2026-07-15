@@ -3,7 +3,7 @@ title: AI Growth Lab
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [course, ai-marketing, education]
+tags: [ai-marketing, course, education]
 sources: [raw/articles/shalev-ai-monk-500k-2047670111709143100.md]
 ---
 

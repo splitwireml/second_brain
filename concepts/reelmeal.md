@@ -1,17 +1,22 @@
 ---
 title: ReelMeal
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-06-14
 type: concept
-tags: [idea, mobile-apps]
+tags: [content, idea, mobile-apps, ugc, video, youtube]
 sources: []
+related_entity: [[youtube]]
 ---
-
 # ReelMeal
 
-## What It Is
-
 A kitchen utility app that transforms YouTube Shorts into structured, interactive cooking guides. Uses the YouTube IFrame API for full programmatic control (seek, pause, loop) combined with multimodal AI to extract ingredients, steps, and timestamps from Shorts video content.
+
+## Related Concepts
+
+- [[ugc]] — the broader AI-UGC ecosystem ReelMeal sits within
+- [[ai-ugc]] — AI-generated content pipelines
+- [[viral-marketing]] — the distribution question for consumer apps
+- [[content-strategy]] — content creation and distribution
 
 ## Problem
 
@@ -64,3 +69,6 @@ A kitchen utility app that transforms YouTube Shorts into structured, interactiv
 
 - Validate viral/spread hypothesis before advancing to build
 - Test AI timestamp accuracy on a sample of recipe Shorts
+
+## Related
+- [[youtube]] — related entity from frontmatter; explicit cross-link

@@ -3,7 +3,7 @@ title: projects.md
 created: 2026-05-04
 updated: 2026-05-04
 type: entity
-tags: [agent-tool, prompt-engineering, claude-code, hermes-agent]
+tags: [agent-tool, claude-code, hermes-agent, prompt-engineering]
 sources: [raw/articles/projects-md-mr_r0b0t-2049682402386039256.md]
 ---
 
@@ -61,6 +61,8 @@ Framework-agnostic: works with Hermes Agent, Claude Code, Cursor, Codex, or any 
 ---
 
 ## Related
+
+- [[mr-r0b0t]]
 
 - GSD (get-shit-done) — prior art: meta-prompting + context engineering + spec-driven development for Claude Code; projects.md builds on its ideas
 - Hermes Agent — primary runtime used to build projects.md

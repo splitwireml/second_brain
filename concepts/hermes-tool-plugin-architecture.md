@@ -3,7 +3,7 @@ title: Hermes Tool and Plugin Architecture
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [agent, framework, tools]
+tags: [tools, agent, framework]
 sources: [raw/articles/hermes-deep-technical-analysis-2026-04-13.md]
 related_entity: [[hermes-agent]]
 ---

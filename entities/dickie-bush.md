@@ -3,7 +3,7 @@ title: Dickie Bush
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [person, x-creator, monetization]
+tags: [person, monetization, x-creator]
 sources: [raw/articles/dickie-bush-digital-product-2026-04-21.md]
 ---
 

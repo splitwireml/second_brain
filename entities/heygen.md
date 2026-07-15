@@ -3,7 +3,7 @@ title: HeyGen
 created: 2026-04-18
 updated: 2026-04-18
 type: entity
-tags: [ai-tools, video-generation, company]
+tags: [company, tools, ai-tools, video-generation]
 sources: [raw/articles/x-bookmark-2044827454460871072.md]
 related_entity: [[hyperframes]]
 ---

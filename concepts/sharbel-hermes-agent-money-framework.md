@@ -1,9 +1,9 @@
 ---
 title: "Sharbel's Hermes Agent Money Framework"
 created: 2026-05-07
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [x-article, ai-agent, hermes-agent, monetization, solo-founder, ai-monetization]
+tags: [agent, ai-agent, ai-monetization, hermes-agent, monetization, solo-founder, x-article]
 sources: [raw/articles/sharbel-hermes-agent-money-2026-05-07.md]
 related_entity: [[sharbel]]
 author: [[sharbel]]
@@ -78,3 +78,7 @@ This loop structure is what separates a revenue-generating agent from a chatbot.
 - [[solo-founder-stack-2026]] — Related solo operator setup for AI agent businesses
 - [[ai-business-workflow-autopilot]] — AI agents as autonomous business co-founders
 - [[hermes-skills-workflow]] — Three Hermes skill patterns (related workflow packaging)
+
+## Related
+- [[sharbel]] — related entity from frontmatter; explicit cross-link
+- [[hermes-agent-income-system]] — Sharbel's money framework is the income-producing application of the broader Hermes Agent income system

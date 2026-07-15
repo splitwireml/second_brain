@@ -3,7 +3,7 @@ title: Claude Code Source Leak
 created: 2026-03-31
 updated: 2026-04-13
 type: concept
-tags: [security, agent]
+tags: [agent, security]
 sources: [raw/articles/x-bookmarks-2026.md, raw/articles/the-smart-ape-github-repo-trust-2026-04-13.md]
 ---
 

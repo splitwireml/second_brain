@@ -1,10 +1,10 @@
 ---
 title: "Obsidian AI Second Brain"
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-27
 type: concept
-tags: [agent, productivity, method]
-sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md]
+tags: [agent, method, productivity]
+sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md, raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md]
 ---
 
 # Obsidian AI Second Brain
@@ -56,6 +56,18 @@ The pattern typically involves:
 
 See [[obsidian-vault-as-agent-context-source]] for the specific ByteRover CLI integration pattern.
 
+## 2026-06 Operator Playbook from Moysei
+
+A later X Article by [[moysei]] pushes this pattern from vague "AI second brain" rhetoric into a more concrete beginner setup. The operational additions are:
+
+- **Obsidian Local REST API + [[mcp]] bridge** as the actual connection layer between the vault and [[claude-code]]
+- **`CLAUDE.md` interview prompt** so the model writes and reloads a persistent personal profile
+- **[[andrej-karpathy]]'s `raw/` + `wiki/` split** so new material lands as immutable sources before synthesis
+- **Steph Ango's `obsidian-skills` repo** as a way to teach agents Obsidian-native output formats
+- **Scheduled 7 a.m. maintenance** to ingest new material, flag stale notes, and write an overnight change summary
+
+See [[claude-obsidian-second-brain-stack]] for the distilled framework page.
+
 ## Evidence Layers
 
 **Confirmed:**
@@ -69,7 +81,10 @@ See [[obsidian-vault-as-agent-context-source]] for the specific ByteRover CLI in
 
 ## Related
 
+- [[obsidian-ai-second-brain-5-min-claim-query]] — query: Can you really build an AI second brain in Obsidian in 5 minutes?
 - [[obsidian-vault-as-agent-context-source]] — ByteRover CLI pattern for exposing vault to coding agents
-- claude-code — primary AI coding agent used in this pattern
+- [[claude-code]] — primary AI coding agent used in this pattern
 - [[obsidian-vs-notion-productivity]] — comparison with Notion as an alternative
 - [[byterover-cli]] — tool implementing vault-to-agent context linking
+- [[claude-obsidian-second-brain-stack]] — ten-step operator setup with MCP, `CLAUDE.md`, and scheduled vault maintenance
+- [[moysei]] — X creator who published the June 2026 implementation guide

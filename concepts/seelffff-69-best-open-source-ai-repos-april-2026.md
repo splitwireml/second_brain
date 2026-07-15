@@ -3,7 +3,7 @@ title: "69 Best Open-Source AI Repositories (April 2026)"
 created: "2026-04-28"
 updated: "2026-04-28"
 type: concept
-tags: [oss-ai, inference, rag, ai-agent, fine-tuning, deployment, data-prep, vision, multimodal, tooling]
+tags: [tooling, agent, ai-agent, inference, fine-tuning, data-prep, deployment, multimodal, oss-ai, rag, vision]
 sources: [raw/articles/seelffff-69-best-open-source-ai-repos-2049214021430325677.md]
 ---
 
@@ -47,7 +47,7 @@ The curation is organized into 10 categories covering the end-to-end AI developm
 
 | # | Project | Stars | Notes |
 |---|---------|-------|-------|
-| 15 | [[autogen]] (Microsoft) | 40K | Multi-agent conversation framework |
+| 15 | autogen (Microsoft) | 40K | Multi-agent conversation framework |
 | 16 | crewai | 28K | Role-playing AI agents; crew collaboration |
 | 17 | langgraph | 10K | Stateful multi-agent workflows as graphs |
 | 18 | agno | 22K | Multi-modal AI agents; 10× faster than LangChain |
@@ -145,9 +145,9 @@ The curation is organized into 10 categories covering the end-to-end AI developm
 
 ## Related Concepts
 
-- [[open-source-ai-stack]] — broader concept of open-source AI infrastructure
+- open-source-ai-stack — broader concept of open-source AI infrastructure
 - [[inference]] — LLM serving and inference optimization
 - [[rag]] — retrieval-augmented generation
 - [[ai-agent]] — autonomous AI agent frameworks
-- [[fine-tuning]] — model adaptation techniques
-- [[deployment]] — serving and scaling AI models
+- fine-tuning — model adaptation techniques
+- deployment — serving and scaling AI models

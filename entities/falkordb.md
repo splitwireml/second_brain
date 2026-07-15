@@ -3,7 +3,7 @@ title: FalkorDB
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
-tags: [database, graphrag, open-source, knowledge-graph]
+tags: [database, graphrag, knowledge-graph, open-source]
 sources: [raw/articles/akshay-pachaar-wiki-vs-graph-falkordb-2026-04-23.md]
 ---
 

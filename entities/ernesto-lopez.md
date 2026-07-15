@@ -1,10 +1,11 @@
 ---
 title: Ernesto Lopez
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-19
 type: entity
-tags: [person, ugc, ai-ugc, influencer, marketing]
+tags: [person, ai-ugc, influencer, marketing, ugc]
 source: raw/articles/ernesto-software-ai-influencer-480k-2047111389890629654.md
+source: raw/articles/xarticle-httpstcoucmorhqc4g-2055380685452640538.md
 ---
 
 # Ernesto Lopez

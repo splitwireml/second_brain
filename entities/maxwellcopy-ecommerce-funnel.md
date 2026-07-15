@@ -3,7 +3,7 @@ title: maxwellcopy-ecommerce-funnel
 created: 2026-05-07
 updated: 2026-05-07
 type: entity
-tags: [ecommerce, marketing, growth]
+tags: [ecommerce, growth, marketing]
 sources: [raw/articles/maxwellcopy-ecommerce-funnel-2051640749100531800.md]
 ---
 

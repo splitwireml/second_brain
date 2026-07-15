@@ -3,7 +3,7 @@ title: ConicAI LLM
 created: 2026-04-29
 updated: 2026-05-03
 type: entity
-tags: [model, code-generation, lightweight, qwen, huggingface]
+tags: [model, code-generation, huggingface, lightweight, qwen]
 sources: [raw/articles/xarticle-conicai-llm-huggingmodels-2026-04-27.md]
 url: https://huggingface.co/conicai/conicai-llm
 related_entity: [[huggingmodels]]

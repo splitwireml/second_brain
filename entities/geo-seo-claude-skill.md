@@ -1,9 +1,9 @@
 ---
 title: geo-seo-claude-skill
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-14
 type: entity
-tags: [seo, ai-tools, agent]
+tags: [tools, ai-tools, agent, seo]
 sources: [raw/articles/zubair-trabzada-geo-seo-claude-2026-04-14.md]
 related_entity: [[zubair-trabzada]]
 ---
@@ -49,3 +49,6 @@ Optimal AI-cited passages are 134–167 words, self-contained, fact-rich, and di
 - [[topical-authority-seo]] — E-E-A-T signal generation in the GEO-SEO tool maps to topical authority building
 - [[programmatic-seo]] — Different focus: geo-seo-claude targets citation-readiness per page, not page volume at scale
 - [[prompt-engineering-patterns]] — Content optimization heuristics in geo-seo-claude overlap with content-writing prompt patterns
+
+## Related
+- [[zubair-trabzada]] — related entity from frontmatter; explicit cross-link

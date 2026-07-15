@@ -3,7 +3,7 @@ title: 3D Gaussian Splatting
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [3dgs, 3d-vision, computer-vision]
+tags: [3d-vision, 3dgs, computer-vision]
 sources: [raw/articles/tencent-hy-world-2-0-model-card-2026-04-23.md]
 related_entity: [[hy-world-2-0]]
 ---

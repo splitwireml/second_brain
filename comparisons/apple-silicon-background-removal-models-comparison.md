@@ -3,7 +3,7 @@ title: "Apple Silicon Background Removal Models: MLX vs PyTorch vs ONNX"
 created: 2026-04-26
 updated: 2026-05-07
 type: comparison
-tags: [comparison, apple-silicon, mlx, background-removal, image-segmentation, svg, gguf, onnx]
+tags: [apple-silicon, background-removal, comparison, gguf, image-segmentation, mlx, onnx, svg]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md, users/mali/research/local-bg-removal-svg-models-2026-05-07/report.md]
 ---
 

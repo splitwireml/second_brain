@@ -3,7 +3,7 @@ title: Topical Authority (SEO)
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [marketing, seo, method]
+tags: [marketing, method, seo]
 sources: [raw/articles/noel-ceta-topical-authority-2026-04-14.md]
 related_entity: [[noel-ceta]]
 author: [[noel-ceta]]

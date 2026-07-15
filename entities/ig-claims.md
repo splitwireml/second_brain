@@ -3,7 +3,7 @@ title: ig_claims
 created: 2026-05-03
 updated: 2026-05-04
 type: entity
-tags: [x-creator, person]
+tags: [person, x-creator]
 sources: [raw/articles/ig-claims-thread-2050954126167773628.md]
 ---
 

@@ -3,7 +3,7 @@ title: Zero-Shot
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [zero-shot, deep-learning, model]
+tags: [model, deep-learning, zero-shot]
 sources: []
 ---
 

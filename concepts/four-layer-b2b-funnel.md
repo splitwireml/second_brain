@@ -3,7 +3,7 @@ title: Four-Layer B2B Funnel
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [marketing, b2b, agency, outbound, seo, content-marketing]
+tags: [agency, b2b, content-marketing, marketing, outbound, seo]
 sources: [raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md]
 related_entity: [[coldiq]]
 author: [[coldiq]]

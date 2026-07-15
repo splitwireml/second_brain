@@ -1,10 +1,10 @@
 ---
 title: Mitchell
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-07-10
 type: entity
-tags: [x-creator, content-creator, viral-marketing]
-sources: [raw/articles/mitchell-claude-code-trending-x-2026-04-23.md]
+tags: [content-creator, viral-marketing, x-creator]
+sources: [raw/articles/mitchell-claude-code-trending-x-2026-04-23.md, raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md]
 ---
 
 # Mitchell (@MitcheIl)
@@ -26,5 +26,12 @@ Mitchell documented his 6-step system in an X Article (April 23, 2026). Key step
 5. **Algorithm signals** — retweets as primary sourcing signal, reply chains with author responses as primary ranking signal; 48-hour reply intensity window
 6. **Influencer timing** — staggered 30-minute windows, organic velocity first, mandatory disclosure compliance
 
+## Launch Video Execution Rules
+
+Mitchell's July 2026 launch-video article turns his earlier viral launch system into concrete editing rules for tech demos: speed the final cut by about 10%, keep every UI scene moving with zooms/pans, avoid slow story setup, and restrict each scene to one idea that remains legible even muted. The proof window should arrive between seconds 5 and 30: lead with the strongest on-screen result, show the actual product working, and replace generic SaaS claims with visible evidence. ^[raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md]
+
+The article also reframes Mitchell's launch process as pre-production discipline: script around the customer's desired outcome, storyboard real UI and style frames before animating, iterate through roughly ten full cuts, and open with the wildest product moment rather than a logo, cinematic establishing shot, or founder monologue. See [[viral-launch-system]] and [[virality-mechanics]]. ^[raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md]
+
 ## Sources
 - Raw: `raw/articles/mitchell-claude-code-trending-x-2026-04-23.md` — full X Article describing the system
+- Raw: `raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md` — July 2026 X Article on viral launch-video editing, proof windows, hooks, and pre-production.

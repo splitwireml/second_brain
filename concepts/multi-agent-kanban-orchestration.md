@@ -3,7 +3,7 @@ title: Multi-Agent Kanban Orchestration
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [orchestration, ai-agent, multi-agent, workflow-automation]
+tags: [agent, ai-agent, multi-agent, orchestration, workflow-automation]
 sources: [raw/articles/xarticle-hermes-kanban-turns-multi-agent-work-into-a-real-b-2051443615768228062.md]
 related_entity: [[hermes-kanban]]
 author: [[neo-ai-forecast]]

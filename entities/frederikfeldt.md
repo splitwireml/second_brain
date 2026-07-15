@@ -3,7 +3,7 @@ title: Frederik Feldt
 created: 2026-04-16
 updated: 2026-04-23
 type: entity
-tags: [person, seedance-2-0, tiktok, virality, content-creator]
+tags: [person, content-creator, seedance-2-0, tiktok, virality]
 sources: [raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/frederikfeldt-ai-video-formats-2026-04-20.md, raw/articles/frederikfeldt-ai-tools-2026-04-20.md]
 ---
 

@@ -3,7 +3,7 @@ title: DFlash
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [oss-ai, inference, optimization]
+tags: [inference, optimization, oss-ai]
 sources: [raw/articles/z-lab-dflash-2026-04-16.md]
 related_entity: [[z-lab]]
 ---

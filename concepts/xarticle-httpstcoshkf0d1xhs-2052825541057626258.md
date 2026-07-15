@@ -3,7 +3,7 @@ title: "xarticle-httpstcoshkf0d1xhs-2052825541057626258"
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: [x-article, export-failure, bird-read-failure]
+tags: [bird-read-failure, export-failure, x-article]
 sources: [raw/articles/xarticle-httpstcoshkf0d1xhs-2052825541057626258.md]
 related_entity: [[ghumare64]]
 ---

@@ -3,7 +3,7 @@ title: "OMI (Memory Capture Tool)"
 created: 2026-04-29
 updated: 2026-04-29
 type: entity
-tags: [ai-agent, memory, knowledge-management, tool]
+tags: [tools, agent, ai-agent, memory, knowledge-management]
 sources: [raw/articles/xarticle-how-i-connected-hermes-to-obsidian-using-omi-for-p-2048710808386130068.md]
 ---
 

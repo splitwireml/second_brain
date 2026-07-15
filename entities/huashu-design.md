@@ -1,9 +1,9 @@
 ---
 title: huashu-design
 created: 2026-04-21
-updated: 2026-04-24
+updated: 2026-06-14
 type: entity
-tags: [design-tool, agent-tool, html, open-source, skill]
+tags: [agent-tool, design-tool, html, open-source, skill]
 sources:
   - https://github.com/alchaincyf/huashu-design
   - raw/articles/huashu-design-readme-en-2026-04-21.md
@@ -175,3 +175,6 @@ Personal use is free and unrestricted. Enterprise or commercial use requires aut
 ## Author
 
 [[huasheng]] (花叔) — AI-native independent developer and content creator. Also known for Nüwa.skill (12k+ GitHub stars), Cat Fill Light (App Store Paid #1), and *A Book on DeepSeek*.
+
+## Related
+- [[paper-design]] — related entity from frontmatter; explicit cross-link

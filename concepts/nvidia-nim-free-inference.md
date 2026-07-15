@@ -3,7 +3,7 @@ title: NVIDIA NIM Free Inference
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [inference, llm, free-tier, nvidia]
+tags: [llm, inference, free-tier, nvidia]
 sources: [raw/articles/dhruvtwt-nvidia-nim-free-inference-2047006444701274380.md]
 related_entity: [[dhruvtwt]]
 author: [[dhruvtwt]]

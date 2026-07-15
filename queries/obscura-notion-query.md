@@ -3,7 +3,7 @@ title: "obscura vs camoufox: Notion JS rendering"
 created: 2026-04-25
 updated: 2026-04-25
 type: query
-tags: [browser-automation, web-scraping, performance]
+tags: [browser-automation, performance, web-scraping]
 sources: []
 question: "Can obscura render Notion pages that require JavaScript?"
 answer_status: answered

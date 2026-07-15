@@ -1,7 +1,7 @@
 ---
 title: Inference Kernel Optimization
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-14
 type: concept
 tags: [inference, optimization, performance]
 sources: [raw/articles/theahmadosman-inference-kernels-2026-04-26.md]
@@ -53,3 +53,6 @@ Most people benchmark **models**. The real practitioners benchmark the **kernels
 - [[quantization]] — weight compression that relies on specialized quantized linear kernels for speedup
 - [[llm-server-throughput-optimization]] — server-level throughput optimization where kernels are a primary lever
 - [[inference]] — the broader field of running models efficiently, of which kernel optimization is a core component
+
+## Related
+- [[theahmadosman]] — related entity from frontmatter; explicit cross-link

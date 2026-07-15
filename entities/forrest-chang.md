@@ -3,7 +3,7 @@ title: Forrest Chang
 created: 2026-05-11
 updated: 2026-05-11
 type: entity
-tags: [person, x-creator, developer]
+tags: [person, developer, x-creator]
 sources: [raw/articles/xarticle-karpathys-4-claudemd-rules-cut-claude-mistakes-fro-2053116311132155938.md]
 ---
 

@@ -3,7 +3,7 @@ title: Skill Graph Content Engine
 created: 2026-04-10
 updated: 2026-04-10
 type: concept
-tags: [marketing, brand, method, llm]
+tags: [llm, brand, marketing, method]
 sources: [raw/articles/deronin-skill-graph-content-engine-2026-04-10.md]
 ---
 

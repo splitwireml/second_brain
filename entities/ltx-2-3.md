@@ -3,7 +3,7 @@ title: LTX-2.3
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [model, video-generation, generative-models, video, audio, open-source, diffusion, architecture]
+tags: [model, architecture, audio, diffusion, generative-models, open-source, video, video-generation]
 sources: [raw/articles/lightricks-ltx-2-3-2026-04-16.md]
 related_entity: [[lightricks]]
 ---

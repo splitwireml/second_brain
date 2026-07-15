@@ -3,7 +3,7 @@ title: Karpathy LLM Wiki
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [rag, knowledge-management, llm]
+tags: [llm, knowledge-management, rag]
 sources: [raw/articles/akshay-pachaar-wiki-vs-graph-falkordb-2026-04-23.md]
 author: [[akshay-pachaar]]
 ---

@@ -3,10 +3,17 @@ title: multimodal-models
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
-tags: [llm, multimodal, vision, audio]
+tags: [llm, model, multimodal, vision, vision-language]
 sources: []
-related_entity:
+related_entity: [[llm]]
 ---
 # Multimodal Models
 
-Multimodal AI models process and generate content across multiple modalities — text, images, audio, and video — from a single unified model. Examples include GPT-4V, Claude Vision, Llama vision models, and Qwen3-VL. Key capability: reasoning across modalities.
+LLMs that process and generate multiple data types — text, images, audio, video — within a single model architecture.
+
+## Related Concepts
+
+- [[llm]] — foundation model architecture
+- vision-language — VLM, the image+text combination
+- [[local-llm]] — running multimodal models locally
+- model — model architecture more broadly

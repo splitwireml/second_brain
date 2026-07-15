@@ -3,7 +3,7 @@ title: Meta Ads Neuroscience
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [neuroscience, marketing, meta-ads, behavioral-science, conversion]
+tags: [behavioral-science, conversion, marketing, meta-ads, neuroscience]
 sources: [raw/articles/ig-claims-thread-2050954126167773628.md]
 related_entity: [[ig-claims]]
 author: [[ig-claims]]

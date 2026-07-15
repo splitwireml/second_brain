@@ -3,7 +3,7 @@ title: zettelkasten
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [knowledge-management, pkm, method]
+tags: [knowledge-management, method, pkm]
 sources: []
 ---
 

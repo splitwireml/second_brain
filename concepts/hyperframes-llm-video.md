@@ -3,7 +3,7 @@ title: HyperFrames LLM Video
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [ai-video, video-generation, llm, html, cost-optimization]
+tags: [llm, ai-video, cost-optimization, html, video-generation]
 sources: [raw/articles/rames-jusso-hyperframes-2026-05-07.md]
 related_entity: [[hyperframes]]
 author: [[rames-jusso]]

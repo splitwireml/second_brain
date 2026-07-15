@@ -3,7 +3,7 @@ title: AlphaSignal AI
 created: 2026-04-19
 updated: 2026-05-10
 type: entity
-tags: [ai-curator, tech-influencer, content-creator, llm, agent]
+tags: [agent, llm, ai-curator, content-creator, tech-influencer]
 sources: []
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: SGLang
 created: 2026-04-15
-updated: 2026-04-15
+updated: 2026-06-19
 type: entity
-tags: [inference, platform, tools]
-sources: [raw/articles/minimax-m27-huggingface-2026-04-15.md]
+tags: [platform, tools, inference]
+sources: [raw/articles/minimax-m27-huggingface-2026-04-15.md, raw/articles/dograh-voice-pipeline-stack-2026-06-19.md]
 ---
 
 # SGLang
@@ -33,3 +33,6 @@ python -m sglang.launch_server \
 
 - [[minimax-m27]] — model SGLang is used to deploy
 - [[vllm]] — alternative inference engine
+
+- [[sglang-omni]] — multi-stage audio/multimodal serving runtime built on top of SGLang
+- [[dograh-self-hosted-voice-pipeline-stack]] — applied stack design using SGLang as the LLM layer

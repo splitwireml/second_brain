@@ -3,7 +3,7 @@ title: nyk_builderz
 created: 2026-04-17
 updated: 2026-04-17
 type: entity
-tags: [person, ai-tools, claude-code]
+tags: [person, tools, ai-tools, claude-code]
 sources: [raw/articles/nyk-builderz-council-high-intelligence-2026-04-17.md]
 ---
 

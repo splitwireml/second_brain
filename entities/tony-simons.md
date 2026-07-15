@@ -3,8 +3,8 @@ title: Tony Simons
 created: 2026-05-04
 updated: 2026-05-10
 type: entity
-tags: [person, x-creator, hermes-agent, productivity]
-sources: [raw/articles/xarticle-forget-about-memory-i-built-a-context-os-for-my-he-2050793548430147982.md, raw/articles/xarticle-tonysimons_-2051473178682118241.md]
+tags: [person, hermes-agent, productivity, x-creator]
+sources: [raw/articles/xarticle-forget-about-memory-i-built-a-context-os-for-my-he-2050793548430147982.md, raw/articles/xarticle-tonysimons_-2051473178682118241.md, raw/articles/soulmd-template-2056545463713640917.md]
 related_entity: [[hermes-agent]]
 ---
 
@@ -34,7 +34,10 @@ Pets: Carl (Jack Tzu), Ruby (Great Dane), Willow (cat). X strategy: 80/20 niche/
 
 ## Related
 
-- [[hermes-memory-architecture]] — the 11-layer memory stack
+- [[hermes-agent]] — the agent [[tony-simons]] operates and documents
+- [[context-os]] — the 11-layer context operating system Tony built
+- [[nate-herk]] — AI workflow power user, [[ai-design-workflow]] + [[codex-master-guide]]
+- [[deronin]] — [[vibe-coding-cost-optimization]], token economics
 - [[soul-md-agent-framework]] — the SOUL.md concept
 - [[context-os]] — the broader context operating system concept
 - [[hermes-agent]] — the platform

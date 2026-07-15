@@ -3,7 +3,7 @@ title: MakeUGC
 created: 2026-04-13
 updated: 2026-04-26
 type: entity
-tags: [product, tools, marketing, genai, automation]
+tags: [product, tools, automation, genai, marketing]
 sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md]
 ---
 

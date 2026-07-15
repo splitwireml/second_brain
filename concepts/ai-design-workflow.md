@@ -1,10 +1,10 @@
 ---
 title: ai-design-workflow
 created: 2026-04-30
-updated: 2026-04-30
+updated: 2026-07-12
 type: concept
-tags: [ai-design, design, workflow, agent, brand, content]
-sources: [raw/articles/claude-design-brand-workflow-nateherk-2026-04-30.md]
+tags: [agent, workflow, ai-design, brand, content, design]
+sources: [raw/articles/claude-design-brand-workflow-nateherk-2026-04-30.md, raw/articles/thread-Sari__vz-2075663676992831839.md]
 related_entity: [[claude-design]]
 author: [[nate-herk]]
 ---
@@ -12,6 +12,8 @@ author: [[nate-herk]]
 # AI Design Workflow
 
 End-to-end brand-building pipeline: brainstorm in Claude chat → execute in [[claude-design]] → ship via [[claude-code]] + Vercel. Author: [[nate-herk]].
+
+A complementary local bookmark from [[sari-vz]] emphasizes the reusable resource layer around AI-assisted interface work: Impeccable, Taste Skill, UI/UX Pro Max, Awesome Design.md, React Icons, a component-generation resource for Claude Code/Codex, and Laws of UX. This is a source-reported shortlist, not a comparative benchmark. ^[raw/articles/thread-Sari__vz-2075663676992831839.md]
 
 ## Three-Surface Pipeline
 

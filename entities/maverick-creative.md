@@ -3,7 +3,7 @@ title: Maverick Creative
 created: 2026-04-25
 updated: 2026-04-25
 type: entity
-tags: [company, ugc, marketing, agency, ai-ugc]
+tags: [company, agency, ai-ugc, marketing, ugc]
 source: raw/articles/noah-frydberg-cartoon-ugc-monetization-2026-04-24.md
 ---
 

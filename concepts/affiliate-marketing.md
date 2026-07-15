@@ -3,7 +3,7 @@ title: Affiliate Marketing
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [affiliate-marketing, monetization, marketing]
+tags: [affiliate-marketing, marketing, monetization]
 sources: []
 ---
 

@@ -3,7 +3,7 @@ title: OpenClaw
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [ai-agent, open-source, local-first]
+tags: [agent, ai-agent, local-first, open-source]
 sources: [raw/articles/rohit-solo-founder-stack-2026-2047699770308014406.md]
 ---
 
@@ -19,3 +19,7 @@ Better than Hermes for local file work — reads Obsidian vault, Notion exports,
 Common community move: stack Hermes (cloud research) + OpenClaw (local research) via HermesClaw bridge.
 
 Related: [[hermes-agent]], [[solo-founder-stack-2026]], [[rohit]]
+
+## Related
+
+- [[openclaw-ai-agent-content-engine]]

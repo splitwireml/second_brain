@@ -3,7 +3,7 @@ title: marketingskills-repo
 created: 2026-05-02
 updated: 2026-05-10
 type: concept
-tags: [ai-agent, marketing, agent-tool, copywriting, cro, seo, pricing, github]
+tags: [agent, ai-agent, agent-tool, copywriting, cro, github, marketing, pricing, seo]
 sources: [raw/articles/noisy-marketingskills-ai-agent-2026-05-02.md]
 related_entity: [[noisy]]
 author: [[noisy]]

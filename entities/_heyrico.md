@@ -2,7 +2,7 @@
 title: "_heyrico"
 created: 2026-05-09
 type: entity
-tags: [person, x-creator, ai-agents, tutorial]
+tags: [person, agent, ai-agent, tutorial, x-creator]
 sources: [raw/articles/xarticle-_heyrico-2052386115488002524.md]
 related_entity: [[build-first-agent-guide]]
 updated: 2026-05-10

@@ -3,7 +3,7 @@ title: Paper.design
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [design-tool, ai-design, html, mcp, design]
+tags: [ai-design, design, design-tool, html, mcp]
 sources: [web/paper.design]
 related_entity:
   - [[huashu-design]]

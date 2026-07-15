@@ -3,7 +3,7 @@ title: design.md
 created: 2026-04-24
 updated: 2026-04-24
 type: entity
-tags: [design, ai-design, ai-agents, productivity]
+tags: [agent, ai-agent, ai-design, design, productivity]
 sources:
   - raw/articles/github-google-labs-code-design.md-2026-04-24.md
   - raw/transcripts/2026-04-24-Stitch-by-Google.md

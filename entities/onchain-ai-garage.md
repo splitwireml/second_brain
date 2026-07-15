@@ -3,7 +3,7 @@ title: Onchain AI Garage
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [person, x-creator, hermes-agent]
+tags: [person, hermes-agent, x-creator]
 sources: [raw/2026-04-21-HowHermesAgent.md]
 ---
 

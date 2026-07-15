@@ -3,7 +3,7 @@ title: World Model
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [worldmodel, embodied-ai]
+tags: [embodied-ai, worldmodel]
 sources: [raw/articles/tencent-hy-world-2-0-model-card-2026-04-23.md]
 related_entity: [[hy-world-2-0]]
 ---

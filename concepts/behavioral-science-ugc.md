@@ -1,9 +1,9 @@
 ---
 title: Behavioral Science UGC
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-06-14
 type: concept
-tags: [ugc, behavioral-science, psychology, marketing, ai-ugc, virality]
+tags: [ai-ugc, behavioral-science, marketing, psychology, ugc, virality]
 sources: [raw/articles/adriansolarzz-human-biases-ai-ugc-2047675131166671159.md]
 ---
 
@@ -58,6 +58,7 @@ Viral UGC is not born from intuition or "good创意" — it is engineered by sta
 - Total client revenue through viral reels: **$800k+**
 
 ## Related
+- [[ai-ugc-behavioral-biases]] — Behavioral-science UGC frames the bias library as a content-generation pattern
 - [[adrian-solarz]]
 - [[cartoon-ugc]]
 - [[ai-influencer-marketing]]

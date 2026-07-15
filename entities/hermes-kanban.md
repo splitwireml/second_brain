@@ -3,7 +3,7 @@ title: Hermes Kanban
 created: 2026-05-05
 updated: 2026-05-05
 type: entity
-tags: [ai-agent, orchestration, nous-research, multi-agent]
+tags: [agent, ai-agent, multi-agent, orchestration, nous-research]
 sources: [raw/articles/xarticle-hermes-kanban-turns-multi-agent-work-into-a-real-b-2051443615768228062.md]
 related_concepts: [[multi-agent-kanban-orchestration]]
 author: [[neo-ai-forecast]]

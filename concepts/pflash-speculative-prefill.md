@@ -3,7 +3,7 @@ title: PFlash Speculative Prefill
 created: 2026-05-01
 updated: 2026-05-01
 type: concept
-tags: [inference, optimization, efficiency, llm, local-llm, gpu]
+tags: [llm, inference, efficiency, gpu, local-llm, optimization]
 sources: [raw/articles/pflash-cuda-prefill-speedup-2026-05-01.md]
 related_entity: [[dflash]]
 author: [[pupposandro]]

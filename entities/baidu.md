@@ -3,7 +3,7 @@ title: Baidu
 created: 2026-04-26
 updated: 2026-04-26
 type: entity
-tags: [company, chinese-ai, baidu]
+tags: [company, baidu, chinese-ai]
 sources: [raw/articles/huggingmodels-ernie-image-2046273468120158637.md, raw/transcripts/2026-04-23-Ernie-Image-AI-ComfyUI.md]
 ---
 

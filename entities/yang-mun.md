@@ -3,7 +3,7 @@ title: Yang Mun
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [ai-persona, character, tiktok, monk]
+tags: [ai-persona, character, monk, tiktok]
 sources: [raw/articles/shalev-ai-monk-500k-2047670111709143100.md]
 ---
 

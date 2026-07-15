@@ -3,7 +3,7 @@ title: "buy-or-bounce"
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [method, ai-skill, sales, conversion, claude-skill]
+tags: [ai-skill, claude-skill, conversion, method, sales]
 sources: [raw/articles/xarticle-how-to-find-fix-whats-killing-your-sales-with-the--2047668468904808531.md]
 related_entity: [[ole-lehmann]]
 ---

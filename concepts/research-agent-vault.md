@@ -3,7 +3,7 @@ title: Research Agent Vault
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [ai-agent, research, memory, orchestration, workflow-automation]
+tags: [agent, ai-agent, memory, orchestration, research, workflow-automation]
 sources: [raw/articles/xarticle-i-run-6-ai-agents-only-this-one-makes-the-other-5--2051275483996909982.md]
 related_entity: [[hermes-agent]]
 author: [[gkisokay]]

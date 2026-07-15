@@ -3,7 +3,7 @@ title: coreyganim
 created: 2026-04-20
 updated: 2026-04-20
 type: entity
-tags: [person, ai-agents, automation]
+tags: [person, agent, ai-agent, automation]
 sources: [raw/articles/coreyganim-perplexity-computer-masterclass-2046229817977192594.md]
 ---
 

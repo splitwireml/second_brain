@@ -3,7 +3,7 @@ title: Vibe Coding in Production
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [vibe-coding, agent, reasoning, productivity]
+tags: [agent, reasoning, productivity, vibe-coding]
 sources: [raw/transcripts/0xMovez_full.md]
 author: [[eric-mishra]]
 ---

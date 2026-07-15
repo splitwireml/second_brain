@@ -3,7 +3,7 @@ title: n8n
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [automation, workflow-automation, platform, self-hosted]
+tags: [platform, automation, self-hosted, workflow-automation]
 sources: []
 ---
 
@@ -18,5 +18,5 @@ n8n acts as the orchestrator/scheduler layer, triggering workflows that feed dat
 ## See Also
 
 - [[obsidian-knowledge-vault-system]] — where n8n is used as the automation layer
-- [[workflow-automation]] — the broader concept
-- [[obsidian]] — the destination vault system
+- workflow-automation — the broader concept
+- obsidian — the destination vault system

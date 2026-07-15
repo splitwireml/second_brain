@@ -1,9 +1,9 @@
 ---
 title: GPT Image 2 Prompting
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-06-14
 type: concept
-tags: [prompting, genai, image-generation, openai]
+tags: [genai, image-generation, openai, prompting]
 sources: [raw/articles/matt-van-horn-gpt-image-2-prompting-2047016569923064055.md]
 related_entity: [[matt-van-horn]]
 author: [[matt-van-horn]]
@@ -30,5 +30,6 @@ Community-discovered prompting patterns for OpenAI's GPT Image 2 model, synthesi
 
 ## Related
 
+- [[matt-van-horn]] — related entity from frontmatter; explicit cross-link
 - [[prompt-engineering-patterns]] — general prompting patterns
 - [[openai]] — GPT Image 2 provider

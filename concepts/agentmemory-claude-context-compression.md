@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-10
 type: concept
 source: x.com/i/status/2052313902214476192
-tags: [claude-code, memory, context-window, context-limits, ai-agents, compression, open-source]
+tags: [agent, ai-agent, memory, claude-code, compression, context-limits, context-window, open-source]
 sources: [raw/articles/xarticle-2052313902214476192.md]
 ---
 

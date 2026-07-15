@@ -1,10 +1,10 @@
 ---
 title: LLM SEO
 created: 2026-04-13
-updated: 2026-04-14
+updated: 2026-07-10
 type: concept
-tags: [marketing, seo, llm]
-sources: [raw/articles/denohawari-llm-seo-2026-04-13.md]
+tags: [llm, marketing, seo]
+sources: [raw/articles/denohawari-llm-seo-2026-04-13.md, raw/articles/xarticle-2026-ai-visibility-audit-do-or-die-2074830918167015884.md]
 related_entity: [[trailblazer-marketing]]
 author: [[denohawari]]
 ---
@@ -40,6 +40,11 @@ The source highlights five working components:
 
 This positions LLM SEO as an extension of [[programmatic-seo]], not a replacement for it. The important shift is channel definition: instead of only chasing blue-link rankings, pages are optimized for citation, retrieval, and recommendation inside AI interfaces. That makes information gain, intent coverage, and comparative clarity more valuable than generic SEO volume plays.
 
+
+## 2026 AI visibility audit variant
+
+Borja's Distribb article adds an operator-facing audit loop for AI-mediated brand discovery: query ChatGPT, Claude, Perplexity, and Gemini with the purchase questions a buyer would ask; record which competitors appear; inspect the cited sources behind those answers; rank the missing sources by quote frequency and feasibility; then tighten owned pages with clear answers, clean formatting, and proof that a model can cite. This is useful because it treats [[llm-seo]] as a measurement-and-gap workflow, not merely as a content-format change. ^[raw/articles/xarticle-2026-ai-visibility-audit-do-or-die-2074830918167015884.md]
+
 ## Open questions
 
 - What concrete page changes most improve citation in ChatGPT and similar systems?
@@ -51,6 +56,8 @@ This positions LLM SEO as an extension of [[programmatic-seo]], not a replacemen
 - [[topical-authority-seo]] — classic topical-coverage substrate that strengthens the site before AI-answer-engine distribution
 - [[programmatic-seo]] — the broader page-at-scale system this tactic appears to extend
 - [[denohawari]] — source author and operator documenting the playbook
+- [[borja]] — source author for the AI visibility audit variant
+- [[distribb]] — productizing the audit workflow as an AI/SEO automation tool
 - [[trailblazer-marketing]] — agency context behind the case study and SEO execution
 - [[prompt-engineering-patterns]] — related framing for shaping content around structured intent and retrieval
 
@@ -59,3 +66,5 @@ This positions LLM SEO as an extension of [[programmatic-seo]], not a replacemen
 - [[llm-citation-local-business]] — local service business variant: earning citations from AI recommendation engines via honest comparison content
 - Raw source: `raw/articles/denohawari-llm-seo-2026-04-13.md`
 - Original tweet: https://x.com/denohawari/status/2043586544972247457
+- Raw source: `raw/articles/xarticle-2026-ai-visibility-audit-do-or-die-2074830918167015884.md`
+- Original tweet: https://x.com/borjafat/status/2074830918167015884

@@ -1,7 +1,7 @@
 ---
 title: browser-use
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-06-14
 type: entity
 tags: [company, browser-automation]
 sources: [raw/articles/browser-harness-github.md]
@@ -21,3 +21,6 @@ AI company building browser automation infrastructure for AI agents. ~3K GitHub 
 
 - browser-use.com hosts the marketing site and blog
 - The "Bitter lesson" and "Skills" posts are referenced in the browser-harness README
+
+## Related
+- [[browser-harness-self-hosted-signed-in-profile-query]] — query: browser-harness: self-hosted + signed-in Chrome profile?

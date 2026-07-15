@@ -1,9 +1,9 @@
 ---
 title: Qwen3-6-27B
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-06-14
 type: entity
-tags: [llm, qwen, model, open-source, chinese-ai]
+tags: [llm, model, chinese-ai, open-source, qwen]
 sources: [raw/articles/alibaba-qwen-qwen3-6-27b-2046939764428009914.md, raw/articles/qwen3-6-35b-rtx4070-12gb-iam-shanmukha-2026-05-01.md]
 related_entity: [[minimax]]
 ---
@@ -25,6 +25,7 @@ Dense, open-source 27B parameter language model by Alibaba's Qwen team. Announce
 Qwen3.6-27B is the latest in the Qwen3.6 series, which includes Qwen3.6-35B-A3B (Mixture of Agents with 3 experts, 35B total / 27B active per the MoA architecture). The 27B variant appears to be a dense model variant optimized for efficiency.
 
 ## Related
+- [[minimax]] — related entity from frontmatter; explicit cross-link
 - [[qwen3-8b-opus-reasoning]] — smaller 8B reasoning-specialized variant
 - [[qwen3-6-35b-a3b]] — 35B MoE variant (35B total / 27B active); Qwen3.6 series
 - [[minimax-m27]] — another open-weight model with agentic capabilities

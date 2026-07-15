@@ -3,7 +3,7 @@ title: "browser-harness: self-hosted + signed-in Chrome profile?"
 created: 2026-04-19
 updated: 2026-04-19
 type: query
-tags: [browser-automation, self-hosted, security]
+tags: [browser-automation, security, self-hosted]
 sources: [raw/articles/browser-harness-github.md]
 question: "Is browser-harness self-hosted, and does it connect to a signed-in Chrome profile?"
 answer_status: answered

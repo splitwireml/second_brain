@@ -3,7 +3,7 @@ title: Company Naming Playbook
 created: 2026-04-11
 updated: 2026-04-11
 type: concept
-tags: [marketing, brand, monetization]
+tags: [brand, marketing, monetization]
 sources: [raw/articles/scott-bair-company-naming-playbook-2026-04-11.md]
 ---
 

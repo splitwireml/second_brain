@@ -3,7 +3,7 @@ title: Quotation + Material DB Tool for Interior Design
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [idea, ai-agent-automation, saas, opportunity]
+tags: [ai-agent-automation, idea, opportunity, saas]
 sources: []
 related_entity: [[waleed]]
 ---
@@ -66,6 +66,8 @@ AI agent automation (primary), mobile apps (secondary — if mobile-first interf
 *[To be filled after validation session]*
 
 ## See also
+
+- [[interior-design-saas-project-management]]
 
 - [[waleed]] — primary user and first customer for the quotation tool
 - [[ai-workflow-setup-service]] — parallel SMB workflow automation sell approach

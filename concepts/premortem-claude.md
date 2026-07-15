@@ -3,7 +3,7 @@ title: Premortem Claude Prompting
 created: 2026-05-03
 updated: 2026-05-03
 type: concept
-tags: [method, agent]
+tags: [agent, method]
 sources: [raw/articles/ole-lehmann-premortem-claude-2026-05-02.md]
 author: [[ole-lehmann]]
 ---

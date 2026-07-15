@@ -3,7 +3,7 @@ title: HuggingFace
 created: 2026-05-06
 updated: 2026-05-06
 type: entity
-tags: [huggingface, platform]
+tags: [platform, huggingface]
 sources: []
 ---
 

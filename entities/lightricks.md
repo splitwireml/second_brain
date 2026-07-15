@@ -3,7 +3,7 @@ title: Lightricks
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [company, video-generation, generative-models, open-source]
+tags: [company, generative-models, open-source, video-generation]
 sources: [raw/articles/lightricks-ltx-2-3-2026-04-16.md]
 ---
 

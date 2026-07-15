@@ -3,7 +3,7 @@ title: "Micro-SaaS Build Playbook with Claude Code"
 created: 2026-05-07
 updated: 2026-05-10
 type: concept
-tags: [micro-saas, claude-code, solo-founder, saas, indie-hacker]
+tags: [claude-code, indie-hacker, micro-saas, saas, solo-founder]
 sources: []
 related_entity: [[regent0x_]]
 author: [[regent0x_]]

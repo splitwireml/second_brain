@@ -3,7 +3,7 @@ title: OpenRouter Agent Skill Creation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [hermes-agent, skill, agent-tool]
+tags: [agent-tool, hermes-agent, skill]
 sources: [raw/articles/openrouter-hermes-agent-openrouter-expert-2026-04-24.md]
 related_entity: [[openrouter]]
 author: [[openrouter]]

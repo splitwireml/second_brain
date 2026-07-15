@@ -3,7 +3,7 @@ title: Interior Design SaaS Project Management Tool
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [idea, saas, product, opportunity]
+tags: [product, idea, opportunity, saas]
 sources: []
 related_entity: [[waleed]]
 ---
@@ -93,6 +93,8 @@ SaaS (primary), mobile apps (secondary — mobile-first)
 *[To be filled after validation session]*
 
 ## See also
+
+- [[quotation-material-db-tool]]
 
 - [[waleed]] — primary user and first customer for the project management tool
 - [[alventra-marketing]] — parallel local SEO agency use case for the same target market

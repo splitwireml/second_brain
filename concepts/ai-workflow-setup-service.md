@@ -3,7 +3,7 @@ title: AI Workflow Setup Service
 created: 2026-04-11
 updated: 2026-04-13
 type: concept
-tags: [marketing, monetization, opportunity, tools]
+tags: [tools, marketing, monetization, opportunity]
 sources: [raw/articles/neil-xbt-ai-workflow-setup-2026-04-11.md, raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md]
 ---
 

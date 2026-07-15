@@ -3,7 +3,7 @@ title: SubQ Sparse Attention Architecture
 created: 2026-05-09
 updated: 2026-05-10
 type: concept
-tags: [llm-architecture, sparse-attention, sub-quadratic, subq, ai-research]
+tags: [ai-research, llm-architecture, sparse-attention, sub-quadratic, subq]
 sources: [raw/articles/xarticle-subq-2026.md]
 ---
 
@@ -27,7 +27,7 @@ SubQ's sparse-attention architecture finds and focuses only on the relationships
 
 - Source: [[alex_whedon]] (@alex_whedon) on X
 - Tweet: https://x.com/i/status/2051663268704636937
-- Company: [[subquadratic]]
+- Company: subquadratic
 
 ## Related Concepts
 

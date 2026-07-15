@@ -3,7 +3,7 @@ title: Qwen-Image-Layered
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
-tags: [model, qwen, chinese-ai, computer-vision, multimodal, layered-image-decomposition, diffusion, open-source, oss-ai]
+tags: [model, chinese-ai, computer-vision, diffusion, layered-image-decomposition, multimodal, open-source, oss-ai, qwen]
 sources: [raw/articles/huggingface-unsloth-qwen-image-layered-gguf-2026-04-23.md]
 related_entity: [[qwen3-6-27b]]
 ---
@@ -37,6 +37,8 @@ Image-layer decomposition model by Alibaba's Qwen team (Qwen/Minimax/[[tencent]]
 GGUF quantized versions by [[unsloth]] available at [unsloth/Qwen-Image-Layered-GGUF](https://huggingface.co/unsloth/Qwen-Image-Layered-GGUF), using Unsloth Dynamic 2.0 methodology. Available quantizations: Q4_0, Q4_1, Q4_K_M, Q4_K_S, Q5_0, Q5_1, Q5_K_M, Q5_K_S, Q6_K, Q8_0.
 
 ## Related
+
+- [[layered-image-decomposition]]
 
 - [[qwen3-6-27b]] — Qwen dense language model
 - [[qwen3-8b-opus-reasoning]] — Qwen reasoning-specialized variant

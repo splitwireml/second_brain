@@ -3,7 +3,7 @@ title: Minions - Hermes Agent mission control
 created: 2026-05-08
 updated: 2026-05-10
 type: concept
-tags: [hermes-agent, ai-agent, task-management]
+tags: [agent, ai-agent, hermes-agent, task-management]
 sources: []
 related_entity: [[an_engineer_log]]
 author: [[an_engineer_log]]

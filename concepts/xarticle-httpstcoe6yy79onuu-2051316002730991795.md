@@ -3,7 +3,7 @@ title: "xarticle-httpstcoe6yy79onuu-2051316002730991795"
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [x-article, export-failed]
+tags: [export-failed, x-article]
 sources: [raw/articles/xarticle-httpstcoe6yy79onuu-2051316002730991795.md]
 related_entity: [[trevin-chow]]
 author: [[trevin-chow]]
@@ -24,8 +24,8 @@ Full article content was **not captured**. Bird API export failed with `bird rea
 
 ## Concepts
 
-- [[export-failure]]
+- export-failure
 
 ## Source
 
-- Raw source: [[raw/articles/xarticle-httpstcoe6yy79onuu-2051316002730991795]]
+- Raw source: [[xarticle-httpstcoe6yy79onuu-2051316002730991795]]

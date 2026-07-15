@@ -3,7 +3,7 @@ title: Adam Robinson
 created: 2026-01-27
 updated: 2026-01-27
 type: entity
-tags: [person, content-creator, x-creator, startup, saas]
+tags: [person, content-creator, saas, startup, x-creator]
 sources: [raw/articles/adam-robinson-launch-ai-company-2026-01-27.md]
 ---
 

@@ -3,7 +3,7 @@ title: Matthew Berman
 created: 2026-04-24
 updated: 2026-04-24
 type: entity
-tags: [person, content-creator, tools]
+tags: [person, tools, content-creator]
 sources: [raw/articles/matthew-berman-convert-anything-markdown-journey-2026-04-24.md]
 ---
 

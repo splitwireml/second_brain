@@ -3,7 +3,7 @@ title: Hermes Agent Community Extensions (May 2026)
 created: 2026-05-06
 updated: 2026-05-06
 type: concept
-tags: [hermes-agent, agent, open-source, ecosystem, memory, security]
+tags: [agent, memory, ecosystem, hermes-agent, open-source, security]
 sources: [raw/articles/thread-gittrend0x-2050572172301606967.md]
 author: [[gittend0x]]
 ---

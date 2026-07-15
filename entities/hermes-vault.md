@@ -3,7 +3,7 @@ title: hermes-vault
 created: 2026-05-04
 updated: 2026-05-04
 type: entity
-tags: [github, hermes-agent, open-source, mcp]
+tags: [github, hermes-agent, mcp, open-source]
 sources: [raw/articles/xarticle-forget-about-memory-i-built-a-context-os-for-my-he-2050793548430147982.md]
 ---
 

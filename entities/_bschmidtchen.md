@@ -3,7 +3,7 @@ title: "_bschmidtchen"
 created: 2026-05-09
 updated: 2026-05-09
 type: entity
-tags: [person, ai-research, world-models, generative-ai]
+tags: [person, ai-research, generative-ai, world-models]
 sources: [raw/articles/xarticle-_bschmidtchen-2052454092061179945.md]
 ---
 

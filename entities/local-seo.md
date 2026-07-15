@@ -3,7 +3,7 @@ title: Local SEO
 created: 2026-04-18
 updated: 2026-04-18
 type: entity
-tags: [local-seo, seo, marketing]
+tags: [local-seo, marketing, seo]
 sources: []
 related_entity: []
 ---

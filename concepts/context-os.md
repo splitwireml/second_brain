@@ -3,7 +3,7 @@ title: Context OS
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [ai-agent, memory, architecture, hermes-agent]
+tags: [agent, ai-agent, memory, architecture, hermes-agent]
 sources: [raw/articles/xarticle-forget-about-memory-i-built-a-context-os-for-my-he-2050793548430147982.md]
 ---
 
@@ -12,6 +12,15 @@ sources: [raw/articles/xarticle-forget-about-memory-i-built-a-context-os-for-my-
 A layered infrastructure approach to AI agent memory, where distinct subsystems handle identity, facts, procedures, session history, compression, and scheduled routines — navigated like a file system rather than dumped into a single prompt.
 
 Coined by [[tony-simons]] in his "Forget About Memory" post (May 2026), describing his [[hermes-memory-architecture]].
+
+## Related: Agent Memory Systems
+
+Tony Simons' Context OS is one implementation of the broader agent memory architecture pattern:
+
+- [[agent-memory-architecture]] — generic principles for agent-scale memory design (Mercury Agent framework)
+- [[personal-ai-infrastructure]] — [[noisy]]'s PAI Life OS, a different implementation of the same layered-memory concept (45 skills, 171 workflows, Algorithm v6.3.0)
+- [[personal-ai-agent-architecture]] — [[seelffff]]'s desktop agent setup, simpler two-layer approach
+- [[soul-md-agent-framework]] — the SOUL.md identity file that serves as the top layer in Tony Simons' Context OS
 
 Core thesis: "Memory isn't a feature. Memory is infrastructure." Treating memory as a checkbox ("we remember your conversations") produces a sticky note. Treating it as a layered stack produces a context operating system.
 

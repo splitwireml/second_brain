@@ -3,7 +3,7 @@ title: khairallah-ai-agents-team
 created: 2026-05-05
 updated: 2026-05-07
 type: entity
-tags: [ai-agent, automation, workflow, startup, x-article]
+tags: [agent, ai-agent, workflow, automation, startup, x-article]
 sources: [raw/articles/khairallah-ai-agents-team-founding-2051596186851914019.md]
 ---
 

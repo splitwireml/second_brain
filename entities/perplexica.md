@@ -3,7 +3,7 @@ title: "Perplexica"
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [ai-tools, rag, search, open-source]
+tags: [tools, ai-tools, open-source, rag, search]
 sources: []
 ---
 

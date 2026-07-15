@@ -3,7 +3,7 @@ title: custom-mcp-servers
 created: 2026-05-06
 updated: 2026-05-06
 type: concept
-tags: [mcp, automation, tools, ai-agent, startup, monetization, course]
+tags: [tools, agent, ai-agent, automation, course, mcp, monetization, startup]
 sources: [raw/articles/khairallah-custom-mcp-servers-2051958872156635350.md]
 related_entity: [[khairallah-custom-mcp-servers]]
 author: [[khairallah-al-awady]]

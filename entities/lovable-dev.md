@@ -1,10 +1,10 @@
 ---
 title: Lovable.dev
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-07-15
 type: entity
-tags: [ai-tools, product, saas, no-code, vibe-coding]
-sources: [raw/articles/firecrawl-open-lovable-github-2026-04-16.md]
+tags: [product, tools, ai-tools, no-code, saas, vibe-coding]
+sources: [raw/articles/firecrawl-open-lovable-github-2026-04-16.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md]
 related_entity: [[open-lovable]]
 ---
 
@@ -38,6 +38,10 @@ For the technical audience, [[open-lovable]] serves as the reference implementat
 - Uses [[firecrawl]] for web scraping under the hood (same as Open Lovable)
 - Often paired with [[claude-cowork]] for SEO tooling workflows (ColdIQ case study)
 - Used in [[four-layer-b2b-funnel]] for building mini-tools (ColdIQ use case)
+
+## Autonomous build route
+
+In Jacob Klug's source-described build, Lovable's multi-task mode split a single kickoff instruction into parallel tasks for an Asana-like app, while the app maintained a live tracker of features and user stories through build, test, and fix. This is a concrete [[loop-engineering]] implementation for non-technical operators; the reported timing, credits, and feature coverage remain source claims.^[raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md]
 
 ## Sources
 

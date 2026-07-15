@@ -3,7 +3,7 @@ title: M5 Ultra vs Cloud Inference Analysis
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [apple-silicon, inference, finance, comparison]
+tags: [inference, apple-silicon, comparison, finance]
 sources: [raw/articles/marcw4ovt-apple-wwdc-2026-m5-ultra-2026-04-19.md]
 author: [[marc-bowen]]
 ---

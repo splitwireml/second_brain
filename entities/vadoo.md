@@ -3,7 +3,7 @@ title: Vadoo
 created: 2026-04-20
 updated: 2026-04-20
 type: entity
-tags: [AI-company, genai, video-generation, platform]
+tags: [company, platform, ai-company, genai, video-generation]
 sources: [raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md]
 ---
 

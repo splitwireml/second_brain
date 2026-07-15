@@ -1,9 +1,9 @@
 ---
 title: granite-speech-4.1-2b-nar
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-06-14
 type: entity
-tags: [model, llm, oss-ai, transcription, audio, speech]
+tags: [llm, model, audio, oss-ai, speech, transcription]
 sources: [raw/articles/ibm-granite-granite-speech-4-1-2b-plus-2026-04-28.md]
 related_entity: [[ibm-granite]]
 ---
@@ -23,3 +23,6 @@ Average WER: 5.44 (between the base 5.33 and plus 5.71).
 ## References
 
 - [NLE: Non-autoregressive LLM-based ASR by Transcript Editing (arXiv:2603.08397)](https://arxiv.org/abs/2603.08397)
+
+## Related
+- [[ibm-granite]] — related entity from frontmatter; explicit cross-link

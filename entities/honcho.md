@@ -3,7 +3,7 @@ title: Honcho
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
-tags: [person, tool, hermes-agent]
+tags: [person, tools, hermes-agent]
 sources: [https://github.com/friendlycactus/honcho]
 related_entity: []
 ---

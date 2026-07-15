@@ -3,7 +3,7 @@ title: Daniel Foley Carter
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [person, seo, marketing]
+tags: [person, marketing, seo]
 sources: [raw/articles/foley-seo-scrapling-2026-04-12.md]
 ---
 

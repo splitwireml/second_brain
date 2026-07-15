@@ -3,7 +3,7 @@ title: Hermes Auxiliary Model Configuration
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [hermes-agent, inference, cost-optimization]
+tags: [inference, cost-optimization, hermes-agent]
 sources: [raw/2026-04-21-HowHermesAgent.md]
 related_entity: [[hermes-agent]]
 author: [[onchain-ai-garage]]

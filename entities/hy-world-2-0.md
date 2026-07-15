@@ -3,7 +3,7 @@ title: HY-World 2.0
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
-tags: [model, oss-ai, computer-vision, reconstruction]
+tags: [model, computer-vision, oss-ai, reconstruction]
 sources: [raw/articles/tencent-hy-world-2-0-model-card-2026-04-23.md]
 related_entity: [[tencent]]
 ---

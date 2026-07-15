@@ -1,10 +1,10 @@
 ---
 title: "Deep Agents Evals"
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-07-09
 type: concept
 tags: [agent, evaluation]
-sources: [raw/articles/x-bookmarks-2026.md, raw/articles/x-bookmarks-weekly.md]
+sources: [raw/articles/x-bookmarks-2026.md, raw/articles/x-bookmarks-weekly.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md]
 ---
 
 # How We Build Evals for Deep Agents
@@ -37,6 +37,10 @@ Evaluate at intermediate steps in the agentic trace (every N steps), not just th
 
 ### Weighted Rubrics
 Define a rubric of subtasks; each has a weight; final score is weighted sum. Enables partial credit.
+
+## Outcome and trajectory grading
+
+[[eyad-khrais]]'s applied AI engineering guide makes the evaluation split concrete: grade the final outcome separately from the trajectory that produced it. A production agent can reach the right final answer while taking a dangerous path, such as touching a forbidden field or attempting payment before approval. Deterministic checks should catch safety violations in the tool-call log, while model judges or rubrics score judgment calls such as escalation quality or reasoning adequacy.
 
 ## Relevance to This Wiki
 

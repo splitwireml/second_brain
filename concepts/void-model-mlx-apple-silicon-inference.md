@@ -1,9 +1,9 @@
 ---
 title: "Void-Model-MLX Apple Silicon Inference"
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-06-14
 type: concept
-tags: [apple-silicon, inference, local-llm]
+tags: [inference, apple-silicon, local-llm]
 sources: [raw/articles/huggingmodels-void-model-mlx-apple-silicon-2026-04-20.md]
 related_entity: [[void-model-mlx]]
 ---
@@ -36,3 +36,6 @@ Running transformer models locally on Mac hardware using Apple's MLX framework, 
 > Meet the Void-Model-MLX: a transformer model optimized for Apple Silicon. This isn't just another model, it's a gateway to running powerful AI locally on your Mac. No cloud, no fuss, just pure on-device capability.
 
 — [[huggingmodels]], [tweet](https://x.com/HuggingModels/status/2046303662872682643), 2026-04-20
+
+## Related
+- [[void-model-mlx]] — related entity from frontmatter; explicit cross-link

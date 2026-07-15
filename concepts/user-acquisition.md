@@ -3,7 +3,7 @@ title: User Acquisition
 created: 2026-01-27
 updated: 2026-01-27
 type: concept
-tags: [user-acquisition, growth]
+tags: [growth, user-acquisition]
 sources: []
 ---
 

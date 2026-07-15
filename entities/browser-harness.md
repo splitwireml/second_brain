@@ -1,9 +1,9 @@
 ---
 title: browser-harness
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-06-14
 type: entity
-tags: [browser-automation, agent, open-source]
+tags: [agent, browser-automation, open-source]
 sources: [raw/articles/browser-harness-github.md]
 related_entity: [[browser-use]]
 ---
@@ -73,6 +73,7 @@ When the agent encounters a missing capability (e.g., `upload_file()`), it edits
 
 ## Related
 
+- [[browser-harness-self-hosted-signed-in-profile-query]] — query: browser-harness: self-hosted + signed-in Chrome profile?
 - [[browser-use]] — company behind the harness
 - [[http-browser-automation-for-ai-agents]] — concept of HTTP-based browser control
 - [[agent-web-stack]] — includes browser-use as final interaction layer

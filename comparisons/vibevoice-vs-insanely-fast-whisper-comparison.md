@@ -3,7 +3,7 @@ title: VibeVoice vs Insanely Fast Whisper Comparison
 created: 2026-04-10
 updated: 2026-04-10
 type: comparison
-tags: [comparison, speech, oss-ai]
+tags: [comparison, oss-ai, speech]
 sources: [raw/articles/vibevoice-vs-insanely-fast-whisper-comparison-2026-04-10.md]
 ---
 
@@ -51,3 +51,7 @@ Not comparable products — they solve speech-to-text with fundamentally differe
 - [[vibevoice]]
 - [[insanely-fast-whisper]]
 - Full analysis: raw/articles/vibevoice-vs-insanely-fast-whisper-comparison-2026-04-10.md
+
+## Related
+
+- [[hindi-english-fluency-voice-ai]]

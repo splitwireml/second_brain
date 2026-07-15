@@ -3,7 +3,7 @@ title: "Vane self-hosted AI search — backend, OpenRouter, search providers"
 created: 2026-04-18
 updated: 2026-04-18
 type: query
-tags: [ai-tools, rag, search, self-hosted]
+tags: [tools, ai-tools, rag, search, self-hosted]
 sources: [raw/articles/itzcrazykns-vane-ai-answering-engine.md, sources/vane/src/lib/models/providers/index.ts, sources/vane/src/lib/models/providers/openai/index.ts, sources/vane/src/lib/models/providers/openai/openaiLLM.ts, sources/vane/src/lib/searxng.ts]
 question: "Does Vane run a backend? Does it support OpenRouter? Does it need a paid search provider?"
 answer_status: answered

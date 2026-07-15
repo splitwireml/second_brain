@@ -3,7 +3,7 @@ title: Segmentation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [segmentation, computer-vision]
+tags: [computer-vision, segmentation]
 sources: []
 ---
 

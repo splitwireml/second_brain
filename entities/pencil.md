@@ -1,9 +1,9 @@
 ---
 title: Pencil
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-06-14
 type: entity
-tags: [design-tool, ai-design, mcp, desktop-app, ide-extension, cli]
+tags: [ai-design, cli, design-tool, desktop-app, ide-extension, mcp]
 sources: [https://www.pencil.dev, https://www.pencil.dev/download, https://www.pencil.dev/pricing, https://registry.npmjs.org/@pencil.dev/cli/0.2.5]
 related_entity:
   - [[paper-design]]
@@ -119,3 +119,6 @@ https://cdn.jsdelivr.net/npm/@pencil.dev/cli@latest/SKILL.md
 The skill is auto-versioned with the CLI — update CLI to get the latest skill instructions.
 
 See [[paper-design-vs-huashu-design]] for the three-way comparison.
+
+## Related
+- [[paper-design]] — related entity from frontmatter; explicit cross-link

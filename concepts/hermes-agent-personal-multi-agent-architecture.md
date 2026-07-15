@@ -3,7 +3,7 @@ title: Hermes Agent Personal Multi-Agent Architecture
 created: 2026-05-06
 updated: 2026-05-06
 type: concept
-tags: [hermes-agent, ai-agent, architecture, workflow, multi-agent, productivity]
+tags: [agent, ai-agent, multi-agent, workflow, architecture, hermes-agent, productivity]
 sources: [raw/articles/xarticle-what-i-use-hermes-agent-for-and-how-i-use-it-2050984556790939731.md]
 author: [[vmiss]]
 ---

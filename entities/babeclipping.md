@@ -3,7 +3,7 @@ title: babeclipping
 created: 2026-04-19
 updated: 2026-05-01
 type: entity
-tags: [person, ugc, monetization, tiktok, x-creator]
+tags: [person, monetization, tiktok, ugc, x-creator]
 sources: [raw/articles/babeclipping-cartoon-characters-money-2026-04-19.md]
 ---
 

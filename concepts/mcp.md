@@ -3,7 +3,7 @@ title: MCP
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [protocol, agent]
+tags: [agent, protocol]
 sources: []
 related_entity: [[hermes-vault]]
 ---

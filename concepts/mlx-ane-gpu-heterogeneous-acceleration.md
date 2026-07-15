@@ -3,7 +3,7 @@ title: MLX ANE GPU Heterogeneous Acceleration
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [apple-silicon, inference, performance, optimization]
+tags: [inference, apple-silicon, optimization, performance]
 sources: [raw/articles/x-bookmark-2044381562926457335.md]
 ---
 

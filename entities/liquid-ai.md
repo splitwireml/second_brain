@@ -3,7 +3,7 @@ title: Liquid AI
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [AI-company, llm, model]
+tags: [company, llm, model, ai-company]
 sources: [raw/articles/liquid-ai-lfm2-5-vl-450m-model-card-2026-04-16.md]
 ---
 

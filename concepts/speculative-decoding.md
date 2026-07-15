@@ -3,7 +3,7 @@ title: Speculative Decoding
 created: 2026-05-06
 updated: 2026-05-06
 type: concept
-tags: [inference, llm, optimization]
+tags: [llm, inference, optimization]
 sources: [raw/articles/google-multi-token-prediction-gemma-4.md]
 ---
 

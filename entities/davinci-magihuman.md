@@ -3,7 +3,7 @@ title: "daVinci-MagiHuman"
 created: 2026-04-24
 updated: 2026-04-24
 type: entity
-tags: [model, image-to-video, architecture, inference]
+tags: [model, inference, architecture, image-to-video]
 sources: [raw/articles/xarticle-meet-davinci-magihuman-2047107948401541142.md]
 ---
 

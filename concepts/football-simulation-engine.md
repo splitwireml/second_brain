@@ -3,7 +3,7 @@ title: Football Simulation Engine
 created: 2026-04-09
 updated: 2026-04-09
 type: concept
-tags: [project, agent, model, rl, deep-learning]
+tags: [agent, model, deep-learning, project, rl]
 sources: [raw/articles/football-simulator-engine-plan.md]
 ---
 

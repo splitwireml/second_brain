@@ -3,7 +3,7 @@ title: Z Lab
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [AI-company]
+tags: [company, ai-company]
 sources: [raw/articles/z-lab-dflash-2026-04-16.md]
 ---
 

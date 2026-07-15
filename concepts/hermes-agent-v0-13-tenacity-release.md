@@ -3,7 +3,7 @@ title: "Hermes Agent v0.13.0 \"The Tenacity Release\""
 created: 2026-05-07
 updated: 2026-05-10
 type: concept
-tags: [hermes-agent, release, ai-agent]
+tags: [agent, ai-agent, hermes-agent, release]
 sources: []
 related_entity: [[hermes-agent]]
 ---

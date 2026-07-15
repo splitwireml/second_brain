@@ -3,7 +3,7 @@ title: Camoufox
 created: 2026-04-15
 updated: 2026-04-25
 type: entity
-tags: [tools, ai-tools, open-source, browser-automation]
+tags: [tools, ai-tools, browser-automation, open-source]
 sources: [raw/articles/theahmadosman-agent-web-stack-2026-04-15.md]
 ---
 

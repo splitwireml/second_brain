@@ -3,7 +3,7 @@ title: tomzaragoza
 created: 2026-05-11
 updated: 2026-05-11
 type: entity
-tags: [x-creator, content-creator, seo, ai-agent]
+tags: [agent, ai-agent, content-creator, seo, x-creator]
 sources: [raw/articles/thread-tomzaragoza-2052582722795720933.md]
 ---
 

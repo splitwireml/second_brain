@@ -3,7 +3,7 @@ title: Career-Ops
 created: 2026-04-13
 updated: 2026-04-15
 type: entity
-tags: [agent, tools, open-source]
+tags: [tools, agent, open-source]
 sources: [raw/articles/santifer-career-ops-2026-04-13.md]
 ---
 

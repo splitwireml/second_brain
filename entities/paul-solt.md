@@ -1,10 +1,10 @@
 ---
 title: Paul Solt
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-07-11
 type: entity
 tags: [person]
-sources: [raw/articles/paul-solt-app-store-packaging-250-5k-mrr-2045580498232373433.md]
+sources: [raw/articles/paul-solt-app-store-packaging-250-5k-mrr-2045580498232373433.md, raw/articles/xarticle-how-i-build-apps-with-codex-without-opening-xcode-2040132557983936772.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md]
 ---
 
 # Paul Solt
@@ -29,7 +29,21 @@ The article distills Viktor Seraleev's consulting work on App Store conversion o
 
 Paul's article references Viktor Seraleev (@seraleev) as the source of the app store conversion data. Viktor's 12 app store experiments are available at super-easy-apps.kit.com.
 
+## Codex / Apple app workflow
+
+Paul's April 2026 article adds an implementation layer to his Codex work: make iPhone and Mac projects agent-friendly before asking the agent to own more of the build loop. The source uses [[appcreator]] to scaffold or retrofit projects, a `Makefile` around `xcodebuild` and `xcbeautify`, separate fast unit-test and slower UI-test targets, runtime logs, focused human steering, and local Apple documentation through DocSetQuery. The reusable synthesis is [[agent-friendly-xcode-projects]]: reduce noisy feedback and expose deterministic checks before increasing agent autonomy.
+
+The workflow's productivity and reliability claims remain source-described; the linked AppCreator positioning and DocSetQuery repository were independently checked.
+
+## Manager-worker PR loop
+
+Paul's July 2026 follow-up documents a concrete [[manager-worker-pr-loop]]: one Codex manager thread coordinates isolated worker threads, watches PRs and CI on a 5–10 minute heartbeat, routes review feedback back to workers, and gates merges on tests plus manual UI checks. The source reports an 8-feature, 12-hour-19-minute run and a four-task proof of concept before scaling; those throughput claims remain source-reported.
+
 ## Related
 
 - [[viktor-seraleev]] — primary source for the app store packaging data
 - [[app-store-packaging]] — concept page
+- [[agent-friendly-xcode-projects]] — Codex/Xcode workflow from the follow-up source
+- [[appcreator]] — skill named in the follow-up source
+- [[codex]] — coding agent used in the workflow
+- [[manager-worker-pr-loop]] — manager/worker PR orchestration from the latest source

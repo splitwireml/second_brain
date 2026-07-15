@@ -1,9 +1,9 @@
 ---
 title: tribe-v2-video-brain-activation
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-06-14
 type: concept
-tags: [marketing, video, virality, neuroscience, ai-tools]
+tags: [tools, ai-tools, marketing, neuroscience, video, virality]
 sources: [raw/articles/mattepstein-tribe-viral-cheat-code-2048190139055423779-2026-04-25.md]
 related_entity: [[mattepstein]]
 author: [[mattepstein]]
@@ -65,3 +65,6 @@ TRIE provides objective scoring (e.g., "Cut A scores 7.4 sustained activation; C
 
 - raw/articles/mattepstein-tribe-viral-cheat-code-2048190139055423779-2026-04-25.md
 - TRIBE v2 demo: http://aidemos.atmeta.com/tribev2
+
+## Related
+- [[mattepstein]] — related entity from frontmatter; explicit cross-link

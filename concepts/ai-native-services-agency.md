@@ -1,9 +1,9 @@
 ---
 title: "AI-Native Services Agency"
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [ai-business, agency, outbound, services-as-software]
+tags: [agency, ai-business, outbound, services-as-software]
 sources: []
 related_entity: [[coldiq]]
 ---
@@ -41,6 +41,7 @@ Concept describing the "services-as-software" agency model where AI handles the 
 - Model works in: outbound, recruitment, paid media, technical SEO, customer support, sales engineering, ABM
 
 ## Related
+- [[coldiq]] — related entity from frontmatter; explicit cross-link
 - [[ai-business-models-2026]]
 - [[micro-saas-claude-code-playbook]]
 - [[service-as-software]] (mentioned in related tags)

@@ -3,7 +3,7 @@ title: Prompt Engineering Patterns - 10 High-Impact Templates
 created: 2026-04-09
 updated: 2026-04-13
 type: concept
-tags: [marketing, method, monetization, opportunity, llm]
+tags: [llm, marketing, method, monetization, opportunity]
 sources: [raw/articles/x-10-prompts-40-hours.md, raw/articles/prajwal-tomar-ai-cinematic-landing-page-2026-04-09.md, raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md]
 ---
 

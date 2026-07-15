@@ -3,7 +3,7 @@ title: starmex
 created: 2026-04-30
 updated: 2026-04-30
 type: entity
-tags: [x-creator, content-creator, ai-services, monetization]
+tags: [ai-services, content-creator, monetization, x-creator]
 sources: [raw/articles/starmexxx-discord-bot-claude-code-2049737716804239591.md]
 ---
 

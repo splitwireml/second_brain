@@ -3,7 +3,7 @@ title: Ecommerce Funnel Training
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [ecommerce, marketing, growth]
+tags: [ecommerce, growth, marketing]
 sources: [raw/articles/maxwellcopy-ecommerce-funnel-2051640749100531800.md]
 related_entity: [[maxwellcopy-ecommerce-funnel]]
 ---

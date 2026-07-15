@@ -1,9 +1,9 @@
 ---
 title: agent-skills-framework
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-06-14
 type: concept
-tags: [ai-agent, skill, prompting, delegation]
+tags: [agent, ai-agent, delegation, prompting, skill]
 sources: [raw/articles/xarticle-httpstco1flvfypeuv-2053056506157781419.md]
 related_entity: [[ridark]]
 ---
@@ -15,3 +15,6 @@ ridark's framework for structuring AI agent skills. Core principles: keep skills
 ## Sources
 
 - [X Article](https://x.com/ridark_eth/status/2053056506157781419) — May 9, 2026; export failed (bird read --json); full content unavailable
+
+## Related
+- [[ridark]] — related entity from frontmatter; explicit cross-link

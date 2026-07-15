@@ -3,7 +3,7 @@ title: granite-speech-4.1-2b-plus
 created: 2026-05-01
 updated: 2026-05-01
 type: entity
-tags: [model, llm, oss-ai, benchmark, transcription, audio, speech]
+tags: [llm, model, audio, benchmark, oss-ai, speech, transcription]
 sources: [raw/articles/ibm-granite-granite-speech-4-1-2b-plus-2026-04-28.md]
 related_entity: [[ibm-granite]]
 ---

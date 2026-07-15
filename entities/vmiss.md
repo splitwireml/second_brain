@@ -3,7 +3,7 @@ title: vmiss
 created: 2026-05-06
 updated: 2026-05-06
 type: entity
-tags: [x-creator, content-creator, person]
+tags: [person, content-creator, x-creator]
 sources: [raw/articles/xarticle-what-i-use-hermes-agent-for-and-how-i-use-it-2050984556790939731.md]
 ---
 

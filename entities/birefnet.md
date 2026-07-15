@@ -3,7 +3,7 @@ title: BiRefNet
 created: 2026-04-26
 updated: 2026-04-26
 type: entity
-tags: [model, background-removal, image-segmentation, salient-object-detection, pytorch, mit-license]
+tags: [model, background-removal, image-segmentation, mit-license, pytorch, salient-object-detection]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md]
 ---
 

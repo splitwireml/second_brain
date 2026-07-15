@@ -1,9 +1,9 @@
 ---
 title: Three-Way Tournament Self-Refinement
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-14
 type: concept
-tags: [method, llm, agent]
+tags: [agent, llm, method]
 sources: [raw/papers/autoreason.tex]
 related_entity: [[autoreason]]
 author: [[shl0ms]]
@@ -51,3 +51,6 @@ The incumbent survives $k=2$ consecutive passes. $k=1$ terminates prematurely (9
 - Addresses [LLM self-correction unreliability](/huang2023) (Huang et al. 2023) — external judges provide the feedback that self-correction lacks
 - Related to [LLM-as-Judge](/zheng2023) literature — fresh isolated agents mitigate position bias and self-preference bias
 - The bloat/prune oscillation is a signal of [scope underdetermination](https://en.wikipedia.org/wiki/Underdetermined_system) — when the task doesn't specify desired output scope, the loop oscillates between "comprehensive" (AB adds detail) and "focused" (B strips back)
+
+## Related
+- [[autoreason]] — related entity from frontmatter; explicit cross-link

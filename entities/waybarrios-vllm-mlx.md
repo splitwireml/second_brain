@@ -3,7 +3,7 @@ title: vllm-mlx
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [apple-silicon, llm, local-llm, multimodal, inference, openai, anthropic, speech]
+tags: [llm, inference, anthropic, apple-silicon, local-llm, multimodal, openai, speech]
 sources:
   - raw/articles/github-waybarrios-vllm-mlx-2026-04-27.md
 url: https://github.com/waybarrios/vllm-mlx

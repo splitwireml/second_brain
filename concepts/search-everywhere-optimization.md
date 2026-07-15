@@ -3,7 +3,7 @@ title: search-everywhere-optimization
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
-tags: [seo, content-strategy, local-seo, geo, aio]
+tags: [aio, content-strategy, geo, local-seo, seo]
 sources: [entities/nathangotch.md, raw/articles/nathangotch-seo-2026-2046539369230606598.md]
 ---
 

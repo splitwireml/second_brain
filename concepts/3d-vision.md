@@ -1,10 +1,10 @@
 ---
 title: 3D Vision
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-04
 type: concept
 tags: [3d-vision]
-sources: []
+sources: [raw/articles/tencentarc-pixal3d-huggingface-2026-06-04.md]
 ---
 
 ## Overview
@@ -18,7 +18,7 @@ sources: []
 - **3D Gaussian Splatting (3DGS)** — explicit scene representation using 3D Gaussians; faster than NeRF
 - **Depth estimation** — monocular or stereo depth from single images or video
 - **3D object detection** — localize and classify objects in 3D space (bounding boxes or meshes)
-- **Mesh/point cloud generation** — generate 3D shapes from text or images (Point-E, DreamFusion, Zero123++)
+- **Mesh/point cloud generation** — generate 3D shapes from text or images (Point-E, DreamFusion, Zero123++, [[pixal3d]])
 
 ## Key Methods
 
@@ -26,9 +26,11 @@ sources: []
 - **3DGS** — replaces neural rendering with explicit Gaussian primitives; real-time
 - **Depth Anything v2** — monocular depth estimation foundation model
 - **DUSt3R** — zero-shot 3D reconstruction from arbitrary image pairs
+- **Pixal3D** — pixel-aligned single-image 3D generation oriented toward detailed geometry plus textured asset export
 
 ## Related Concepts
 
 - [[computer-vision]] — the broader domain; 3D vision is a specialized sub-domain
 - [[segmentation]] — 3D semantic segmentation extends segmentation to point clouds
 - [[training-free]] — methods like DUSt3R operate zero-shot without task-specific training
+- [[pixal3d]] — recent single-image 3D asset generation system from [[tencentarc]]

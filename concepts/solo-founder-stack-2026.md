@@ -3,7 +3,7 @@ title: Solo Founder Stack 2026
 created: 2026-04-27
 updated: 2026-04-27
 type: concept
-tags: [solo-founder, ai-agents, automation, stack]
+tags: [agent, ai-agent, automation, solo-founder, stack]
 sources: [raw/articles/rohit-solo-founder-stack-2026-2047699770308014406.md]
 related_entity: [[rohit]]
 ---

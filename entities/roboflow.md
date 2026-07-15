@@ -3,7 +3,7 @@ title: Roboflow
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [computer-vision, platform, object-detection, deep-learning]
+tags: [platform, computer-vision, deep-learning, object-detection]
 sources: [raw/articles/skalskip92-rf-detr-nas-roboflow-2026-04-20.md]
 ---
 

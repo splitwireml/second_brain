@@ -3,7 +3,7 @@ title: "Void-Model-MLX"
 created: 2026-04-20
 updated: 2026-04-20
 type: entity
-tags: [apple-silicon, inference, local-llm, model]
+tags: [model, inference, apple-silicon, local-llm]
 sources: [raw/articles/huggingmodels-void-model-mlx-apple-silicon-2026-04-20.md]
 ---
 

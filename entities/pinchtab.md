@@ -1,9 +1,9 @@
 ---
 title: PinchTab
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: entity
-tags: [browser-automation, ai-agents, tools, open-source, golang]
+tags: [tools, agent, ai-agent, browser-automation, golang, open-source]
 sources: [raw/articles/heynavtoor-pinchtab-browser-automation-2026-03-03.md, raw/articles/pinchtab-github-repo-2026-04-16.md]
 related_entity: [[heynavtoor]]
 ---
@@ -71,3 +71,6 @@ Standalone HTTP server for AI agent browser control. ~15MB self-contained Go bin
 - [[scrapling]] — adaptive web scraping framework; PinchTab targets agent browser control vs scraping
 - [[camoufox]] — browser automation with anti-detection; PinchTab competes in the same stealth browser space
 - [[hermes-agent]] — could use PinchTab as browser backend via HTTP calls
+
+## Related
+- [[browser-harness-self-hosted-signed-in-profile-query]] — query: browser-harness: self-hosted + signed-in Chrome profile?

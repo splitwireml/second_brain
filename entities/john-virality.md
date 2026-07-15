@@ -1,10 +1,10 @@
 ---
 title: John Virality
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-07-09
 type: entity
-tags: [person]
-sources: [raw/articles/john-virality-ai-ugc-virality-mechanics-2045501261131190488.md]
+tags: [person, x-creator, content-creator]
+sources: [raw/articles/john-virality-ai-ugc-virality-mechanics-2045501261131190488.md, raw/articles/xarticle-every-viral-ai-video-format-explained-in-1-article-2074886930479620587.md]
 ---
 
 # John Virality
@@ -42,6 +42,10 @@ X creator [@johnvirality](https://x.com/johnvirality). Covers AI-generated UGC c
 2. **Neurochemical depth** — How powerful is the response? (mild vs. intense attractiveness stimulus)
 3. **Resolution quality** — How satisfying is the closure of the tension/opening created?
 4. **Shareability architecture** — Does content function as social currency for the sharer?
+
+### AI Video Format Map
+
+The July 2026 format article extends the virality framework into 11 repeatable AI-video structures: surreal physics hooks, freeze-to-motion, self-insert identity loops, cakeify/squish/melt/inflate effects, lore-fabrication spectacle, cellular spectacle, AI dance templates, and ambiguity clips. The common thread is not the model brand; each format pairs a neurological interrupt or completion-rate mechanism with a product category and production model recommendation.
 
 ### Volume Thesis
 

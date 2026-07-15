@@ -3,7 +3,7 @@ title: Enterprise AI Failure Modes
 created: 2026-05-03
 updated: 2026-05-03
 type: concept
-tags: [agent, enterprise, ai-agent, automation]
+tags: [agent, ai-agent, automation, enterprise]
 sources: [raw/articles/if-ai-is-so-great-why-isnt-it-working-varick-2026-04-30.md]
 related_entity: [[varick-agents]]
 author: [[vas]]

@@ -3,7 +3,7 @@ title: Axolotl
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [open-source, fine-tuning, llm]
+tags: [llm, fine-tuning, open-source]
 sources: []
 related_entity: [[fine-tuning-llm-libraries-2026]]
 ---

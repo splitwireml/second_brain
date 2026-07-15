@@ -3,7 +3,7 @@ title: GSD-2 vs Blueprint — Comparative Analysis
 created: 2026-04-06
 updated: 2026-04-06
 type: comparison
-tags: [comparison, agent, framework, orchestration]
+tags: [agent, orchestration, comparison, framework]
 sources: [raw/articles/x-bookmarks-2026.md]
 ---
 

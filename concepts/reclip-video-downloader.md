@@ -3,7 +3,7 @@ title: ReClip — Self-Hosted Video/Audio Downloader with Clean Web UI
 created: 2026-04-10
 updated: 2026-04-10
 type: concept
-tags: [tools, oss-ai, product]
+tags: [product, tools, oss-ai]
 sources: [raw/articles/reclip-self-hosted-video-downloader-2026-04-10.md]
 ---
 

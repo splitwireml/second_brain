@@ -1,10 +1,10 @@
 ---
 title: App Store Packaging
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-07-10
 type: concept
-tags: [marketing, monetization, product, growth]
-sources: [raw/articles/paul-solt-app-store-packaging-250-5k-mrr-2045580498232373433.md]
+tags: [product, growth, marketing, monetization]
+sources: [raw/articles/paul-solt-app-store-packaging-250-5k-mrr-2045580498232373433.md, raw/articles/xarticle-ios-apps-the-full-framework-to-appmaxxing-with-70--2074972100201177550.md]
 related_entity: [[viktor-seraleev]]
 ---
 
@@ -64,6 +64,10 @@ The set of visible storefront elements — icon, screenshots, onboarding, paywal
 ## The $250 → $5K MRR Journey
 
 The underlying case study: an app stuck at $250-300/month MRR for years, then following Viktor's packaging changes over ~1 year → $5K/month organic traffic only. The mechanism is not more traffic — it's better conversion of existing traffic through packaging.
+
+## ASO title and screenshot addendum
+
+Appmaxxer's 2026 article extends packaging from conversion into App Store search mechanics: do not repeat keywords across title, subtitle, and keyword fields; for ASO/SEO/AEO-led apps, lead with the generic keyword phrase before the branded term; and treat screenshots as keyword-bearing assets that should be generated and optimized through the same factory tooling as metadata.^[raw/articles/xarticle-ios-apps-the-full-framework-to-appmaxxing-with-70--2074972100201177550.md]
 
 ## Related pages
 

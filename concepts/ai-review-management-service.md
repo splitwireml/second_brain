@@ -3,7 +3,7 @@ title: AI Review Management Service
 created: 2026-04-29
 updated: 2026-04-29
 type: concept
-tags: [monetization, ai-business, local-seo, service, b2b, side-hustle]
+tags: [ai-business, b2b, local-seo, monetization, service, side-hustle]
 sources: [raw/articles/xarticle-the-7kmonth-boring-ai-service-you-can-sell-to-loca-2049063166471033257.md]
 related_entity: [[zephyr-hg]]
 author: [[zephyr-hg]]

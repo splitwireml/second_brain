@@ -3,7 +3,7 @@ title: Organizational moat in AI
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [ai, organizational-design, talent, company-building]
+tags: [ai, company-building, organizational-design, talent]
 sources: []
 related_entity: [[JayaGup10]]
 author: [[JayaGup10]]

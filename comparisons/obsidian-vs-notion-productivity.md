@@ -3,7 +3,7 @@ title: "Obsidian vs Notion Productivity"
 created: 2026-04-14
 updated: 2026-04-14
 type: comparison
-tags: [comparison, productivity, tools]
+tags: [tools, comparison, productivity]
 sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md]
 participants:
   - obsidian

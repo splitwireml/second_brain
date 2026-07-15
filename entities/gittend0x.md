@@ -3,7 +3,7 @@ title: GitTrend
 created: 2026-05-06
 updated: 2026-05-06
 type: entity
-tags: [x-creator, hermes-agent, ai-agent]
+tags: [agent, ai-agent, hermes-agent, x-creator]
 sources: [raw/articles/thread-gittrend0x-2050572172301606967.md]
 ---
 

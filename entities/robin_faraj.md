@@ -3,7 +3,7 @@ title: "Robin Faraj"
 created: 2026-05-09
 updated: 2026-05-10
 type: entity
-tags: [person, x-creator, content-automation, claude-code, viral-marketing]
+tags: [person, claude-code, content-automation, viral-marketing, x-creator]
 sources: [raw/articles/xarticle-robin_faraj-2052418283588989069.md]
 related_entity: [[mindshare-arbitrage]]
 ---

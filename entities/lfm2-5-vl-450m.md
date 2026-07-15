@@ -3,7 +3,7 @@ title: LFM2.5-VL-450M
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [model, llm, vision-language, oss-ai]
+tags: [llm, model, oss-ai, vision-language]
 sources: [raw/articles/liquid-ai-lfm2-5-vl-450m-model-card-2026-04-16.md]
 related_entity: [[liquid-ai]]
 ---

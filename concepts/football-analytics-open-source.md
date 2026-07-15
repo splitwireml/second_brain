@@ -3,7 +3,7 @@ title: Football Analytics Open Source
 created: 2026-04-29
 updated: 2026-05-03
 type: concept
-tags: [open-source, machine-learning, analytics, football, prediction, sports-betting]
+tags: [analytics, football, machine-learning, open-source, prediction, sports-betting]
 sources: [raw/articles/xarticle-10-repos-that-mass-replace-a-100000year-football-a-2048841418592940126.md]
 related_entity: [[zostaff]]
 author: [[zostaff]]
@@ -54,6 +54,8 @@ The thread's central claim: a solo operator or small team can replicate a profes
 - Primary: `raw/articles/xarticle-10-repos-that-mass-replace-a-100000year-football-a-2048841418592940126.md` (zostaff, 1,003 likes, 88 RT)
 
 ## Related
+
+- [[football-ai-tools-marketplace]]
 
 - [[zostaff]] — curator of the original thread
 - [[football-simulation-engine]] — related football analytics and simulation topic

@@ -3,7 +3,7 @@ title: SkalskiP/top-cvpr-2026-papers
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [computer-vision, cvpr, research, paper-list]
+tags: [computer-vision, cvpr, paper-list, research]
 sources: [raw/papers/skalski-p-top-cvpr-2026-papers.md]
 ---
 

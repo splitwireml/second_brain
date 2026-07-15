@@ -3,8 +3,8 @@ title: Noisy
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [person, content-creator, ai-tools]
-sources: [raw/articles/xarticle-chatgpt-55-found-my-first-clients-on-google-maps-i-2048396579065799151.md]
+tags: [person, tools, ai-tools, content-creator]
+sources: [raw/articles/xarticle-chatgpt-55-found-my-first-clients-on-google-maps-i-2048396579065799151.md, raw/articles/personal-ai-os-2053772855691690278.md]
 ---
 
 # Noisy

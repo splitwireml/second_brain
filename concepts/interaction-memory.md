@@ -1,9 +1,9 @@
 ---
 title: Interaction Memory
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-06-14
 type: concept
-tags: [enterprise-ai, memory, knowledge-management, company-brain]
+tags: [memory, company-brain, enterprise-ai, knowledge-management]
 sources: [raw/articles/company-brain-part-3-interaction-memory-ashwingop-2026-05-03.md]
 related_entity: [[sentra]]
 author: [[ashwin-gopinath]]
@@ -87,3 +87,6 @@ Getting it wrong feels like surveillance. Getting it right feels like the compan
 - [[action-memory]] — the layer above
 - [[knowledge-graph-rag]] — context graph structure for connecting interactions
 - [[agent-memory-architecture]] — related memory design principles
+
+## Related
+- [[sentra]] — related entity from frontmatter; explicit cross-link

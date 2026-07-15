@@ -3,7 +3,7 @@ title: "simgym"
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [company, shopify, ai, simulation, testing]
+tags: [company, ai, shopify, simulation, testing]
 sources: [raw/articles/xarticle-how-to-find-fix-whats-killing-your-sales-with-the--2047668468904808531.md]
 ---
 # simgym

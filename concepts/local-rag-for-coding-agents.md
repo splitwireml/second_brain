@@ -3,7 +3,7 @@ title: Local RAG for Coding Agents
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [rag, llm, inference]
+tags: [llm, inference, rag]
 sources: [raw/articles/docmancer-github-repo-2026-04-12.md]
 related_entity: [[docmancer]]
 ---

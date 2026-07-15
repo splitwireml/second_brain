@@ -3,7 +3,7 @@ title: "Can you really build an AI second brain in Obsidian in 5 minutes?"
 created: 2026-04-14
 updated: 2026-04-14
 type: query
-tags: [productivity, agent]
+tags: [agent, productivity]
 sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md]
 question: "Can you really build an AI second brain in Obsidian in 5 minutes?"
 answer_status: answered
@@ -36,3 +36,11 @@ What the evidence shows:
 The **initial connection** of Claude Code + Obsidian can be done in minutes using tools like [[byterover-cli]]. But building a **functional, useful second brain** that actually enhances productivity requires significant ongoing curation and learning investment. The 5-minute claim is best interpreted as marketing language rather than operational reality.
 
 The pattern is real and powerful — see [[obsidian-ai-second-brain]] — but plan for weeks of curation, not minutes of setup.
+
+## Related
+
+- [[oliverkenyon]]
+
+- [[matthew-berman]]
+
+- [[aiishadahir]]

@@ -3,7 +3,7 @@ title: paperclipai/paperclip
 created: 2026-04-10
 updated: 2026-04-26
 type: concept
-tags: [orchestration, agent, AI-company, open-source]
+tags: [company, agent, orchestration, ai-company, open-source]
 sources: [raw/articles/paperclipai-technical-research-2026-04-10.md, raw/articles/x-av1dlive-paperclip-course-2047977902449611165.md, raw/transcripts/2026-04-25-avid-ai-agent-course.md]
 related_entity: [[av1dlive]]
 ---

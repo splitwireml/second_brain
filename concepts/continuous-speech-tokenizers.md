@@ -3,7 +3,7 @@ title: Continuous Speech Tokenizers
 created: 2026-04-10
 updated: 2026-04-10
 type: concept
-tags: [model, oss-ai, speech, genai]
+tags: [model, genai, oss-ai, speech]
 sources: [raw/articles/microsoft-vibevoice-2026.md, raw/articles/vibevoice-architecture-analysis-2026-04-10.md, raw/articles/vibevoice-quantizations-mlx-apple-silicon-2026-04-10.md]
 ---
 
@@ -28,7 +28,15 @@ Conventional audio tokenizers operate at **50-100 Hz** (50-100 tokens per second
 1. **Acoustic tokenizer** — captures prosody, timbre, speaker characteristics
 2. **Semantic tokenizer** — captures linguistic content, meaning
 
-## Architecture Context
+## Context: Tokenizer Landscape
+
+Other tokenizers and architecture approaches:
+- [[insanely-fast-whisper]] — Whisper-based ASR using conventional subword tokenization
+- [[vibevoice]] — Continuous speech tokenizers at 7.5 Hz frame rate (Acoustic + Semantic), enabling ultra-low rate processing with audio fidelity preservation
+- [[omnivoice]] — Uses Higgs-audio 8-codebook acoustic tokens; shared tokenizer lineage with the broader open TTS ecosystem
+- [[next-token-diffusion-speech]] — Alternative speech generation framework combining LLM + diffusion head
+
+## Architecture Notes
 
 Used in VibeVoice's **next-token diffusion framework**:
 - LLM processes semantic tokens (text understanding, dialogue flow)

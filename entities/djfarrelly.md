@@ -3,7 +3,7 @@ title: Dan Farrelly | Inngest.com
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [person, content-creator, x-creator, ai-infra, orchestration, inngest]
+tags: [person, orchestration, ai-infra, content-creator, inngest, x-creator]
 sources: [raw/articles/xarticle-djfarrelly-2052779234234380479.md]
 ---
 

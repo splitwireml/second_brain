@@ -3,7 +3,7 @@ title: ERNIE-Image
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [image-generation, text-to-image, baidu, ai]
+tags: [ai, baidu, image-generation, text-to-image]
 sources: [raw/articles/huggingmodels-ernie-image-2046273468120158637.md]
 related_entity: [[huggingmodels]]
 ---

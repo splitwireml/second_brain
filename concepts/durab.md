@@ -3,7 +3,7 @@ title: Durable Orchestration Primitives
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [agents, orchestration, durable-execution, background-agents, framework-trap, inngest]
+tags: [agent, orchestration, background-agents, durable-execution, framework-trap, inngest]
 sources: [raw/articles/xarticle-djfarrelly-2052779234234380479.md]
 related_entity: [[djfarrelly]]
 related_concepts:
@@ -81,4 +81,4 @@ When you have `step.run()`, `step.invoke()`, `step.waitForEvent()`, and `step.sl
 - [[agent-orchestration-patterns]] — four multi-agent patterns (sequential, fan-out, hierarchical, reflexive); this concept is the durable foundation beneath those patterns
 - [[multi-agent-kanban-orchestration]] — durable task board approach; shares the durability thesis but focuses on Kanban-style persistence rather than step primitives
 - [[company-brain]] — related thesis: shared operational state layer for agents; durable orchestration is the infrastructure foundation for company brain
-- [[agent.md]] — general AI agent concept; this extends it with the durable execution layer thesis
+- [[agent]] — general AI agent concept; this extends it with the durable execution layer thesis

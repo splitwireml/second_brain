@@ -3,7 +3,7 @@ title: TikTok Account Infrastructure
 created: 2026-05-06
 updated: 2026-05-10
 type: concept
-tags: [tiktok, content-infrastructure, account-warming, distribution]
+tags: [account-warming, content-infrastructure, distribution, tiktok]
 sources: [raw/articles/thread-codi_fyy-2050594569675481584.md]
 related_entity: [[codi-fyy]]
 author: [[codi-fyy]]
@@ -38,6 +38,8 @@ Distribution infrastructure requires investment in real, in-country accounts wit
 For AI content teams generating thousands of posts per day, account infrastructure is often the bottleneck. Getting content seen requires trust signals that take time to build — making distribution infrastructure as important as content generation itself.
 
 ## Related
+
+- [[instagram]]
 
 - [[content-generation-pipeline]]
 - [[social-media-automation]]

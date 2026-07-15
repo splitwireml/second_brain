@@ -1,10 +1,10 @@
 ---
 title: iOS App Lazymaxxers MRR Guide
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-07-10
 type: concept
-tags: [marketing, monetization, method]
-sources: [raw/articles/athcanft-ios-lazymaxxers-guide-10k-mrr-2026-04-11.md]
+tags: [marketing, method, monetization]
+sources: [raw/articles/athcanft-ios-lazymaxxers-guide-10k-mrr-2026-04-11.md, raw/articles/xarticle-ios-apps-the-full-framework-to-appmaxxing-with-70--2074972100201177550.md]
 ---
 
 # iOS App Lazymaxxers MRR Guide
@@ -47,6 +47,10 @@ Before/after AI-generated ads using fal.ai/z-image + SwapTok to TikTok Studio. O
 
 ## Key Insight
 **One winning ad can carry a business for months.** The entire game is finding that one creative and scaling it. Most founders fail not because the product is bad but because they don't isolate the winning ad fast enough and iterate on it.
+
+## ASO-first portfolio variant
+
+[[appmaxxer]] describes a sibling strategy to the TikTok Smart+/hard-paywall lazymaxxer path: an ASO/SEO/AEO-led portfolio where Claude/Codex agents scaffold multiple apps, validate keywords with Astro-style tools, push metadata through App Store Connect APIs, and reuse screenshots, paywall infrastructure, and house-style memory across the portfolio. This lowers the paid-acquisition burden but shifts the bottleneck to keyword alpha, product quality, and repeated operational discipline.^[raw/articles/xarticle-ios-apps-the-full-framework-to-appmaxxing-with-70--2074972100201177550.md]
 
 ## Related Concepts
 

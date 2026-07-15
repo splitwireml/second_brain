@@ -3,7 +3,7 @@ title: regent0x_
 created: 2026-05-09
 updated: 2026-05-10
 type: entity
-tags: [person, solo-founder, ai-business, saas]
+tags: [person, ai-business, saas, solo-founder]
 sources: [raw/articles/xarticle-regent0x_-2052329587179180432.md]
 related_entity: [[micro-saas-claude-code-playbook]]
 ---

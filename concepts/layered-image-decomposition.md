@@ -3,7 +3,7 @@ title: Layered Image Decomposition
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [computer-vision, layered-image-decomposition, diffusion, multimodal]
+tags: [computer-vision, diffusion, layered-image-decomposition, multimodal]
 sources: [raw/articles/huggingface-unsloth-qwen-image-layered-gguf-2026-04-23.md]
 related_entity: [[qwen-image-layered]]
 ---

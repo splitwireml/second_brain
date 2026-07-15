@@ -3,7 +3,7 @@ title: "Higgsfield + Claude Creative Agency Stack"
 created: "2026-05-05"
 updated: 2026-05-10
 type: concept
-tags: [higgsfield, claude, creative, ai-agent, automation, workflow]
+tags: [agent, ai-agent, workflow, automation, claude, creative, higgsfield]
 sources: [raw/articles/xarticle-nateherk-2051295831965367297.md]
 related_entity: [[nate-herk]]
 ---

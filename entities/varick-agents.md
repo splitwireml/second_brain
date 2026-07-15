@@ -1,10 +1,10 @@
 ---
 title: Varick Agents
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-07-09
 type: entity
-tags: [company, ai-company, enterprise, agent]
-sources: [raw/articles/if-ai-is-so-great-why-isnt-it-working-varick-2026-04-30.md]
+tags: [company, agent, ai-company, enterprise]
+sources: [raw/articles/if-ai-is-so-great-why-isnt-it-working-varick-2026-04-30.md, raw/articles/xarticle-httpstco4itbcdfjck-2059397823674958265.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md]
 ---
 
 # Varick Agents
@@ -59,8 +59,17 @@ Enterprise functions (finance, sales, ops) are exception-heavy, undocumented, an
 4. Stays model-agnostic (abstractions at task level)
 5. Treats deployment as continuously evolving infrastructure with dedicated tuning team
 
+## 2026-07-09 Update
+
+A July 2026 X article by [[eyad-khrais]] extends [[varick-agents]]' hiring/public-education material into an applied AI engineering role definition: build evals for outcome and trajectory, engineer the model harness around tools/context/state/guardrails, and treat multi-agent production systems as distributed systems with single-writer ownership, idempotency keys, and explicit handoffs.
+
+## 2026-06-11 Update
+
+A May 26 bookmark for [[varick-agents]] failed to export locally, so the wiki keeps [[xarticle-httpstco4itbcdfjck-2059397823674958265]] as a placeholder tied to the existing enterprise-AI cluster for future recovery.
+
 ## Related
 
 - [[building-effective-agents]] — Anthropic paper on agentic AI; Varick cites its "find simplest solution" punchline
 - [[agent-teams]] — multi-agent collaboration; Varick's orchestration layer relates to agent team architecture
+- [[enterprise-ai-failure-modes]] — the failure taxonomy Varick's April article helped popularize in the wiki
 - [[minimax-m27]] — open-weight model with agentic capabilities

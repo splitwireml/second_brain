@@ -3,7 +3,7 @@ title: prajwal-tomar
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [person, x-creator, vibe-coding, ui-design, prompting, website]
+tags: [person, prompting, ui-design, vibe-coding, website, x-creator]
 sources: [raw/articles/prajwal-tomar-landing-page-ai-workflow-2048742030466339120-2026-04-27.md]
 ---
 

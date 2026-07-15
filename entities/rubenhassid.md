@@ -3,7 +3,7 @@ title: rubenhassid
 created: 2026-05-06
 updated: 2026-05-06
 type: entity
-tags: [x-creator, x-article]
+tags: [x-article, x-creator]
 sources: [raw/articles/xarticle-httpstcovkhc9ym6kb-2050787472666399042.md]
 ---
 
@@ -22,3 +22,6 @@ X creator (@rubenhassid); posted an X Article with export failure.
 
 ## Sources
 
+## Related
+
+- [[xarticle-2050787472666399042]]

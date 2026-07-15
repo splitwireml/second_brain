@@ -3,7 +3,7 @@ title: Content OS
 created: 2026-05-08
 updated: 2026-05-10
 type: concept
-tags: [content-system, ai-writing, content-os, bookmarkable-content, content-marketing, ai-agent-workflow, productivity, hermes-agent, postiz]
+tags: [ai-agent-workflow, ai-writing, bookmarkable-content, content-marketing, content-os, content-system, hermes-agent, postiz, productivity]
 sources: [raw/articles/xarticle-shannholmberg-2052780393326092407.md]
 platform: x
 platform_handle: "@shannholmberg"

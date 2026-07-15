@@ -3,7 +3,7 @@ title: Oliver Kenyon
 created: 2026-05-05
 updated: 2026-05-05
 type: entity
-tags: [person, x-creator, marketing, content-creator]
+tags: [person, content-creator, marketing, x-creator]
 sources: [raw/articles/thread-oliverkenyon-2051305405884629467.md]
 ---
 

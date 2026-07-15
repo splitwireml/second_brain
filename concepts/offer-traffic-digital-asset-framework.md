@@ -1,10 +1,10 @@
 ---
 title: Offer × Traffic Digital Asset Framework
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-07-12
 type: concept
-tags: [monetization, framework]
-sources: [raw/articles/client-ascension-digital-assets-2026-04-11.md]
+tags: [framework, monetization]
+sources: [raw/articles/client-ascension-digital-assets-2026-04-11.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md]
 related_entity: [[client-ascension]]
 ---
 
@@ -74,10 +74,21 @@ offer + traffic × orchestration = digital asset cash flow
 
 The **orchestration** multiplier is what allows a solo operator to scale — systematizing operations, hiring execution, and removing oneself from the critical path.
 
+## Faceless portfolio example
+
+The local X Article provides a source-claimed concrete instance of the equation: niche pages and scheduled content supply traffic, low-ticket PDFs supply the offer, and contract VAs plus platform tooling supply orchestration. It reports a 14-page portfolio with $492,000 annual gross revenue, $405,192 annual net revenue, and about 22 minutes of daily operator attention. These figures are source claims, not independently audited benchmarks. ^[raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md]
+
+The comparison also reinforces that a digital asset is only portable after the offer, traffic surface, and operating handoffs work together. Removing the owner from the daily critical path can improve mobility and exitability, but it does not guarantee demand, conversion, platform stability, or buyer interest. ^[raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md]
+
 ## Related Concepts
 
 - [[ai-freelancer-200-hour-guide]] — monetization method; selling AI-assisted services follows the same offer × traffic logic
 - [[autoresearch-ai-copy-testing]] — offer optimization within the same traffic; tests which offer variants convert best
 - [[claude-cowork-seo-system]] — organic traffic generation via content/SEO
 - [[x-organic-b2b-sales]] — X/Twitter-native application of the same traffic × offer logic for high-ticket inbound selling
+- [[faceless-digital-product-portfolio]] — low-ticket digital products paired with niche-page distribution and delegated execution
+- [[distribution]] — the traffic-side system that makes an otherwise invisible offer discoverable
 - [[company-naming-playbook]] — crafting an offer that lands and converts
+
+## Related
+- [[client-ascension]] — related entity from frontmatter; explicit cross-link

@@ -3,7 +3,7 @@ title: Benji's AI Playground
 created: 2026-04-23
 updated: 2026-04-26
 type: entity
-tags: [content-creator, person]
+tags: [person, content-creator]
 sources:
   - type: transcript
     path: raw/transcripts/2026-04-23-Ernie-Image-AI-ComfyUI.md

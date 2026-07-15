@@ -1,9 +1,9 @@
 ---
 title: "FMPose3D: Monocular 3D Pose Estimation via Flow Matching"
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: concept
-tags: [computer-vision, pose-estimation, 3d-vision, flow-matching, cvpr-2026]
+tags: [3d-vision, computer-vision, cvpr-2026, flow-matching, pose-estimation]
 sources: [raw/papers/fmpose3d-arxiv-2602.05755.md, raw/papers/skalski-p-top-cvpr-2026-papers.md]
 related_entity: [[skalski-p-top-cvpr-2026-papers]]
 ---
@@ -30,3 +30,6 @@ FMPose3D applies flow matching — a recent generative framework — to the prob
 - [[cvpr-2026-real-world-point-tracking]] — object tracking
 - [[cvpr-2026-d4rt-dynamic-scenes]] — dynamic scene reconstruction
 - [[cvpr-2026-topics]] — parent topic
+
+## Related
+- [[skalski-p-top-cvpr-2026-papers]] — related entity from frontmatter; explicit cross-link

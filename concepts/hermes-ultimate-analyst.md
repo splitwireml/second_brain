@@ -3,7 +3,7 @@ title: Hermes Ultimate Analyst
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [hermes-agent, productivity, ai-agent, workflow-automation]
+tags: [agent, ai-agent, hermes-agent, productivity, workflow-automation]
 sources: [raw/articles/xarticle-hermes-as-the-ultimate-analyst-ive-found-the-gist--2051214993719427258.md]
 related_entity: [[hermes-agent]]
 author: [[0xJeff]]

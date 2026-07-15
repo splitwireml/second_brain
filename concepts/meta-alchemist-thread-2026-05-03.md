@@ -3,7 +3,7 @@ title: "60 GitHub accounts every AI builder should follow"
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [github, thread, ai]
+tags: [ai, github, thread]
 sources: [raw/articles/thread-meta_alchemist-2050834716157501710.md]
 author: [[meta-alchemist]]
 ---

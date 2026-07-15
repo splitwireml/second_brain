@@ -3,7 +3,7 @@ title: landing-page-ai-workflow
 created: 2026-04-27
 updated: 2026-04-27
 type: concept
-tags: [vibe-coding, prompting, ui-design, workflow, ai-tools, genai, design, website]
+tags: [tools, ai-tools, workflow, design, genai, prompting, ui-design, vibe-coding, website]
 sources: [raw/articles/prajwal-tomar-landing-page-ai-workflow-2048742030466339120-2026-04-27.md]
 related_entity: [[lovable-dev]]
 author: [[prajwal-tomar]]

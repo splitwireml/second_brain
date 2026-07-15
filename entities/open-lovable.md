@@ -3,7 +3,7 @@ title: Open Lovable
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [ai-tools, product, open-source, vibe-coding]
+tags: [product, tools, ai-tools, open-source, vibe-coding]
 sources: [raw/articles/firecrawl-open-lovable-github-2026-04-16.md]
 related_entity: [[firecrawl]]
 ---

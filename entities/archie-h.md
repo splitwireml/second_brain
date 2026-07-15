@@ -3,7 +3,7 @@ title: Archie H.
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [person, x-creator, upwork, monetization]
+tags: [person, monetization, upwork, x-creator]
 sources:
   - type: transcript
     path: raw/transcripts/2026-04-21-3-Ways-To-Overcome-Upwork-Dry-Spells.md

@@ -1,62 +1,77 @@
 ---
 title: Viral Launch System
-created: 2026-04-25
-updated: 2026-04-25
+created: 2026-05-19
+updated: 2026-07-10
 type: concept
-tags: [viral-marketing, marketing, x-creator]
-sources: [raw/articles/mitchell-claude-code-trending-x-2026-04-23.md]
-related_entity: [[mitchell]]
+tags: [agent, workflow, ai, marketing, ugc, viral, viral-marketing, video, content-marketing, hooks]
+sources: [raw/articles/xarticle-the-secret-behind-every-viral-launch-2054989194414465222.md, raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md]
 ---
 
-# Viral Launch System
+## Overview
 
-A 6-step system for achieving #1 trending on X for tech startup launches. Developed by [[mitchell]] ("MrBeast of tech marketing") over one year of iteration. Claims 100M+ views across multiple client launches.
+A methodology for creating viral product launches on X using a multi-agent Claude Code workflow. The system claims 95% of launch creation is automated, with 26 of 30 implementations going viral.
 
-## Core Framework
+## Core Components
 
-### Step 1: Hidden Outcome Positioning
-Replace feature-pitching with emotional outcome framing. Use recursive "so what?" questioning to find the underlying emotion. Claude Code automation prompt:
+### BOLD CLAIM Framework
+95% of viral launch success comes down to the "BOLD CLAIM" — what you are introducing and what makes it different from anything else. The claim must be:
+- Novel (not already saturated in market)
+- Solves a big pain point
+- Immediately understandable
 
-```
-"Here is a list of features for [product]. For each one, ask 'so what?' recursively until you reach an emotional outcome. Return the single strongest emotional positioning statement."
-```
+### 21-Agent System
+Inside Claude Code, a group of 21 specialized agents each has one job:
+- Market research agent
+- Viral launch study agent
+- Customer voice agent
+- Novelty extraction agent
+- Hook writing agent
+- Hook critique agent
+- Hook rewriting agent
+- Narrative interest checker
+- Product importance checker
+- Manager agent for each worker
 
-**Key principle:** Vague → visceral. Features → feelings. Announcements → punches.
+### Research-First Approach
+Before writing anything, the system researches:
+- Company, product, market, competitors
+- Category and founder story
+- Existing customer language around the problem
+- Already-viral launches in similar categories
 
-### Step 2: Dual-Dimension Script Scoring
-Every line scored independently on:
-- **Invention Novelty:** Does it feel like something nobody has said before?
-- **Copy Intensity:** Does reading it make you *feel* something, not just understand?
+### Weapons Check
+Every line evaluated on two dimensions:
+1. **Invention novelty** — does it make product feel like something new?
+2. **Copy intensity** — does it make someone feel something?
 
-Both must hit 10/10. Lines below threshold are rewritten. Filler is cut entirely. Weapons Check agent in [[claude-code]] runs before filming.
+### Mom Test
+An agent trained on a 61-year-old non-technical person to flag content that isn't mass-market accessible. Goal: content understandable by anyone, even non-technical or low IQ individuals.
 
-### Step 3: Hater Engineering
-Own category criticism before critics use it. Plant one line a specific community cannot resist reacting to. Quote tweets from critics become free distribution. Key prompt (requires X API key):
+## Key Principles
 
-```
-"Research the top posts on X in [category] sorted by engagement using advanced search Min_Faves:1000. Identify the ones with the highest quote tweet ratio. What is the core criticism?"
-```
+1. **Don't use Claude as a writer** — use it as an operating system
+2. **Research before writing** — find strongest angle first
+3. **Hook must answer 3 questions**: what is launched, why it matters, why never existed before
+4. **Body makes claim feel real** — demo-driven narrative
+5. **Aggressive filler cutting** — every line must justify existence
+6. **Human edits final 5%** — taste and judgment still matter
 
-### Step 4: Messaging-Match-Message
-Find proven viral concepts from YouTube (all-time, 12-month, 30-day filters) and replicate the *framing* for the product. Claude Code research agent runs 15 keyword searches, finds the performance ceiling, and extracts structural patterns.
+## Launch Video Checklist
 
-### Step 5: Algorithm Signal Optimization
-X algorithm separates **sourcing** (retweets = entry to For You feed) from **ranking** (reply chains with author responses = high placement). The cheat code: author replies to every comment for 48 hours continuously. Claude Code drafts 25 real-time replies to keep the founder active.
+Mitchell's later launch-video article adds a craft checklist for the video asset itself, extending the earlier Claude Code launch system beyond research and copy. The working rule is that feed viewers are not captive: lead with the payoff, put the wildest product moment first, make the first five to seven seconds survive the retention cliff, and avoid jargon that signals "advertisement" before proof arrives. ^[raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md]
 
-### Step 6: Influencer Timing Sequence
-- Minutes 0-60: Organic audience only, let post breathe
-- Hours 1-2: Deploy 10-20 influencers if organic velocity is strong, staggered 30 minutes apart
-- Day 2: Meme product
-- Day 3: Deep dive on one feature
-- Day 4: Company story
-- Week 2: Testimonials and results
+The execution layer is visual and iterative: accelerate the final cut by roughly 10%, keep static screenshots moving, sync voiceover and visuals tightly enough that a muted viewer can follow, prove the product on screen during the 5–30 second window, storyboard in Figma before animation, and expect around ten complete versions before launch. This connects the launch-system page to broader [[virality-mechanics]] and short-form video format research while staying specific to tech-product demos. ^[raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md]
 
-**Key constraint:** Mandatory influencer disclosure. Artificial spikes without organic foundation are read as inauthentic and the post dies.
+## Claims
 
-## Related Concepts
-- [[topical-authority-seo]] — building content authority through niche-down topic mapping and pillar-cluster architecture; related to the positioning research phase
-- [[skill-graph-content-engine]] — AI-powered content production using interconnected markdown files; related to the content generation workflow
-- [[x-organic-b2b-sales]] — X-native high-ticket inbound using similar organic-first mechanics
+- 10x higher likelihood of launch resonance vs. non-research approach
+- Normal founder spends 30 minutes on launch; this system runs hundreds of angles
+- Research has changed product development at client companies
 
-## Related Entities
-- [[mitchell]] — the practitioner who created and documented this system
+## Related
+
+- [[mitchell]] — tech launch-video operator who supplied the July 2026 editing/proof-window checklist
+- [[mattepstein]] — the operator
+- [[claude-code]] — the platform
+- [[viral-marketing]] — broader concept
+- [[ai-agent-engineer-roadmap-2026]] — related agent workflow topics

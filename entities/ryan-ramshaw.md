@@ -3,7 +3,7 @@ title: Ryan Ramshaw
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [person, upwork, freelancer, ai-automation]
+tags: [person, ai-automation, freelancer, upwork]
 sources:
   - type: video
     path: raw/assets/2026-04-21-Why Your Upwork Proposals Get Ignored.m4a

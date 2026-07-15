@@ -1,10 +1,10 @@
 ---
 title: defileo
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-05-19
 type: entity
-tags: [person, ai-agents, claude-code]
-sources: [raw/articles/defileo-agentic-llm-stack-2026-04-20.md]
+tags: [person, agent, ai-agent, claude-code]
+sources: [raw/articles/defileo-agentic-llm-stack-2026-04-20.md, raw/articles/xarticle-httpstconceydv1rhx-2055035402294046731.md]
 ---
 
 # defileo

@@ -3,7 +3,7 @@ title: llama.cpp
 created: 2026-04-13
 updated: 2026-04-14
 type: entity
-tags: [oss-ai, inference, open-source, llm]
+tags: [llm, inference, open-source, oss-ai]
 sources: [raw/transcripts/2026-04-13-rtx-5090-mac-egpu.md]
 ---
 

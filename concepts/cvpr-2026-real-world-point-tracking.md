@@ -1,9 +1,9 @@
 ---
 title: "Real-World Point Tracking with Verifier-Guided Pseudo-Labeling"
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: concept
-tags: [computer-vision, object-tracking, point-tracking, cvpr-2026]
+tags: [computer-vision, cvpr-2026, object-tracking, point-tracking]
 sources: [raw/papers/real-world-point-tracking-arxiv-2603.12217.md, raw/papers/skalski-p-top-cvpr-2026-papers.md]
 related_entity: [[skalski-p-top-cvpr-2026-papers]]
 ---
@@ -30,3 +30,6 @@ Addresses point tracking in real-world scenarios where ground truth annotations 
 - [[cvpr-2026-fmpose3d]] — 3D pose estimation via flow matching
 - [[cvpr-2026-egox]] — egocentric video generation
 - [[cvpr-2026-topics]] — parent topic
+
+## Related
+- [[skalski-p-top-cvpr-2026-papers]] — related entity from frontmatter; explicit cross-link

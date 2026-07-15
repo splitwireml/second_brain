@@ -1,9 +1,9 @@
 ---
 title: "EgoX: Egocentric Video Generation from a Single Exocentric Video"
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: concept
-tags: [computer-vision, video-generation, egocentric, generative-models, cvpr-2026]
+tags: [computer-vision, cvpr-2026, egocentric, generative-models, video-generation]
 sources: [raw/papers/egox-arxiv-2512.08269.md, raw/papers/skalski-p-top-cvpr-2026-papers.md]
 related_entity: [[skalski-p-top-cvpr-2026-papers]]
 ---
@@ -30,3 +30,6 @@ EgoX takes a single third-person video and synthesizes what the first-person vie
 - [[cvpr-2026-real-world-point-tracking]] — object tracking in video
 - [[cvpr-2026-videomt]] — video segmentation
 - [[cvpr-2026-topics]] — parent topic
+
+## Related
+- [[skalski-p-top-cvpr-2026-papers]] — related entity from frontmatter; explicit cross-link

@@ -3,7 +3,7 @@ title: Intentional Relationship Building
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [skill, business, monetization, content-strategy, lead-gen]
+tags: [business, content-strategy, lead-gen, monetization, skill]
 sources: [raw/articles/xarticle-2051292465429459025.md]
 related_entity: [[dan-martell]]
 author: [[dan-martell]]

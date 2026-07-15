@@ -3,7 +3,7 @@ title: Graeme
 created: 2026-05-04
 updated: 2026-05-05
 type: entity
-tags: [x-creator, content-creator, person]
+tags: [person, content-creator, x-creator]
 sources: [raw/articles/xarticle-i-run-6-ai-agents-only-this-one-makes-the-other-5--2051275483996909982.md]
 ---
 

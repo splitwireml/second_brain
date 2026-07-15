@@ -3,7 +3,7 @@ title: Image-to-SVG on Apple Silicon
 created: 2026-04-26
 updated: 2026-04-27
 type: concept
-tags: [apple-silicon, svg, vectorization, image-processing, mlx, vision, gguf]
+tags: [apple-silicon, gguf, image-processing, mlx, svg, vectorization, vision]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md]
 ---
 

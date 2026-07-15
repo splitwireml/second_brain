@@ -3,7 +3,7 @@ title: Hermes Checkpoints and Rollback
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [hermes-agent, agent, inference]
+tags: [agent, inference, hermes-agent]
 sources: [raw/articles/hermes-checkpoints-rollback-neo-ai-forecast-2045097742935195775.md]
 author: [[neo-ai-forecast]]
 ---

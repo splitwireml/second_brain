@@ -3,7 +3,7 @@ title: Stijn Feijen
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [person, marketing, genai]
+tags: [person, genai, marketing]
 sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md]
 ---
 

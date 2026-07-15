@@ -3,7 +3,7 @@ title: huggingmodels
 created: 2026-04-23
 updated: 2026-05-09
 type: entity
-tags: [company, open-source, llm, speech, coding, fullstack]
+tags: [company, llm, coding, fullstack, open-source, speech]
 sources: [raw/articles/huggingmodels-csm-1b-2046596842323107929.md, raw/articles/huggingmodels-context-1-2046710079312052711.md, raw/articles/xarticle-HuggingModels-2051467679224176764.md]
 ---
 
@@ -26,6 +26,6 @@ Full-stack development AI model announced via [xarticle-HuggingModels-2051467679
 
 - [[omnivoice]] — earlier HuggingFace-hosted TTS model by k2-fsa
 - [[vibevoice]] — Microsoft's TTS/ASR alternative on HuggingFace
-- [[insanely-fast-whisper]] — HuggingFace transformers-based ASR pipeline
 - [[qwen3-8b-opus-reasoning]] — Qwen model also announced via HuggingFace
 - [[qwen]] — Alibaba Qwen model family
+- [[csm-1b]] — open-source TTS model, also HuggingFace-announced (2026-04-21)

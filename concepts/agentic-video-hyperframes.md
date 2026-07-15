@@ -3,7 +3,7 @@ title: Agentic Video via HTML
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [agent, video-generation, vibe-coding]
+tags: [agent, vibe-coding, video-generation]
 sources: [raw/articles/agentic-video-hyperframes-open-source-bin-liu-2044827628700684463.md]
 author: [[bin-liu]]
 ---

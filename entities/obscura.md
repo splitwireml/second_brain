@@ -3,7 +3,7 @@ title: obscura
 created: 2026-04-22
 updated: 2026-04-25
 type: entity
-tags: [browser-automation, tools, ai-agents, web-scraping, rust]
+tags: [tools, agent, ai-agent, browser-automation, rust, web-scraping]
 sources:
   - raw/articles/nftcps-obscura-rust-browser-2046777680792850720.md
   - raw/articles/github-h4ckf0r0day-obscura-2026-04-25.md

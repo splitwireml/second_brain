@@ -3,7 +3,7 @@ title: perplexity-computer
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [ai-agents, perplexity, automation, productivity]
+tags: [agent, ai-agent, automation, perplexity, productivity]
 sources: [raw/articles/coreyganim-perplexity-computer-masterclass-2046229817977192594.md]
 ---
 

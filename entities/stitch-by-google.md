@@ -3,7 +3,7 @@ title: Stitch by Google
 created: 2026-04-24
 updated: 2026-04-24
 type: entity
-tags: [ai-tool, design-tool, ai-design, google, ai-agents]
+tags: [tools, ai-tools, agent, ai-agent, ai-design, design-tool, google]
 sources:
   - raw/transcripts/2026-04-24-Stitch-by-Google.md
   - raw/articles/github-google-labs-code-design.md-2026-04-24.md

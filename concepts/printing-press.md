@@ -3,7 +3,7 @@ title: Printing Press
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: [cli, ai-agents, open-source, tooling, agentic-ai]
+tags: [tooling, agent, ai-agent, agentic-ai, cli, open-source]
 sources: [raw/articles/xarticle-mvanhorn-2052422567181611010.md]
 ---
 

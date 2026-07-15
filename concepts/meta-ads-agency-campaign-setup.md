@@ -3,7 +3,7 @@ title: Meta Ads Agency Campaign Setup (George Clements)
 created: 2026-05-12
 updated: 2026-05-12
 type: concept
-tags: [meta-ads, facebook-ads, instagram-ads, campaign-setup, agency, paid-ads, b2b, lead-gen]
+tags: [agency, b2b, campaign-setup, facebook-ads, instagram-ads, lead-gen, meta-ads, paid-ads]
 sources: [raw/articles/xarticle-how-i-set-up-a-new-meta-ads-campaign-for-my-agency-2053250110545334519.md]
 related_entity: [[george-clem]]
 author: [[george-clem]]

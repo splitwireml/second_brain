@@ -3,7 +3,7 @@ title: Obsidian Vault as Agent Context Source
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [agent, productivity, method]
+tags: [agent, method, productivity]
 sources: [raw/articles/kevinnguyendn-obsidian-byterover-2026-04-13.md]
 related_entity: [[byterover-cli]]
 ---

@@ -3,7 +3,7 @@ title: Autoresearch
 created: 2026-04-12
 updated: 2026-04-12
 type: entity
-tags: [method, marketing, llm]
+tags: [llm, marketing, method]
 sources: [raw/articles/ericosiu-autoresearch-ai-copy-testing-2026-04-12.md]
 ---
 

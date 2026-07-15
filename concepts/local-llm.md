@@ -3,7 +3,7 @@ title: "Local LLM"
 created: 2026-04-18
 updated: 2026-05-12
 type: concept
-tags: [local-llm, llm, inference, machine-learning]
+tags: [llm, inference, local-llm, machine-learning]
 sources: [raw/articles/xarticle-running-local-llms-2053217139369095252.md]
 ---
 
@@ -22,7 +22,9 @@ Running LLMs locally on personal hardware (typically consumer GPUs, Apple Silico
 - [[vibevoice]] — MLX-based speech models for Apple Silicon
 - [[void-model-mlx]] — MLX-optimized transformer for Apple Silicon
 
-## Related Concepts
+## Related Entities
 
-- [[three-tier-routing-vs-turboquant-on-16gb-apple-silicon]] — 16 GB memory constraint strategies
-- [[flash-moe]] — MoE architecture with local inference support
+- [[vibevoice]] — MLX-based speech models for Apple Silicon
+- [[omnivoice]] — Xiaomi multilingual TTS, 600+ languages
+- [[supertonic-3]] — CPU-only ONNX TTS, 31 languages
+- [[void-model-mlx]] — MLX-optimized transformer for Apple Silicon

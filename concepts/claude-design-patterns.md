@@ -3,7 +3,7 @@ title: Claude Design Patterns
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [ai-tools, agent, vibe-coding, design]
+tags: [tools, ai-tools, agent, design, vibe-coding]
 sources: [raw/articles/flomerboy-claude-design-tips-thread-2045162321589252458.md, raw/articles/mahnoor-ai12-claude-logo-prompt-thread-2045370098173857811.md, raw/articles/bin-liu-claude-design-hyperframes-2045266734450720975.md, raw/articles/meng-to-designmd-landing-page-video-2045200155423781268.md]
 related_entity: [[ryan-mather]]
 ---

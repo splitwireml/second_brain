@@ -3,7 +3,7 @@ title: agent.md
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [ai-agent, agent, llm]
+tags: [agent, ai-agent, llm]
 sources: []
 ---
 

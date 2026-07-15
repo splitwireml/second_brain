@@ -3,7 +3,7 @@ title: Qwen3-36-27B-SAE-Fullstack
 created: 2026-05-09
 updated: 2026-05-10
 type: concept
-tags: [ai-model, qwen, code-generation]
+tags: [ai-model, code-generation, qwen]
 sources: []
 related_entity: [[huggingmodels]]
 ---

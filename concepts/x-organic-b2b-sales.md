@@ -1,10 +1,10 @@
 ---
 title: X Organic B2B Sales
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-07-10
 type: concept
-tags: [marketing, monetization, content-marketing, method]
-sources: [raw/articles/yegor-x-organic-b2b-sales-2026-04-14.md]
+tags: [content-marketing, marketing, method, monetization]
+sources: [raw/articles/yegor-x-organic-b2b-sales-2026-04-14.md, raw/articles/xarticle-founder-content-is-a-system-full-playbook-2074879329536774615.md]
 related_entity: [[yegor]]
 author: [[yegor]]
 ---
@@ -47,6 +47,10 @@ Screenshots, revenue numbers, and specific outcomes do more conversion work than
 ### 4. CTAs and profile conversion
 
 Profile visits are treated as the key monetization event. The bio, pinned post, and explicit DM CTA complete the funnel from attention to inquiry.
+
+### 5. Repeatable founder post formats
+
+[[anson-lin]] extends this X/Twitter sales frame from content mix into reusable founder post architecture. His six formats map to the same discovery/conversion split: build logs and contrast hooks create watchable/shareable discovery; documented failures and milestone chapters build trust over time; value posts farm bookmarks; receipts collapse skepticism with proof. The important constraint is that format reuse only works when the founder feeds it with proprietary numbers, scars, and current build activity rather than copying someone else's surface pattern.^[raw/articles/xarticle-founder-content-is-a-system-full-playbook-2074879329536774615.md]
 
 ## Suggested content mix from the source
 
@@ -106,3 +110,7 @@ Compared with [[denohawari]]'s SEO-heavy work, this framework is faster and more
 - Raw source: `raw/articles/yegor-x-organic-b2b-sales-2026-04-14.md`
 - Original tweet: https://x.com/yegormethod/status/2043624420900479129
 - Website: https://yegor.com/
+
+## Related
+- [[satyam-sales]] — B2B organic sales on X
+- [[anson-lin]] — founder-content post-format playbook for X/Twitter

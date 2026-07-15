@@ -3,7 +3,7 @@ title: Adrian Solarz
 created: 2026-04-25
 updated: 2026-04-25
 type: entity
-tags: [person, ugc, marketing, psychology, behavioral-science]
+tags: [person, behavioral-science, marketing, psychology, ugc]
 source: raw/articles/adriansolarzz-human-biases-ai-ugc-2047675131166671159.md
 ---
 

@@ -3,7 +3,7 @@ title: MoE Consumer GPU Tuning
 created: 2026-05-03
 updated: 2026-05-03
 type: concept
-tags: [local-llm, inference, moe, optimization]
+tags: [inference, local-llm, moe, optimization]
 sources: [raw/articles/qwen3-6-35b-rtx4070-12gb-iam-shanmukha-2026-05-01.md]
 related_entity: [[qwen3-6-35b-a3b]]
 author: [[iam-shanmukha]]

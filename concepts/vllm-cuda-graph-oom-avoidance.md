@@ -1,9 +1,9 @@
 ---
 title: vLLM CUDA Graph OOM Avoidance
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-06-14
 type: concept
-tags: [inference, optimization, vllm, cuda]
+tags: [inference, cuda, optimization, vllm]
 sources: [raw/articles/thread-TheAhmadOsman-2048608672348045540.md]
 related_entity: [[theahmadosman]]
 author: [[theahmadosman]]
@@ -42,6 +42,7 @@ vllm serve <model> --max-model-len <original>
 
 ## Related
 
+- [[theahmadosman]] — related entity from frontmatter; explicit cross-link
 - [[vllm]] — high-throughput inference engine with PagedAttention and CUDA Graph support
 - [[inference-kernel-optimization]] — low-level GPU kernel optimization; CUDA Graphs are one optimization lever
 - [[gpu-kernel-learning-path]] — learning curriculum for GPU optimization including serving engine internals

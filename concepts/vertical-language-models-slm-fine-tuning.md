@@ -3,7 +3,7 @@ title: Vertical Language Models (VLM) and SLM Fine-tuning
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [llm, fine-tuning, vertical-language-models, slm]
+tags: [llm, fine-tuning, slm, vertical-language-models]
 sources: []
 related_entity: [[cjzafir]]
 author: [[cjzafir]]

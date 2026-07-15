@@ -1,9 +1,9 @@
 ---
 title: CSM-1B
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-06-14
 type: concept
-tags: [speech, open-source, model]
+tags: [model, open-source, speech]
 sources: [raw/articles/huggingmodels-csm-1b-2046596842323107929.md]
 related_entity: [[huggingmodels]]
 ---
@@ -29,3 +29,6 @@ Short announcement tweet — no model size, license, or technical details provid
 - [[omnivoice]] — another open-source TTS model on HuggingFace with more documentation
 - [[vibevoice]] — Microsoft VibeVoice family; different architecture and scope
 - [[insanely-fast-whisper]] — HuggingFace transformers-based ASR pipeline (opposite direction: speech → text)
+
+## Related
+- [[context-1-llm]] — Context-1 LLM is a related speech/audio model comparison context

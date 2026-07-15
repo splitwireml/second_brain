@@ -1,10 +1,10 @@
 ---
 title: George Clements | Paid House
 created: 2026-05-04
-updated: 2026-05-12
+updated: 2026-05-19
 type: entity
-tags: [person, agency, marketing, b2b, lead-gen, retargeting]
-sources: [raw/articles/george-clem-retargeting-ads-2026.md, raw/articles/xarticle-how-i-set-up-a-new-meta-ads-campaign-for-my-agency-2053250110545334519.md]
+tags: [person, agency, b2b, lead-gen, marketing, retargeting]
+sources: [raw/articles/george-clem-retargeting-ads-2026.md, raw/articles/xarticle-how-i-set-up-a-new-meta-ads-campaign-for-my-agency-2053250110545334519.md, raw/articles/xarticle-how-to-get-your-first-agency-clients-with-zero-fol-2056130918021251531.md, raw/articles/xarticle-httpstcourromdidtl-2055852844645744891.md, raw/articles/agency-pricing-no-case-studies-2057039682509197319.md]
 ---
 
 # George Clements | Paid House

@@ -1,9 +1,9 @@
 ---
 title: Hermes Skills Workflow Patterns
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-06-14
 type: concept
-tags: [hermes-agent, skill, workflow-automation, productivity]
+tags: [hermes-agent, productivity, skill, workflow-automation]
 sources: [raw/articles/0xjeff-3-hermes-skills-2026-04-20.md]
 related_entity: [[hermes-agent]]
 author: [[0xJeff]]
@@ -42,3 +42,6 @@ Synthesizes past information, preferences, and patterns via external memory prov
 
 - [[hermes-checkpoints-rollback]] — State management for skill debugging
 - [[agent-teams]] — Multi-agent patterns for long-running workflows
+
+## Related
+- [[hermes-agent]] — related entity from frontmatter; explicit cross-link

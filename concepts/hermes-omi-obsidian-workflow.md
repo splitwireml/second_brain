@@ -3,7 +3,7 @@ title: "Hermes OMI Obsidian Workflow"
 created: 2026-04-29
 updated: 2026-04-29
 type: concept
-tags: [ai-agent, memory, knowledge-management, workflow, hermes-agent]
+tags: [agent, ai-agent, memory, workflow, hermes-agent, knowledge-management]
 sources: [raw/articles/xarticle-how-i-connected-hermes-to-obsidian-using-omi-for-p-2048710808386130068.md]
 author: [[juliangoldie]]
 ---

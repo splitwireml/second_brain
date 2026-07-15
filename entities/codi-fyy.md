@@ -4,7 +4,7 @@ platform: X
 created: 2026-05-06
 updated: 2026-05-06
 type: entity
-tags: [x-creator, content-creator, tiktok]
+tags: [content-creator, tiktok, x-creator]
 tweet_id: "2050594569675481584"
 followers_count: ~
 followers_count_source: ~

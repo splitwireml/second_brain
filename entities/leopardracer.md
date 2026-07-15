@@ -4,7 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: entity
 tags: [person, agent, inference]
-sources: [raw/articles/leopardracer-mac-mini-35b-local-routing-2026-04-14.md]
+sources: [raw/articles/leopardracer-mac-mini-35b-local-routing-2026-04-14.md, raw/articles/xarticle-httpstcoenavmcfxg4-2055341758523883631.md, raw/articles/one-person-business-2026-2056662429224898601.md]
 ---
 
 # leopardracer
@@ -37,6 +37,8 @@ That pattern is captured in [[three-tier-local-model-routing]].
 - [[ai-cost-optimization]] — related cost-saving logic via preprocessing and reduced cloud usage
 - [[llama-cpp]] — heavy-tier inference engine used with mmap-style loading
 - [[hermes-agent]] — adjacent agent pattern where local preprocessing and fallback can reduce cloud dependence
+- [[deronin]] — vibe coding cost optimization on Mac hardware (complementary local routing)
+- [[vibevoice]] — local speech models for headless Mac mini deployment
 
 ## References
 

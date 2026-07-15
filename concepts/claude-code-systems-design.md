@@ -1,9 +1,9 @@
 ---
 title: Claude Code Systems Design
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-06-14
 type: concept
-tags: [claude-code, workflow, agent, prompting]
+tags: [agent, workflow, claude-code, prompting]
 sources: [raw/articles/suryansh-tiwari-stop-prompts-design-systems-2026-04-25.md]
 related_entity: [[suryansh-tiwari]]
 ---
@@ -77,3 +77,6 @@ Constraints don't limit AI — they focus it. Explicit JWT requirements, no new 
 ## Sources
 
 - raw/articles/suryansh-tiwari-stop-prompts-design-systems-2026-04-25.md
+
+## Related
+- [[suryansh-tiwari]] — related entity from frontmatter; explicit cross-link

@@ -3,7 +3,7 @@ title: "Dokploy vs Coolify"
 created: 2026-04-16
 updated: 2026-04-16
 type: comparison
-tags: [comparison, platform, self-hosted]
+tags: [platform, comparison, self-hosted]
 sources: [raw/articles/dokploy-dokploy-2026-04-16.md, raw/articles/coollabsio-coolify-2026-04-15.md]
 participants:
   - [[dokploy]]

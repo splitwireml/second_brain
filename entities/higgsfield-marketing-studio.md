@@ -3,7 +3,7 @@ title: Higgsfield Marketing Studio
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [marketing, ai-video, platform]
+tags: [platform, ai-video, marketing]
 sources: [raw/articles/rohit-solo-founder-stack-2026-2047699770308014406.md]
 ---
 

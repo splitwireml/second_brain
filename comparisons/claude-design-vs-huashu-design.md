@@ -3,7 +3,7 @@ title: Claude Design vs huashu-design
 created: 2026-04-21
 updated: 2026-04-21
 type: comparison
-tags: [comparison, design-tool, ai-design]
+tags: [ai-design, comparison, design-tool]
 sources: [comparisons/paper-design-vs-huashu-design.md]
 participants:
   - [[claude-design]]

@@ -5,7 +5,7 @@ type: entity
 created: 2026-05-09
 updated: 2026-05-09
 source: x.com/i/status/2052103973377867913
-tags: [browser-agents, autobrowse, ai-automation]
+tags: [ai-automation, autobrowse, browser-agents]
 ---
 
 # Kyle Jeong (@kylejeong)

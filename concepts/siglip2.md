@@ -3,7 +3,7 @@ title: SigLIP2
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [computer-vision, model, vision-language, architecture]
+tags: [model, architecture, computer-vision, vision-language]
 sources: [raw/articles/liquid-ai-lfm2-5-vl-450m-model-card-2026-04-16.md]
 related_entity: [[liquid-ai]]
 ---

@@ -3,7 +3,7 @@ title: "X Article by Kangwook_Lee (t.co/e23VrznOdV)"
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: [x-article, export-failed, bird-read-failure]
+tags: [bird-read-failure, export-failed, x-article]
 sources: [raw/articles/xarticle-httpstcoe23vrznodv-2052925157606568217.md]
 related_entity: [[kangwook-lee]]
 ---

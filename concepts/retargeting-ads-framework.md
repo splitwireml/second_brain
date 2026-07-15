@@ -3,7 +3,7 @@ title: Retargeting Ads Framework (George Clements)
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [retargeting, marketing, b2b, lead-gen, agency]
+tags: [agency, b2b, lead-gen, marketing, retargeting]
 sources: [raw/articles/george-clem-retargeting-ads-2026.md]
 related_entity: [[george-clem]]
 author: [[george-clem]]

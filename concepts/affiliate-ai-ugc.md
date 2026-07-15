@@ -3,7 +3,7 @@ title: affiliate-ai-ugc
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [affiliate-marketing, ai-ugc, tiktok, monetization]
+tags: [affiliate-marketing, ai-ugc, monetization, tiktok]
 sources: [raw/articles/afwlaur-affiliate-ai-ugc-30k-2046315145740054628.md]
 ---
 

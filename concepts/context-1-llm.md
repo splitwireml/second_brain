@@ -1,9 +1,9 @@
 ---
 title: context-1
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-06-14
 type: concept
-tags: [llm, open-source, model]
+tags: [llm, model, open-source]
 sources: [raw/articles/huggingmodels-context-1-2046710079312052711.md]
 related_entity: [[huggingmodels]]
 ---
@@ -27,3 +27,6 @@ Minimal announcement — no model size, architecture details, license, or benchm
 - [[qwen3-8b-opus-reasoning]] — another open-source model announced via HuggingFace
 - [[vibevoice]] — conversational AI scope (different modality: speech)
 - [[omnivoice]] — HuggingFace-hosted model; related platform
+
+## Related
+- [[csm-1b]] — CSM-1B is a related speech/audio model comparison context

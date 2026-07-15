@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-10
 type: concept
 source: x.com/i/status/2052103973377867913
-tags: [browser-agents, memory, automation, skill-learning, ai-agents]
+tags: [agent, ai-agent, memory, automation, browser-agents, skill-learning]
 sources: [raw/articles/xarticle-2052103973377867913.md]
 ---
 

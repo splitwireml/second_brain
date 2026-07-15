@@ -3,7 +3,7 @@ title: Cartoon UGC
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [ugc, tiktok, marketing, virality, ai-ugc, ecommerce]
+tags: [ai-ugc, ecommerce, marketing, tiktok, ugc, virality]
 sources: [raw/articles/noah-frydberg-cartoon-ugc-monetization-2026-04-24.md]
 ---
 

@@ -3,7 +3,7 @@ title: mem0
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [ai, memory, llm, open-source]
+tags: [llm, memory, ai, open-source]
 ---
 
 # mem0

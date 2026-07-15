@@ -3,7 +3,7 @@ title: "buyer-simulation"
 created: 2026-04-27
 updated: 2026-04-27
 type: concept
-tags: [marketing, conversion, sales, buyer-persona, testing]
+tags: [buyer-persona, conversion, marketing, sales, testing]
 sources: [raw/articles/xarticle-how-to-find-fix-whats-killing-your-sales-with-the--2047668468904808531.md]
 related_entity: [[ole-lehmann]]
 author: [[ole-lehmann]]

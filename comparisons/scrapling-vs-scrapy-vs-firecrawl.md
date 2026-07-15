@@ -3,7 +3,7 @@ title: "Scrapling vs Scrapy vs Firecrawl"
 created: 2026-04-13
 updated: 2026-04-13
 type: comparison
-tags: [comparison, tools, web-scraping, automation]
+tags: [tools, automation, comparison, web-scraping]
 sources: [raw/articles/scrapling-technical-research-2026-04-13.md]
 participants:
   - [[scrapling]]

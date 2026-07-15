@@ -3,7 +3,7 @@ title: Hermes Agent Ecosystem Projects
 created: 2026-04-21
 updated: 2026-04-21
 type: entity
-tags: [hermes-agent, agent, open-source, ecosystem]
+tags: [agent, ecosystem, hermes-agent, open-source]
 sources: [raw/articles/nfctcps-hermes-agent-ecosystem-5-projects-2026-04-20.md]
 related_entity: [[hermes-agent]]
 ---

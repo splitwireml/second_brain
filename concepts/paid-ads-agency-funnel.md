@@ -1,9 +1,9 @@
 ---
 title: Paid Ads Agency Funnel
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-14
 type: concept
-tags: [marketing, agency, b2b, lead-gen, content-strategy, conversion]
+tags: [agency, b2b, content-strategy, conversion, lead-gen, marketing]
 sources: [raw/articles/george-clements-paid-ads-agency-funnel-2051697261101322556.md]
 related_entity: [[george-clements-paid-ads-agency]]
 author: [[george-clem]]
@@ -87,3 +87,6 @@ Three-component sequence between booking and call:
 - [[four-layer-b2b-funnel]] — ColdIQ's 4-layer B2B demand-gen architecture
 - [[ecommerce-funnel-training]] — 6-stage DTC subscription funnel framework
 - [[google-maps-b2b-lead-gen]] — 4-layer Claude Code scaffolded B2B lead gen
+
+## Related
+- [[george-clements-paid-ads-agency]] — related entity from frontmatter; explicit cross-link

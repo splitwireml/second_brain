@@ -3,7 +3,7 @@ title: Atenov_D
 created: 2026-05-09
 updated: 2026-05-10
 type: entity
-tags: [person, x-creator, ai-business, monetization]
+tags: [person, ai-business, monetization, x-creator]
 sources: [raw/articles/xarticle-Atenov_D-2052726958643871792.md]
 ---
 

@@ -3,7 +3,7 @@ title: SMB Sub-$400 ARR Strategy
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [monetization, business, finance]
+tags: [business, finance, monetization]
 sources: [raw/articles/shubhagrawal26-1m-arr-smb-2026-04-12.md]
 ---
 

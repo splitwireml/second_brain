@@ -1,7 +1,7 @@
 ---
 title: GEPA
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-14
 type: concept
 tags: [method, optimization, prompt-engineering, research]
 sources: [raw/articles/thread-akshay-pachaar-2049916107923034300-2026-04-30.md]
@@ -52,3 +52,6 @@ GEPA beats GRPO by 10 points on the same benchmark at 35× fewer rollouts and un
 - [[grpo]] — reinforcement learning method GEPA competes with and complements
 - [[dspy]] — framework where GEPA is implemented as a first-class optimizer
 - [[prompt-engineering-patterns]] — broader prompt engineering patterns
+
+## Related
+- [[akshay-pachaar]] — related entity from frontmatter; explicit cross-link

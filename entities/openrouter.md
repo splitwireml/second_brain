@@ -3,7 +3,7 @@ title: OpenRouter
 created: 2026-04-25
 updated: 2026-04-25
 type: entity
-tags: [AI-company, platform]
+tags: [company, platform, ai-company]
 sources: [raw/articles/openrouter-hermes-agent-openrouter-expert-2026-04-24.md]
 ---
 

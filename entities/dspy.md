@@ -3,7 +3,7 @@ title: DSPy
 created: 2026-05-10
 updated: 2026-05-10
 type: entity
-tags: [open-source, llm, prompting]
+tags: [llm, open-source, prompting]
 sources: []
 ---
 

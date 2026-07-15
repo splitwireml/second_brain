@@ -3,7 +3,7 @@ title: witcheer
 created: 2026-05-05
 updated: 2026-05-05
 type: entity
-tags: [person, x-creator, content-creator, local-ai, hermes-agent]
+tags: [person, content-creator, hermes-agent, local-ai, x-creator]
 sources: [raw/articles/xarticle-httpstco3v4gw8yf31-2051305175961272810.md, raw/articles/xarticle-im-local-ai-maxxing-my-hermes-agent-will-help-2051305175961272810.md]
 ---
 

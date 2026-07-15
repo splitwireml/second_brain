@@ -3,7 +3,7 @@ title: Codex Lead Database Pipeline
 created: 2026-05-03
 updated: 2026-05-03
 type: concept
-tags: [codex, outbound, web-scraping, local-business]
+tags: [codex, local-business, outbound, web-scraping]
 sources: [raw/articles/levikmunneke-codex-lead-database-2026-04-30.md]
 ---
 

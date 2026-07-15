@@ -3,7 +3,7 @@ title: Block Diffusion Speculative Decoding
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [inference, optimization, llm]
+tags: [llm, inference, optimization]
 sources: [raw/articles/z-lab-dflash-2026-04-16.md]
 related_entity: [[dflash]]
 ---

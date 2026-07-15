@@ -3,7 +3,7 @@ title: Claude Skills Service Business
 created: 2026-04-09
 updated: 2026-04-13
 type: concept
-tags: [marketing, monetization, ai-tools, productivity, no-code, automation, business]
+tags: [tools, ai-tools, automation, business, marketing, monetization, no-code, productivity]
 sources: [raw/articles/heynavtoor-claude-skills-sell-2026-04-09.md]
 ---
 

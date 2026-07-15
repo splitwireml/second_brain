@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-10
 type: concept
 source: https://x.com/i/status/2052015573710623076
-tags: [peptide-marketing, ugc, ecommerce, affiliate-marketing, ai-content, distribution-strategy]
+tags: [affiliate-marketing, ai-content, distribution-strategy, ecommerce, peptide-marketing, ugc]
 sources: [raw/articles/xarticle-2052015573710623076.md]
 ---
 
@@ -43,7 +43,7 @@ Guide by [[roman_khaves]] on winning peptide marketing distribution via three co
 
 ## Tools
 
-- [[AffiliateNetwork.com]] — creator network for all three formats
+- AffiliateNetwork.com — creator network for all three formats
 
 ## Related Concepts
 

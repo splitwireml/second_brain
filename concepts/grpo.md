@@ -1,9 +1,9 @@
 ---
 title: GRPO
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-06-14
 type: concept
-tags: [method, rl, optimization]
+tags: [method, optimization, rl]
 sources: [raw/articles/thread-akshay-pachaar-2049916107923034300-2026-04-30.md]
 related_entity: [[berkeley]]
 ---
@@ -28,3 +28,6 @@ GRPO collects multiple rollout trajectories per prompt, computes a scalar reward
 GEPA (Generative Evolutionary Prompt Algorithm) targets the same problem space but uses natural language reflection on full traces instead of scalar rewards. GEPA achieves 10 points higher on the same benchmark at 35× fewer rollouts and no GPU cost. The two are increasingly combined in hybrid recipes like BetterTogether and mmGRPO.
 
 - [[gepa]] — prompt optimization method that competes with and complements GRPO
+
+## Related
+- [[berkeley]] — related entity from frontmatter; explicit cross-link

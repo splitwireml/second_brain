@@ -1,10 +1,10 @@
 ---
 title: AI Cost Optimization
 created: 2026-04-12
-updated: 2026-04-14
+updated: 2026-07-15
 type: concept
-tags: [optimization, tools, monetization]
-sources: [raw/articles/noisyb0y1-ai-cost-optimization-2026-04-10.md]
+tags: [tools, monetization, optimization]
+sources: [raw/articles/noisyb0y1-ai-cost-optimization-2026-04-10.md, raw/articles/thread-VaibhavSisinty-2071243569814491579.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md]
 ---
 
 # AI Cost Optimization
@@ -43,11 +43,27 @@ A newer cost lever is to move routine preprocessing off the frontier model entir
 
 This does not eliminate cloud usage. It preserves cloud budget for the tasks that actually need frontier reasoning.
 
+### Provider Router + Prompt Compression
+
+The Vaibhav Sisinty / OmniRoute thread adds a fourth cost lever: keep the client configuration fixed while a local router decides which upstream provider handles the request and whether prompt compression should happen before the expensive model sees the payload. In this framing, cost control is not only about smaller prompts or better local models. It is also about abstraction at the API boundary.
+
+**Confirmed from the bookmark:** the tool is presented as a single localhost endpoint (`http://localhost:20128/v1`, `model: auto`) for Claude Code, Cursor, Codex, Cline, and related coding clients.^[raw/articles/thread-VaibhavSisinty-2071243569814491579.md]
+
+**Source claims not independently verified:** the author claims up to 95% token-cost reduction and 1.6 billion free tokens per month, while replies in the same thread push back that compression and auto-routing can hide quality failures until edge cases surface.^[raw/articles/thread-VaibhavSisinty-2071243569814491579.md]
+
+This makes provider-layer routing a useful extension of [[ai-cost-optimization]], but not yet a confirmed replacement for direct quality testing or workload-specific evaluation.
+
 ### Provider-Margin Arbitrage (AI Video)
 
 A parallel cost-reduction vector applies to AI API costs when the provider adds significant margin. [[frederikfeldt-seedance-pricing]] documents a case: Seedance 2.0 hosted platforms charge $0.25–0.37/second, while raw ByteDance API reportedly costs ~$0.10/second — a 2.5–3.7× markup for the convenience of a hosted UI.
 
 The hosted platforms' value proposition is the model zoo (30+ models, full creative suite). For operators who need only one model, paying for the entire bundle is pure waste. The arbitrage exists wherever a platform wraps a metered API in a bundled product.
+
+### Domain-Specific Harness Economics
+
+The [[shortcut]] case study adds a workload-level cost lever: optimize the complete harness for a narrow domain instead of paying the context and tool-call tax of a general-purpose agent. The article reports 37 versus 61 tool calls per spreadsheet task and 3.7M versus 7.1M input tokens against Claude for Excel, alongside claims of 40% lower cost and 17% higher accuracy on Shortcut's internal finance evals. These are source-reported measurements, not independently audited here. ^[raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md]
+
+The broader pattern is to keep a stable task harness while routing subproblems to the best-fit model: the source describes using different models for general spreadsheet work, image/PDF perception, cost-sensitive tasks, and a smaller in-house worker model. Cost optimization therefore includes context design, tool economy, and model selection—not only prompt compression or cheaper inference. ^[raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md]
 
 ## Effective Cost Math
 
@@ -63,6 +79,8 @@ Same subscriptions. 3x more output per dollar. $240+/year recovered.
 - [[rtk-rust-token-killer]] — input token filter for AI coding sessions
 - [[caveman-claude-skill]] — Claude response compression
 - [[bleap]] — AI subscription cashback card
+- [[omniroute]] — provider-router layer for coding clients, prompt compression, and failover abstraction
+- [[shortcut]] — domain-specific spreadsheet agent used as a harness/cost case study
 
 ## Related Concepts
 

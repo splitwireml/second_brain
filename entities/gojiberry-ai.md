@@ -3,7 +3,7 @@ title: Gojiberry.ai
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [AI-company, automation, platform, marketing]
+tags: [company, platform, ai-company, automation, marketing]
 sources: [raw/articles/pierreeliottlal-claude-mcp-linkedin-2026-04-12.md]
 ---
 

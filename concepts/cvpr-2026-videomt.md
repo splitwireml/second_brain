@@ -1,9 +1,9 @@
 ---
 title: "VidEoMT: Your ViT is Secretly Also a Video Segmentation Model"
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-06-14
 type: concept
-tags: [computer-vision, segmentation, video, cvpr-2026]
+tags: [computer-vision, cvpr-2026, segmentation, video]
 sources: [raw/papers/videomt-arxiv-2602.17807.md, raw/papers/skalski-p-top-cvpr-2026-papers.md]
 related_entity: [[skalski-p-top-cvpr-2026-papers]]
 ---
@@ -30,3 +30,6 @@ Presents VidEoMT, a video segmentation approach that repurposes a plain ViT for 
 - [[cvpr-2026-matanyone-2]] — video matting with quality evaluator
 - [[cvpr-2026-insid3]] — training-free in-context segmentation
 - [[cvpr-2026-topics]] — parent topic
+
+## Related
+- [[skalski-p-top-cvpr-2026-papers]] — related entity from frontmatter; explicit cross-link

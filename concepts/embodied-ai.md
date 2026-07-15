@@ -3,7 +3,7 @@ title: Embodied AI
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [embodied-ai, robotics, vision-language, agent, reasoning]
+tags: [agent, reasoning, embodied-ai, robotics, vision-language]
 sources: [raw/articles/tencent-hy-embodied-0-5-model-card-2026-04-14.md]
 ---
 

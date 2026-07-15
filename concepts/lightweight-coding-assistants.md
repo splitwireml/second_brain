@@ -3,7 +3,7 @@ title: Lightweight Coding Assistants
 created: 2026-04-29
 updated: 2026-05-03
 type: concept
-tags: [code-generation, local-llm, lightweight, inference, efficiency]
+tags: [inference, code-generation, efficiency, lightweight, local-llm]
 sources: [raw/articles/xarticle-lightweight-coding-assistants-2026.md]
 related_entity: [[huggingmodels]]
 ---

@@ -3,7 +3,7 @@ title: Mercury Agent
 created: 2026-04-29
 updated: 2026-04-29
 type: entity
-tags: [agent, open-source, memory, knowledge-management, hermes-agent]
+tags: [agent, memory, hermes-agent, knowledge-management, open-source]
 sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md]
 ---
 

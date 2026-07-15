@@ -1,10 +1,10 @@
 ---
 title: "Anthropic Prompt Engineering Best Practices — Car Insurance Form Demo"
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-06-20
 type: concept
-tags: [prompt-engineering, claude-code, anthropic, system-prompt-design, xml-tags, few-shot-prompting, pre-fill, extended-thinking, production-llm]
-sources: [raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md, raw/assets/2026-05-01-claude-code-hidden-features-sairahul1.mp3]
+tags: [anthropic, claude-code, extended-thinking, few-shot-prompting, pre-fill, production-llm, prompt-engineering, system-prompt-design, xml-tags]
+sources: [raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md, raw/transcripts/2026-06-20-anthropic-prompting-101-twetsfyp-2068004091695919574.md]
 related_entity: [[anthropic]]
 ---
 
@@ -120,5 +120,7 @@ A 24-minute Anthropic Applied AI team demo (Hannah + Christian) walking through 
 
 ## Sources
 
-- `raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md` — Full VibeVoice ASR transcript (7,442 tokens, 24 min)
-- `raw/assets/2026-05-01-claude-code-hidden-features-sairahul1.mp3` — Audio file (17MB, MP3)
+- `raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md` — First ingested transcript of the same Anthropic Prompting 101 demo from @sairahul1.
+- `raw/transcripts/2026-06-20-anthropic-prompting-101-twetsfyp-2068004091695919574.md` — Whisper transcript of the same demo resurfaced by @twetsfyp on 2026-06-19.
+- `raw/assets/2026-05-01-claude-code-hidden-features-sairahul1.mp3` — Original audio asset from the earlier ingest.
+- `raw/assets/x-video-2068004091695919574.mp3` — Audio asset extracted from the @twetsfyp repost.

@@ -3,7 +3,7 @@ title: Claude Skills Ranked List
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: [claude-code, productivity, ai-tools, skill-management, context-window, workflow-optimization]
+tags: [tools, ai-tools, claude-code, context-window, productivity, skill-management, workflow-optimization]
 sources: [raw/articles/xarticle-Mnilax-2051701429987897712.md]
 author: [[mnilax]]
 likes: 966

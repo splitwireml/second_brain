@@ -3,7 +3,7 @@ title: Gauri Gupta
 created: 2026-05-07
 updated: 2026-05-07
 type: entity
-tags: [person, llm, training, inference, ml]
+tags: [person, llm, inference, training, ml]
 sources: [raw/articles/gauri-gupta-llm-optimization-interview-notes-2051882947758993815.md]
 ---
 

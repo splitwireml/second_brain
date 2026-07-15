@@ -3,7 +3,7 @@ title: IBM Granite
 created: 2026-05-01
 updated: 2026-05-01
 type: entity
-tags: [company, model, llm, oss-ai]
+tags: [company, llm, model, oss-ai]
 sources: [raw/articles/ibm-granite-granite-speech-4-1-2b-plus-2026-04-28.md]
 ---
 

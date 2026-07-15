@@ -3,7 +3,7 @@ title: "Anatoli Kopadze thread (2026-05-01)"
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [thread, claude-code, productivity]
+tags: [claude-code, productivity, thread]
 sources: [raw/articles/thread-anatoli-kopadze-2050225292585607440.md]
 author: [[anatoli-kopadze]]
 ---

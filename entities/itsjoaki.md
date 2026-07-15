@@ -3,7 +3,7 @@ title: Joaki
 created: 2026-04-22
 updated: 2026-04-22
 type: entity
-tags: [person, seo, backlink, x-creator]
+tags: [person, backlink, seo, x-creator]
 sources: [raw/articles/itsjoaki-patreon-da-93-2046518284887986254.md]
 ---
 

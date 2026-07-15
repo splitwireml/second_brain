@@ -3,7 +3,7 @@ title: RMBG-1.4
 created: 2026-04-26
 updated: 2026-04-26
 type: entity
-tags: [model, background-removal, image-segmentation, bria-ai, pytorch, onnx, transformers-js]
+tags: [model, background-removal, bria-ai, image-segmentation, onnx, pytorch, transformers-js]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md]
 ---
 

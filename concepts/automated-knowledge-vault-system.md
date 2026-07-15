@@ -1,9 +1,9 @@
 ---
 title: Automated Knowledge Vault System
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-06-14
 type: concept
-tags: [knowledge-management, agent, automation, obsidian, second-brain]
+tags: [agent, automation, knowledge-management, obsidian, second-brain]
 sources: [raw/articles/xarticle-ziwenxu_-2053241837453029439.md]
 related_entity: [[ziwen]]
 ---
@@ -84,3 +84,6 @@ As the vault grows, agents get "cocky" — they take shortcuts. The Freshman Rul
 
 - [x.com/i/status/2053241837453029439](https://x.com/ziwenxu_/status/2053241837453029439) — full X Article (7,009 chars, 705 likes, 80 RTs, May 9 2026)
 - [github.com/duolahypercho/codex-knowledge-llm](https://github.com/duolahypercho/codex-knowledge-llm) — Codex Skill implementation
+
+## Related
+- [[ziwen]] — related entity from frontmatter; explicit cross-link

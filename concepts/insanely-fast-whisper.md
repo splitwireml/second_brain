@@ -3,7 +3,7 @@ title: Insanely Fast Whisper — Thin CLI Wrapper for Whisper
 created: 2026-04-10
 updated: 2026-04-10
 type: concept
-tags: [oss-ai, tools, speech, genai]
+tags: [tools, genai, oss-ai, speech]
 sources: [raw/articles/insanely-fast-whisper-technical-analysis-2026-04-10.md, raw/articles/vibevoice-vs-insanely-fast-whisper-comparison-2026-04-10.md]
 ---
 
@@ -14,6 +14,13 @@ sources: [raw/articles/insanely-fast-whisper-technical-analysis-2026-04-10.md, r
 A ~180-line CLI wrapper around HuggingFace's `transformers.pipeline("automatic-speech-recognition")`. No custom model, no custom inference engine — just convenience defaults (Flash Attention 2, chunking, batching) plus speaker diarization via pyannote.
 
 **Default model:** `openai/whisper-large-v3` (NOT v3-turbo). Any Whisper checkpoint supported via `--model-name`.
+
+## Context: ASR Landscape
+
+For on-device or Apple Silicon ASR, also see:
+- [[vibevoice]] — Microsoft's MLX-native speech tokenizer + ASR model with 7.5 Hz continuous tokens
+- [[omnivoice]] — TTS-focused but shares the Higgs-audio tokenization lineage
+- [[supertonic-3]] — TTS complement to ASR, CPU-only ONNX
 
 ## How Speed is Achieved
 

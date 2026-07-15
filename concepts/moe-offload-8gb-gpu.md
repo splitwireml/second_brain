@@ -1,9 +1,9 @@
 ---
 title: MoE Offload for 8GB Consumer GPUs
 created: 2026-05-01
-updated: 2026-05-05
+updated: 2026-06-14
 type: concept
-tags: [moe, inference, quantization, llama.cpp, local-llm, efficiency, gpu]
+tags: [inference, quantization, efficiency, gpu, llama.cpp, local-llm, moe]
 sources: [raw/articles/above-spec-moe-35b-rtx4060ti-2026-05-01.md]
 related_entity: [[above-spec]]
 ---
@@ -62,3 +62,6 @@ The real bottleneck for MoE offload is **host-RAM bandwidth** — the cold exper
 - [[quantization]] — Q4_K_S and q8_0 quantization levels
 - [[local-llm]] — Home/small-scale LLM inference
 - [[llama-cpp]] — Inference engine used for MoE offload
+
+## Related
+- [[above-spec]] — related entity from frontmatter; explicit cross-link

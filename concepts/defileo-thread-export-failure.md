@@ -3,7 +3,7 @@ title: Defileo thread export failure
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [thread, export-failure, bird-read-failure]
+tags: [bird-read-failure, export-failure, thread]
 sources: [raw/articles/thread-defileo-2050656413006053793.md]
 related_entity: [[defileo]]
 author: [[defileo]]

@@ -3,7 +3,7 @@ title: iOS App Monetization Guide for Vibe Coders
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [monetization, method]
+tags: [method, monetization]
 sources: [raw/articles/dami-defi-ios-monetization-2050197937578193153.md]
 author: [[dami-defi]]
 ---

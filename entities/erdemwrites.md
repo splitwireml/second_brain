@@ -3,7 +3,7 @@ title: ErdeM
 created: 2026-05-11
 updated: 2026-05-11
 type: entity
-tags: [x-creator, person]
+tags: [person, x-creator]
 sources: [raw/articles/thread-erdemwrites-2052922827066450258.md]
 ---
 

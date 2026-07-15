@@ -1,9 +1,9 @@
 ---
 title: UpWork Job Monitor
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-14
 type: concept
-tags: [automation, agent, project]
+tags: [agent, automation, project]
 sources: [raw/articles/upwork-job-monitor-project-spec.md]
 related_entity: [[career-ops]]
 ---
@@ -103,3 +103,6 @@ Requires `Authorization: Bearer <oauth_token>` header + full cookie jar (`master
 - [[autoresearch]] — the autonomous propose→score→evolve→decide loop applied to marketing copy; same evaluation paradigm
 - [[paperclip-orchestrator]] — agent orchestration with human-in-the-loop approval; relevant for multi-stage filtering architecture
 - [[ai-freelancer-200-hour-guide]] — the monetization context for why this tool exists (earning income via AI freelancing)
+
+## Related
+- [[career-ops]] — related entity from frontmatter; explicit cross-link

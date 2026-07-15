@@ -3,7 +3,7 @@ title: "Vane agentic search workflow — fixed pipeline vs AI agent with tools"
 created: 2026-04-18
 updated: 2026-04-18
 type: query
-tags: [ai-tools, search, self-hosted, rag]
+tags: [tools, ai-tools, rag, search, self-hosted]
 sources: [sources/vane/src/lib/agents/search/index.ts, sources/vane/src/lib/agents/search/classifier.ts, sources/vane/src/lib/agents/search/researcher/index.ts, sources/vane/src/lib/agents/search/researcher/actions/registry.ts, sources/vane/src/lib/agents/search/researcher/actions/plan.ts, sources/vane/src/lib/agents/search/researcher/actions/search/webSearch.ts, sources/vane/src/lib/agents/search/researcher/actions/done.ts, sources/vane/src/lib/prompts/search/classifier.ts]
 question: "When you hit search in Vane, is it a fixed pipeline or does the AI agent decide its own plan? Can MCP be connected?"
 answer_status: answered

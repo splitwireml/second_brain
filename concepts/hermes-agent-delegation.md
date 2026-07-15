@@ -3,7 +3,7 @@ title: "Hermes Agent Delegation"
 created: "2026-05-09"
 updated: 2026-05-10
 type: "concept"
-tags: [hermes-agent, multi-agent, delegation, orchestration, agentic-ai]
+tags: [multi-agent, orchestration, agentic-ai, delegation, hermes-agent]
 sources: [raw/articles/xarticle-neoaiforecast-2051591568696782935.md]
 related_entity: [[hermes-agent]]
 author: [[neo-ai-forecast]]

@@ -3,7 +3,7 @@ title: sam3-image
 created: 2026-04-26
 updated: 2026-04-26
 type: entity
-tags: [model, image-segmentation, mlx, apple-silicon, sam3, meta, interactive-segmentation]
+tags: [model, apple-silicon, image-segmentation, interactive-segmentation, meta, mlx, sam3]
 sources: [raw/articles/huggingface-local-image-bg-removal-svg-models-2026-04-26.md]
 ---
 

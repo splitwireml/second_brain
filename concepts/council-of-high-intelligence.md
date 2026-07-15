@@ -1,9 +1,9 @@
 ---
 title: Council of High Intelligence
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-06-14
 type: concept
-tags: [ai-tools, agent, orchestration, reasoning, claude-code]
+tags: [tools, ai-tools, agent, reasoning, orchestration, claude-code]
 sources: [raw/articles/nyk-builderz-council-high-intelligence-2026-04-17.md]
 related_entity: [[nyk-builderz]]
 author: [[nyk-builderz]]
@@ -105,3 +105,6 @@ Requires Claude Code CLI with agent subagent support.
 
 - [[autoreason]] — Nous Research multi-agent tournament method; related approach to structured agent deliberation
 - [[agent-teams]] — Multi-agent collaboration paradigm; relevant to council's multi-agent orchestration approach
+
+## Related
+- [[nyk-builderz]] — related entity from frontmatter; explicit cross-link

@@ -3,7 +3,7 @@ title: Football AI Tools Marketplace
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [ai-tools, football, marketplace, analytics]
+tags: [tools, ai-tools, analytics, football, marketplace]
 sources: []
 related_entity: [[coach_kevin_m]]
 ---

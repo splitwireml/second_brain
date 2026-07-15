@@ -3,7 +3,7 @@ title: Garry Tan
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
-tags: [person, y-combinator, x-creator, independent-developer]
+tags: [person, independent-developer, x-creator, y-combinator]
 sources: [raw/articles/garrytan-skillify-agent-reliability-2046876981711769720.md, raw/articles/xarticle-meta-meta-prompting-the-secret-to-making-ai-agents-2053127519872614419.md]
 ---
 

@@ -3,7 +3,7 @@ title: AI-Generated UGC Ads for Interior Design
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [idea, marketing, ai-generated-ads, opportunity]
+tags: [ai-generated-ads, idea, marketing, opportunity]
 sources: []
 related_entity: [[waleed]]
 ---

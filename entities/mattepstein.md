@@ -1,27 +1,31 @@
 ---
-title: mattepstein
-created: 2026-04-27
-updated: 2026-04-27
+title: Matt Epstein
+created: 2026-05-19
+updated: 2026-05-19
 type: entity
-tags: [person, content-creator, marketing, video, virality]
-sources: [raw/articles/mattepstein-tribe-viral-cheat-code-2048190139055423779-2026-04-25.md]
-related_concept: [[tribe-v2-video-brain-activation]]
+tags: [person, ai-design, brand, content-creator, marketing]
+sources: [raw/articles/xarticle-the-secret-behind-every-viral-launch-2054989194414465222.md]
 ---
-
-# mattepstein
-
-X creator (@mattepstein) who posts about video marketing, virality mechanics, and AI-driven content optimization.
 
 ## Overview
 
-Matt Epstein is a marketing strategist and X creator who shared a detailed case study on using Meta's TRIBE v2 neural activation model to engineer viral video content. He documented using the model to achieve 1.8M+ views and $1M+ in client revenue.
+Matt Epstein (@mattepstein) is a content creator and agency founder who has executed 30 of the largest product launches on X (Twitter), with 26 going viral. He runs a system using Claude Code to orchestrate multi-agent workflows that produce viral launch content with 95% automation.
 
-## Key Content
+## Key Claims
 
-- **TRIBE v2 + Virality** — Case study on using Meta's TRIBE v2 brain activation model to predict and engineer viral video content; achieved >1.8M views and $1M+ in client revenue on a single launch
-- **Neural virality framework** — Three brain activation moments: spike (first 1.5s), sustain (4-20s), payoff (last 3s); content missing any phase dies in 60 seconds
-- **TRIBE editing protocol** — 10-minute workflow: upload video → get activation curve → find flat zones → cut/rebuild → re-upload until continuous activation
+- Uses Claude as an "operating system for launches" rather than a writer
+- Runs 21 specialized agents inside Claude Code for launch creation
+- System includes Mom Test agent (trained on his 61-year-old mother) to validate mass-market clarity
+- Claims 10x higher likelihood of launch resonance using their research-first approach
+- 26 of 30 launches have gone viral using their formula
 
-## Sources
+## Services
 
-- raw/articles/mattepstein-tribe-viral-cheat-code-2048190139055423779-2026-04-25.md
+Operates a launch execution agency. Contact: Shownmedia.com
+
+## Related
+
+- [[claude-code]] — the AI tool central to his system
+- [[viral-launch-system]] — the methodology concept
+- [[viral-marketing]] — broader topic
+- [[ugc]] — content creation category

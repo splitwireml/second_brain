@@ -3,7 +3,7 @@ title: Claude Code Discord Bots
 created: 2026-04-30
 updated: 2026-04-30
 type: concept
-tags: [claude-code, ai-agent, monetization, side-hustle, saas, freelancing, social-media, agent-tool]
+tags: [agent, ai-agent, agent-tool, claude-code, freelancing, monetization, saas, side-hustle, social-media]
 sources: [raw/articles/starmexxx-discord-bot-claude-code-2049737716804239591.md]
 author: [[starmex]]
 ---

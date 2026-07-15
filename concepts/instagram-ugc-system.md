@@ -3,7 +3,7 @@ title: instagram-ugc-system
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [instagram, ugc, seedance-2-0, virality]
+tags: [instagram, seedance-2-0, ugc, virality]
 sources: [raw/articles/adriansolarzz-seedance-ugc-100m-2046204434405838908.md, raw/articles/afwlaur-affiliate-ai-ugc-30k-2046315145740054628.md]
 ---
 

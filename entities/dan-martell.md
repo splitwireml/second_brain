@@ -3,7 +3,7 @@ title: Dan Martell
 created: 2026-05-05
 updated: 2026-05-05
 type: entity
-tags: [person, content-creator, business, ai-services]
+tags: [person, ai-services, business, content-creator]
 sources: [raw/articles/xarticle-2051292465429459025.md]
 ---
 

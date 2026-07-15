@@ -3,7 +3,7 @@ title: Scout
 created: 2026-05-04
 updated: 2026-05-04
 type: entity
-tags: [oss-ai, agent, ai-agent, model]
+tags: [agent, ai-agent, model, oss-ai]
 sources: [raw/articles/scout-ashpreetbedi-2049180168200106150.md]
 related_entity: [[ashpreet-bedi]]
 ---

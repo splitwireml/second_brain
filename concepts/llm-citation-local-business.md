@@ -1,9 +1,9 @@
 ---
 title: LLM Citation for Local Businesses
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-06-14
 type: concept
-tags: [llm, local-seo, content-marketing, lead-gen]
+tags: [llm, content-marketing, lead-gen, local-seo]
 sources: [raw/articles/boring-localseo-llm-citations-local-business-2026-04-23.md]
 related_entity: [[boring-localseo]]
 ---
@@ -45,3 +45,6 @@ LLM citation = honest, specific, comparative content that AI models can verify a
 ## Sources
 
 - raw/articles/boring-localseo-llm-citations-local-business-2026-04-23.md
+
+## Related
+- [[boring-localseo]] — related entity from frontmatter; explicit cross-link

@@ -3,7 +3,7 @@ title: Hermes Memory Architecture
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [ai-agent, memory, architecture, hermes-agent, nous-research]
+tags: [agent, ai-agent, memory, architecture, hermes-agent, nous-research]
 sources: [raw/articles/xarticle-forget-about-memory-i-built-a-context-os-for-my-he-2050793548430147982.md]
 ---
 

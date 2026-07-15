@@ -3,7 +3,7 @@ title: Paperclip vs Vibe Kanban
 created: 2026-04-10
 updated: 2026-04-10
 type: comparison
-tags: [orchestration, agent, comparison]
+tags: [agent, orchestration, comparison]
 sources: [raw/articles/paperclipai-technical-research-2026-04-10.md, raw/articles/paperclip-vs-vibe-kanban-agent-spawning-agent-control-comparison-2026-04-10.md, concepts/paperclipai-paperclip, concepts/vibe-kanban-agent-spawning]
 ---
 

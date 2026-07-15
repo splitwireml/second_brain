@@ -1,12 +1,12 @@
 ---
 title: JARVIS Obsidian Second Brain
 created: 2026-05-09
-updated: 2026-05-10
+updated: 2026-06-14
 type: concept
-tags: [obsidian, claude-code, second-brain, productivity, pkm]
+tags: [claude-code, obsidian, pkm, productivity, second-brain]
 sources: []
-related_entity: [[DamiDefi]]
-author: [[DamiDefi]]
+related_entity: [[dami-defi]]
+author: [[dami-defi]]
 ---
 
 # JARVIS Obsidian Second Brain
@@ -39,4 +39,4 @@ After 6 months: knows your content better than any analytics dashboard because i
 ## See Also
 - [[obsidian-ai-second-brain]] — Related concept
 - [[content-compounding-system]] — Related pattern
-- [[DamiDefi]] — Author entity
+- [[dami-defi]] — Author entity

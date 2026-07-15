@@ -1,7 +1,7 @@
 ---
 title: SAM3 AI-Box Mode
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-06-14
 type: concept
 tags: [computer-vision, segmentation]
 sources: [raw/articles/labelme-v6.1-release-2026-04-16.md]
@@ -31,3 +31,6 @@ A segmentation workflow in [LabelMe v6.1](https://labelme.io/blog/labelme-v6.1) 
 - It represents a human-AI collaboration pattern: human provides coarse bounding box, AI handles fine-grained instance separation
 - This is similar in spirit to [[point-tracking]] where human guidance directs the model, though SAM3 AI-Box operates on boxes rather than individual points
 - Part of the broader trend of [[training-free]] segmentation assistance where pre-trained models reduce annotation labor
+
+## Related
+- [[labelme]] — related entity from frontmatter; explicit cross-link

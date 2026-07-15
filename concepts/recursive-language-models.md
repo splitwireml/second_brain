@@ -1,9 +1,9 @@
 ---
 title: Recursive Language Models
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-06-14
 type: concept
-tags: [llm, reasoning, agent]
+tags: [agent, llm, reasoning]
 sources: [raw/articles/xarticle-recursive-language-models-clearly-explained-2048757569775378858.md]
 related_entity: [[akshay-pachaar]]
 author: [[akshay-pachaar]]
@@ -77,3 +77,6 @@ RLMs extend [[karpathy-llm-wiki]] foundation and relate to [[knowledge-graph-rag
 - [[knowledge-graph-rag]] — graph traversal as an alternative approach to multi-hop reasoning
 - [[karpathy-llm-wiki]] — the wiki knowledge base concept that inspired structured context management
 - [[agent-teams]] — multi-agent patterns that similarly decompose tasks across model instances
+
+## Related
+- [[akshay-pachaar]] — related entity from frontmatter; explicit cross-link

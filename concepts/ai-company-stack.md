@@ -3,7 +3,7 @@ title: AI Company Stack
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [ai-agents, hermes-agent, workflow-automation]
+tags: [agent, ai-agent, hermes-agent, workflow-automation]
 sources: [raw/articles/juliangoldie-paperclip-hermes-ai-company-2026-04-20.md]
 author: [[juliangoldie]]
 ---

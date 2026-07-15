@@ -3,7 +3,7 @@ title: "Frederik Feldt: Seedance 2.0 Pricing"
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [person, video-generation, genai, marketing]
+tags: [person, genai, marketing, video-generation]
 sources: [raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md]
 ---
 

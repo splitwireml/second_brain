@@ -3,7 +3,7 @@ title: Codex GPT-5.5
 created: 2026-04-27
 updated: 2026-04-27
 type: entity
-tags: [ai-model, openai, codex, computer-use]
+tags: [ai-model, codex, computer-use, openai]
 sources: [raw/articles/alex-nguyen-tiktok-slideshow-automation-2047715075457507452.md]
 ---
 

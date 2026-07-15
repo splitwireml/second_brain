@@ -3,7 +3,7 @@ title: Vision-Language-Action (VLA) Robotics
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [robotics, vla, embodied-ai, agent, vision-language]
+tags: [agent, embodied-ai, robotics, vision-language, vla]
 sources: [raw/articles/tencent-hy-embodied-0-5-model-card-2026-04-14.md]
 ---
 

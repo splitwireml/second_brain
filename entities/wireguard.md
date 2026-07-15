@@ -3,7 +3,7 @@ title: WireGuard
 created: 2026-05-01
 updated: 2026-05-01
 type: entity
-tags: [infrastructure, self-hosted, security]
+tags: [infrastructure, security, self-hosted]
 sources: [raw/articles/homelab-private-cloud-ahmad-2026-05-01.md]
 url: https://www.wireguard.com/
 ---

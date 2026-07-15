@@ -3,7 +3,7 @@ title: ZenRows
 created: 2026-04-13
 updated: 2026-04-13
 type: entity
-tags: [tools, product, web-scraping]
+tags: [product, tools, web-scraping]
 sources: [raw/articles/scrapling-technical-research-2026-04-13.md]
 ---
 

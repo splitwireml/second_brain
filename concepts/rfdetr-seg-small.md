@@ -3,7 +3,7 @@ title: rfdetr-seg-small
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
-tags: [model, segmentation, detection]
+tags: [model, detection, segmentation]
 sources: []
 related_entity:
 ---

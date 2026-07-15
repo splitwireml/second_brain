@@ -3,7 +3,7 @@ title: Oz (Hermes Agent Persona)
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [hermes-agent, ai-agent, local-ai, apple-silicon, workflow]
+tags: [agent, ai-agent, workflow, apple-silicon, hermes-agent, local-ai]
 sources: [raw/articles/xarticle-httpstco3v4gw8yf31-2051305175961272810.md, raw/articles/xarticle-im-local-ai-maxxing-my-hermes-agent-will-help-2051305175961272810.md]
 author: [[witcheer]]
 ---

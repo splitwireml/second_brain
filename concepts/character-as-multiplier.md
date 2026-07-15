@@ -3,7 +3,7 @@ title: Character as Multiplier
 created: 2026-04-27
 updated: 2026-04-27
 type: concept
-tags: [ai-persona, ugc, virality, content-strategy]
+tags: [ai-persona, content-strategy, ugc, virality]
 sources: [raw/articles/shalev-ai-monk-500k-2047670111709143100.md]
 related_entity: [[shalev]]
 ---

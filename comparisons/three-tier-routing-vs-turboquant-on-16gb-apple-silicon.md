@@ -3,7 +3,7 @@ title: "Three-Tier Local Model Routing vs TurboQuant on 16GB Apple Silicon"
 created: 2026-04-14
 updated: 2026-04-14
 type: comparison
-tags: [comparison, inference, optimization, apple-silicon]
+tags: [inference, apple-silicon, comparison, optimization]
 sources: [raw/articles/leopardracer-mac-mini-35b-local-routing-2026-04-14.md, raw/transcripts/2026-04-11-After This, 16GB Feels Different.md]
 participants:
   - [[three-tier-local-model-routing]]

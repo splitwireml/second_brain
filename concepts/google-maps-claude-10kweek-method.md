@@ -3,7 +3,7 @@ title: Google Maps + Claude $10k+/Week Method
 created: 2026-05-05
 updated: 2026-05-05
 type: concept
-tags: [ai-tools, marketing, monetization, local-business, workflow]
+tags: [tools, ai-tools, workflow, local-business, marketing, monetization]
 sources: [raw/articles/xarticle-the-only-google-maps-claude-10kweek-method-2051219084092506144.md]
 ---
 

@@ -3,7 +3,7 @@ title: Upwork Cover Letter Template
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [upwork, monetization, freelancing]
+tags: [freelancing, monetization, upwork]
 sources: [raw/transcripts/2026-04-21-STEAL-My-1-000-000-Upwork-Cover-Letter-FULL-TEMPLATE.md]
 author: [[archie-h]]
 ---

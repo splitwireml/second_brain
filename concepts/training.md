@@ -3,7 +3,7 @@ title: Training
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [training, deep-learning, llm]
+tags: [llm, training, deep-learning]
 sources: []
 ---
 

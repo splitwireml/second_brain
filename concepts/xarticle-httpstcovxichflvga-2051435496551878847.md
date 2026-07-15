@@ -3,7 +3,7 @@ title: "X Article by Youssof Altoukhi"
 created: 2026-05-04
 updated: 2026-05-04
 type: concept
-tags: [x-article, export-failure]
+tags: [export-failure, x-article]
 sources: [raw/articles/xarticle-httpstcovxichflvga-2051435496551878847.md]
 related_entity: [[youssof-altoukhi]]
 author: [[youssof-altoukhi]]
