@@ -1,10 +1,10 @@
 ---
 title: ai-design-workflow
 created: 2026-04-30
-updated: 2026-07-12
+updated: 2026-07-20
 type: concept
 tags: [agent, workflow, ai-design, brand, content, design]
-sources: [raw/articles/claude-design-brand-workflow-nateherk-2026-04-30.md, raw/articles/thread-Sari__vz-2075663676992831839.md]
+sources: [raw/articles/claude-design-brand-workflow-nateherk-2026-04-30.md, raw/articles/thread-Sari__vz-2075663676992831839.md, raw/articles/xarticle-introducing-tldraw-offline-2077784657869902121.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md]
 related_entity: [[claude-design]]
 author: [[nate-herk]]
 ---
@@ -48,11 +48,20 @@ The verifier agent self-checks renders and fixes issues before the user sees the
 
 All outputs land in the same visual world because they all pull from one design system.
 
+## Local-file canvas variant
+
+[[tldraw-offline]] shows a parallel design surface: a local file-based canvas where agents can access, edit, and script the artifact itself. It is less a chat-to-export pipeline than an [[agent-native-canvas]] substrate for diagrams, wireframes, illustrations, and interfaces that can remain local and private. The source describes this as compatible with local agents such as Claude Code and Codex; the compatibility claims remain source-reported.^[raw/articles/xarticle-introducing-tldraw-offline-2077784657869902121.md]
+
+## Component-brief variant
+
+The [[triverra]] source represents a narrower path than the three-surface chat → design → code pipeline: a single implementation-ready component brief. It still uses the same design-system logic by locking typography, spacing, surfaces, states, motion, responsive rules, and integration constraints before coding. The source does not establish a deployed result. ^[raw/articles/triverra-ai-travel-companion-hero-prompt.md]
+
 ## Related Entities
 
 - [[claude-design]] — The design execution surface; canvas-based GUI with verifier agent
 - [[nate-herk]] — Author; documented the full Tally brand build
 - [[claude-code]] — The code execution surface; receives Design exports and deploys to Vercel
+- [[triverra]] — source example of a constraint-dense component brief
 
 ## Related Concepts
 

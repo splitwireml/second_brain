@@ -1,10 +1,10 @@
 ---
 title: Model-Agnostic Agent Harness
 created: 2026-07-08
-updated: 2026-07-15
+updated: 2026-07-16
 type: concept
 tags: [agent, workflow, orchestration, claude-code, ai-agent, tools]
-sources: [raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-you-have-a-few-days-to-clone-fable-5-into-opus-48-2074198124898181121.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md]
+sources: [raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-you-have-a-few-days-to-clone-fable-5-into-opus-48-2074198124898181121.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
 related_entity: [[phosphenq]]
 ---
 
@@ -28,6 +28,8 @@ The source's practical claim is that the model is the replaceable part and the h
 
 The manual-layer version is lighter than a full tool harness but follows the same ownership logic. The operator pays the frontier model once to encode its procedures, stores the result as a durable file or skill, then routes routine future work through cheaper models. The required check is behavioral rather than aesthetic: a trap such as a false percentage claim should force the manual-loaded model to re-derive the number instead of accepting fluent prose.
 
+Alex Prompter's Fable-method thread gives a source-described instance of that transfer: a plugin separates the operating method, adversarial task loop, and independent judge, then tests the package across models. Alex reports Sonnet plus the method matching Fable 10/10 on a five-part research task, while Haiku improved on wrong-test and planted-fraud checks. The same thread explicitly says the package adds little to ordinary tasks with capable models, reinforcing that a harness is useful when it supplies missing verification discipline rather than knowledge.^[raw/articles/thread-alex_prompter-2076727080402948561.md]
+
 ## Domain focus and model choice
 
 [[peter-wang]]'s [[shortcut]] case study adds a product-level version of the same thesis. A narrow workflow lets the builder remove general-purpose tools and instructions, keep context light, and tune the harness against the exact tasks customers care about. The source reports that Shortcut's internal spreadsheet evals were cheaper and more accurate than Claude for Excel even with the same base model; these figures are source-reported, not independently audited here. ^[raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md]
@@ -37,6 +39,12 @@ The case also makes model agnosticism operational rather than rhetorical: route 
 ## Applied AI engineering lens
 
 [[eyad-khrais]] frames harness engineering as the day-to-day operating system of applied AI work: models only emit text or structured requests, so the harness must validate tool calls, execute real operations, feed results back, manage context, persist state, enforce guardrails, and repeat until the task is done. This makes the harness less a wrapper and more the reliability boundary between a non-deterministic model and deterministic business software.
+
+## Skills as harness components
+
+The local skill-engineering article makes skills a concrete harness layer. [[impeccable]] is presented as a case where the skill supplies adversarial review, forced divergence, internal routing, persistent snapshots, scripts that emit just-in-time instructions, passive hooks, browser events, and per-harness builds rather than relying on prose alone. These are source-described techniques, not independently tested claims.^[raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
+
+This sharpens the five-layer model: skills are part of context and memory, but their scripts, hooks, and routing also shape the loop, tools, and checks. The portability test is behavioral—compile the same skill for each harness and model, then verify that the gates still fire and the result remains acceptable.^[raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
 
 ## Safety and economics
 

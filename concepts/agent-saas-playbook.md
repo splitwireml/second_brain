@@ -1,10 +1,10 @@
 ---
 title: Agent SaaS Playbook
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-16
 type: concept
 tags: [ai-agent, business-models, services-as-software, workflow, monetization, ai-business]
-sources: [raw/articles/xarticle-agents-are-the-new-saas-heres-the-whole-playbook-2072451543073439905.md]
+sources: [raw/articles/xarticle-agents-are-the-new-saas-heres-the-whole-playbook-2072451543073439905.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 related_entity: [[startupideaspod]]
 ---
 
@@ -78,6 +78,20 @@ The source's sales pattern is to test the system against roughly 50 old examples
 Start with three customers in one niche, same workflow, same pain. Do the work manually with AI first, then productize what repeats. Early pricing in the source is simple setup plus monthly retainer — for example, a setup fee plus ~$1,000/month for one workflow — with outcome pricing deferred until the breakage points and retention value are known.
 
 Distribution should use teardowns: show the old way where the call is missed or the lead leaks, then show the agent answering, qualifying, booking, updating the CRM, and flagging weird cases. The marketing asset is the painkiller demonstration, not generic AI capability.
+
+## Greg Isenberg's minimum viable agent
+
+[[greg-isenberg]] gives a compact seven-question specification for an agent: what wakes it up, what context it needs, which tools it can call, what it may do alone, what needs approval, when it escalates, and how success is measured. He calls the smallest useful implementation a **minimum viable agent** and recommends draft-and-approve before full autonomy.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+The same source makes the evaluation set part of the product: run roughly 50 real historical examples, record correct results, flags, and failures, then use that evidence both to regress prompts/models and to sell the workflow to a prospective customer. This complements the playbook's existing wrapper, logs, approvals, and bounded-action ladder rather than creating a separate agent-business model.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+Isenberg also describes model chaining, reusable markdown skills, and specialized subagents as the execution layer for a portfolio of products. That connects the workflow-level playbook to [[agent-native-apps]] and to the broader portfolio thesis in [[ai-business-models-2026]].^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+## Research-first autonomy
+
+[[exm7777]] recommends starting an agent business with a research system: monitor a niche, competitors, and useful sources continuously, deliver a morning brief, and let that evidence feed content, offers, and outreach. Autonomy is earned by reviewing the system's work; each task that repeatedly needs no change can move into the system's ownership. This is a complementary path to the playbook's workflow-first autonomy ladder.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+
+The source also favors one niche and one business model for roughly three months before rotating or tweaking. That makes the customer and workflow selection criteria above more operational: narrow focus creates the repetition needed to discover breakage points and safely productize the service.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 
 ## Evidence Layers
 

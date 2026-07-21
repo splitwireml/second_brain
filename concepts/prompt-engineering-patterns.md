@@ -1,10 +1,10 @@
 ---
 title: Prompt Engineering Patterns - 10 High-Impact Templates
 created: 2026-04-09
-updated: 2026-04-13
+updated: 2026-07-20
 type: concept
 tags: [llm, marketing, method, monetization, opportunity]
-sources: [raw/articles/x-10-prompts-40-hours.md, raw/articles/prajwal-tomar-ai-cinematic-landing-page-2026-04-09.md, raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md]
+sources: [raw/articles/x-10-prompts-40-hours.md, raw/articles/prajwal-tomar-ai-cinematic-landing-page-2026-04-09.md, raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md]
 ---
 
 # Prompt Engineering Patterns - 10 High-Impact Templates
@@ -182,3 +182,9 @@ Hero (sticky, z-0) → Projects (relative, z-10) → Features (relative, z-20) �
 ### Pattern: Expect 80%, Iterate the Rest
 
 First pass is never perfect. Typical fixes: min-height adjustments, preloading order, z-index gaps. Iterate on the remaining 20% rather than regenerating.
+
+### Triverra: constraint-dense component prompting
+
+The [[triverra]] source extends the specificity rule from individual effects to an entire component boundary. It specifies the React stack, exact responsive classes, video behavior, motion values, CTA markup, CSS filters, asset referrer policy, and build-safety constraints. This reduces ambiguity for a coding agent while leaving real asset resolution and runtime verification as separate tasks. ^[raw/articles/triverra-ai-travel-companion-hero-prompt.md]
+
+The reusable pattern is to describe **visual result + implementation mechanism + responsive state + integration boundary** in one brief, rather than asking for a generic premium landing page.

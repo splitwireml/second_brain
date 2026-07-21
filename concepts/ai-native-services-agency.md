@@ -1,10 +1,10 @@
 ---
 title: "AI-Native Services Agency"
 created: 2026-05-10
-updated: 2026-06-14
+updated: 2026-07-16
 type: concept
 tags: [agency, ai-business, outbound, services-as-software]
-sources: []
+sources: [raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 related_entity: [[coldiq]]
 ---
 
@@ -39,6 +39,12 @@ Concept describing the "services-as-software" agency model where AI handles the 
 - Y Combinator 2026 RFS: AI-native companies selling service (not software)
 - Sequoia's "Services: The New Software" thesis
 - Model works in: outbound, recruitment, paid media, technical SEO, customer support, sales engineering, ABM
+
+## Leverage-first simplification
+
+[[exm7777]] frames AI as leverage behind an existing business, not the business itself. The source recommends choosing one department in a solopreneur or small-business client, rebuilding that workflow with simple agents, and reusing the same delivery skeleton across clients. It is a direct, source-reported version of the services-as-software model already described here.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+
+The practical constraint is human ownership of sales, marketing, strategy, and judgment: AI should make the operator faster without turning low-quality output into the offer. This extends the page's existing [[ai-business-models-2026]] framing and the staged autonomy in [[agent-saas-playbook]].^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 
 ## Related
 - [[coldiq]] — related entity from frontmatter; explicit cross-link

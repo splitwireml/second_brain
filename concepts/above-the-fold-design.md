@@ -1,10 +1,10 @@
 ---
 title: above-the-fold-design
 created: 2026-05-08
-updated: 2026-06-14
+updated: 2026-07-20
 type: concept
 tags: [conversion, marketing, website]
-sources: [raw/articles/xarticle-clear-graphics-2052513744249352319.md]
+sources: [raw/articles/xarticle-clear-graphics-2052513744249352319.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md]
 related_entity: [[clear-graphics]]
 author: [[clear-graphics]]
 ---
@@ -37,11 +37,16 @@ The traditional "above the fold" web design principle — borrowed from newspape
 
 The fold was a constraint imposed by physical newspaper real estate. Mobile web has no equivalent physical constraint — the "fold" is an arbitrary line imposed by convention, not physics. Modern web design should abandon the metaphor entirely and instead design for progressive disclosure guided by scroll engagement data.
 
+## Full-viewport travel-hero variant
+
+The [[triverra]] brief shows a different use of the first viewport: a full-screen travel video establishes atmosphere, while the hero still limits the message to a badge, two-line headline, two CTAs, social proof, and a short footer. It demonstrates that a full-viewport hero can preserve progressive disclosure when it avoids trying to transfer the entire product explanation above the fold. This is a design brief, not conversion evidence. ^[raw/articles/triverra-ai-travel-companion-hero-prompt.md]
+
 ## Related Concepts
 
 - [[conversion]] — Conversion rate optimization and funnel improvement
 - [[website]] — Website building and landing page design
 - [[marketing]] — Broader marketing strategy and user acquisition
+- [[ai-travel-companion-landing-hero]] — concrete full-viewport hero pattern
 
 ## Related
 - [[clear-graphics]] — related entity from frontmatter; explicit cross-link

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/api-led-gtm.md",
+                "file": "concepts/reddit-problem-to-digital-product-system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "api-led-gtm"
+              "title": "reddit-problem-to-digital-product-system"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/api-led-gtm.md",
+                "file": "concepts/reddit-problem-to-digital-product-system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for api-led-gtm"
+              "title": "Backlinks for reddit-problem-to-digital-product-system"
             }
           },
           {
@@ -199,44 +200,44 @@
   },
   "active": "e4bea2457ee54a73",
   "lastOpenFiles": [
-    "_archive",
-    "concepts/html-lead-magnet-gtm.md",
-    "entities/termsheetinator.md",
-    "entities/michaelzsguo.md",
-    "raw/articles/xarticle-7-claude-sub-agents-2053422550567502046.md",
-    "raw/articles/xarticle-hermes-auto-think-build-2053449921554960545.md",
-    "raw/articles/xarticle-gtm-html-lead-magnet-2053502564113797343.md",
-    "raw/articles/xarticle-karpathy-claude-md-12-rules-2053116311132155938.md",
-    "raw/articles/xarticle-running-local-llms-2053217139369095252.md",
-    "concepts/hermes-auto-think-auto-build.md",
-    "concepts/claude-sub-agent-pattern.md",
-    "concepts/meta-ads-agency-campaign-setup.md",
-    "raw/articles/xarticle-how-i-set-up-a-new-meta-ads-campaign-for-my-agency-2053250110545334519.md",
-    "concepts/xarticle-httpstcoshkf0d1xhs-2052825541057626258.md",
-    "concepts/crawlconsole-mcp.md",
-    "entities/tomzaragoza.md",
-    "entities/bidah.md",
-    "concepts/xarticle-httpstcokbt8kf2ahk-2053071057737679138.md",
-    "raw/articles/xarticle-httpstcokbt8kf2ahk-2053071057737679138.md",
-    "entities/kangwook-lee.md",
-    "concepts/xarticle-httpstcoe23vrznodv-2052925157606568217.md",
-    "raw/articles/xarticle-httpstco1flvfypeuv-2053056506157781419.md",
-    "entities/kirillk-web3.md",
-    "concepts/kimi-code.md",
-    "concepts/running-local-llms-practical-guide.md",
-    "raw/articles/xarticle-meta-meta-prompting-the-secret-to-making-ai-agents-2053127519872614419.md",
-    "raw/assets/transcriptions/ade77ab979.json.json",
-    "raw/assets/ade77ab979.mp3",
-    "raw/assets/ade77ab979.mp4",
-    "raw/assets/transcriptions/15b65583f2.json",
-    "raw/assets/transcriptions/15b65583f2.json.json",
-    "raw/assets/15b65583f2.mp3",
-    "raw/assets/15b65583f2.mp4",
-    "raw/assets/tencent-hunyuan-2049487799850840334/HHE-HguaIAAYR6d.mp4",
+    "entities/ecomrads-mcp.md",
+    "concepts/14-second-ai-vlog-method.md",
+    "raw/articles/14-second-ai-vlog-method.md",
+    "concepts/broken-link-building.md",
+    "entities/kimi-k3.md",
+    "raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md",
+    "raw/articles/xarticle-httpstcogtitik6v76-2079184272250765727.md",
+    "raw/articles/xarticle-httpstcoit4fejrsg5-2079226781710827729.md",
+    "raw/articles/xarticle-httpstcoetdvlretta-2079095720603427143.md",
+    "entities/beka-saparbek.md",
+    "entities/fatimarizwan.md",
+    "raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md",
+    "raw/articles/xarticle-how-to-do-a-viral-launch-on-x-2079225170175398083.md",
+    "raw/articles/xarticle-httpstcovqu1o5iyni-2078838553430077715.md",
+    "raw/articles/xarticle-httpstcogmuwfaznpm-2078866734262726750.md",
+    "raw/articles/xarticle-httpstcoac3xpxnkab-2078969402046009374.md",
+    "raw/articles/xarticle-httpstcoaqsy18nvvz-2078874466734543159.md",
+    "raw/articles/thread-21xFORTUNA-2078982946707435591.md",
+    "entities/21xfortuna.md",
+    "raw/articles/xarticle-httpstco5oczk7zjf8-2078851409068654639.md",
+    "raw/articles/thread-MayteClaraX-2078560938475520189.md",
+    "queries/landing-page-implementation-map.md",
+    "entities/triverra.md",
+    "concepts/ai-travel-companion-landing-hero.md",
+    "raw/articles/triverra-ai-travel-companion-hero-prompt.md",
+    "raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md",
+    "ops/content-os/templates",
+    "ops/content-os",
+    "ops",
+    "raw/assets/transcriptions/jouhatsu-2057152744842998122.json",
+    "raw/assets/jouhatsu-2057152744842998122.mp3",
+    "raw/assets/jouhatsu-2057152744842998122.mp4",
+    "raw/assets/jouhatsu-2057152744842998122.mp4.part-Frag915.part",
+    "raw/assets/jouhatsu-2057152744842998122.mp4.part-Frag886.part",
+    "raw/assets/jouhatsu-2057152744842998122.mp4.part-Frag799.part",
+    "raw/assets/jouhatsu-2057152744842998122.mp4.part-Frag767.part",
     "raw/assets/tencent-hunyuan-2049487799850840334/HHE-GfeacAAPBOP.jpg",
     "raw/assets/tencent-hunyuan-2049487799850840334/HHE-FfTaUAAs4fr.jpg",
-    "raw/assets/tencent-hunyuan-2049487799850840334",
-    "concept",
     "assets/HHPg-IFWgAAJDTp.jpg",
     "assets/HHO3hxyWoAAJWDJ.jpg",
     "assets/HHMTCtVX0AAAGF1.jpg",

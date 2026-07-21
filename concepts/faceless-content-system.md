@@ -1,10 +1,10 @@
 ---
 title: "Faceless Content System"
 created: 2026-05-04
-updated: 2026-07-10
+updated: 2026-07-16
 type: concept
 tags: [agent, ai-agent, content-creator, instagram, method, monetization, social-media, tiktok]
-sources: [raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md]
+sources: [raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 related_entity: [[0xdepressionn]]
 ---
 
@@ -59,6 +59,12 @@ The monetization stack is broader than platform payouts: source-claimed options 
 ### Proof-first rebuild variant
 
 [[proof-driven-content-rebuilding]] adds a narrower X-page variant: maintain a spreadsheet of older posts that cleared a high engagement threshold, preserve the original post's resonance mode, rebuild it with a different angle, and use a mode-matched CTA to route attention into a guide or template. Unlike the long-form-to-short-form system above, the input is a proven post rather than an original weekly video. The source's engagement and revenue figures remain source claims. ^[raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md]
+
+## Agent-operated media-company variant
+
+[[greg-isenberg]] extends the faceless-content pattern from publishing into distribution operations: find niches where a tool is used heavily but rarely shared, recruit UGC creators, and point agents at creator research, DM drafting, review monitoring, and turning support tickets into content. The source frames this as a one-person media company attached to a product, not as a claim that every faceless channel will monetize.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+This variant links content production to product feedback: public complaints reveal the niche, creators supply distribution, and reviews/support tickets become a recurring research stream. It therefore complements [[agent-native-apps]] and [[faceless-digital-product-portfolio]] while keeping the existing multi-platform production system intact.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 
 ## Relationship to Other Concepts
 

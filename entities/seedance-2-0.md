@@ -1,10 +1,10 @@
 ---
 title: Seedance 2.0
 created: 2026-04-13
-updated: 2026-04-17
+updated: 2026-07-21
 type: entity
 tags: [product, tools, genai, marketing, video-generation]
-sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md]
+sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md]
 ---
 
 # Seedance 2.0
@@ -70,6 +70,25 @@ The Startup Ideas Podcast article frames Seedance 2.0 as fundamentally different
 - [[frederikfeldt-seedance-pricing]] — pricing analysis and API access context
 - [[prompt-engineering-patterns]] — upstream scripting layer that feeds the generation step
 - [[startupideaspod]] — podcast that featured Sirio's Seedance 2.0 deep dive; covered virtual try-on, AI influencer, and green screen workflows
+
+## Character-consistency workflow (Primee32 source claim)
+
+Primee32's X Article positions Seedance 2.0 as the motion layer after GPT Image 2 has locked identity. The proposed sequence is:
+
+1. Generate a paired rider/dragon reference sheet with turnarounds, expressions, action poses, and fixed color values.
+2. Generate a 4x4 grid of 16 numbered storyboard frames from that sheet.
+3. Animate one grid frame at a time with a structured JSON prompt and the matching reference image.
+4. Review each clip against its frame, regenerate only drifting shots, then stitch and grade the sequence.
+
+The workflow, JSON fields, five-second example duration, and platform export settings are source claims from one X Article; they are not independent product-documentation findings. See [[character-consistent-ai-video-workflow]] and [[primee32]]. ^[raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md]
+
+## Source-described 14-second AI vlog workflow
+
+The supplied source names Seedance 2.0 as the model behind an eComrads MCP workflow for a three-scene, 14-second AI vlog. The proposed sequence keeps a character block identical across wake-up, shower, and breakfast scenes, generates each shot separately, and uses a manual QC gate before assembly. These are source claims about a particular workflow, not independent findings about model reliability or the eComrads service. ^[raw/articles/14-second-ai-vlog-method.md]
+
+The source specifically recommends close inspection of hands, eyes, teeth, liquid/foam motion, object continuity, and product labels. It claims 4K output and platform-specific 9:16/16:9 exports, but neither the render nor the endpoint was independently validated in this ingest. ^[raw/articles/14-second-ai-vlog-method.md]
+
+Related pages: [[ecomrads-mcp]], [[14-second-ai-vlog-method]], [[character-consistent-ai-video-workflow]].
 
 ## References
 

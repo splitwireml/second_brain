@@ -1,10 +1,10 @@
 ---
 title: GPT Image 2 Prompting
 created: 2026-04-23
-updated: 2026-06-14
+updated: 2026-07-20
 type: concept
 tags: [genai, image-generation, openai, prompting]
-sources: [raw/articles/matt-van-horn-gpt-image-2-prompting-2047016569923064055.md]
+sources: [raw/articles/matt-van-horn-gpt-image-2-prompting-2047016569923064055.md, raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md]
 related_entity: [[matt-van-horn]]
 author: [[matt-van-horn]]
 ---
@@ -27,6 +27,13 @@ Community-discovered prompting patterns for OpenAI's GPT Image 2 model, synthesi
 - First words carry highest visual weight — lead with style, not subject
 - Sequential-weighting matters
 - For character consistency sheets: single prompt, eight moments, same person across all shots (no LoRA or ControlNet needed)
+- Primee32's July 2026 source extends this pattern into a paired rider/dragon reference sheet and a 4x4 storyboard grid before image-to-video generation. This is a source-specific workflow claim, not independently verified GPT Image 2 capability. ^[raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md]
+
+## Character-consistency extension
+
+- The source describes a reference-first pipeline: lock a paired character sheet, generate all 16 storyboard frames together, then animate each frame with the matching reference image.
+- It says "six" prompt blocks but lists seven: subject, action, environment, lighting, style, camera, and mood. That source inconsistency is preserved rather than normalized away.
+- See [[character-consistent-ai-video-workflow]] for the full cross-tool method.
 
 ## Related
 

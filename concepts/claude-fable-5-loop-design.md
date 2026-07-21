@@ -1,10 +1,10 @@
 ---
 title: Claude Fable 5 Loop Design
 created: 2026-06-11
-updated: 2026-07-15
+updated: 2026-07-16
 type: concept
 tags: [claude, workflow, reasoning, memory, agent, prompt-engineering]
-sources: [raw/articles/xarticle-designing-loops-with-fable-5-2064397389189071163.md, raw/articles/xarticle-a-field-guide-to-fable-finding-your-unknowns-2073100352921215386.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md]
+sources: [raw/articles/xarticle-designing-loops-with-fable-5-2064397389189071163.md, raw/articles/xarticle-a-field-guide-to-fable-finding-your-unknowns-2073100352921215386.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/thread-alex_prompter-2076727080402948561.md]
 related_entity: [[anthropic]]
 author: [[lance-martin]]
 ---
@@ -39,6 +39,8 @@ In a Parameter Golf experiment run through Claude Managed Agents, Fable 5 report
 A second experiment on sequential database questions argues for a five-step memory progression: fail, investigate, verify, distill, consult. Fable 5 reportedly completes more of that progression than Sonnet 4.6 or Opus 4.7.
 
 Thariq's field guide adds the human-facing side of the same system: use blind-spot passes, prototypes, interviews, references, implementation notes, and reviewer-facing explainers to make implicit taste, missing domain knowledge, and late-discovered constraints explicit before they harden into an implementation.
+
+Alex Prompter's July 13 thread shows a complementary operationalization of Fable's method: `fable-method` supplies the structured loop and hard failure thresholds, `fable-loop` adds adversarial verification agents, and `fable-judge` treats completion claims as unverified until an independent rerun passes. The thread reports 159 runs, a 10/10 Sonnet-plus-plugin match to Fable on a five-part research task, and improvements for Haiku on wrong-test and planted-fraud detection. Its v1 → v2 → v3 progression (0/4, 1/4, 4/4) and committed failed transcripts make the evaluation process itself part of the artifact. These are source-reported results; the thread also records that capable models on ordinary tasks may see no benefit.^[raw/articles/thread-alex_prompter-2076727080402948561.md]
 
 ## Applied to launch-video production
 

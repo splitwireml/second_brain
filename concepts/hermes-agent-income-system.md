@@ -1,10 +1,10 @@
 ---
 title: hermes-agent-income-system
 created: 2026-05-09
-updated: 2026-06-14
+updated: 2026-07-16
 type: concept
 tags: [agent, ai-agent, business-loop, hermes-agent, income-system, monetization, side-hustle]
-sources: [raw/articles/xarticle-sharbel-2052023759654023635.md]
+sources: [raw/articles/xarticle-sharbel-2052023759654023635.md, raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 ---
 
 # hermes-agent-income-system
@@ -54,6 +54,12 @@ Not "an AI agent." Pay for outcomes.
 Hermes can: use tools, search web, read files, run scripts, call APIs, remember preferences, create skills, schedule recurring jobs, deliver to Telegram, improve over time.
 
 Money-making workflows are loops: Monitor → Filter → Analyze → Package → Deliver → Repeat.
+
+## Source extension: AI as leverage
+
+The interview with [[exm7777]] reinforces this page's central distinction: AI is leverage behind a paid business, not the product to sell. Its concrete sequence is research and competitor monitoring first, a useful morning brief second, and gradual extraction of the operator from reviewed tasks only after the loop proves reliable. This is the same Monitor → Filter → Analyze → Package → Deliver → Repeat shape, applied to creator and small-business operations.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+
+The source's suggested content workflow—fix inputs, use research agents, keep the human in control of the final writing—also extends the [[hermes-agent-income-system]] content-engine offer without adding a new concept page.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 
 ## Related Concepts
 

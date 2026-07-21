@@ -1,10 +1,10 @@
 ---
 title: Mobile App Organic Virality
 created: 2026-07-10
-updated: 2026-07-12
+updated: 2026-07-21
 type: concept
 tags: [mobile-apps, viral-marketing, virality, user-acquisition, instagram]
-sources: [raw/articles/xarticle-how-i-marketed-my-screen-time-app-to-1000000-with--2074524268285538350.md, raw/articles/xarticle-how-to-turn-a-boring-study-app-into-5m-with-one-ma-2074823642798563727.md]
+sources: [raw/articles/xarticle-how-i-marketed-my-screen-time-app-to-1000000-with--2074524268285538350.md, raw/articles/xarticle-how-to-turn-a-boring-study-app-into-5m-with-one-ma-2074823642798563727.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md]
 related_entity: [[pushscroll]]
 ---
 
@@ -37,6 +37,12 @@ The source treats comment-triggered DM automation as a distribution amplifier: a
 ## Mascot as a growth layer
 
 The pixclipper article extends the visual-and-novelty pattern with a consistent mascot: a character should have emotional states tied to real user moments, a locked reference design, and a job inside the app/content rather than serving as decoration. This is a distinct character-led variant, distilled in [[mascot-driven-app-growth]].^[raw/articles/xarticle-how-to-turn-a-boring-study-app-into-5m-with-one-ma-2074823642798563727.md]
+
+## Reddit community-first variant
+
+Shynggys Saparbek's article supplies a non-video path for app acquisition: warm a real Reddit account, find platform/founder/niche communities, study each community's successful formats, write something useful without depending on the app link, and adapt the angle to local norms. Organic posts then serve as both acquisition and message research before limited paid tests; installs, revenue, search, and referrals matter more than upvotes alone. The reported install and revenue outcomes remain source claims.^[raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md]
+
+This is adjacent to the visual novelty and short-form loops above rather than a replacement for them: the product still needs a clear outcome, but distribution is earned through community fit and durable discussion instead of a single video spike. See [[distribution]] and [[beka-saparbek]].
 
 ## Evidence status
 

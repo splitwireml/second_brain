@@ -1,10 +1,10 @@
 ---
 title: Claude
 created: 2026-05-14
-updated: 2026-07-15
+updated: 2026-07-21
 type: entity
 tags: [product, llm, ai]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md]
 ---
 
 ## Overview
@@ -27,6 +27,7 @@ sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/artic
 - **Thinking** — adapts reasoning depth to task (since Sonnet 3.7)
 - **Agentic planning** — holds plans over hundreds of steps ^[raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md]
 - **Fable 5 advertorial production** — Amin's source-described workflow uses Claude Fable 5 for awareness-matched Google Ads advertorials, constrained prompt blocks, and revision audits. The reported time and ROAS gains are source claims, not verified benchmarks. ^[raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md]
+- **Natural-language video workflow** — the supplied source describes Claude as the agent interface for adding an eComrads MCP connector, writing a fixed character block, generating scene prompts, and reviewing the resulting clips. This is a source-described integration, not independently verified Claude or MCP behavior. ^[raw/articles/14-second-ai-vlog-method.md]
 
 ## Related
 
@@ -36,3 +37,5 @@ sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/artic
 - [[code-with-claude-event]]
 - [[claude-fable-5-loop-design]]
 - [[ai-advertorial-workflow]]
+- [[ecomrads-mcp]]
+- [[14-second-ai-vlog-method]]

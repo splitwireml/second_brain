@@ -1,10 +1,10 @@
 ---
 title: Services-as-Software
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-07-21
 type: concept
 tags: [agency, ai-services, business-models, monetization, outbound]
-sources: [raw/articles/xarticle-how-to-build-a-one-person-services-as-software-com-2048486401105358933.md]
+sources: [raw/articles/xarticle-how-to-build-a-one-person-services-as-software-com-2048486401105358933.md, raw/articles/thread-21xFORTUNA-2078982946707435591.md]
 related_entity: [[alex-vacca]]
 author: [[alex-vacca]]
 ---
@@ -58,6 +58,12 @@ Volume is not the lever. The difference between 10,000 emails booking nothing an
 | Real | $10K–$20K/mo | Month 10+ |
 
 Five clients at $15K monthly approaches $1M ARR. Ten gets you well past it. The trap is staying at pilot pricing forever — margins collapse and operators hate the business by month nine.
+
+## Property-listing walkthrough variant (2026-07-19)
+
+A local thread by [[21xfortuna]] gives a concrete vertical example: convert client-authorized property photos into cinematic walkthrough videos and sell the finished presentation to Airbnb hosts. The workflow is small enough for a solo operator, but the offer is an outcome—better listing presentation and potentially more booking opportunities—not access to an AI tool. ^[raw/articles/thread-21xFORTUNA-2078982946707435591.md]
+
+The thread claims $200 per video and $997 in one week, but those numbers are source-reported rather than verified. The replies identify the delivery details that keep apparent revenue from becoming a low-margin support job: permission to reuse assets, usage rights, revision limits, output specifications, and a clear trust boundary between synthetic creative and the actual property. This connects the case to [[ai-video]] and the broader human-owned judgment layer in this model. ^[raw/articles/thread-21xFORTUNA-2078982946707435591.md]
 
 ## Brand Is What's Left
 

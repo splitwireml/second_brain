@@ -1,10 +1,10 @@
 ---
 title: UI Design
 created: 2026-05-31
-updated: 2026-07-12
+updated: 2026-07-20
 type: concept
 tags: [design, design-tool, product-design, ui-design, user-experience, ai-design]
-sources: [raw/articles/thread-yigitakinkaya-2075510941131678039.md, raw/articles/thread-Sari__vz-2075663676992831839.md]
+sources: [raw/articles/thread-yigitakinkaya-2075510941131678039.md, raw/articles/thread-Sari__vz-2075663676992831839.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md]
 ---
 
 # UI Design
@@ -21,6 +21,10 @@ Because the local source is a short post and no external inspection was authoriz
 
 A local 2026-07-10 bookmark from [[sari-vz]] recommends Impeccable, Taste Skill, UI/UX Pro Max, Awesome Design.md, React Icons, a component-generation resource for [[claude-code]] and [[codex]], and Laws of UX. The list combines design skills, component/reference libraries, and UX principles for AI-assisted interface work; it is source-reported rather than independently ranked. ^[raw/articles/thread-Sari__vz-2075663676992831839.md]
 
+## Source-described interaction pattern
+
+The [[triverra]] brief treats interaction polish as part of the component specification: a glassmorphic navigation system, shared-layout active dot, ambient motion, staggered entrance states, masked duplicate-label swaps, and dual-arrow cross-fades. These are requested behaviors, not independently tested quality results. ^[raw/articles/triverra-ai-travel-companion-hero-prompt.md]
+
 ## Related Concepts
 
 - [[html-native-design-skill]] — agent-driven visual production with HTML/CSS/JS
@@ -29,3 +33,4 @@ A local 2026-07-10 bookmark from [[sari-vz]] recommends Impeccable, Taste Skill,
 - [[product-design]] — broader product UI discipline
 - [[user-experience]] — UX component
 - [[hallmark]] — source-described design skill
+- [[ai-travel-companion-landing-hero]] — concrete interaction-heavy hero example

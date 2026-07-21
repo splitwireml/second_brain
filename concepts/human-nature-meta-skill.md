@@ -1,7 +1,7 @@
 ---
 title: Human Nature Meta-Skill
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-07-17
 type: concept
 tags: [behavioral-science, psychology, marketing, skill-learning]
 sources: [raw/articles/xarticle-the-most-profitable-skill-of-the-21st-century-not-ai-2073418764058825045.md]
@@ -61,3 +61,4 @@ The anti-hype point is precise: learning AI tools alone does not solve distribut
 - [[becoming-unemployable]]
 - [[behavioral-science-ugc]]
 - [[prompt-engineering]]
+- [[human-psychology-driven-content-hierarchy]] — filed query synthesizing the human-nature, resonance-mode, mechanism, format, and distribution hierarchy.

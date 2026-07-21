@@ -1,10 +1,10 @@
 ---
 title: "AI Business Models 2026"
 created: 2026-05-09
-updated: 2026-05-10
+updated: 2026-07-16
 type: concept
 tags: [ai-business, entrepreneurship, monetization]
-sources: []
+sources: [raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 related_entity: [[Atenov_D]]
 author: [[Atenov_D]]
 ---
@@ -58,6 +58,20 @@ Mobile apps for offline cafes/restaurants:
 - Loyalty mechanics (10% off for regulars)
 - $300-500 setup + $100-200/month ongoing
 - One city, 20 cafes = $2K-$4K/month recurring
+
+## Greg Isenberg's $10M portfolio thesis
+
+The July 2026 source reframes a $10M outcome as a portfolio problem rather than a single heroic startup: one app at $200K/month is presented as $2.4M ARR and a 4× sale as $9.6M, while three smaller apps or a portfolio can spread risk. These are source-stated arithmetic and targets, not audited financial forecasts.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+The discovery loop starts with boring products that already have revenue but poor user experience, then looks for an AI-shaped gap: uploads, repetitive forms, manual categorization, or premium pricing based on time saved. The build thesis is explicitly bootstrapped and iterative—smallest useful agent first, then shared skills, evals, and distribution infrastructure across repeated launches.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+The opportunity set spans [[appmaxxing-app-factory]]-style mobile portfolios, outcome-selling agents, voice and message-native products, industry skill libraries, and an agent-operated media company. The new-OS portion is filed separately as [[agent-native-apps]], while this page keeps the broader monetization and portfolio framing.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+## Leverage-first operator model
+
+The interview with [[exm7777]] adds a simpler services path to this business-model map: use AI as leverage inside an existing business rather than treating AI itself as the product. The recommended wedge is one department—sales, accounting, marketing, or another narrow workflow—sold to solopreneurs and small businesses through direct outreach. This is source-described operating advice, not independently verified revenue evidence.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+
+The same source rejects premature complexity: start with a repeatable agency skeleton, apply research and monitoring across clients, and let autonomy emerge only after the operator has reviewed and improved the work. That connects the launch formula above to [[ai-native-services-agency]] and [[agent-saas-playbook]] without creating a separate AI-creator business model.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 
 ## Source
 

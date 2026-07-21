@@ -1,10 +1,10 @@
 ---
 title: Loop Engineering
 created: 2026-06-11
-updated: 2026-07-15
+updated: 2026-07-16
 type: concept
-tags: [workflow, orchestration, agent, claude-code, codex]
-sources: [raw/articles/xarticle-loop-engineering-2064127981161959567.md, raw/articles/xarticle-from-prompting-agents-to-loop-engineering-2068008743153832264.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/thread-zodchiii-2070809778150953343.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-what-the-hell-is-a-loop-anyway-2073492320159510869.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md]
+tags: [workflow, orchestration, agent, claude-code, codex, ai-research, training, evaluation]
+sources: [raw/articles/xarticle-loop-engineering-2064127981161959567.md, raw/articles/xarticle-from-prompting-agents-to-loop-engineering-2068008743153832264.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/thread-zodchiii-2070809778150953343.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-what-the-hell-is-a-loop-anyway-2073492320159510869.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
 related_entity: [[claude-code]]
 ---
 
@@ -34,6 +34,8 @@ Addy Osmani's July 2026 follow-up sharpens that oversight layer into **outer-loo
 
 The [[claude-devs]] article adds the official Claude Code operator taxonomy: classify loops by trigger, stop condition, primitive, and task fit. In that taxonomy, turn-based loops are just normal prompt cycles, goal-based loops hand off the stop condition to [[goal-primitive]], time-based loops use `/loop` or `/schedule` for watch-and-react work, and proactive loops compose schedules, goals, dynamic workflows, and auto mode for recurring streams of bounded work.^[raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md]
 
+The NVIDIA AI thread supplies a concrete autoresearch/system loop outside software delivery: a coding agent used a five-hour budget plus NeMo RL, NeMo Gym, and reusable skills to set up training, evaluate a vision model, and propose a next experiment while the researcher steered priorities. The reported 25% → 96.9% accuracy jump is source-reported; the durable pattern is that the time budget bounds search while the human owns direction and standards of evidence.^[raw/articles/thread-NVIDIAAI-2077061428998013279.md]
+
 ## Core building blocks
 
 Addy Osmani's earlier framing emphasizes five operational building blocks plus external memory. The later @omarsar0 article lands on a nearly equivalent six-part checklist:
@@ -46,6 +48,10 @@ Addy Osmani's earlier framing emphasizes five operational building blocks plus e
 6. **External state** — markdown files, boards, or queues that survive compaction and session boundaries
 
 That convergence matters because it suggests loop engineering is stabilizing into infrastructure rather than remaining a bag of hacks.
+
+Alex Prompter's July 13 plugin thread supplies a concrete model-transfer and verification case. The source-described Fable method has three separable surfaces: `fable-method` encodes a structured loop with hard failure thresholds, `fable-loop` runs tasks with adversarial verification agents, and `fable-judge` independently reruns completion claims. Alex reports 159 runs in which Sonnet plus the plugin matched Fable 10/10 on a five-part research task; Haiku moved from 0/4 to 4/4 on catching a wrong test, while the judge moved Haiku from 3/5 to 5/5 on planted-fraud checks. The thread also records v1 → v2 → v3 self-tests of 0/4, 1/4, and 4/4, with failed versions and raw judge transcripts retained. These are source-reported evaluations, not independent wiki benchmarks.^[raw/articles/thread-alex_prompter-2076727080402948561.md]
+
+The documented limit is part of the result: on ordinary tasks with capable models, the plugin may add nothing. That makes the pattern a targeted reliability layer for wrong tests, false completion claims, and unattended weaker-model work—not a universal substitute for model capability or domain knowledge.^[raw/articles/thread-alex_prompter-2076727080402948561.md]
 
 [[phosphenq]]'s harness guide adds the model-swapping interpretation of the same stack: context, loop, tools, checks, and memory are the persistent control surface, while the LLM underneath can be replaced. That makes loop engineering less about a clever prompt cadence and more about building a [[model-agnostic-agent-harness]] whose verifier, state, and permissions survive model churn.^[raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md]
 
@@ -91,6 +97,12 @@ The newer sources make a useful distinction: a strong `/goal` behaves less like 
 This connects loop engineering directly to [[claude-code]] runtime behavior. Once completion conditions, turn cadence, and evaluator roles are built into the tool, the leverage point moves further upward into architecture design and verifier quality.
 
 The AI Guides walkthrough restates the same pattern for non-technical operators: stop writing instructions and start writing conditions. Its four-part anatomy — goal, scope, checker, and stop rule — is useful because it makes loop design testable even when the loop is just a single `/goal` command rather than a larger scheduler or multi-agent system.^[raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md]
+
+## Skills as loop infrastructure
+
+The local article's Impeccable case study shows how a skill can supply loop machinery instead of merely starting a prompt. Blind sub-agents provide independent review, snapshots carry a fix backlog across sessions, scripts emit computed next steps, hooks re-check uninvoked edits, and a blocking browser poll turns live interaction into the next loop input.^[raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
+
+The durable synthesis is a bounded loop with explicit gates: route only the needed expert, force divergence when the model clusters around safe defaults, compile behavior for the target harness, and design stop conditions that weaker models cannot silently skip. Impeccable is the source-described example; the techniques remain claims from the article rather than independent benchmarks.^[raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
 
 ## Why verification and budgets dominate
 
@@ -145,5 +157,6 @@ A good loop combines explicit stop conditions like [[goal-primitive]], isolation
 - [[omarsar0]]
 - [[phosphenq]]
 - [[human-in-the-loop]]
+- [[nvidia-ai]]
 - [[manager-worker-pr-loop]]
 - [[paul-solt]]

@@ -1,10 +1,10 @@
 ---
 title: Topical Authority (SEO)
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-07-21
 type: concept
 tags: [marketing, method, seo]
-sources: [raw/articles/noel-ceta-topical-authority-2026-04-14.md]
+sources: [raw/articles/noel-ceta-topical-authority-2026-04-14.md, raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md]
 related_entity: [[noel-ceta]]
 author: [[noel-ceta]]
 ---
@@ -55,11 +55,16 @@ This creates a topical relevance web that distributes authority through the site
 ### 6. Expertise signals and topical backlinks
 The remaining layers are public proof and external validation: author bios, citations, case studies, expert contributors, and backlinks from niche-relevant sites.
 
+## Broken-link replacement variant
+
+Borja's July 2026 article supplies a concrete external-validation loop for the backlink layer: locate competitor pages that return 404 or soft-404 responses but still have referring domains, recover the original page's link intent from an archive, publish a current replacement that matches that intent, and offer the exact swap to the sites still linking to the dead resource. This is a narrower execution pattern than the full topical-authority framework, but it shows how backlink acquisition can begin from a verified defect instead of a generic request. ^[raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md]
+
 ## Evidence status
 
 ### Confirmed
 - [[noel-ceta]] published this framework in the linked X thread.
 - The framework explicitly combines niche selection, topic mapping, pillar-cluster architecture, internal linking, expertise signals, and niche-relevant backlinks.
+- Borja's source explicitly describes the broken-link replacement sequence; its traffic, response-rate, and model-cost outcomes remain source claims. ^[raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md]
 
 ### Likely but unverified
 - The claimed example results: outranking DR 70+ sites, 47 first-page keywords, 12K monthly visits in six months, and industry-leader citations.
@@ -84,8 +89,10 @@ This concept is useful because it gives a principled way to turn a new niche sit
 - [[programmatic-seo]] — adjacent page-system strategy at scale
 - [[llm-seo]] — answer-engine visibility layer that may benefit from strong topical coverage
 - [[prompt-engineering-patterns]] — related discipline for shaping comprehensive, structured content
+- [[broken-link-building]] — reusable implementation of the topical-backlink layer
 
 ## References
 
 - [Original X thread](https://x.com/noelcetaseo/status/2043758649827315848)
 - Raw source: `raw/articles/noel-ceta-topical-authority-2026-04-14.md`
+- Raw source: `raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md`

@@ -1,10 +1,10 @@
 ---
 title: AI Cinematic Website Design
 created: 2026-04-17
-updated: 2026-07-01
+updated: 2026-07-20
 type: concept
 tags: [claude-code, design, ui-design, workflow, website, monetization]
-sources: [raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md]
+sources: [raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md]
 related_entity: [[monokern]]
 confidence: medium
 ---
@@ -50,6 +50,12 @@ This concept sits between [[vibe-coding]] and broader [[website]] production. It
 
 It also overlaps with [[claude-code-workflows]]: the tool is not only writing code, but acting as a responsive implementation partner once the human supplies stronger creative direction.
 
+## Triverra's implementation-first hero
+
+The [[triverra]] brief is a concrete implementation-first variant of cinematic website design. Instead of describing premium motion at a high level, it fixes the video playback rate, scale, stagger delays, easing curves, glass surfaces, responsive breakpoints, and CTA micro-interactions. The prompt is a design specification, not evidence that the product or page has been deployed. ^[raw/articles/triverra-ai-travel-companion-hero-prompt.md]
+
+This example reinforces the workflow's central distinction: visual quality depends on explicit art direction and verifiable implementation details, not on the adjective “cinematic” alone.
+
 ## Related
 
 - [[monokern]]
@@ -58,3 +64,6 @@ It also overlaps with [[claude-code-workflows]]: the tool is not only writing co
 - [[vibe-coding]]
 - [[claude-code-workflows]]
 - [[anthropic]]
+- [[triverra]]
+- [[ai-travel-companion-landing-hero]]
+- [[landing-page-implementation-map]]

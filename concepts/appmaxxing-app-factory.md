@@ -1,10 +1,10 @@
 ---
 title: Appmaxxing App Factory
 created: 2026-07-10
-updated: 2026-07-11
+updated: 2026-07-16
 type: concept
 tags: [mobile-apps, independent-developer, bootstrapped, user-acquisition, distribution, monetization, ai-agent-automation]
-sources: [raw/articles/xarticle-ios-apps-the-full-framework-to-appmaxxing-with-70--2074972100201177550.md, raw/articles/xarticle-how-i-build-apps-with-codex-without-opening-xcode-2040132557983936772.md]
+sources: [raw/articles/xarticle-ios-apps-the-full-framework-to-appmaxxing-with-70--2074972100201177550.md, raw/articles/xarticle-how-i-build-apps-with-codex-without-opening-xcode-2040132557983936772.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 related_entity: [[appmaxxer]]
 ---
 
@@ -23,6 +23,12 @@ An appmaxxing app factory is a portfolio-building pattern for indie iOS apps: us
 ## ASO-first distribution logic
 
 The source's ASO advice differs from paid-ad-first playbooks: for ASO/SEO/AEO distribution, put the generic keyword or phrase before the branded term in title/subtitle metadata, avoid repeated keywords across title/subtitle/keyword fields, and use first-party ranking and conversion data rather than reacting to every platform-rumor post on X. It also claims screenshots can contribute to keyword indexing, making screenshot tooling part of the factory rather than a cosmetic afterthought.^[raw/articles/xarticle-ios-apps-the-full-framework-to-appmaxxing-with-70--2074972100201177550.md]
+
+## Boring-app discovery variant
+
+[[greg-isenberg]] describes the upstream discovery step for a mobile-app portfolio: use revenue intelligence such as Sensor Tower to find boring apps with meaningful monthly revenue, dated interfaces, weak ratings, and strong retention, then rebuild the narrow AI-shaped gap rather than inventing demand from scratch. This is adjacent to the factory's ASO and App Store automation layer, not a replacement for it.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+The source presents a very low-cost, high-iteration target—roughly twenty dollars and two weeks per shot, with ten attempts in a year—as an author-described reduction in the cost of learning. The figures are source claims; the durable addition is the portfolio discipline of validating a painful category before reusing the factory substrate.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 
 ## Agent-friendly build substrate
 

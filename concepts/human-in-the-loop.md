@@ -1,10 +1,10 @@
 ---
 title: Human in the Loop
 created: 2026-07-02
-updated: 2026-07-10
+updated: 2026-07-16
 type: concept
 tags: [agent, workflow, prompting, evaluation]
-sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md]
+sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 related_entity: [[alex-prompter]]
 ---
 
@@ -30,11 +30,19 @@ The better operating model is closer to [[loop-engineering]] than to button-clic
 
 Addy's outer-loop framing makes the boundary more explicit: humans should own constraints, sampling policy, audit evidence, and the final production verdict, not every inner-loop token or tool call. The scarce resource is judgment backed by quality signals; if the agent can ship more than a person can review, the control surface must decide what evidence is enough and who is answerable when it is wrong.^[raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md]
 
+The NVIDIA AI thread gives the same boundary in a training setting: the researcher steers the objective and priorities while a coding agent handles environment setup, training, evaluation, and a proposed next experiment under a fixed time budget. That is outer-loop steering rather than per-action babysitting; the reported Qwen3-VL-2B accuracy change is preserved as a source claim.^[raw/articles/thread-NVIDIAAI-2077061428998013279.md]
+
 ## Evaluation improves quality
 
 A strong human-in-the-loop system does not just slow automation down; it improves outcomes by adding explicit grading. The article points to rubric-based output checks such as Outcomes in [[claude-code]] as evidence that a meaningful share of weak AI output is an evaluation failure rather than a raw model failure.
 
 This pushes the practical leverage point upward from one-off [[prompt-engineering]] tricks toward reusable review criteria, steering documents, and operating constraints.
+
+## Earned autonomy in product agents
+
+[[greg-isenberg]] applies the same control-surface logic to new customer agents: start with draft-and-approve, run the system against 50 real examples, and only widen autonomy after the operator can measure what worked, what was flagged, and what failed. The evaluation set doubles as a sales demonstration, so human review is both a safety boundary and a product-discovery instrument.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+This is consistent with [[agent-saas-playbook]]: approval, escalation, and success criteria should be designed before the agent is allowed to act independently. The source's recommendation is not permanent manual supervision; it is earned autonomy backed by evidence.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 
 ## Practical takeaway
 
@@ -55,3 +63,4 @@ That pattern keeps human judgment where it adds the most value and removes it fr
 - [[loop-engineering]]
 - [[prompt-engineering]]
 - [[addy-osmani]]
+- [[nvidia-ai]]

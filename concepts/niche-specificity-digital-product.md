@@ -1,10 +1,10 @@
 ---
 title: Niche-Specificity Digital Product Framework
 created: 2026-04-21
-updated: 2026-07-12
+updated: 2026-07-15
 type: concept
 tags: [framework, marketing, monetization]
-sources: [raw/articles/dickie-bush-digital-product-2026-04-21.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md]
+sources: [raw/articles/dickie-bush-digital-product-2026-04-21.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md]
 author: [[dickie-bush]]
 ---
 
@@ -55,6 +55,12 @@ Skipping specificity means building on generic, watered-down ideas that fail bef
 The newer source applies the same specificity principle before product creation, but operationalizes it as a niche scorecard. One operator reportedly evaluates audience size and growth, complaint intensity, comment-to-upvote ratio, existing products and prices, addressable market, platform mix, content saturation, purchase intent, willingness to pay, and seasonality. High-scoring niches are built; low-scoring niches are rejected regardless of intuition. The reported hit rate and revenue are source claims, not independently audited. ^[raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md]
 
 The extension matters because specificity is not only a copywriting choice: at portfolio scale it becomes a screening and capital-allocation decision. It still requires judgment about whether a visible complaint signals a sufficiently painful, reachable, and monetizable problem.
+
+## Language-market variant
+
+The multilingual source adds language and region as another specificity dimension. Its Spanish-page workflow starts from local complaints about pricing, then narrows further to freelancers and small-business operators in Latin American markets, a chosen dialect, local currencies, and regionally appropriate examples. Comparable pain across languages is a useful discovery signal, but the source's claim that the Spanish market is four years behind English and has little competition is source-claimed, not independently verified. ^[raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md]
+
+This links to [[multilingual-faceless-product-arbitrage]]: language-market selection is not merely translation; it is a niche-screening and trust decision.
 
 ## Relationship to Other Concepts
 

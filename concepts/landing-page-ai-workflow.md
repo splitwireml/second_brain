@@ -1,10 +1,10 @@
 ---
 title: landing-page-ai-workflow
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-07-20
 type: concept
 tags: [tools, ai-tools, workflow, design, genai, prompting, ui-design, vibe-coding, website]
-sources: [raw/articles/prajwal-tomar-landing-page-ai-workflow-2048742030466339120-2026-04-27.md]
+sources: [raw/articles/prajwal-tomar-landing-page-ai-workflow-2048742030466339120-2026-04-27.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md]
 related_entity: [[lovable-dev]]
 author: [[prajwal-tomar]]
 ---
@@ -72,12 +72,17 @@ Cinematic scroll-driven landing page with:
 - Hover image slideshows (1.5s crossfade, 3 images per card)
 - Seamless section stacking
 
+## Triverra specificity pattern
+
+The [[triverra]] brief applies the same specificity-first approach to a travel hero: it names exact Tailwind values, animation timing, easing, breakpoints, asset behavior, video playback rate, CSS filters, and integration boundaries. It also supplies the duplicate-label markup and arrow transforms for the two CTA hover states. This is a source-described prompt pattern, not a verified implementation outcome. ^[raw/articles/triverra-ai-travel-companion-hero-prompt.md]
+
 ## Related Concepts
 
 - [[vibe-coding-in-production]] — Eric Mishra's vibe coding framework
 - [[prompt-engineering-patterns]] — Prompt templates including landing page patterns
 - [[ai-cinematic-website-design]] — Flux/Hexler → Seedance → Gemini 3.1 workflow for animated marketing sites
 - [[clear-graphics-yc-landing-page-framework]] — YC startup landing page conversion patterns
+- [[ai-travel-companion-landing-hero]] — Triverra's concrete travel-hero example
 
 ## Related Entities
 

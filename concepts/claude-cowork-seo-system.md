@@ -1,10 +1,10 @@
 ---
 title: "Claude Cowork SEO System"
 created: 2026-03-25
-updated: 2026-05-14
+updated: 2026-07-20
 type: concept
 tags: [tools, agent, local-seo, marketing, monetization]
-sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md]
+sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md]
 ---
 
 # Claude Cowork SEO System
@@ -88,6 +88,24 @@ This file is referenced by every subsequent prompt.
 | 3–4 | Reviews + GBP posts + response templates |
 | 5–8 | Services, description, photos + website page audit |
 | 9–12 | Backlinks + citations + search intent + content gaps |
+
+## Eight-audit bootstrap sequence (March 2026 follow-up)
+
+A later source from [[bloggersarvesh]] compresses the broader system into eight audits and makes execution order the main operating rule:
+
+1. **Foundation:** GBP category audit, then attributes audit.
+2. **Listing:** services-section optimization, then GBP description testing.
+3. **Reviews:** competitor review teardown and a response-template system.
+4. **Content engine:** GBP posting calendar and photo audit.
+5. **Execution:** post consistently, upload photos weekly, and respond to every review.
+
+The source's proposed cadence is week 1 foundation, week 2 listing, week 3 reviews, week 4 content, and week 5 onward execution. It says Claude should gather and structure evidence while a human decides which signals matter commercially and what action to take. ^[raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md]
+
+## Evidence and caveats
+
+- **Source-confirmed:** the article contains the eight prompts, their ordering, example Chrome/GBP research instructions, and the weekly rollout.
+- **Likely:** sequencing foundational profile data before ongoing content is a sensible operational simplification of the larger 20-prompt system.
+- **Unverified source claims:** $100k/month in 90 days, ranking changes within days, review-response ranking effects, photo performance percentages, and hundreds of thousands in client revenue. These are not treated as established results here.
 
 ## Related Concepts
 

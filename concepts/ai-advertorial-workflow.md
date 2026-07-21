@@ -1,10 +1,10 @@
 ---
 title: AI Advertorial Workflow
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-20
 type: concept
 tags: [ai-content, ai-tools, marketing, paid-ads, ecommerce, conversion, funnel, copywriting, prompting, workflow, strategy, x-article]
-sources: [raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md]
+sources: [raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md]
 related_entity: [[claude]]
 author: [[ecom-amin]]
 ---
@@ -45,6 +45,12 @@ The first draft is followed by three audits:
 - **CTA audit:** make the next step feel earned by the education rather than bolted on as a pitch.
 
 For scale, the source proposes 3–5 distinct ideal-customer angles per product. Each angle gets its own keyword, emotional entry point, hook, and advertorial while reusing the underlying product mechanism. This is a text-first complement to [[ai-generated-ads]] and to the pain-point landing-page logic in [[ecommerce-funnel-training]].
+
+## Meta advertorial extension
+
+Zack's Meta version uses the advertorial as the cold-traffic bridge between an ad and the offer page. Its six-section sequence is: open with the reader's problem, explain why the current approach fails, reframe the root cause, introduce the mechanism, provide proof, and only then recommend the product or service. The source describes a 70/30 education-to-offer split and treats product introduction before the mechanism as a critical failure mode. ^[raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md]
+
+This adds a platform-and-funnel context to the existing keyword-awareness workflow: the same mental-state matching should govern not only the copy but also whether cold traffic goes to an editorial page, VSL, quiz, or direct offer. See [[meta-ad-funnel-architectures]] for the broader selection framework. The source's conversion comparisons remain source claims, not verified benchmarks.
 
 ## Boundary and open questions
 

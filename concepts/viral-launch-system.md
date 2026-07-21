@@ -1,10 +1,10 @@
 ---
 title: Viral Launch System
 created: 2026-05-19
-updated: 2026-07-10
+updated: 2026-07-21
 type: concept
 tags: [agent, workflow, ai, marketing, ugc, viral, viral-marketing, video, content-marketing, hooks]
-sources: [raw/articles/xarticle-the-secret-behind-every-viral-launch-2054989194414465222.md, raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md]
+sources: [raw/articles/xarticle-the-secret-behind-every-viral-launch-2054989194414465222.md, raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md, raw/articles/xarticle-how-to-do-a-viral-launch-on-x-2079225170175398083.md]
 ---
 
 ## Overview
@@ -56,6 +56,14 @@ An agent trained on a 61-year-old non-technical person to flag content that isn'
 5. **Aggressive filler cutting** — every line must justify existence
 6. **Human edits final 5%** — taste and judgment still matter
 
+## Operational Launch Sequence
+
+A July 2026 X Article by [[fatimarizwan]] frames a viral launch as a staged operating sequence: product, one-page press release and FAQs, demo video, timing, pre-committed supporters and influencers, hook-first thread, launch-day amplification, newsletter, and follow-up. This extends the research, hook, and video layers already captured here with onboarding, coordination, and conversion steps. ^[raw/articles/xarticle-how-to-do-a-viral-launch-on-x-2079225170175398083.md]
+
+The product gate is deliberately early: show value within 30 seconds and reach the product's "aha" within 60 seconds, then test the flow with five strangers before planning the launch. The press release becomes the source of truth for the video, thread, influencer packet, and newsletter; difficulty writing it clearly is treated as a product-clarity warning. These are source-described heuristics, not universal thresholds. ^[raw/articles/xarticle-how-to-do-a-viral-launch-on-x-2079225170175398083.md]
+
+Distribution is scheduled rather than improvised. The article recommends recruiting aligned participants weeks ahead, using calendar reminders, coordinating early reposts and quote-tweets, publishing when the target audience is awake, and following up with engaged users after the first 48 hours. It also treats every feature, milestone, and integration as another launch, making repetition and audience compounding part of the system. Reach, influencer counts, timing, and conversion figures remain source-reported claims. ^[raw/articles/xarticle-how-to-do-a-viral-launch-on-x-2079225170175398083.md]
+
 ## Launch Video Checklist
 
 Mitchell's later launch-video article adds a craft checklist for the video asset itself, extending the earlier Claude Code launch system beyond research and copy. The working rule is that feed viewers are not captive: lead with the payoff, put the wildest product moment first, make the first five to seven seconds survive the retention cliff, and avoid jargon that signals "advertisement" before proof arrives. ^[raw/articles/xarticle-the-secret-to-making-any-launch-video-go-viral-2074916350280216904.md]
@@ -72,6 +80,9 @@ The execution layer is visual and iterative: accelerate the final cut by roughly
 
 - [[mitchell]] — tech launch-video operator who supplied the July 2026 editing/proof-window checklist
 - [[mattepstein]] — the operator
+- [[fatimarizwan]] — Okara launch operator and author of the operational sequence
+- [[askokara]] — product case study in the sequence
+- [[distribution]] — audience, timing, and conversion layer
 - [[claude-code]] — the platform
 - [[viral-marketing]] — broader concept
 - [[ai-agent-engineer-roadmap-2026]] — related agent workflow topics

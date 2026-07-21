@@ -1,10 +1,10 @@
 ---
 title: Research Agent Vault
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-07-16
 type: concept
 tags: [agent, ai-agent, memory, orchestration, research, workflow-automation]
-sources: [raw/articles/xarticle-i-run-6-ai-agents-only-this-one-makes-the-other-5--2051275483996909982.md]
+sources: [raw/articles/xarticle-i-run-6-ai-agents-only-this-one-makes-the-other-5--2051275483996909982.md, raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 related_entity: [[hermes-agent]]
 author: [[gkisokay]]
 ---
@@ -136,6 +136,12 @@ research-vault/ops/operator-action-dispatch.json # For routing
 ```
 
 A research system should make the next decision easier.
+
+## Creator/operator application
+
+The interview with [[exm7777]] supplies a concrete operator use case for the vault: spend on deep, multiphase research; combine references from papers, blogs, videos, and marketing material to give the agent better taste; then turn the resulting brief into content, offers, and outreach. The source reports this as an operating practice, not an independently measured performance result.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+
+It also recommends a second, high-signal feed and side-running research agents rather than letting the main feed define the operator's worldview. That fits the vault's bounded source-plan and decision-support purpose, and connects it to [[content-os]] and [[hermes-agent-income-system]].^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 
 ## Quality Gates
 

@@ -1,10 +1,10 @@
 ---
 title: Paid Ads Agency Funnel
 created: 2026-05-07
-updated: 2026-06-14
+updated: 2026-07-20
 type: concept
 tags: [agency, b2b, content-strategy, conversion, lead-gen, marketing]
-sources: [raw/articles/george-clements-paid-ads-agency-funnel-2051697261101322556.md]
+sources: [raw/articles/george-clements-paid-ads-agency-funnel-2051697261101322556.md, raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md]
 related_entity: [[george-clements-paid-ads-agency]]
 author: [[george-clem]]
 ---
@@ -80,6 +80,14 @@ Three-component sequence between booking and call:
 1. **Email nurture** (5–9 emails): value, objection handling, offer reinforcement; 50–70% open rates indicate well-built sequences
 2. **Personal outreach** via WhatsApp/iMessage: closer or setter reaches out directly to build rapport
 3. **SDR confirmation calls**: verify attendance, gather prep context
+
+## Additional source: offer-matched funnel selection
+
+Zack's taxonomy supplies a broader source-described menu around this page's high-ticket service slice. The call funnel runs ad → application landing page → qualification → calendar → confirmation/reminder sequence; the VSL funnel puts the sales argument on video before an order or booking CTA; and the lead-magnet, webinar, DM, and community variants add nurture when the buyer needs more trust before a conversation. ^[raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md]
+
+The practical rule is to match the path to price and awareness rather than adding steps by default. For a $3,000+ service, Zack recommends starting with the call funnel and often skipping a separate opt-in; colder audiences may need advertorial education before the offer, while product-aware traffic can go directly to a product page. This extends the existing B2B architecture without replacing its routing, setter, and pre-call nurture model. ^[raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md]
+
+See [[meta-ad-funnel-architectures]] for the full taxonomy and [[whotfiszackk]] for the source-author context. The source's conversion-rate, spend, and price-point claims remain attributed claims, not verified benchmarks.
 
 ## Related Concepts
 
