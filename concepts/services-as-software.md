@@ -1,10 +1,10 @@
 ---
 title: Services-as-Software
 created: 2026-04-29
-updated: 2026-07-21
+updated: 2026-07-22
 type: concept
 tags: [agency, ai-services, business-models, monetization, outbound]
-sources: [raw/articles/xarticle-how-to-build-a-one-person-services-as-software-com-2048486401105358933.md, raw/articles/thread-21xFORTUNA-2078982946707435591.md]
+sources: [raw/articles/xarticle-how-to-build-a-one-person-services-as-software-com-2048486401105358933.md, raw/articles/thread-21xFORTUNA-2078982946707435591.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 related_entity: [[alex-vacca]]
 author: [[alex-vacca]]
 ---
@@ -68,6 +68,14 @@ The thread claims $200 per video and $997 in one week, but those numbers are sou
 ## Brand Is What's Left
 
 Anybody with a decent IQ can build a website calling themselves an AI GTM agency. The tooling moat is gone. What's left is brand: your numbers, your case studies, your clients. Give the information for free. Charge for implementation.
+
+## Zack's narrow offer and warm-start path
+
+A local X Article by [[whotfiszackk]] supplies a concrete near-term version of services-as-software: one person selects one painful business problem, builds a repeatable AI-assisted delivery system, and sells a monthly result. The article explicitly rejects broad “digital marketing” positioning in favor of one audience, one problem, and one outcome. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+The source lists content systems, local-business lead generation, personal-brand video scripting, and e-commerce email marketing as candidate offers, with claimed pricing that puts $10k/month at three to six clients. These offer prices and revenue calculations are source-reported, not independently verified. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+Its go-to-market sequence begins with 30 warm contacts and referral asks, then uses the first client result as a case study before adding cold outreach. That gives the outcome-selling model a lower-risk starting motion than immediately blasting high-volume cold email, while preserving the existing [[outbound]] and [[distribution]] layers. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 
 ## Related
 

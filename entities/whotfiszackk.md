@@ -1,10 +1,10 @@
 ---
 title: zack
 created: 2026-07-07
-updated: 2026-07-21
+updated: 2026-07-22
 type: entity
 tags: [person, x-creator, content-creator, ai-business]
-sources: [raw/articles/xarticle-23000-last-month-ctrl-c-ctrl-v-2074140663927755082.md, raw/articles/xarticle-made-347k-last-year-selling-pdfs-from-pages-nobody-knows-are-mine-2074097134518034527.md, raw/articles/xarticle-httpstconmgxwgbnm8-2074760374243455348.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-either-spend-the-next-6-months-scrolling-a-2075940287130824945.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md, raw/articles/xarticle-httpstcoit4fejrsg5-2079226781710827729.md]
+sources: [raw/articles/xarticle-23000-last-month-ctrl-c-ctrl-v-2074140663927755082.md, raw/articles/xarticle-made-347k-last-year-selling-pdfs-from-pages-nobody-knows-are-mine-2074097134518034527.md, raw/articles/xarticle-httpstconmgxwgbnm8-2074760374243455348.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-either-spend-the-next-6-months-scrolling-a-2075940287130824945.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md, raw/articles/xarticle-httpstcoit4fejrsg5-2079226781710827729.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 ---
 
 # zack (@whotfiszackk)
@@ -84,6 +84,16 @@ The operating pattern is [[faceless-digital-product-portfolio]]: validate demand
 A new substantive X Article lays out twelve Meta-ad funnel architectures and treats a funnel as a conversion system rather than merely a landing page: the page sequence, qualification logic, belief shift, and mechanism that move a stranger toward a purchase or booked call. The source's experience and performance figures are source-reported, not independently audited. ^[raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md]
 
 The article's reusable framework is [[meta-ad-funnel-architectures]]. It matches funnel choice to offer economics, audience awareness, and required trust: call/VSL paths for higher-ticket services, advertorial and listicle paths for cold education, quiz/lead-magnet paths for segmentation and nurture, and direct product paths for already-aware traffic. ^[raw/articles/xarticle-every-winning-meta-ad-funnel-explained-in-1-articl-2078498450430382470.md]
+
+## Additional source: productized AI services to $10k/month
+
+A July 21, 2026 X Article by zack presents a second business path alongside his faceless digital-product portfolio: a narrow, productized service built on AI leverage. The model is to pick one painful business problem, build a repeatable delivery system, charge a monthly retainer, and keep the operator focused on output quality and the client relationship rather than trading hours for dollars. The article's business and income claims are source-reported, not independently audited. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+The concrete offers are AI content systems, AI lead generation for local businesses, AI video scripts/content for personal brands, and AI email marketing for e-commerce brands. The article prices these at roughly $1,000–$4,000 per client and argues that three to six businesses—not thousands of customers or followers—can reach a claimed $10k/month. Prices, client counts, and revenue math remain source claims. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+Its zero-budget acquisition path is deliberately narrow: define one outcome for one business type, write a list of 30 warm contacts, ask each for a referral or fit check, turn the first result into a case study, and let referrals plus inbound gradually replace outbound. The article frames this as a 90-day execution sprint rather than a 30-day miracle. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+The delivery layer is systematized with onboarding, weekly templates, AI production workflows, and monthly reporting. The source claims that this can reduce each client to roughly 3–4 hours of weekly work and support six to eight clients; that operating target is source-described, not a general benchmark. This extends zack's existing [[faceless-digital-product-portfolio]] work into the service-side cluster represented by [[services-as-software]], [[ai-native-services-agency]], and [[agency-client-acquisition]]. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 
 ## Relationship to existing wiki concepts
 

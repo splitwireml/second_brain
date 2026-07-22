@@ -1,10 +1,10 @@
 ---
 title: AI-Generated Ads
 created: 2026-06-07
-updated: 2026-07-15
+updated: 2026-07-22
 type: concept
 tags: [ai-content, marketing, paid-ads, video-generation]
-sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md]
+sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 related_entity: [[ai-ugc]]
 ---
 
@@ -23,6 +23,10 @@ The pattern uses product-image references across clips, mascot or faceless modes
 Amin's [[ai-advertorial-workflow]] extends the same production-acceleration idea from visual ads to long-form Google Ads landing-page copy. The workflow maps the keyword to the traffic's awareness level, leads with the reader's problem, introduces a mechanism before the product, and uses a three-pass revision loop for the hook, mechanism, and CTA. The source's speed, conversion, and ROAS figures are author claims, not verified benchmarks. ^[raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md]
 
 The distinction is useful: AI can compress copy production, but the operator still supplies keyword strategy, audience state, product evidence, and the test plan. That boundary connects this page to [[claude-fable-5-loop-design]].
+
+## Reference-video remake pattern
+
+The supplied MakeUGC workflow adds a direct-response variant: upload a competitor/reference ad, provide a product in a similar category, add a goal or detailed prompt, and generate a remake using a selected video model. This is a source-described production shortcut; it does not prove creative similarity, performance transfer, or rights to reuse the reference. ^[raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 
 ## Quality constraints
 

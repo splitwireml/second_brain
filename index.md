@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-21 | Total pages: 1114
+> Last updated: 2026-07-22 | Total pages: 1115
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -266,7 +266,7 @@
 [[lyra-2-0]] — title: Lyra 2.0
 [[m0h]] — title: m0h
 [[mahnoor-fatima]] — title: Mahnoor Fatima
-[[makeugc]] — title: MakeUGC
+[[makeugc]] — MakeUGC AI UGC ad-production platform with reference-led Ad Remake and done-for-you video-creation workflows.
 [[marc-bowen]] — title: Marc Bowen
 [[marc-lou]] — title: marc lou
 [[marlin-2b]] — title: Marlin-2B
@@ -392,7 +392,7 @@
 [[scrapy]] — title: Scrapy
 [[searxng]] — title: SearXNG
 [[second-brain]] — title: second-brain
-[[seedance-2-0]] — title: Seedance 2.0
+[[seedance-2-0]] — Seedance 2.0 video-generation model used in reference-led UGC ad and character-consistency workflows.
 [[seelffff]] — title: seelffff
 [[sentra]] — title: Sentra
 [[seobydan]] — title: Daniel  SEO (seobydan)
@@ -461,7 +461,7 @@
 [[wandermist]] — X creator currently represented by an export-failed bare-URL [[link-post]] bookmark with no recoverable destination context.
 [[waybarrios-vllm-mlx]] — title: vllm-mlx
 [[whisper]] — title: Whisper
-[[whotfiszackk]] — zack — X creator documenting faceless digital products, multilingual market expansion, Reddit-sourced product research, dormant-account distribution, and Meta ad funnel architectures.
+[[whotfiszackk]] — zack — X creator documenting faceless digital products plus narrow productized AI services, warm-start client acquisition, and distribution systems.
 [[wireguard]] — title: WireGuard
 [[witcheer]] — title: witcheer
 [[withoutbg]] — title: withoutbg
@@ -489,7 +489,7 @@
 [[14-second-ai-vlog-method]] — source-described three-scene synthetic-UGC vlog workflow with fixed casting and manual QC.
 [[3d-vision]] — title: 3D Vision
 [[3dgs]] — title: 3D Gaussian Splatting
-[[4-beat-short-form-ad-structure]] — title: 4-Beat Short-Form Ad Structure
+[[4-beat-short-form-ad-structure]] — four-beat hook/problem/proof/CTA structure for short-form AI ads, now connected to reference-led remakes.
 [[60-claude-cowork-moves]] — title: 60-claude-cowork-moves
 [[a2a-protocol-cross-agent-communication]] — title: A2A Protocol Cross-Agent Communication
 [[above-the-fold-design]] — title: above-the-fold-design
@@ -497,7 +497,7 @@
 [[affiliate-ai-ugc]] — title: affiliate-ai-ugc
 [[affiliate-marketing]] — title: Affiliate Marketing
 [[agency]] — title: agency
-[[agency-client-acquisition]] — title: Agency Client Acquisition
+[[agency-client-acquisition]] — zero-budget agency acquisition via warm contacts, proof, content, and outbound.
 [[agency-pricing-no-case-studies]] — title: Agency Pricing No Case Studies
 [[agent]] — title: AI Agent
 [[agent-friendly-xcode-projects]] — project substrate for agent-operated Apple apps: low-noise builds, focused tests, runtime logs, safety rules, and local documentation.
@@ -522,7 +522,7 @@
 [[ai-agents-team-founding]] — title: AI Agents Team Founding
 [[ai-animation-factory]] — Modular AI-native animation production stack spanning script, frames, motion, voice, music, and orchestration.
 [[ai-automation-path]] — title: ai-automation-path
-[[ai-business-models-2026]] — title: "AI Business Models 2026"
+[[ai-business-models-2026]] — AI business-model map including productized services, agent SaaS, and bootstrapped portfolio paths.
 [[ai-business-workflow-autopilot]] — title: AI Business Workflow Autopilot
 [[ai-cartoon-character-ugc-system]] — title: AI Cartoon Character UGC System
 [[ai-cartoon-ugc-monetization]] — title: AI Cartoon UGC Monetization
@@ -543,15 +543,15 @@
 [[ai-job-search-automation]] — title: AI Job Search Automation
 [[ai-lead-gen-agent]] — title: AI Lead Gen Agent
 [[ai-memory-systems]] — title: AI Memory Systems
-[[ai-native-services-agency]] — title: "AI-Native Services Agency"
+[[ai-native-services-agency]] — services-as-software model where AI handles repetitive delivery and humans own strategy, proof, and client judgment.
 [[ai-persona-agency-stack]] — title: AI Persona Agency Stack
 [[ai-persona-marketing]] — title: AI Persona Marketing
 [[ai-productivity]] — title: AI Productivity
 [[ai-review-management-service]] — title: AI Review Management Service
 [[ai-side-hustle-models]] — title: AI Side Hustle Models
 [[ai-travel-companion-landing-hero]] — full-viewport cinematic landing-hero pattern for an AI travel companion, with glassmorphic navigation and specified CTA micro-interactions.
-[[ai-ugc]] — title: AI-UGC
-[[ai-ugc-ad-scaling-system]] — title: AI UGC Ad Scaling System
+[[ai-ugc]] — synthetic-UGC category including reference-led ad remakes and scene-by-scene production workflows.
+[[ai-ugc-ad-scaling-system]] — volume-and-testing system for AI UGC ads, now including reference-video remakes as a creative-input shortcut.
 [[ai-ugc-behavioral-biases]] — title: ai-ugc-behavioral-biases
 [[ai-ugc-income-system]] — monetization playbook for AI/tech UGC, now expanded with Sidney Brant's first-client and account-warmup workflow.
 [[ai-user-acquisition-agent]] — title: ai-user-acquisition-agent
@@ -574,7 +574,7 @@
 [[code-first-launch-video-production]] — Launch-video production pattern using real product code, React/Remotion, Fable 5 loops, renders, and frame-level feedback.
 [[continual-learning-for-agents]] — Replit-style agent improvement loop using evals, production traces, A/B tests, and harness/context updates instead of weight updates.
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
-[[distribution]] — Distribution-first monetization thesis: audience ownership reveals demand and should precede product, checkout, and branding optimization.
+[[distribution]] — distribution systems spanning audience-led product validation and warm-network-to-inbound service acquisition.
 [[dormant-account-distribution-arbitrage]] — claimed strategy of buying aged dormant X accounts as pre-existing distribution infrastructure for faceless niche pages.
 [[execution-over-consumption]] — bounded learning, early shipping, and feedback loops as an antidote to passive research replacing work.
 [[faceless-content-system]] — faceless content monetization systems spanning long-form redistribution and short-form outlier research loops.
@@ -598,16 +598,18 @@
 [[multilingual-faceless-product-arbitrage]] — AI-assisted expansion of faceless digital products into underserved language markets with native review, local pricing, and local operators.
 [[niche-specificity-digital-product]] — Niche-specificity framework extended with portfolio-scale quantitative screening of pain, competition, intent, and willingness to pay.
 [[one-click-local-ai-deployment]] — product pattern for packaging hardware detection, model selection, local inference startup, and dashboard/workflow layers into a beginner-safe local AI server.
-[[outbound]] — multichannel B2B outreach architecture where cold email discovers signal, funding and intent data sharpen targeting, and humans keep deliverability plus final QA guardrails around AI-run execution.
+[[outbound]] — multichannel B2B outreach from warm-network referrals to cold intent sourcing, with AI follow-through and human quality gates.
 [[paid-ads-agency-funnel]] — High-ticket B2B paid-social funnel with broad targeting, VSL/application variants, lead routing, setters, and pre-call nurture.
 [[personal-brand-establishment]] — Personal-brand operating model now including Anson Lin’s founder-content system: proprietary raw material, reusable post formats, proof, distribution, and conversion.
 [[prediction-market-calibration-bot]] — Prediction-market estimator pattern: Beta-Binomial shrinkage, priors, credible intervals, hierarchical buckets, and Brier/log-loss calibration before sizing trades.
 [[proof-driven-content-rebuilding]] — source-described loop for finding proven posts, preserving resonance, changing the angle, and routing attention to a relevant offer.
-[[realtime-gf-simulator]] — source-described real-time GF simulator: 720p/60 fps streaming, controllable events, open weights, and a Wan basis.
 [[reddit-problem-to-digital-product-system]] — lightweight workflow for turning high-pain Reddit comments into AI-assisted PDFs, listings, and faceless-page content calendars.
+[[reference-driven-ai-ugc-ad-remake]] — source-described reference-video workflow for remaking product ads with AI UGC models.
+[[realtime-gf-simulator]] — source-described real-time GF simulator: 720p/60 fps streaming, controllable events, open weights, and a Wan basis.
 [[research-agent-vault]] — durable research knowledge system that gives an AI-agent stack an accumulating, queryable evidence base.
-[[services-as-software]] — outcome-oriented AI delivery model illustrated by a property-listing walkthrough service case.
+[[services-as-software]] — outcome-oriented AI delivery model spanning warm-start productized services and property-listing case studies.
 [[skill-based-agent-architecture]] — agent architecture where named skills package durable procedure, progressive disclosure, scripts, checks, and runtime-specific harness behavior.
+[[solo-ai-agency-operating-model]] — one-person AI agency model built around productized retainers, AI production, human QA, and reusable delivery systems.
 [[storm-multi-perspective-research]] — Fixed-lens research workflow: five perspectives, contradiction mapping, and adversarial citation verification for decision-ready briefings.
 [[topical-authority-seo]] — topical-coverage SEO framework extended with a concrete broken-link replacement loop.
 [[ui-design]] — UI design principles and practical AI-assisted resource stack spanning design skills, component libraries, and UX heuristics.

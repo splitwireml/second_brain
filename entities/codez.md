@@ -1,10 +1,10 @@
 ---
 title: Codez
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-07-22
 type: entity
 tags: [person, x-creator, claude-code, workflow]
-sources: [raw/articles/xarticle-how-to-master-dynamic-workflows-in-claude-code-6-p-2062127385923776831.md, raw/articles/xarticle-httpstcoukxbevt5vl-2058156429559636069.md]
+sources: [raw/articles/xarticle-how-to-master-dynamic-workflows-in-claude-code-6-p-2062127385923776831.md, raw/articles/xarticle-httpstcoukxbevt5vl-2058156429559636069.md, raw/articles/xarticle-httpstcowvztfcuh4u-2079165300625330317.md]
 ---
 
 # Codez
@@ -24,6 +24,10 @@ This article frames dynamic workflows as a runtime harness layer on top of [[cla
 ## 2026-06-11 Update
 
 A second bookmarked X article from Codez failed to export, so the wiki stores it as [[xarticle-httpstcoukxbevt5vl-2058156429559636069]] to preserve the source trail inside the same creator cluster.
+
+## 2026-07-22 Update
+
+Another bookmarked X Article from Codez also failed to export; the local capture preserves metadata and a shortened URL only, extending the existing export-failure provenance cluster without inferring the destination or article topic.
 
 ## Related
 

@@ -1,10 +1,10 @@
 ---
 title: Distribution
 created: 2026-05-19
-updated: 2026-07-21
+updated: 2026-07-22
 type: concept
 tags: [business, marketing, monetization, distribution, distribution-strategy, content-strategy]
-sources: [raw/articles/xarticle-how-to-start-a-67-figure-solo-ai-business-in-2026--2055559252744290358.md, raw/articles/user-dms-distributionmaxxing-2026-07-10.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md]
+sources: [raw/articles/xarticle-how-to-start-a-67-figure-solo-ai-business-in-2026--2055559252744290358.md, raw/articles/user-dms-distributionmaxxing-2026-07-10.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 confidence: medium
 related_entity: [[content-strategy]]
 ---
@@ -95,6 +95,14 @@ This is the distribution layer of [[multilingual-faceless-product-arbitrage]]: A
 Shynggys Saparbek's local X article describes Reddit as a durable acquisition surface for apps: a successful organic post can keep appearing in search results, discussions, recommendations, and AI-generated answers months later, unlike a short-lived short-form spike. The article reports 2,000 installs in 48 hours, 10,000 in a week, and then claims 3–4k monthly users for six months after posting and ads stopped; these are source claims, not independently audited. ^[raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md]
 
 The operating sequence is **genuine account participation → platform/founder/niche community segmentation → study recent winners → value-first post → community-specific adaptation → comment participation → organic winner as a limited paid-ad test → install/revenue/referral measurement**. This adds a community-first, search-compounding path to distribution, distinct from the faceless-page and short-form-video loops already covered here. ^[raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md]
+
+## Service distribution: warm network to inbound
+
+The same local X Article shows a service-side distribution loop distinct from a faceless product page: start with warm relationships, ask for referrals around a specific outcome, turn the first client result into proof, and publish case studies or expertise content until inbound begins to replace outbound. The source calls this a 90-day execution sprint, not a guaranteed 30-day result. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+Its practical sequence is **30 warm contacts → first client → documented result → new outreach and referrals → inbound**. This keeps distribution tied to a narrow offer and real client evidence rather than asking an operator to build a large audience before validating demand. The source's client counts and revenue targets are source claims. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+For the broader graph, this is the service analogue of the page's validation-first product loops and connects directly to [[agency-client-acquisition]], [[outbound]], and [[services-as-software]]. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 
 ## Evidence Layers
 

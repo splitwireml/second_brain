@@ -1,10 +1,10 @@
 ---
 title: AI UGC Ad Scaling System
 created: 2026-04-13
-updated: 2026-04-26
+updated: 2026-07-22
 type: concept
 tags: [automation, genai, marketing, method, monetization]
-sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md]
+sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 related_entity: [[makeugc]]
 author: [[stijn-feijen]]
 ---
@@ -29,6 +29,10 @@ The source's main idea is that the operator should optimize for volume + data, n
 6. Launch daily tests with multiple hooks and creative variants.
 7. Review CTR, watch time, and conversions.
 8. Kill losers, duplicate winners, and scale budget/distribution on what works.
+
+## Ad Remake as the creative-input shortcut
+
+The newer MakeUGC paste changes the starting point from “generate angles from scratch” to “upload a reference ad and remake it for a similar product.” The operator still supplies the product and goals, then tests Seedance 2.0, Veo 3.1, or Kling 3 Pro. This is a source-described shortcut inside the same volume-and-iteration system, not evidence that reference-based remakes outperform original concepts. ^[raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 
 ## Why it matters
 

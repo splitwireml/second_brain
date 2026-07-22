@@ -1,10 +1,10 @@
 ---
 title: 4-Beat Short-Form Ad Structure
 created: 2026-04-20
-updated: 2026-04-20
+updated: 2026-07-22
 type: concept
 tags: [ai-generated-ads, marketing, method, ugc]
-sources: [raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md]
+sources: [raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 related_entity: [[vadoo]]
 ---
 
@@ -37,7 +37,7 @@ The source identifies three formats [[seedance-2-0]] is particularly suited for:
 
 The source's thesis is **creative iteration beats creative perfection**. The advantage of [[seedance-2-0]] is not that it makes one perfect ad — it makes generating five good variants fast enough to run systematic performance testing. The winner gets scaled; the losers get killed.
 
-The reference pack discipline (1 identity anchor + 1 style anchor + 1 composition anchor + optional motion anchor) is what separates AI video that looks like a demo from video that looks like a commercial.
+The reference pack discipline (1 identity anchor + 1 style anchor + 1 composition anchor + optional motion anchor) is what separates AI video that looks like a demo from video that looks like a commercial. The MakeUGC Ad Remake workflow applies the same reference principle at the ad level by starting from a competitor/reference video and mapping a similar product into its structure. ^[raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 
 ## Relationship to broader systems
 

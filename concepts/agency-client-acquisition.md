@@ -1,10 +1,10 @@
 ---
 title: Agency Client Acquisition
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-22
 type: concept
 tags: [agency, b2b, content, lead-gen, services]
-sources: [raw/articles/xarticle-how-to-get-your-first-agency-clients-with-zero-fol-2056130918021251531.md]
+sources: [raw/articles/xarticle-how-to-get-your-first-agency-clients-with-zero-fol-2056130918021251531.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 confidence: high
 ---
 
@@ -122,6 +122,14 @@ Book call directly in DM thread — calendar links kill 40-60% of bookings.
 - Don't post and ghost — engage with every comment and DM
 - Don't pitch in content — trust-building happens in DMs and calls
 - Don't quit before 60 days — the dead period is normal
+
+## Warm-network acquisition at zero budget
+
+A local X Article by [[whotfiszackk]] gives a simpler early-stage agency acquisition motion than high-volume cold email or paid ads: define one precise offer, list 30 people who already know you and run businesses, and ask each for a referral or a fit check. The source treats this as a way to start conversations without pretending that an unproven offer is already a mature agency. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+The follow-through is a 90-day proof loop: close an initial client, overdeliver, document results as a case study, refine delivery, and use the proof for new outreach and referrals. The article claims that four to six retainer clients can reach $6k–$12k/month, but the timeline and revenue are source-reported rather than independently verified. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+This adds a warm-start path to the existing acquisition page without displacing its content-first and outbound alternatives. It also connects client acquisition to [[outbound]] and [[distribution]]: early conversations create proof, while later case studies and expertise content let inbound compound. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 
 ## Related Concepts
 

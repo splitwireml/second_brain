@@ -1,10 +1,10 @@
 ---
 title: Outbound
 created: 2026-05-31
-updated: 2026-07-06
+updated: 2026-07-22
 type: concept
 tags: [b2b, cold-email, lead-gen, outbound, sales]
-sources: [raw/articles/xarticle-building-a-3m-ai-sdr-team-2071370444285124950.md, raw/articles/xarticle-the-108010-rule-the-20-of-our-gtm-we-never-hand-to-2071586092223189382.md, raw/articles/xarticle-the-most-valuable-cold-outreach-masterclass-ever-c-2071980383520895262.md, raw/articles/xarticle-print-fck-you-money-selling-to-vc-funded-startups--2073585594857296349.md]
+sources: [raw/articles/xarticle-building-a-3m-ai-sdr-team-2071370444285124950.md, raw/articles/xarticle-the-108010-rule-the-20-of-our-gtm-we-never-hand-to-2071586092223189382.md, raw/articles/xarticle-the-most-valuable-cold-outreach-masterclass-ever-c-2071980383520895262.md, raw/articles/xarticle-print-fck-you-money-selling-to-vc-funded-startups--2073585594857296349.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 ---
 
 # Outbound
@@ -55,6 +55,14 @@ Angelov also sharpens how outbound lists should be built. Broad purchased lists 
 [[dra]] adds a narrower version of that funding-trigger rule for LinkedIn-led B2B selling. Recently funded startups are attractive because the raise simultaneously creates budget, investor pressure to grow, and a public event that makes the first message feel specific rather than generic. The strongest lead window is immediately after the round closes, especially when the raise is paired with active hiring or another signal that the company has already begun spending.^[raw/articles/xarticle-print-fck-you-money-selling-to-vc-funded-startups--2073585594857296349.md]
 
 On execution, the article reinforces a minimalist copy model: specific first line, small front-end offer, one concrete proof point, and a soft ask. Follow-ups must add new information rather than merely bump the thread, and the highest-leverage operational target is response time on positive replies: during business hours, aim to answer in under 60 seconds before interest decays.
+
+## Zero-budget warm outreach and proof
+
+A local X Article by [[whotfiszackk]] recommends a warm-first outbound motion for a new productized AI service: list 30 known business contacts, explain the narrow problem and outcome, and ask whether they know someone who might be a fit. The referral ask lowers pressure while still surfacing direct demand from people who recognize the problem. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+The article then moves from proof to colder outreach: deliver the first engagement exceptionally, document the result as a case study, and use that evidence in new prospecting. It is a useful early-stage complement to the page's intent-sourced and deliverability-aware outbound systems, not an argument for blasting an unproven offer. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+This warm-to-cold sequence links outbound to [[agency-client-acquisition]], [[distribution]], and [[services-as-software]]: the message is only one layer of a system that includes a narrow offer, proof, follow-up, and a human-owned quality boundary. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 
 ## Relationship to [[four-layer-b2b-funnel]]
 

@@ -1,10 +1,10 @@
 ---
 title: Seedance 2.0
 created: 2026-04-13
-updated: 2026-07-21
+updated: 2026-07-22
 type: entity
 tags: [product, tools, genai, marketing, video-generation]
-sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md]
+sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 ---
 
 # Seedance 2.0
@@ -89,6 +89,10 @@ The supplied source names Seedance 2.0 as the model behind an eComrads MCP workf
 The source specifically recommends close inspection of hands, eyes, teeth, liquid/foam motion, object continuity, and product labels. It claims 4K output and platform-specific 9:16/16:9 exports, but neither the render nor the endpoint was independently validated in this ingest. ^[raw/articles/14-second-ai-vlog-method.md]
 
 Related pages: [[ecomrads-mcp]], [[14-second-ai-vlog-method]], [[character-consistent-ai-video-workflow]].
+
+## MakeUGC Ad Remake model choice
+
+The MakeUGC Ad Remake paste lists Seedance 2.0, Veo 3.1, and Kling 3 Pro as model choices for recreating a reference-led product ad. It recommends Seedance 2.0 as the author's default while explicitly leaving comparative testing to the operator. This is a source-described interface/workflow claim, not independent confirmation of availability or model quality. ^[raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 
 ## References
 

@@ -1,10 +1,10 @@
 ---
 title: Dickie Bush
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-07-22
 type: entity
 tags: [person, monetization, x-creator]
-sources: [raw/articles/dickie-bush-digital-product-2026-04-21.md]
+sources: [raw/articles/dickie-bush-digital-product-2026-04-21.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md]
 ---
 
 # Dickie Bush
@@ -35,6 +35,13 @@ Daily writing accountability cohort co-founded with Nicolas Cole. First cohort l
 
 - [[niche-specificity-digital-product]] — 3-level niche specificity for digital product positioning
 - Content-led audience building before product launch
+- [[content-strategy]] — multi-platform cadence, one-CTA-per-platform, and repurposing system
+
+## Multi-platform content system
+
+Dickie Bush's 2026-07-20 article presents a source-described content engine built around one CTA per platform, a fixed cadence filled deliberately rather than inspiration-led posting, and gradual expansion from one weekly newsletter plus one short-form post after 90 days of consistency. The system assigns different roles to X, LinkedIn, Instagram, Substack Notes, Threads, and YouTube, then turns roughly 20 net-new pieces into 160 weekly posts through production and reposting. These cadence and algorithm observations are source-reported, not independently verified. ^[raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md]
+
+The article is a concrete creator-business example of [[content-strategy]] and complements [[content-os]] with a human/team production model rather than an AI-only workflow.
 
 ---
 
