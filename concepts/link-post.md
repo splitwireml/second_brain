@@ -1,10 +1,10 @@
 ---
 title: Link Post
 created: 2026-05-19
-updated: 2026-07-21
+updated: 2026-07-23
 type: concept
 tags: [content, x]
-sources: [raw/articles/xarticle-httpstco40nwwzxwal-2055229007931601239.md, raw/articles/xarticle-httpstcomckysbtzne-2070603243797844338.md, raw/articles/xarticle-httpstcoe9aurw47us-2070855856959209986.md, raw/articles/xarticle-httpstcoza1acztalq-2070896784449171568.md, raw/articles/xarticle-httpstcolzp3txuywy-2071200865881350381.md, raw/articles/xarticle-httpstcodc4wyxqsq5-2071602748802445815.md, raw/articles/xarticle-httpstcokuncp7vuh1-2071905311162843433.md, raw/articles/xarticle-httpstcobifvoiybki-2056038230454112601.md, raw/articles/xarticle-httpstcoiowc8ikxsr-2071968426562605182.md, raw/articles/xarticle-httpstcobhewgetxo2-2071994887721947226.md, raw/articles/xarticle-httpstcoo3qwmu4xtk-2071930382581195105.md, raw/articles/xarticle-httpstcomc6jkerp7q-2074893973441675651.md, raw/articles/xarticle-httpstcormzwgvt3y5-2074618289150738691.md, raw/articles/xarticle-httpstconmgxwgbnm8-2074760374243455348.md, raw/articles/xarticle-httpstcovqu1o5iyni-2078838553430077715.md, raw/articles/xarticle-httpstcoit4fejrsg5-2079226781710827729.md]
+sources: [raw/articles/xarticle-httpstco40nwwzxwal-2055229007931601239.md, raw/articles/xarticle-httpstcomckysbtzne-2070603243797844338.md, raw/articles/xarticle-httpstcoe9aurw47us-2070855856959209986.md, raw/articles/xarticle-httpstcoza1acztalq-2070896784449171568.md, raw/articles/xarticle-httpstcolzp3txuywy-2071200865881350381.md, raw/articles/xarticle-httpstcodc4wyxqsq5-2071602748802445815.md, raw/articles/xarticle-httpstcokuncp7vuh1-2071905311162843433.md, raw/articles/xarticle-httpstcobifvoiybki-2056038230454112601.md, raw/articles/xarticle-httpstcoiowc8ikxsr-2071968426562605182.md, raw/articles/xarticle-httpstcobhewgetxo2-2071994887721947226.md, raw/articles/xarticle-httpstcoo3qwmu4xtk-2071930382581195105.md, raw/articles/xarticle-httpstcomc6jkerp7q-2074893973441675651.md, raw/articles/xarticle-httpstcormzwgvt3y5-2074618289150738691.md, raw/articles/xarticle-httpstconmgxwgbnm8-2074760374243455348.md, raw/articles/xarticle-httpstcovqu1o5iyni-2078838553430077715.md, raw/articles/xarticle-httpstcoit4fejrsg5-2079226781710827729.md, raw/articles/xarticle-httpstco0zz8uarddm-2074473083440664733.md, raw/articles/xarticle-httpstcon6tcwg9pqh-2076649660215628159.md, raw/articles/xarticle-httpstco7h6pprurqc-2077046673553965231.md, raw/articles/xarticle-httpstcouoggqfafjz-2079542931342434390.md]
 ---
 
 ## Definition
@@ -26,6 +26,8 @@ A link-post is an X (Twitter) post that consists primarily of a bare URL with mi
 
 - Recurring-author example: [[whotfiszackk]] is mainly tracked for substantive faceless digital-product articles, but multiple local bookmarks from the account are export-failed bare shortened-URL stubs; this one adds author-level provenance without recoverable destination context.^[raw/articles/xarticle-httpstconmgxwgbnm8-2074760374243455348.md]^[raw/articles/xarticle-httpstcoit4fejrsg5-2079226781710827729.md]
 
+- Recurring-author example: [[borja]] has multiple local export-failed bare shortened-URL bookmarks; this 2026-07-21 capture adds another author-level provenance item without recoverable destination context.^[raw/articles/xarticle-httpstco0zz8uarddm-2074473083440664733.md]^[raw/articles/xarticle-httpstcon6tcwg9pqh-2076649660215628159.md]^[raw/articles/xarticle-httpstco7h6pprurqc-2077046673553965231.md]^[raw/articles/xarticle-httpstcouoggqfafjz-2079542931342434390.md]
+
 ## Related Concepts
 
 - [[0xsero]] — another creator whose export-failed bookmark resolved to a bare shortened URL
@@ -38,3 +40,4 @@ A link-post is an X (Twitter) post that consists primarily of a bare URL with mi
 - [[zephyr-hg]] — entity who posted this pattern
 - [[ugc]] — content type being linked to
 - [[whotfiszackk]] — creator better known for faceless digital-product articles, with recurring export-failed bare shortened-URL bookmarks
+- [[borja]] — creator with multiple export-failed bare-URL bookmarks alongside substantive SEO articles

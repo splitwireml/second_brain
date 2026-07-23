@@ -1,10 +1,10 @@
 ---
 title: content-strategy
 created: 2026-05-10
-updated: 2026-07-22
+updated: 2026-07-23
 type: concept
 tags: [content, content-strategy, marketing]
-sources: [raw/articles/thread-gurnoor__-2075063658523312256.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md]
+sources: [raw/articles/thread-gurnoor__-2075063658523312256.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md, raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md]
 related_entity: [[gurnoor]]
 ---
 
@@ -23,6 +23,12 @@ Dickie Bush's source describes a six-platform content cadence organized around t
 The production model separates **created**, **produced**, and **reposted** work: about 20 net-new pieces are transformed into a much larger cross-platform output. This makes cadence a resource-allocation and repurposing problem, not a demand for 160 original ideas. The article’s platform and algorithm observations remain source-reported.
 
 This update connects the page to [[dickie-bush]], [[distribution]], [[content-os]], and [[personal-brand-establishment]].
+
+## Reader-first opening hooks
+
+Nicolas Cole's article adds a reader-retention layer to content strategy: optimize the headline, formatting, and opening sentences so the reader takes the next small step instead of bouncing. Its six source-described opening patterns are a declarative sentence, thought-provoking question, controversial opinion, vulnerable statement, weird or unique insight, and moment in time. The article's performance figures remain source claims. ^[raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md]
+
+This source-specific pattern is expanded in [[reader-attention-hooks]] and linked to [[nicolas-cole]].
 
 ## See Also
 

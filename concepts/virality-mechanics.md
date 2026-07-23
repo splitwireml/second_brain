@@ -1,10 +1,10 @@
 ---
 title: Virality Mechanics
 created: 2026-04-20
-updated: 2026-07-10
+updated: 2026-07-23
 type: concept
 tags: [ai-generated-ads, content-marketing, marketing, ugc]
-sources: [raw/articles/john-virality-ai-ugc-virality-mechanics-2045501261131190488.md, raw/articles/xarticle-how-i-marketed-my-screen-time-app-to-1000000-with--2074524268285538350.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md]
+sources: [raw/articles/john-virality-ai-ugc-virality-mechanics-2045501261131190488.md, raw/articles/xarticle-how-i-marketed-my-screen-time-app-to-1000000-with--2074524268285538350.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md]
 related_entity: [[john-virality]]
 ---
 
@@ -68,6 +68,12 @@ The zack source frames virality less as a creative mystery than as a research in
 
 See [[proof-driven-content-rebuilding]] for the full workflow.
 
+## Faceless X save-signal variant
+
+The new zack source emphasizes a narrower X signal loop: specific, useful single posts earn saves; saves extend distribution; repeated insight insertion earns follows; follower replies reveal product-sized demand. The source claims saves are a stronger quality signal than likes and gives example thresholds and cadences, but those algorithm-weighting claims are not independently verified. ^[raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md]
+
+This is not a replacement for the broader stimulus/resolution/shareability model. It is an X-native operating routine that connects behavioral signals to [[faceless-x-growth-loop]] and [[faceless-digital-product-portfolio]].
+
 ## Related pages
 
 - [[scroll-stopping-effect]] — the habit-interruption mechanism at the neurological level
@@ -77,6 +83,7 @@ See [[proof-driven-content-rebuilding]] for the full workflow.
 - [[mobile-app-organic-virality]] — mobile-app-specific organic virality playbook
 - [[pushscroll]] — screen-time app case study
 - [[dormant-account-distribution-arbitrage]] — controversial account-history shortcut
+- [[faceless-x-growth-loop]] — X-specific save, reply, and demand-discovery loop
 
 ## References
 

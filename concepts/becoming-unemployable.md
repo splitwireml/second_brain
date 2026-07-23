@@ -1,10 +1,10 @@
 ---
 title: Becoming Unemployable
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-23
 type: concept
 tags: [business, entrepreneurship, learning, monetization, content-strategy]
-sources: [raw/articles/xarticle-how-to-survive-ai-mass-replacement-2069186019560394833.md]
+sources: [raw/articles/xarticle-how-to-survive-ai-mass-replacement-2069186019560394833.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md]
 related_entity: [[dan-koe]]
 author: [[dan-koe]]
 ---
@@ -44,6 +44,12 @@ The article closes with a 15-minute exercise for finding one's "life's work":
 - turn the overlap into a first public post
 
 This turns abstract self-improvement into a concrete content-and-business starting point.
+
+## Commercial packaging extension
+
+The zack source approaches the same labor-disruption problem from the provider side. Instead of only advising workers to build permissionless leverage, it proposes packaging career-transition research into role-specific guides, emergency kits, coaching, and employer-funded outplacement. This is a complementary commercial layer, not evidence that every displaced worker should become a creator or that a guide can guarantee employment. ^[raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md]
+
+The distinction is useful: [[becoming-unemployable]] is a personal strategy for reducing wage dependence, while [[ai-displacement-career-pivot-info-products]] is an offer-design strategy for helping people navigate displacement.
 
 ## Relationship to Existing Dan Koe Ideas
 

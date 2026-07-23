@@ -1,10 +1,10 @@
 ---
 title: Human in the Loop
 created: 2026-07-02
-updated: 2026-07-16
+updated: 2026-07-23
 type: concept
 tags: [agent, workflow, prompting, evaluation]
-sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md]
 related_entity: [[alex-prompter]]
 ---
 
@@ -31,6 +31,10 @@ The better operating model is closer to [[loop-engineering]] than to button-clic
 Addy's outer-loop framing makes the boundary more explicit: humans should own constraints, sampling policy, audit evidence, and the final production verdict, not every inner-loop token or tool call. The scarce resource is judgment backed by quality signals; if the agent can ship more than a person can review, the control surface must decide what evidence is enough and who is answerable when it is wrong.^[raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md]
 
 The NVIDIA AI thread gives the same boundary in a training setting: the researcher steers the objective and priorities while a coding agent handles environment setup, training, evaluation, and a proposed next experiment under a fixed time budget. That is outer-loop steering rather than per-action babysitting; the reported Qwen3-VL-2B accuracy change is preserved as a source claim.^[raw/articles/thread-NVIDIAAI-2077061428998013279.md]
+
+## Metacognitive preflight
+
+Will Chen's metacognition frame adds a human-side debugging layer to these checkpoints: when work feels frustrating, ask what level is overloaded, whether the task is still diverging or should converge, whether new evidence has arrived, and what budget remains. The resulting intervention may be a narrower prompt, a fresh run, a deterministic test, an external note, or a deliberate stop rather than more approval clicks. This is a diagnostic complement to [[human-in-the-loop]], not a replacement for explicit output criteria.^[raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md]
 
 ## Evaluation improves quality
 
@@ -64,3 +68,5 @@ That pattern keeps human judgment where it adds the most value and removes it fr
 - [[prompt-engineering]]
 - [[addy-osmani]]
 - [[nvidia-ai]]
+- [[metacognition-human-ai-systems]]
+- [[will-chen]]

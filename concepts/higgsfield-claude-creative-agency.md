@@ -1,10 +1,10 @@
 ---
 title: "Higgsfield + Claude Creative Agency Stack"
 created: "2026-05-05"
-updated: 2026-05-10
+updated: 2026-07-23
 type: concept
 tags: [agent, ai-agent, workflow, automation, claude, creative, higgsfield]
-sources: [raw/articles/xarticle-nateherk-2051295831965367297.md]
+sources: [raw/articles/xarticle-nateherk-2051295831965367297.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
 related_entity: [[nate-herk]]
 ---
 
@@ -101,6 +101,11 @@ Not magic. Research + model + sheet + skills + schedule.
 
 Each piece boring alone. Stacked = creative team that doesn't sleep, doesn't get tired, doesn't get stuck on prompt syntax.
 
+## Motion-Website Specialization
+
+[[zeuuss-01]] describes a narrower commercial application of the same model layer + agent layer pattern: use Higgsfield MCP and Claude Code to produce motion-rich websites, then reskin a reusable codebase for niche-specific clients. The source's pricing, cost, and delivery claims are not independently verified. ^[raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
+
 ## Sources
 
 - [[nate-herk]] — X Article (2051644586502615163); 139 likes, 7 RTs; Tue May 05 2026
+- [[zeuuss-01]] — X Article (2067204840342630789); 686 likes, 70 RTs; Wed Jun 17 2026

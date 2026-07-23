@@ -1,10 +1,10 @@
 ---
 title: Loop Engineering
 created: 2026-06-11
-updated: 2026-07-16
+updated: 2026-07-23
 type: concept
 tags: [workflow, orchestration, agent, claude-code, codex, ai-research, training, evaluation]
-sources: [raw/articles/xarticle-loop-engineering-2064127981161959567.md, raw/articles/xarticle-from-prompting-agents-to-loop-engineering-2068008743153832264.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/thread-zodchiii-2070809778150953343.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-what-the-hell-is-a-loop-anyway-2073492320159510869.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
+sources: [raw/articles/xarticle-loop-engineering-2064127981161959567.md, raw/articles/xarticle-from-prompting-agents-to-loop-engineering-2068008743153832264.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/thread-zodchiii-2070809778150953343.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-what-the-hell-is-a-loop-anyway-2073492320159510869.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md]
 related_entity: [[claude-code]]
 ---
 
@@ -35,6 +35,10 @@ Addy Osmani's July 2026 follow-up sharpens that oversight layer into **outer-loo
 The [[claude-devs]] article adds the official Claude Code operator taxonomy: classify loops by trigger, stop condition, primitive, and task fit. In that taxonomy, turn-based loops are just normal prompt cycles, goal-based loops hand off the stop condition to [[goal-primitive]], time-based loops use `/loop` or `/schedule` for watch-and-react work, and proactive loops compose schedules, goals, dynamic workflows, and auto mode for recurring streams of bounded work.^[raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md]
 
 The NVIDIA AI thread supplies a concrete autoresearch/system loop outside software delivery: a coding agent used a five-hour budget plus NeMo RL, NeMo Gym, and reusable skills to set up training, evaluate a vision model, and propose a next experiment while the researcher steered priorities. The reported 25% → 96.9% accuracy jump is source-reported; the durable pattern is that the time budget bounds search while the human owns direction and standards of evidence.^[raw/articles/thread-NVIDIAAI-2077061428998013279.md]
+
+## Metacognition as the outer-loop diagnostic
+
+Will Chen's article makes outer-loop ownership actionable as a human-side debugging practice. When work feels stuck, inspect the operating level, whether the search is diverging or converging, whether anything has touched reality, and what budget remains; then change the mechanism instead of grading the person. The four readings complement the machine-side loop by helping the operator decide when to regenerate, narrow scope, sample the world, or stop adding branches. [[metacognition-human-ai-systems]] develops this diagnostic in detail.^[raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md]
 
 ## Core building blocks
 
@@ -160,3 +164,5 @@ A good loop combines explicit stop conditions like [[goal-primitive]], isolation
 - [[nvidia-ai]]
 - [[manager-worker-pr-loop]]
 - [[paul-solt]]
+- [[metacognition-human-ai-systems]]
+- [[will-chen]]

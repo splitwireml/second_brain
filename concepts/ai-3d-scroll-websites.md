@@ -1,10 +1,10 @@
 ---
 title: "AI 3D Scroll-Effect Websites"
 created: 2026-05-04
-updated: 2026-05-10
+updated: 2026-07-23
 type: concept
 tags: [3d-animation, ai, claude-code, kling, no-code, scroll-effect, website-design]
-sources: [raw/articles/2026-05-04-explorax-ai-3d-scroll-websites-2051261067339157657.md, raw/articles/explorax_-2051261067339157657.md]
+sources: [raw/articles/2026-05-04-explorax-ai-3d-scroll-websites-2051261067339157657.md, raw/articles/explorax_-2051261067339157657.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
 ---
 
 # AI 3D Scroll-Effect Websites
@@ -60,6 +60,12 @@ Drop the animated assets into the generated site and deploy.
 - **Dual-video backgrounds:** Running two videos simultaneously (foreground + background)
 - **GSAP ScrollTrigger:** Referenced for 3D tilt-back effects (`rotateX 8, scale 0.92, y -60`)
 - **3D library:**nano-animate or similar for globe/background animations
+
+## Motion-Website Service Extension
+
+[[zeuuss-01]] describes a related service layer: connect Higgsfield MCP to Claude or Claude Code, load a Motion Website Generator skill, generate motion clips, extract frames, assemble HTML/CSS, and reskin the result for niche-specific client demos. The source's pricing and margin figures are source claims, not independently verified. ^[raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
+
+See [[motion-website-service-playbook]] for the full productization workflow and validation questions.
 
 ## Related Concepts
 

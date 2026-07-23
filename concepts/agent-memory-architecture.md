@@ -1,10 +1,10 @@
 ---
 title: Agent Memory Architecture
 created: 2026-04-29
-updated: 2026-06-29
+updated: 2026-07-23
 type: concept
 tags: [agent, memory, architecture, knowledge-management]
-sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md, raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md, raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md]
 related_entity: [[mercury-agent]]
 
 ---
@@ -58,6 +58,10 @@ This gives humans readability and agents efficiency without forcing one format t
 - **Decay** — time-based weakening and archival
 - **Budgeted always-on context** — keep the permanently injected layer aggressively small, because instruction files that load every session compete directly with task context.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
 
+## Human memory as memoization
+
+Will Chen's article applies the same scarcity model to the human half of a human–AI system: working memory, energy, and context switches are finite, while AI can generate candidate branches faster than a person can verify them. Writing a thought down is treated as memoization because retrieval is cheaper than reconstructing the reasoning; branch caps and external notes therefore protect human attention in much the same way selective injection protects an agent's context budget. The analogy is source framing, not a claim that human memory and agent memory are interchangeable.^[raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md]
+
 ## Push vs Pull Memory
 
 Matt Van Horn's June 2026 article makes a useful operational distinction that sharpens the earlier theory.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
@@ -81,3 +85,5 @@ The practical rule is scarcity at the push layer and retrieval at the pull layer
 - [[karpathy-claude-md]] — always-on instruction budgeting and behavior contracts for `CLAUDE.md`
 - [[ai-memory-systems]] — broader ecosystem of persistent memory tooling
 - [[mercury-agent]] — open-source implementation of these principles
+- [[metacognition-human-ai-systems]]
+- [[will-chen]]

@@ -1,10 +1,10 @@
 ---
 title: Claude Code
 created: 2026-04-20
-updated: 2026-07-15
+updated: 2026-07-23
 type: entity
 tags: [product, agent, coding]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md, raw/articles/xarticle-model-and-effort-in-claude-code-knowing-more-vs-tr-2074900291062034618.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md, raw/articles/xarticle-model-and-effort-in-claude-code-knowing-more-vs-tr-2074900291062034618.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
 ---
 
 # Claude Code
@@ -24,6 +24,7 @@ Anthropic's CLI agent for autonomous coding. Also available as a VS Code extensi
 - **Subagents** — cheap worker sessions for isolated repeatable tasks such as review, tests, and documentation ^[raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md]
 - **Agent Teams** — experimental lead-plus-workers mode for dependent multi-file work where teammates can collaborate rather than only report to a parent session ^[raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md]
 - **/loops** — the source-described native loop surface for repeating an orchestrated build → test → fix cycle until each tracked feature and user story passes; exact behavior depends on the spec, verifier, and stop criteria.^[raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md]
+- **Motion-website assembly (source-described)** — the ingested article presents Claude Code as the agent layer for generating motion assets through Higgsfield MCP, extracting frames, writing HTML/CSS, and assembling scroll-driven sites. The specific skill and end-to-end capability are not independently verified. ^[raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
 
 ## Model and effort controls
 
