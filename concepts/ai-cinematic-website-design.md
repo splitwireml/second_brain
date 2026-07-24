@@ -1,10 +1,10 @@
 ---
 title: AI Cinematic Website Design
 created: 2026-04-17
-updated: 2026-07-20
+updated: 2026-07-24
 type: concept
 tags: [claude-code, design, ui-design, workflow, website, monetization]
-sources: [raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md]
+sources: [raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md]
 related_entity: [[monokern]]
 confidence: medium
 ---
@@ -56,8 +56,13 @@ The [[triverra]] brief is a concrete implementation-first variant of cinematic w
 
 This example reinforces the workflow's central distinction: visual quality depends on explicit art direction and verifiable implementation details, not on the adjective “cinematic” alone.
 
-## Related
+## Bateshkaaa's constraint-first variant
 
+Romario's source describes a reference-driven Claude Code workflow for making a marketing site read as agency work without reproducing a reference site. The operator first loads frontend-design and UI/UX ruleset skills, then collects three references with the hero, one content section, and footer from each. The build prompt fixes the audience, one conversion action, reference files, stack, and a ban list for generic choices such as purple gradients, emoji icons, Inter as the display font, stock-photo placeholders, and centered-everything layouts. ^[raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md]
+
+The polish loop is deliberately separated by dimension: typography, spacing, then motion, followed by a 375px mobile check. This is a concrete version of the reference-first method already captured above: constrain taste before implementation, build a usable first pass, then critique one visual dimension at a time. The source's $8,000–$12,000 agency-price comparison, one-afternoon delivery claim, and two-hour mature-pipeline claim remain source-described rather than independently verified. ^[raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md]
+
+## Related
 - [[monokern]]
 - [[claude-code]]
 - [[website]]
@@ -67,3 +72,4 @@ This example reinforces the workflow's central distinction: visual quality depen
 - [[triverra]]
 - [[ai-travel-companion-landing-hero]]
 - [[landing-page-implementation-map]]
+- [[bateshkaaa]]

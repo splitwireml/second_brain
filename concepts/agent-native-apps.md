@@ -1,10 +1,10 @@
 ---
 title: Agent-Native Apps
 created: 2026-07-16
-updated: 2026-07-19
+updated: 2026-07-24
 type: concept
 tags: [ai-agent, agent-systems, skills, tools, mcp, opportunity, framework, business-models, platform]
-sources: [raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-introducing-tldraw-offline-2077784657869902121.md]
+sources: [raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-introducing-tldraw-offline-2077784657869902121.md, raw/articles/xarticle-why-were-buzzing-2080056638820450400.md]
 related_entity: [[greg-isenberg]]
 author: [[greg-isenberg]]
 ---
@@ -27,6 +27,10 @@ The source's claim that thousands of MCP servers exist against tens of millions 
 
 [[tldraw-offline]] supplies a concrete file-native example of the category: the source describes a local canvas with no account or server that agents can access, edit, and extend with scripts. This is the narrower spatial pattern captured by [[agent-native-canvas]].^[raw/articles/xarticle-introducing-tldraw-offline-2077784657869902121.md]
 
+## Shared-workspace example
+
+[[buzz]] supplies a networked example of the category. Its source-described workspace puts people, agents, conversations, and code behind a shared cryptographic identity system; signed events, searchable history, channels, patches, reviews, workflows, and approvals are intended to preserve context across the work surface. Unlike a single-user skill or file-native tool, this is the mixed human/agent collaboration variant named [[social-ai]]. Product capabilities and roadmap details remain source-reported.^[raw/articles/xarticle-why-were-buzzing-2080056638820450400.md]
+
 ## Design implications
 
 Agent-native apps should expose clear triggers, context requirements, tools, autonomy boundaries, approval points, escalation rules, and success criteria. That seven-question specification connects this market thesis to [[agent-saas-playbook]]: the product is not merely a prompt, but a bounded workflow with an observable finish line and a trust wrapper.
@@ -42,6 +46,8 @@ The packaging layer is [[agent-skills-framework]] and related skill systems: reu
 ## Related
 
 - [[greg-isenberg]] — source author
+- [[buzz]] — networked human/agent workspace example
+- [[social-ai]] — shared human/agent network framing
 - [[agent-saas-playbook]] — bounded agent products sold as completed work
 - [[agent-skills-framework]] — skill packaging and reusable markdown instructions
 - [[agentic-software-five-layer-framework]] — production systems architecture and controls

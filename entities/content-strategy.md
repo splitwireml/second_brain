@@ -1,10 +1,10 @@
 ---
 title: content-strategy
 created: 2026-05-10
-updated: 2026-07-23
+updated: 2026-07-24
 type: concept
 tags: [content, content-strategy, marketing]
-sources: [raw/articles/thread-gurnoor__-2075063658523312256.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md, raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md]
+sources: [raw/articles/thread-gurnoor__-2075063658523312256.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md, raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
 related_entity: [[gurnoor]]
 ---
 
@@ -30,7 +30,16 @@ Nicolas Cole's article adds a reader-retention layer to content strategy: optimi
 
 This source-specific pattern is expanded in [[reader-attention-hooks]] and linked to [[nicolas-cole]].
 
+## Research-first YouTube playbook
+
+Dmitry's article contributes a concrete research-to-script layer for YouTube strategy: apply three niche tests, study 3–5 reference channels, derive Curiosity/Retention/Story/Topic Bibles plus a Visual Bible, merge them into a Master Bible, and update that document from comments and analytics after each upload. The reported channel results remain source claims, not verified benchmarks.^[raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
+
+This complements the page's cross-platform cadence model by making the upstream intelligence and iteration loop explicit. See [[ai-youtube-channel-playbook]], [[dmtr-btc]], and [[youtube]].
+
 ## See Also
+- [[ai-youtube-channel-playbook]] — research-first long-form YouTube workflow
+- [[dmtr-btc]] — source author of the playbook
+- [[youtube]] — platform context
 
 - [[chatgpt-seo-ranking]] — ChatGPT SEO approach that incorporates content strategy
 - [[intentional-relationship-building]] — Dan Martell's framework that uses content as an inbound engine

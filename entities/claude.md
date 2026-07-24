@@ -1,10 +1,10 @@
 ---
 title: Claude
 created: 2026-05-14
-updated: 2026-07-21
+updated: 2026-07-24
 type: entity
 tags: [product, llm, ai]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md]
 ---
 
 ## Overview
@@ -28,8 +28,15 @@ sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/artic
 - **Agentic planning** — holds plans over hundreds of steps ^[raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md]
 - **Fable 5 advertorial production** — Amin's source-described workflow uses Claude Fable 5 for awareness-matched Google Ads advertorials, constrained prompt blocks, and revision audits. The reported time and ROAS gains are source claims, not verified benchmarks. ^[raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md]
 - **Natural-language video workflow** — the supplied source describes Claude as the agent interface for adding an eComrads MCP connector, writing a fixed character block, generating scene prompts, and reviewing the resulting clips. This is a source-described integration, not independently verified Claude or MCP behavior. ^[raw/articles/14-second-ai-vlog-method.md]
+- **Six-tool MCP stack** — AI with Remy's article presents Claude Chat, Claude Code, and Claude Cowork as surfaces for MCP-connected automation, image generation, web extraction, research, scraping, and browser work. The article's capability and performance claims remain source-described. ^[raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md]
+
+### AI-assisted YouTube research and scripting
+
+The source describes Claude being used to pressure-test niche ideas, synthesize the Curiosity/Retention/Story/Topic/Visual Bibles into a Master Bible, draft an 80% script, and rewrite the system from analytics. These are source-described workflow uses, not independent capability or performance benchmarks.^[raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
 
 ## Related
+- [[ai-youtube-channel-playbook]]
+- [[dmtr-btc]]
 
 - [[anthropic]]
 - [[claude-code]]
@@ -39,3 +46,5 @@ sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/artic
 - [[ai-advertorial-workflow]]
 - [[ecomrads-mcp]]
 - [[14-second-ai-vlog-method]]
+- [[model-context-protocol]]
+- [[aiwithremy]]

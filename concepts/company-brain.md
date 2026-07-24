@@ -1,10 +1,10 @@
 ---
 title: Company Brain
 created: 2026-05-03
-updated: 2026-05-04
+updated: 2026-07-24
 type: concept
 tags: [agent, ai-agent, memory, enterprise-ai, knowledge-management]
-sources: [raw/articles/xarticle-ashwingop-2052777467732283817.md, raw/articles/company-brain-part-4-action-memory-ashwingop-2026-05-04.md, raw/articles/company-brain-part-3-interaction-memory-ashwingop-2026-05-03.md]
+sources: [raw/articles/xarticle-ashwingop-2052777467732283817.md, raw/articles/company-brain-part-4-action-memory-ashwingop-2026-05-04.md, raw/articles/company-brain-part-3-interaction-memory-ashwingop-2026-05-03.md, raw/articles/xarticle-why-were-buzzing-2080056638820450400.md]
 related_entity: [[sentra]]
 author: [[ashwin-gopinath]]
 ---
@@ -44,6 +44,12 @@ Company Brain as infrastructure layer (Part 7). Key arguments:
 
 - **The Hard Part Is State**: Writing requires concurrency control, provenance, permission propagation, ontology binding, action traces, evals, deletion policy, and conflict handling. These are why the system can be trusted.
 
+## Product example: Buzz
+
+[[buzz]] is a source-described product example that addresses part of the same context and action problem from a different angle. It stores messages, patches, reviews, workflow steps, and approvals as signed events on a self-hosted relay, gives people and agents shared identity primitives, and keeps a feature branch, CI, review, conversation, and merge decision in one channel. This is concrete implementation evidence for the value of unified, attributable work history, not proof that Buzz satisfies every Company Brain requirement. ^[raw/articles/xarticle-why-were-buzzing-2080056638820450400.md]
+
+The source also says that private-data scoping, approval gates, federation, hosted operation, and broader agent workflows remain incomplete or future work. Those gaps line up with Company Brain's emphasis on permissions, concurrent state, and durable governance. The related network framing is [[social-ai]]. ^[raw/articles/xarticle-why-were-buzzing-2080056638820450400.md]
+
 ## Key Argument
 
 Companies do not make most decisions inside databases — they make them in conversation. The database records the aftermath. A Company Brain must preserve both the artifacts *and* the human meaning created in interaction.
@@ -65,3 +71,5 @@ Without action memory, the company keeps paying the coordination tax: the same e
 - [[knowledge-graph-rag]] — related graph-based knowledge representation
 - [[agent-memory-architecture]] — related design principles for machine-scale agent memory
 - [[mcp]] — related Model Context Protocol for tool access (contrasted with Company Brain as maintained state)
+- [[buzz]] — concrete shared-workspace example
+- [[social-ai]] — people-and-agents network framing

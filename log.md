@@ -2,6 +2,51 @@
 
 > Chronological record of all wiki actions. Append-only.
 
+## [2026-07-24] ingest | xarticle-httpstcoseosbgwgkv-2079827234983211104
+- Source: local bookmark export at `/Users/mali/Development/x-bookmarks/data/run-2026-07-23/2026-07-22/xarticle-httpstcoseosbgwgkv-2079827234983211104.md`; local disk only.
+- Already Existed: no — initial content-aware preflight found no tweet ID `2079827234983211104` in `/Users/mali/wiki/raw`.
+- Tweet ID: `2079827234983211104`; author: `@whotfiszackk` (zack); classification: export-failed x-article stub containing only metadata, a failure marker, and a bare shortened URL; no destination or topic inferred.
+- Raw (new): `/Users/mali/wiki/raw/articles/xarticle-httpstcoseosbgwgkv-2079827234983211104.md`; 630 source bytes preserved byte-for-byte below a real-newline wrapper; sha256(source_bytes): `2424a27af6cb4f8ba92dbf1189cf35047a0f99bf1a52183db28f308156088818`.
+- Entity updated: [[whotfiszackk]]; concept updated: [[link-post]]; no new typed page or placeholder concept was created because the author already has a strong recurring link-post cluster.
+- Index: unchanged for this ingest; current live filesystem-derived typed-page count is 1137 (`entities` 521, `concepts` 585, `comparisons` 15, `queries` 16); reconciled the shared index header to 1137 after concurrent typed-page additions.
+- Tags/wikilinks: no new tags or targets introduced; existing `[[whotfiszackk]]` and `[[link-post]]` targets resolve.
+- Restrictions honored: no Bird/API calls, no X calls, no web fetches, no URL resolution, and `x-twitter-to-wiki` was not loaded.
+- Raw verification: wrapper has real newlines; payload equality and source SHA-256 were verified before page updates.
+- Final verification: parent recomputed this source as ALREADY; exact raw payload/wrapper fidelity passed; exact ingest heading occurs once; current filesystem-derived typed-page count is 1137 and the index header matches.
+- Lint: parent final verification: ast.parse passed; python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected log.md no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+
+## [2026-07-24] ingest | thread-0xSero-2080003696885154280
+- Source: local bookmark export at `/Users/mali/Development/x-bookmarks/data/run-2026-07-23/2026-07-22/thread-0xSero-2080003696885154280.md`; no Bird/X API or web recovery used.
+- Already Existed: no — initial content-aware preflight found no tweet ID `2080003696885154280` in wiki raw/content.
+- Tweet ID: `2080003696885154280`; author: `@0xSero`; classification: substantive local thread on VRAM-bucketed local-model recommendations and hardware-fit tradeoffs; model, benchmark, licensing, and fit claims remain source-reported.
+- Raw: new `/Users/mali/wiki/raw/articles/thread-0xSero-2080003696885154280.md`; source payload preserved byte-for-byte; wrapper/hash verified by parent.
+- Entities created: [[bonsai-27b]], [[laguna-s-2-1]], [[motif]], [[nanbeige]]. Entities updated: [[0xsero]], [[qwen3-6-27b]].
+- Concept created: [[local-llm-size-tradeoffs]]. Concept updated: [[qwen3-6-consumer-gpu-tuning]]. Existing topic pages were extended rather than duplicated.
+- Index: added the four new entity lines and the new concept line in slug order; live filesystem-derived typed-page count is 1137.
+- Tags/wikilinks: tags were checked against SCHEMA.md; added wikilinks resolve to existing pages.
+- Raw verification: parent confirmed real-newline wrapper, exact payload equality, and source SHA-256 match.
+- Final verification: parent recomputed this source as ALREADY; exact raw payload/wrapper fidelity passed; exact ingest heading occurs once; current filesystem-derived typed-page count is 1137 and the index header matches.
+- Lint: parent final verification: ast.parse passed; python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected log.md no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+- Summary: local-model hardware thread captured and merged into the existing 0xSero/Qwen/local-inference cluster, with four model entities and one reusable hardware-tradeoff concept.
+
+## [2026-07-24] ingest | xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164
+- FILE: local substantive X Article export `/Users/mali/Development/x-bookmarks/data/run-2026-07-23/2026-07-20/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md`; run: `run-2026-07-23`; author: `@dmtr_btc` (Dmitry).
+- Tweet ID: `2079148684697391164`; URL: `https://x.com/dmtr_btc/status/2079148684697391164`.
+- Already Existed: no — pre-write content-aware search across `/Users/mali/wiki` found no occurrence of the tweet ID or source filename.
+- Classification: substantive local X Article export, 513 lines / 29,385 source bytes. The source contains a complete long-form YouTube strategy, research, Bibles/Master Bible, scripting, production checklist, and analytics feedback loop.
+- Raw (new): `/Users/mali/wiki/raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md`; source payload preserved byte-for-byte below a real-newline provenance wrapper; sha256(source_bytes): `cfd482d66e73f20abbc5c728f31dee03ad0e740622893cb28401be02798640f2`.
+- Raw verification: wrapper and payload were written from local bytes; payload equality and payload-only SHA-256 verified; wrapper bytes: 444; exactly one raw destination exists.
+- Entity Created: `entities/dmtr-btc.md` (`[[dmtr-btc]]`) — central author/operator page with source-reported results explicitly marked as unverified.
+- Concept Created: `concepts/ai-youtube-channel-playbook.md` (`[[ai-youtube-channel-playbook]]`) — reusable research-first long-form YouTube workflow; no article-specific duplicate of the existing faceless/content clusters.
+- Existing typed pages updated: `concepts/faceless-content-system.md`, `entities/content-strategy.md`, `entities/youtube.md`, and `entities/claude.md`; each touched `sources:` field includes the new raw path.
+- Index: added `[[dmtr-btc]]` and `[[ai-youtube-channel-playbook]]` in slug order; live filesystem-derived typed-page count is 1137 (`entities` 521, `concepts` 585, `comparisons` 15, `queries` 16); index header matches.
+- Tags/wikilinks: new tags were validated against `SCHEMA.md`; focused page/link checks introduced no unresolved targets.
+- Evidence boundaries: monetization, views, income, retention, channel-size, and tool/platform claims remain source-reported or source-described; no external content, Part 2 production stack, or URL destination was inferred.
+- Restrictions honored: local disk only; no Bird/API calls, no X calls, no web fetches, no URL resolution, and `x-twitter-to-wiki` plus Bird/X recovery skills were not loaded.
+- Pre-log verification: required `ast.parse` command passed; wiki-lint exited 0 with 17 unrelated global issues (7 orphans, 8 broken wikilinks, expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues, and no issue naming the new raw or touched typed pages.
+- Final verification: parent recomputed this source as ALREADY; exact raw payload/wrapper fidelity passed; exact ingest heading occurs once; current filesystem-derived typed-page count is 1137 and the index header matches.
+- Lint: parent final verification: ast.parse passed; python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected log.md no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+- Summary: one substantive local X Article captured immutably and merged into the author, YouTube, Claude, content-strategy, and faceless-content clusters with one new reusable concept; no missing content was fabricated.
 ## [2026-07-23] ingest | xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789
 - Source: X Article `https://x.com/zeuuss_01/status/2067204840342630789`; author: `@zeuuss_01` (ZEUS⚡️); published 2026-06-17.
 - Already: no — pre-write exact-ID, canonical-URL, handle, and raw-filename searches found no match across `/Users/mali/wiki`.
@@ -2388,3 +2433,108 @@ ed pre-existing issues.
 - Pre-log lint: `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues; no issue named the new raw file, new concept, or updated typed pages.
 - Final lint: `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues; no issue named the new raw file, new concept, or updated typed pages; touched files clean; global wiki lint remains non-zero only for unrelated pre-existing issues.
 - Summary: one substantive zack X Article was captured immutably, filed as one new concept, and folded into the existing zack/product/distribution cluster.
+## [2026-07-24] ingest | xarticle-httpstco6wfxf9rha2-2079521180575215645
+- FILE: `/Users/mali/Development/x-bookmarks/data/run-2026-07-23/2026-07-21/xarticle-httpstco6wfxf9rha2-2079521180575215645.md`; run: `run-2026-07-23`; author metadata: `@danclipping` (Daniel).
+- Already Existed: no — live pre-write content-aware search found no occurrence of tweet ID `2079521180575215645` or the destination filename anywhere in `/Users/mali/wiki`; exclusive raw capture succeeded.
+- Tweet ID: `2079521180575215645`; URL: https://x.com/danclipping/status/2079521180575215645
+- Classification: X Article export-error / URL-only stub; the local bytes contain metadata, the failed Bird read marker, and a shortened URL but no recoverable article body. No destination, topic, claim, or author fact was inferred.
+- Raw: new `/Users/mali/wiki/raw/articles/xarticle-httpstco6wfxf9rha2-2079521180575215645.md`; `628` source bytes preserved byte-for-byte below a real-newline wiki provenance wrapper; sha256(source_bytes): `3e025bd18722891726a609f5d1ac26f5450184377797995916627c973e0ebc5a`; payload equality and payload-only hash verified.
+- Failure marker preserved; shortened URL `https://t.co/6wfXf9rHa2` remains unchanged in the payload and was not resolved.
+- Entity Created/Updated: none — no exact existing author cluster was found; the generic `[[link-post]]` pattern alone does not justify a metadata-only author update.
+- Concept Created/Updated: none — raw-only capture; no destination topic or article-specific placeholder was inferred.
+- Index: unchanged; no typed page or source-slug catalog entry was added. Live filesystem-derived typed-page count is 1137 (`entities` 521, `concepts` 585, `comparisons` 15, `queries` 16); the shared index header matches.
+- Tags/wikilinks: no typed pages changed; no new tags or wikilinks.
+- Evidence boundaries: the local file supports only the reported metadata, failure marker, and shortened URL; it does not support destination, topic, or substantive claims.
+- Restrictions honored: local disk only; no Bird/API calls, no X calls, no web fetches, no URL resolution, and `x-twitter-to-wiki` or any Bird/X/web recovery skill was not loaded; the local source was the sole truth.
+- Pre-log lint: required `ast.parse` check passed; `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` returned 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues, and no issue naming the new raw file.
+- Raw verification before log append: wrapper uses real newline bytes; source payload matches exactly; payload-only SHA-256 verified; exactly one raw destination exists.
+- Final verification: parent recomputed this source as ALREADY; exact raw payload/wrapper fidelity passed; exact ingest heading occurs once; current filesystem-derived typed-page count is 1137 and the index header matches.
+- Lint: parent final verification: ast.parse passed; python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected log.md no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+- Summary: exactly one local X-bookmark export-failure file captured as immutable raw provenance; no entity, concept, or index catalog entry created.
+## [2026-07-24] ingest | xarticle-httpstcowt9binhegt-2079817450028519801
+- FILE: `/Users/mali/Development/x-bookmarks/data/run-2026-07-23/2026-07-22/xarticle-httpstcowt9binhegt-2079817450028519801.md`; run: `run-2026-07-23`; author metadata: `@sairahul1` (Rahul).
+- Already Existed: no — live pre-write content-aware search found no occurrence of tweet ID `2079817450028519801` or the destination filename anywhere in `/Users/mali/wiki`; exclusive raw capture succeeded.
+- Tweet ID: `2079817450028519801`; URL: https://x.com/sairahul1/status/2079817450028519801
+- Classification: X Article export-error / URL-only stub; local bytes contain metadata, the failed Bird read marker, and a shortened URL but no recoverable article body. No destination, topic, claim, or author fact was inferred.
+- Raw: new `/Users/mali/wiki/raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md`; `621` source bytes preserved byte-for-byte below a real-newline wiki provenance wrapper; sha256(source_bytes): `801e60a8bc266742643d433823f276484dcf9b049a26ada81b6fb6a9b557395f`.
+- Failure marker preserved; shortened URL `https://t.co/WT9BInhEgt` remains unchanged in the payload and was not resolved.
+- Entity updated: [[sairahul1]] — strong existing Rahul/AI-tech cluster plus this local capture warrants author-level provenance only; added the raw source and recorded the export-failed link-post pattern without inferring a destination or topic.
+- Concept updated: [[link-post]] — added this raw source and an author-level provenance note; no new narrow concept was created.
+- Index: no source-slug catalog line was needed; corrected three pre-existing entity-section ordering violations, preserved concurrent catalog additions, and verified the live filesystem-derived typed-page count is 1137 (`entities` 521, `concepts` 585, `comparisons` 15, `queries` 16) with the shared index header matching.
+- Tags/wikilinks: no new tags; existing page tags validate against `SCHEMA.md`; added [[link-post]] and [[sairahul1]] links resolve.
+- Evidence boundaries: the local file supports only the reported metadata, failure marker, and shortened URL; the entity/concept updates record provenance and the recurring link-post pattern only, not the unknown destination's content.
+- Restrictions honored: local disk only; no Bird/API calls, no X calls, no web fetches, no URL resolution, and `x-twitter-to-wiki` or any Bird/X/web recovery skill was not loaded; the local source was the sole truth.
+- Pre-log lint: required `ast.parse` check passed; `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` returned 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues; no issue named the new raw file or updated typed pages.
+- Raw verification before log append: wrapper uses real newline bytes; source payload matches exactly; payload-only SHA-256 verified; exactly one raw destination exists.
+- Final verification: parent recomputed this source as ALREADY; exact raw payload/wrapper fidelity passed; exact ingest heading occurs once; current filesystem-derived typed-page count is 1137 and the index header matches.
+- Lint: parent final verification: ast.parse passed; python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected log.md no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+- Summary: one local X-bookmark export-failure file captured as immutable raw provenance; Rahul's existing entity and the generic link-post concept were updated without inferring the linked content.
+
+## [2026-07-24] ingest | xarticle-why-were-buzzing-2080056638820450400
+- FILE: `/Users/mali/Development/x-bookmarks/data/run-2026-07-23/2026-07-22/xarticle-why-were-buzzing-2080056638820450400.md`; run: `run-2026-07-23`; author metadata: `@jack` (jack).
+- Already Existed: no — pre-write content-aware searches found no occurrence of tweet ID `2080056638820450400` or the destination filename in `/Users/mali/wiki/raw` or the wider wiki.
+- Tweet ID: `2080056638820450400`; URL: https://x.com/jack/status/2080056638820450400
+- Classification: substantive local X Article; the complete article body was available locally, so it was captured and synthesized without external recovery.
+- Raw: new `/Users/mali/wiki/raw/articles/xarticle-why-were-buzzing-2080056638820450400.md`; `3547` source bytes preserved byte-for-byte below a real-newline wiki provenance wrapper; sha256(source_bytes): `565e9573a88d8dfa9b0eea7e115c0cf850b602d4b9893a36ffb7df1bdbc64165`.
+- Entity Created/Updated: [[jack]] and [[buzz]] created; [[agent-native-apps]] and [[company-brain]] updated with source-specific shared-workspace/context material. No separate Block, Goose, or Nostr pages were created because the source supplies passing mentions rather than central reusable evidence.
+- Concept Created/Updated: [[social-ai]] created for the source's people-and-agents-equal-members framing; existing [[agent-native-apps]] and [[company-brain]] clusters were reused rather than creating near-duplicate workspace concepts.
+- Index: added [[buzz]], [[jack]], [[company-brain]], and [[social-ai]] in slug order; no raw source-slug catalog line added. Live filesystem-derived typed-page count is 1137 (`entities` 521, `concepts` 585, `comparisons` 15, `queries` 16); the shared index header matches.
+- Tags/wikilinks: new tags `[person, x-creator, x-article, content-creator, ai-agent, platform, open-source, product, agent-systems, ai-tools, self-hosted, workflow, desktop-app, social-media, architecture]` validated against `SCHEMA.md`; touched-page source paths and added wikilinks resolve.
+- Evidence boundaries: local article text and metadata are confirmed; Buzz's implementation, Block usage, roadmap, and "social AI" category remain source-described, not independently verified.
+- Restrictions honored: local disk only; no Bird/API calls, no X calls, no web fetches, no shortened-URL resolution, and `x-twitter-to-wiki` was not loaded; the local source was the sole truth.
+- Pre-log lint: required `ast.parse` check passed; `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues, and no issue naming the new raw or touched typed pages.
+- Raw verification before log append: wrapper uses real newline bytes; source payload matches exactly; payload-only SHA-256 verified; exactly one raw destination exists.
+- Final verification: parent recomputed this source as ALREADY; exact raw payload/wrapper fidelity passed; exact ingest heading occurs once; current filesystem-derived typed-page count is 1137 and the index header matches.
+- Lint: parent final verification: ast.parse passed; python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected log.md no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+- Summary: one substantive local X Article was captured immutably, two central entities and one central concept were filed, and the existing agent-native/context clusters were updated without external recovery.
+## [2026-07-24] ingest | thread-VadimStrizheus-2080128784418660566
+- FILE: `/Users/mali/Development/x-bookmarks/data/run-2026-07-23/2026-07-23/thread-VadimStrizheus-2080128784418660566.md`; run: `run-2026-07-23`; author metadata: `@VadimStrizheus` (Vadim).
+- Already Existed: no — first content-aware pre-write search found no occurrence of tweet ID `2080128784418660566` under `/Users/mali/wiki/raw`; exclusive raw capture succeeded.
+- Tweet ID: `2080128784418660566`; URL: https://x.com/VadimStrizheus/status/2080128784418660566
+- Classification: substantive local X thread; the complete thread body was available locally, so it was captured and synthesized without external recovery.
+- Raw: new `/Users/mali/wiki/raw/articles/thread-VadimStrizheus-2080128784418660566.md`; `1346` source bytes preserved byte-for-byte below a real-newline wiki provenance wrapper; sha256(source_bytes): `fd4be085b1bcb8316d5c2c814897cd9ba3125e5d9e94dbe4f15d9185abd594ac`.
+- Entity updated: [[vadim-strizheus]] with the processing-first archive-clipping offer; [[higgsfield]] (existing typed entity stored at `concepts/higgsfield.md`) with the source-described Higgsfield MCP archive-clipping workflow. No duplicate entity pages were created.
+- Concept updated: [[youtube-clipping-distribution]] with dormant-archive processing, free-first-run-to-retainer positioning, and the generation-versus-processing distinction; no new concept page was created.
+- Index: added missing existing catalog lines for [[higgsfield]] and [[youtube-clipping-distribution]] in slug order; no new typed page was created. Live filesystem-derived typed-page count is 1137 (`entities` 521, `concepts` 585, `comparisons` 15, `queries` 16); corrected the stale shared header from 1132 to 1137.
+- Tags/wikilinks: existing tags validated against `SCHEMA.md`; all added wikilinks resolve; no new tags were introduced.
+- Evidence boundaries: the local thread supports the reported archive contents, workflow description, $1.04 credit figure, 20-clip result, and offer framing as source claims; Higgsfield/Claude capabilities, pricing, and the no-API-key claim remain unverified.
+- Restrictions honored: local disk only; no Bird/API calls, no X calls, no web fetches, no shortened-URL resolution, and `x-twitter-to-wiki` was not loaded; the local source was the sole truth.
+- Pre-log lint: required `ast.parse` check passed; `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues; no issue named the new raw file or updated typed pages.
+- Raw verification before log append: wrapper uses real newline bytes; source payload matches exactly; payload-only SHA-256 verified; exactly one raw destination exists.
+- Final verification: parent recomputed this source as ALREADY; exact raw payload/wrapper fidelity passed; exact ingest heading occurs once; current filesystem-derived typed-page count is 1137 and the index header matches.
+- Lint: parent final verification: ast.parse passed; python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected log.md no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+- Summary: one substantive local X thread was captured immutably, two mature typed pages were updated, two missing existing index lines were restored, and no article-specific duplicate concept was minted.
+## [2026-07-24] ingest | xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193
+- FILE: `/Users/mali/Development/x-bookmarks/data/run-2026-07-23/2026-07-23/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md`; run: `run-2026-07-23`; author metadata: `@aiwithremy` (AI with Remy | Learn AI).
+- Already Existed: no — first content-aware pre-write search found no occurrence of tweet ID `2080083376976044193` in `/Users/mali/wiki/raw`; no prior raw destination or typed page for this article was found during orientation.
+- Tweet ID: `2080083376976044193`; URL: https://x.com/aiwithremy/status/2080083376976044193
+- Classification: substantive local X Article; the complete article body was available locally, so it was captured and synthesized without external recovery.
+- Raw: new `/Users/mali/wiki/raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md`; `9915` source bytes preserved byte-for-byte below a real-newline wiki provenance wrapper; sha256(source_bytes): `a60cbce9f7f8fbdef9118a00684ec11741e8b09140850fc02f433bd744048715`.
+- Entity Created: [[aiwithremy]], [[apify]], [[nano-banana]], [[perplexity]], [[playwright]]. Entity Updated: [[n8n]], [[firecrawl]], [[claude]], [[claude-cowork]].
+- Concept Updated: [[model-context-protocol]] and [[browser-automation]]; no article-specific duplicate concept was created because the existing MCP/browser clusters covered the reusable evidence.
+- Index: added five entity entries in slug order; live filesystem-derived typed-page count is 1137 (`entities` 521, `concepts` 585, `comparisons` 15, `queries` 16); the shared index header matches. Preserved concurrent catalog/count reconciliation already present in the live index.
+- Tags/wikilinks: new-page tags `[person, x-creator, content-creator, ai-tools, ai-agent, business, product, tools, web-scraping, automation, model, image-generation, vision, ai-research, search, browser-automation]` all validate against `SCHEMA.md`; added wikilinks resolve.
+- Evidence boundaries: the local article and metadata support the six-tool MCP workflow and the author attribution; integration capabilities, metrics, and business outcomes remain source-described rather than independently verified.
+- Restrictions honored: local disk only; no Bird/API calls, no X calls, no web fetches, no shortened-URL resolution, and `x-twitter-to-wiki` was not loaded; the local source was the sole truth.
+- Pre-log verification: required `ast.parse` check passed; `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues; no issue named the new raw or updated typed pages.
+- Raw verification before log append: wrapper uses real newline bytes; source payload matches exactly; payload-only SHA-256 verified; exactly one raw destination exists.
+- Final verification: parent recomputed this source as ALREADY; exact raw payload/wrapper fidelity passed; exact ingest heading occurs once; current filesystem-derived typed-page count is 1137 and the index header matches.
+- Lint: parent final verification: ast.parse passed; python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected log.md no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+- Summary: one substantive local X Article was captured immutably, five central tool/author entities were filed, mature Claude/MCP/browser pages were updated, and the live catalog was extended without external recovery.
+## [2026-07-24] ingest | xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086
+- FILE: `/Users/mali/wiki/raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md`; author metadata: `@bateshkaaa` (Romario).
+- Already Existed: no — tweet ID `2079218516150862086`, canonical URL, and raw filename were absent from `/Users/mali/wiki` before capture.
+- Tweet ID: `2079218516150862086`; URL: https://x.com/bateshkaaa/status/2079218516150862086
+- Classification: substantive X Article; Bird returned the complete article body in the `text` field.
+- Raw: new `/Users/mali/wiki/raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md`; `5896` payload bytes / `5870` characters preserved verbatim below a real-newline provenance wrapper; sha256(payload): `4c1f05211d96e470bd556a957393ce2b7412041d7f71ab518dd13b58e5439fe7`.
+- Entity Created: [[bateshkaaa]]. Entities Updated: [[claude-code]].
+- Concepts Updated: [[ai-cinematic-website-design]], [[vibe-coding-landing-pages]]; no duplicate concept page was created because the existing cinematic/reference-first and vibe-coding clusters cover the reusable method.
+- Index: added [[bateshkaaa]] and restored the missing catalog line for [[vibe-coding-landing-pages]]. Live filesystem-derived typed-page count is 1138 (`entities` 522, `concepts` 585, `comparisons` 15, `queries` 16); the shared index header matches.
+- Tags/wikilinks: new entity tags `[person, x-creator, content-creator, ai-tools, website-design, vibe-coding]` validated against `SCHEMA.md`; all added wikilinks resolve.
+- Evidence boundaries: the article supports the constraint-first workflow, three-reference method, five-block prompt, sequential polish passes, mobile check, and deployment sequence as source content. Its $8,000–$12,000 agency comparison, one-afternoon delivery claim, $0/month hosting claim, traffic percentage, and site-time progression remain source claims, not independently verified benchmarks.
+- Restrictions honored: Firefox-cookie Bird CLI only; no Chrome/Safari credential recovery and no external corroboration was required for this workflow ingest.
+- Pre-log lint: `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue), 0 tag issues, and no issue naming the new raw or touched typed pages.
+- Raw verification before log append: wrapper uses real newline bytes; payload matches Bird `text` byte-for-byte; payload-only SHA-256 verified; exactly one raw destination exists.
+- Final verification: raw wrapper uses real newline bytes; Bird `text` payload matches byte-for-byte and its SHA-256; exactly one raw destination exists; `index.md` contains the new entity and restored concept line; typed-page count is 1138; this ingest heading occurs once; touched pages have `updated: 2026-07-24`.
+- Lint: parent final verification: `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` exited 0 with 12 unrelated pre-existing global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 pre-existing consistency issue); 0 tag issues; touched files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+- Summary: one X Article was captured immutably, one author entity was created, Claude Code and two existing website-workflow concepts were updated, and the catalog was reconciled without creating a duplicate concept.

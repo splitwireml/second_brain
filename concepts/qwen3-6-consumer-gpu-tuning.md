@@ -1,10 +1,10 @@
 ---
 title: Qwen3.6 Consumer GPU Tuning
 created: 2026-05-02
-updated: 2026-05-04
+updated: 2026-07-24
 type: concept
 tags: [llm, quantization, gpu, llama.cpp, local-llm, qwen]
-sources: [raw/articles/thread-Michaelzsguo-2050380832007721213.md]
+sources: [raw/articles/thread-Michaelzsguo-2050380832007721213.md, raw/articles/thread-0xSero-2080003696885154280.md]
 related_concept: [moe-consumer-gpu-tuning]
 ---
 
@@ -38,6 +38,10 @@ The "trick" is largely just **4-bit KV cache** and **aggressive quantization** c
 - 2060 Mobile with 32GB RAM can run Qwen3.6-35B-A3B with good performance
 - Tool and MCP usage can easily consume thousands of tokens per turn — keep this in mind for context management
 - For AMD GPUs: check for @AIatAMD specific defaults
+
+## 2026-07-22 Cross-check
+
+A separate local thread gives a coarse hardware-bucket list: [[bonsai-27b]] at 8–24 GB, [[qwen3-6-27b]] Thinking Cap at 24–96 GB, [[laguna-s-2-1]] at 96–192 GB, and [[motif]] at 192–384 GB. Replies show why these buckets are not guarantees: Bonsai’s 4 GB claim is disputed, Qwen3.6 35B A3B is preferred by some users, and model choice changes with context, tool calling, licensing, and available memory. ^[raw/articles/thread-0xSero-2080003696885154280.md]
 
 ## Context
 

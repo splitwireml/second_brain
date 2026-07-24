@@ -1,10 +1,10 @@
 ---
 title: "Faceless Content System"
 created: 2026-05-04
-updated: 2026-07-16
+updated: 2026-07-24
 type: concept
 tags: [agent, ai-agent, content-creator, instagram, method, monetization, social-media, tiktok]
-sources: [raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+sources: [raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
 related_entity: [[0xdepressionn]]
 ---
 
@@ -50,6 +50,10 @@ High-value niches: finance/investing, AI tools/software, business/entrepreneursh
 At 150K followers per platform (12–18 months in): $8,000–$21,000/month total.
 
 
+### Research-first long-form YouTube variant
+
+Dmitry's article adds an upstream research-and-scripting layer: test whether a niche is winnable, select 3–5 reference channels, use NotebookLM on transcripts/comments/notes to build Curiosity, Retention, Story, and Topic Bibles, add a Visual Bible, and merge them into a Master Bible. Claude then supplies an initial script draft while the creator adds lived experience and judgment. This fits the faceless-content cluster as a planning layer rather than a complete video-automation stack because the article defers its named production tools to Part 2.^[raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
+
 ### Short-form outlier research variant
 
 Fokki's viral-video article adds a short-form-first variant for faceless channels: instead of starting from a weekly long-form asset, the operator starts with a daily swipe file of breakout videos, computes channel-relative outlier scores, and only then generates concepts in Claude. The goal is to ship a fresh subject into a proven format before the roughly two-week saturation window closes.^[raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md]
@@ -67,6 +71,8 @@ The monetization stack is broader than platform payouts: source-claimed options 
 This variant links content production to product feedback: public complaints reveal the niche, creators supply distribution, and reviews/support tickets become a recurring research stream. It therefore complements [[agent-native-apps]] and [[faceless-digital-product-portfolio]] while keeping the existing multi-platform production system intact.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 
 ## Relationship to Other Concepts
+- [[ai-youtube-channel-playbook]] — research-first long-form YouTube variant
+- [[dmtr-btc]] — source author of the research-first variant
 
 - [[ai-ugc-income-system]] — broader AI UGC monetization frameworks; this system is a specific multi-platform implementation using AI tools
 - [[ai-ugc-ad-scaling-system]] — AI UGC ad workflow; this system is organic content rather than paid ads

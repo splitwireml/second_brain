@@ -1,10 +1,10 @@
 ---
 title: Firecrawl
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-07-24
 type: entity
 tags: [product, tools, ai-tools, web-scraping]
-sources: [raw/articles/scrapling-technical-research-2026-04-13.md]
+sources: [raw/articles/scrapling-technical-research-2026-04-13.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md]
 ---
 
 ## Overview
@@ -47,6 +47,12 @@ Rust-based PDF parsing engine integrated into the Firecrawl API:
 - Notable open questions: scanned/OCR document support, coordinate metadata for chunking pipelines, visual anchoring
 
 Sources: `raw/articles/firecrawl-fire-pdf-rust-parser-2026-04-15.md`
+
+## Claude MCP Use Case (2026-07-24)
+
+AI with Remy's source presents Firecrawl as the extraction layer for work that ordinary web search cannot complete: scraping a known page, auditing a landing page's branding and conversion issues, and exporting multiple Google Docs as Markdown. These are source-described workflows, not independent verification of the cited audit results. ^[raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md]
+
+Related: [[model-context-protocol]], [[aiwithremy]], [[playwright]].
 
 ## Sources
 

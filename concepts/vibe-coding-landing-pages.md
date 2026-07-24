@@ -1,10 +1,10 @@
 ---
 title: vibe-coding-landing-pages
 created: 2026-05-07
-updated: 2026-06-14
+updated: 2026-07-24
 type: concept
 tags: [workflow, vibe-coding, website]
-sources: [raw/articles/clear-graphics-vibe-coding-landing-pages-2051737941198647642.md]
+sources: [raw/articles/clear-graphics-vibe-coding-landing-pages-2051737941198647642.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md]
 related_entity: [[clear-graphics-vibe-coding-landing-pages]]
 ---
 
@@ -41,6 +41,18 @@ The gap between vibe-coded and professionally designed pages is smaller than eve
 - **Fixed spacing scale:** always specify 8/16/24/32/48/64/80px as the only allowed spacing values
 - **Color limit:** 4 colors max across the entire page; AI picking per-section colors produces visual incoherence
 - **Real product screenshots:** always replace AI-generated placeholders with actual screenshots — AI images always look fake
+
+## Constraint-first, reference-driven variant
+
+A follow-up source turns the layered prompting pattern into an agency-quality website workflow:
+
+1. Load design guidance into Claude Code through project-local skills.
+2. Use three references, captured section by section, as a quality bar rather than describing “premium” in adjectives.
+3. Give one prompt with five blocks: audience, one CTA, references, stack, and a ban list.
+4. Polish in separate typography, spacing, and motion passes; then test every page at 375px width.
+5. Ship through GitHub and a static host such as Cloudflare Pages.
+
+The source's operational rule is to change one visual dimension per pass. Its progression from a six-hour first site to a two-hour pipeline by site five is a source claim, not an independently verified productivity benchmark. ^[raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md]
 
 ## Related Concepts
 
