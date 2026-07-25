@@ -1,10 +1,10 @@
 ---
 title: "Faceless Content System"
 created: 2026-05-04
-updated: 2026-07-24
+updated: 2026-07-25
 type: concept
 tags: [agent, ai-agent, content-creator, instagram, method, monetization, social-media, tiktok]
-sources: [raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
+sources: [raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
 related_entity: [[0xdepressionn]]
 ---
 
@@ -70,7 +70,13 @@ The monetization stack is broader than platform payouts: source-claimed options 
 
 This variant links content production to product feedback: public complaints reveal the niche, creators supply distribution, and reviews/support tickets become a recurring research stream. It therefore complements [[agent-native-apps]] and [[faceless-digital-product-portfolio]] while keeping the existing multi-platform production system intact.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 
+### Faceless AI story-channel variant
+
+The local article describes a long-form faceless branch built around Claude Fable 5: one persistent project per niche, a JSON script contract, competitor transcripts, production directives, research briefs for documentary work, and generated image prompts before voiceover and editing. It presents this as a high-throughput YouTube production system, but its $10k/month, 95%-publish-ready, timing, pricing, and platform-performance figures remain source claims rather than audited results. ^[raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
+
 ## Relationship to Other Concepts
+
+- [[thegoldeenhand]]
 - [[ai-youtube-channel-playbook]] — research-first long-form YouTube variant
 - [[dmtr-btc]] — source author of the research-first variant
 

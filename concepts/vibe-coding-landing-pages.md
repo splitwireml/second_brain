@@ -59,6 +59,7 @@ The source's operational rule is to change one visual dimension per pass. Its pr
 - [[clear-graphics-yc-landing-page-framework]] — same author's complementary 7-pattern YC landing page structure
 - [[landing-page-ai-workflow]] — $5,000+ landing page workflow with Lovable, GSAP, Spline, Three.js
 - [[ai-cinematic-website-design]] — high-ticket animated website design with Flux/Hexler + Seedance 2.0 + Gemini 3.1; sellable as $10k+ client services
+- [[ai-website-production-loop]] — reference, constraint, implementation, polish, and reuse loop
 - [[ai-design-workflow]] — end-to-end brand pipeline: brainstorm Claude → Claude Design → ship via Claude Code + Vercel
 - [[vibe-coding-in-production]] — Eric Mishra's responsible vibe coding in production framework (be Claude's PM, verify without reading code, know the danger zone)
 - [[clear-graphics]] — entity: X creator (@clear_graphics) posting landing page conversion patterns for YC startups

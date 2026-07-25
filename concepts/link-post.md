@@ -1,10 +1,10 @@
 ---
 title: Link Post
 created: 2026-05-19
-updated: 2026-07-24
+updated: 2026-07-25
 type: concept
 tags: [content, x]
-sources: [raw/articles/xarticle-httpstco40nwwzxwal-2055229007931601239.md, raw/articles/xarticle-httpstcomckysbtzne-2070603243797844338.md, raw/articles/xarticle-httpstcoe9aurw47us-2070855856959209986.md, raw/articles/xarticle-httpstcoza1acztalq-2070896784449171568.md, raw/articles/xarticle-httpstcolzp3txuywy-2071200865881350381.md, raw/articles/xarticle-httpstcodc4wyxqsq5-2071602748802445815.md, raw/articles/xarticle-httpstcokuncp7vuh1-2071905311162843433.md, raw/articles/xarticle-httpstcobifvoiybki-2056038230454112601.md, raw/articles/xarticle-httpstcoiowc8ikxsr-2071968426562605182.md, raw/articles/xarticle-httpstcobhewgetxo2-2071994887721947226.md, raw/articles/xarticle-httpstcoo3qwmu4xtk-2071930382581195105.md, raw/articles/xarticle-httpstcomc6jkerp7q-2074893973441675651.md, raw/articles/xarticle-httpstcormzwgvt3y5-2074618289150738691.md, raw/articles/xarticle-httpstconmgxwgbnm8-2074760374243455348.md, raw/articles/xarticle-httpstcovqu1o5iyni-2078838553430077715.md, raw/articles/xarticle-httpstcoit4fejrsg5-2079226781710827729.md, raw/articles/xarticle-httpstco0zz8uarddm-2074473083440664733.md, raw/articles/xarticle-httpstcon6tcwg9pqh-2076649660215628159.md, raw/articles/xarticle-httpstco7h6pprurqc-2077046673553965231.md, raw/articles/xarticle-httpstcouoggqfafjz-2079542931342434390.md, raw/articles/xarticle-httpstcoseosbgwgkv-2079827234983211104.md, raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md]
+sources: [raw/articles/xarticle-httpstco40nwwzxwal-2055229007931601239.md, raw/articles/xarticle-httpstcomckysbtzne-2070603243797844338.md, raw/articles/xarticle-httpstcoe9aurw47us-2070855856959209986.md, raw/articles/xarticle-httpstcoza1acztalq-2070896784449171568.md, raw/articles/xarticle-httpstcolzp3txuywy-2071200865881350381.md, raw/articles/xarticle-httpstcodc4wyxqsq5-2071602748802445815.md, raw/articles/xarticle-httpstcokuncp7vuh1-2071905311162843433.md, raw/articles/xarticle-httpstcobifvoiybki-2056038230454112601.md, raw/articles/xarticle-httpstcoiowc8ikxsr-2071968426562605182.md, raw/articles/xarticle-httpstcobhewgetxo2-2071994887721947226.md, raw/articles/xarticle-httpstcoo3qwmu4xtk-2071930382581195105.md, raw/articles/xarticle-httpstcomc6jkerp7q-2074893973441675651.md, raw/articles/xarticle-httpstcormzwgvt3y5-2074618289150738691.md, raw/articles/xarticle-httpstconmgxwgbnm8-2074760374243455348.md, raw/articles/xarticle-httpstcovqu1o5iyni-2078838553430077715.md, raw/articles/xarticle-httpstcoit4fejrsg5-2079226781710827729.md, raw/articles/xarticle-httpstco0zz8uarddm-2074473083440664733.md, raw/articles/xarticle-httpstcon6tcwg9pqh-2076649660215628159.md, raw/articles/xarticle-httpstco7h6pprurqc-2077046673553965231.md, raw/articles/xarticle-httpstcouoggqfafjz-2079542931342434390.md, raw/articles/xarticle-httpstcoseosbgwgkv-2079827234983211104.md, raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md, raw/articles/xarticle-httpstcocbt3plngcn-2080408363507036432.md, raw/articles/xarticle-httpstcoip9npcm57r-2080270972603826577.md, raw/articles/xarticle-httpstcou687ybqcft-2080395750668927290.md, raw/articles/xarticle-httpstcovlodpai6vy-2080238307813040398.md, raw/articles/xarticle-httpstcoqq9chx2ccm-2080373812659695618.md]
 ---
 
 ## Definition
@@ -30,7 +30,21 @@ A link-post is an X (Twitter) post that consists primarily of a bare URL with mi
 
 - Author-level provenance: [[sairahul1]] is already represented by substantive AI/tech sources, and this 2026-07-22 export-failed bare shortened-URL bookmark adds a link-post record without recoverable destination context.^[raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md]
 
+- Author-level provenance: [[zeuuss-01]] is already represented by a substantive motion-website workflow, and this 2026-07-23 local bookmark adds an export-failed bare shortened-URL record without recoverable destination or topic.^[raw/articles/xarticle-httpstcocbt3plngcn-2080408363507036432.md]
+
+- Additional author-level provenance: [[nicolas-cole]] is already represented by a substantive reader-attention article, and this 2026-07-23 export-failed bare shortened-URL bookmark adds a link-post record without recoverable destination or topic. ^[raw/articles/xarticle-httpstcoip9npcm57r-2080270972603826577.md]
+
+- Additional author-level provenance: [[michel-lieben]] has a 2026-07-23 export-failed bare shortened-URL bookmark with no recoverable destination or topic.^[raw/articles/xarticle-httpstcou687ybqcft-2080395750668927290.md]
+
+- Additional author-level provenance: [[heynavtoor]] now has a second export-failed bare shortened-URL bookmark, reinforcing this as a recurring posting pattern without recoverable destination or topic. ^[raw/articles/xarticle-httpstcovlodpai6vy-2080238307813040398.md]
+
+- Author-level provenance: [[mattepstein]] is already represented by a substantive launch-system page, and this 2026-07-23 export-failed bare shortened-URL bookmark adds a link-post record without recoverable destination or topic.^[raw/articles/xarticle-httpstcoqq9chx2ccm-2080373812659695618.md]
+
 ## Related Concepts
+
+- [[michel-lieben]] — creator whose 2026-07-23 bookmark export failed, preserving only a shortened URL.
+
+- [[nicolas-cole]] — creator with a substantive reader-attention article and a new export-failed link-post record
 
 - [[0xsero]] — another creator whose export-failed bookmark resolved to a bare shortened URL
 - [[creatorpascal]] — another creator whose bookmark preserved only a shortened URL after export failure
@@ -43,3 +57,6 @@ A link-post is an X (Twitter) post that consists primarily of a bare URL with mi
 - [[ugc]] — content type being linked to
 - [[whotfiszackk]] — creator better known for faceless digital-product articles, with recurring export-failed bare shortened-URL bookmarks
 - [[borja]] — creator with multiple export-failed bare-URL bookmarks alongside substantive SEO articles
+- [[zeuuss-01]] — creator with a substantive motion-website workflow and a new export-failed bare-URL bookmark
+
+- [[mattepstein]] — creator with a substantive launch-system page and this export-failed bare-URL provenance record

@@ -1,10 +1,10 @@
 ---
 title: Agent Swarm
 created: 2026-05-04
-updated: 2026-06-11
+updated: 2026-07-25
 type: concept
 tags: [agent, ai-agent, multi-agent, architecture, coordination]
-sources: [raw/articles/thread-defileo-2050656413006053793.md, raw/articles/xarticle-youre-not-slow-youre-single-threaded-a-complete-gu-2059320043478081976.md]
+sources: [raw/articles/thread-defileo-2050656413006053793.md, raw/articles/xarticle-youre-not-slow-youre-single-threaded-a-complete-gu-2059320043478081976.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
 related_entity: [[moonshot-ai]]
 ---
 
@@ -30,6 +30,12 @@ Rohit's framing is useful even outside Kimi: the real bottleneck is often not mo
 - **Handoffs stay manual** — the human becomes project manager for the machine, splitting work and ferrying outputs between chats.
 
 A swarm removes the human from most of that glue work by making coordination its own first-class job.
+
+## Graph-first scale-up
+
+The July 2026 [[0xwast3]] article adds a dependency-first refinement to the swarm pattern: parallelism is earned by proving that nodes do not consume one another's outputs. The coordinator should draw the graph, dispatch independent nodes, and reserve edges for real data or shared-resource dependencies rather than treating every "and then" as a wait.^[raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
+
+At larger sizes, direct fan-in is unsafe because all raw worker outputs can exceed the synthesizer's context. The source's remedy is layered fan-in: summarize bounded batches, then consolidate the summaries, while checking that the number of returned nodes matches the expected count so silent worker failures remain visible. This makes [[agent-swarm]] a graph-shaping problem, not merely a worker-count setting; [[graph-engineering]] captures the reusable method.^[raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
 
 ## Spec-Driven Prompting
 

@@ -1,10 +1,10 @@
 ---
 title: MaxFusion AI
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-25
 type: entity
 tags: [product, ai-tools, mcp, video-generation, automation, software]
-sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md]
+sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
 ---
 
 # MaxFusion AI
@@ -19,6 +19,10 @@ MaxFusion AI is an AI advertising and video-production platform. Its public site
 - Provides a post-production “Replace Voice” action after clips are stitched and uploaded.
 
 The specific MCP workflow, automation depth, and comparative performance claims are documented from one X source and are not independently audited here.
+
+## Static-ad animation variant
+
+A later source by [[ori-silver]] describes a six-second, one-shot format in which a supplied static assembles element by element in handmade stop-motion and is returned as video or GIF. It offers an own-ad mode that preserves the source creative and a competitor-swap mode that keeps the format skeleton while replacing brand-specific material. The source places approval gates around the extraction brief, composed still, and audio/video generation; platform availability and promotional claims remain source-described rather than independently verified.
 
 ## Related
 

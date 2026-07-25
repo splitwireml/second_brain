@@ -1,10 +1,10 @@
 ---
 title: Multi-Agent Orchestration
 created: 2026-05-19
-updated: 2026-07-11
+updated: 2026-07-25
 type: concept
 tags: [agent, ai-agent, multi-agent, orchestration, workflow, architecture]
-sources: [raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2055215784092401966.md, raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2058817146411692358.md, raw/articles/xarticle-how-to-build-a-multi-agent-system-that-actually-fi-2068135133618540931.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md]
+sources: [raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2055215784092401966.md, raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2058817146411692358.md, raw/articles/xarticle-how-to-build-a-multi-agent-system-that-actually-fi-2068135133618540931.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
 ---
 
 # Multi-Agent Orchestration
@@ -45,6 +45,12 @@ Use parallel orchestration when the task can be split into independent workstrea
 ### Hierarchical teams
 
 Use hierarchical orchestration only when one pipeline is not enough — for example, a top-level manager coordinating separate content and distribution sub-teams. This increases flexibility at the cost of more latency, more coordination overhead, and more failure surfaces.^[raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2058817146411692358.md]
+
+## Graph-first decomposition
+
+[[0xwast3]]'s article treats a multi-agent workflow as a dependency graph rather than a default chain. The first design question is whether a downstream node actually consumes an upstream output; if not, the work should run in parallel. A workflow's repeated "and then" is not automatically a real edge.^[raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
+
+The graph view also exposes **hidden edges**: two nodes can be data-independent but still conflict over a shared file, rate-limited API, or other resource. Those constraints belong in the topology before dispatch, alongside explicit expected-result counts so a fan-in step cannot silently synthesize an incomplete batch. See [[graph-engineering]] for the fuller node/edge, layered fan-in, and failure-accounting treatment.^[raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
 
 ## Reliability patterns
 

@@ -1,10 +1,10 @@
 ---
 title: AI-Generated Ads
 created: 2026-06-07
-updated: 2026-07-22
+updated: 2026-07-25
 type: concept
 tags: [ai-content, marketing, paid-ads, video-generation]
-sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
+sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
 related_entity: [[ai-ugc]]
 ---
 
@@ -28,6 +28,10 @@ The distinction is useful: AI can compress copy production, but the operator sti
 
 The supplied MakeUGC workflow adds a direct-response variant: upload a competitor/reference ad, provide a product in a similar category, add a goal or detailed prompt, and generate a remake using a selected video model. This is a source-described production shortcut; it does not prove creative similarity, performance transfer, or rights to reuse the reference. ^[raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 
+## Static-to-animated static variant
+
+The [[ori-silver]] source describes a distinct creative-reformatting path: take a static whose hook, layout, and offer already work, then add motion without changing the locked shot. The six-second result can be delivered as video or GIF, with approval gates before extraction, the final still, and generation. Its competitor-swap mode is framed as borrowing layout logic while replacing brand-specific content, not cloning; rights, platform safety, and performance transfer remain open questions. ^[raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
+
 ## Quality constraints
 
 For paper-collage / Vox-style explainers, legible on-screen text, stable narration, cross-clip visual continuity, and reroll cost are not secondary polish—they are the format's core constraints. The source claims Google Omni Flash handles these better and faster than Seedance; that comparison remains unverified.
@@ -40,3 +44,5 @@ For paper-collage / Vox-style explainers, legible on-screen text, stable narrati
 - [[ai-ugc-ad-scaling-system]]
 - [[ai-advertorial-workflow]]
 - [[claude-fable-5-loop-design]]
+- [[maxfusion-ai]]
+- [[ori-silver]]

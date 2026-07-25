@@ -2,13 +2,15 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-24 | Total pages: 1138
+> Last updated: 2026-07-25 | Total pages: 1147
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
 [[0xdepressionn]] — title: "0xDepressionn"
 [[0xjeff]] — title: 0xJeff
+[[0xkenny1st]] — Kenny1st (@0xKenny1st), an X creator sharing source-described Claude skill-pack workflows for AI-generated 3D-scroll hero sections.
 [[0xsero]] — X creator documenting VRAM-bucketed local-model recommendations and hardware-fit tradeoffs.
+[[0xwast3]] — X creator writing about graph-first design for high-scale AI-agent workflows.
 [[21xfortuna]] — X creator documenting an AI-assisted property-listing walkthrough service for Airbnb hosts.
 [[_bschmidtchen]] — title: "bschmidtchen"
 [[_heyrico]] — title: "heyrico"
@@ -98,7 +100,7 @@
 [[chatterbox]] — title: Chatterbox
 [[chewadot]] — X creator publishing operator-style Claude + Obsidian essays focused on self-filing vaults, raw-note immutability, and graph-building workflows.
 [[cjzafir]] — title: "CJ Zafir"
-[[claude]] — Claude entity with source-linked Fable 5 advertorial and loop-design workflows.
+[[claude]] — Claude entity with source-linked Fable 5 advertorial, faceless story-channel, and loop-design workflows.
 [[claude-code]] — Anthropic coding agent with model/effort routing guidance and a source-described `/loops` build-test-fix surface.
 [[claude-cowork]] — title: "Claude Cowork"
 [[claude-design]] — title: Claude Design
@@ -130,7 +132,7 @@
 [[dansugc]] — title: DansUGC
 [[dash-open-source]] — title: Dash (agno-agi)
 [[davinci-magihuman]] — title: "daVinci-MagiHuman"
-[[daywrotethis]] — title: Daywrotethis
+[[daywrotethis]] — X creator @Daywrotethis writing provocative life-strategy articles on game theory, social dynamics, and self-positioning.
 [[defileo]] — title: defileo
 [[defileo-thread-2050656413006053793]] — title: defileo thread 2050656413006053793
 [[degen-calls]] — DegenCalls (@Degen_calls_sol), X creator focused on AI-maintained second brains, Obsidian, and markdown wiki workflows.
@@ -255,6 +257,7 @@
 [[laguna-s-2-1]] — source-described local model in the 96–192 GB tier with mixed tool-calling feedback.
 [[lance-martin]] — title: Lance Martin
 [[larrybrain]] — title: larrybrain
+[[leerob]] — Lee Robinson (@leerob), X author explaining model training, evaluation, alignment, and current agent-memory limits.
 [[leopardracer]] — title: leopardracer
 [[levi-munneke]] — title: Levi Munneke
 [[levikmunneke]] — outbound-systems operator sharing AI-assisted lead-gen, proprietary data, and multichannel SDR execution playbooks.
@@ -281,7 +284,7 @@
 [[marlin-2b]] — title: Marlin-2B
 [[matt-chow]] — X article author documenting Trope's code-first YC launch-video workflow with Fable 5 and Remotion.
 [[matt-van-horn]] — AI research synthesizer who turns cross-platform sweeps into operator playbooks on loops, prompting, and memory discipline.
-[[mattepstein]] — title: Matt Epstein
+[[mattepstein]] — Matt Epstein, X creator documenting AI-assisted product-launch systems, now also represented by an export-failed bare-URL link-post provenance record.
 [[matthew-berman]] — title: Matthew Berman
 [[maverick-creative]] — title: Maverick Creative
 [[maxfusion-ai]] — MaxFusion AI, an AI advertising/video-production platform with a source-described MCP execution layer.
@@ -291,7 +294,7 @@
 [[mercury-agent]] — title: Mercury Agent
 [[meta-alchemist]] — title: Meta Alchemist
 [[michaelzguo]] — title: Michael Guo
-[[michel-lieben]] — Michel Lieben — ColdIQ founder documenting API-led GTM and folder-native Claude Code workflows.
+[[michel-lieben]] — Michel Lieben — ColdIQ founder documenting API-led GTM, folder-native Claude Code workflows, and recurring export-failed bare-URL link-post provenance.
 [[michele-catasta]] — Replit AI leader and X author writing about continual-learning loops for coding agents.
 [[MichLieben]] — title: "Michel Lieben"
 [[minimax]] — title: MiniMax
@@ -313,7 +316,7 @@
 [[nevodavid]] — title: Nevo David
 [[nftcps]] — title: NFTCPS
 [[nick-saraev]] — title: nick saraev
-[[nicolas-cole]] — Nicolas Cole — X creator and digital-writing educator whose article presents six reader-opening patterns.
+[[nicolas-cole]] — Nicolas Cole — X creator and digital-writing educator whose article presents six reader-opening patterns, with an export-failed bare-URL [[link-post]] provenance record.
 [[noah-frydberg]] — title: Noah Frydberg
 [[noel-ceta]] — title: Noel Ceta
 [[noisy]] — title: Noisy
@@ -342,6 +345,7 @@
 [[openai-codex-plugin-cc]] — title: openai/codex-plugin-cc
 [[openclaw]] — title: OpenClaw
 [[openrouter]] — title: OpenRouter
+[[ori-silver]] — X article author documenting a source-described static-to-animated advertising workflow through MaxFusion AI.
 [[paolo-scales]] — Paolo Trivellato — creator focused on LinkedIn inbound funnel systems for B2B services.
 [[paper-design]] — title: Paper.design
 [[paul-bakaus]] — Paul Bakaus, author and builder of the source-described Impeccable design-skill/harness extension.
@@ -443,6 +447,7 @@
 [[termsheetinator]] — title: Termsheetinator
 [[the-smart-ape]] — title: The Smart Ape
 [[theahmadosman]] — title: TheAhmadOsman
+[[thegoldeenhand]] — gold. (@thegoldeenhand), author of a source-described Claude Fable 5 workflow for faceless AI story-channel scripting, visual prompts, and YouTube production.
 [[tiktok]] — title: TikTok
 [[timbidefi]] — title: timbidefi
 [[tinygrad]] — title: TinyGrad
@@ -452,6 +457,7 @@
 [[tomzaragoza]] — title: tomzaragoza
 [[tony-simons]] — title: Tony Simons
 [[trailblazer-marketing]] — title: Trailblazer Marketing
+[[tran-mau-tri-tam]] — Tran Mau Tri Tam (@tranmautritam), X creator curating bookmarkable design-inspiration directories and resource libraries.
 [[trevin-chow]] — title: Trevin Chow
 [[triverra]] — source-provided AI travel companion brand represented by a constraint-dense full-viewport hero brief.
 [[trope]] — YC-launched startup/product used as the case study for a code-first launch-video workflow.
@@ -531,7 +537,7 @@
 [[agentic-software-five-layer-framework]] — title: Agentic Software Five-Layer Framework
 [[agentic-video-hyperframes]] — title: Agentic Video via HTML
 [[agentmemory-claude-context-compression]] — title: agentmemory — Infinite Memory for Claude Code
-[[ai-3d-scroll-websites]] — title: "AI 3D Scroll-Effect Websites"
+[[ai-3d-scroll-websites]] — AI-assisted 3D scroll-effect websites built from reference images/videos, Claude skill packs, and animated assets.
 [[ai-advertorial-workflow]] — Awareness-matched advertorial workflow spanning keyword context, editorial copy, Meta cold-traffic bridge, and revision audits.
 [[ai-agent]] — title: AI Agent
 [[ai-agent-automation]] — title: AI Agent Automation
@@ -576,8 +582,9 @@
 [[ai-video]] — AI-assisted video generation and delivery, including a property-listing walkthrough service case.
 [[ai-video-marketing-used-car-reports]] — strategy for using AI-assisted video to market a trust-sensitive used-car background-report product.
 [[ai-video-virality-formats]] — reusable AI/short-form video structures plus the outlier-score research loop for finding formats before saturation.
+[[ai-website-production-loop]] — repeatable AI website workflow: references, design constraints, generated assets, agent implementation, polish, deployment, and reuse.
 [[ai-workflow-setup-service]] — title: AI Workflow Setup Service
-[[ai-youtube-channel-playbook]] — research-first long-form YouTube workflow built from reference-channel Bibles, a Master Bible, and analytics feedback.
+[[ai-youtube-channel-playbook]] — research-first and template-driven long-form YouTube workflow built from reference-channel Bibles, JSON contracts, and analytics feedback.
 [[anatoli-kopadze-thread-2026-05-01]] — title: "Anatoli Kopadze thread (2026-05-01)"
 [[answer-engine-optimization]] — title: Answer Engine Optimization (AEO)
 [[anthropic-ai-engineer-career-speedrun]] — title: Anthropic AI Engineer Career Speedrun
@@ -588,20 +595,23 @@
 [[character-consistent-ai-video-workflow]] — reference-first identity locking across image and video generation.
 [[chat-to-animated-ad-pipeline]] — conversational workflow that turns a short product intake into a chained, AI-generated animated ad through LLM orchestration and an MCP video platform.
 [[claude-code-model-effort]] — Claude Code routing rule: fix context first, use stronger models for knowledge/capability gaps, and raise effort for more reading, verification, and follow-through.
-[[claude-fable-5-loop-design]] — Fable 5 loop pattern spanning memory, self-correction, adversarial verification, model transfer, launch-video, and advertorial revision workflows.
+[[claude-fable-5-loop-design]] — Fable 5 loop pattern spanning persistent-project templates, memory, self-correction, adversarial verification, model transfer, launch-video, and advertorial workflows.
 [[claude-obsidian-second-brain-stack]] — Operator pattern for an AI-maintained markdown/Obsidian second brain: immutable raw sources, schema-guided wiki synthesis, agent-accessible context, and scheduled/linted maintenance.
 [[code-first-launch-video-production]] — Launch-video production pattern using real product code, React/Remotion, Fable 5 loops, renders, and frame-level feedback.
 [[company-brain]] — enterprise AI memory architecture for preserving organizational context, interaction, and action.
+[[contextual-value-positioning]] — source-described framework for recalibrating self-perception by changing environments, comparison groups, and visible standards.
 [[continual-learning-for-agents]] — Replit-style agent improvement loop using evals, production traces, A/B tests, and harness/context updates instead of weight updates.
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
 [[distribution]] — distribution systems spanning save-led faceless X growth, audience-led product validation, and warm-network-to-inbound service acquisition.
 [[dormant-account-distribution-arbitrage]] — claimed strategy of buying aged dormant X accounts as pre-existing distribution infrastructure for faceless niche pages.
 [[execution-over-consumption]] — bounded learning, early shipping, and feedback loops as an antidote to passive research replacing work.
-[[faceless-content-system]] — faceless content monetization systems spanning long-form redistribution and short-form outlier research loops.
+[[faceless-content-system]] — faceless content monetization systems spanning long-form redistribution, Fable-driven story channels, and short-form outlier research loops.
 [[faceless-digital-product-portfolio]] — zack’s faceless low-ticket PDF/template portfolio model, now connected to a clarity-first X growth loop and asset-light operations.
 [[faceless-x-growth-loop]] — X-specific faceless growth loop: unresolved conversation → saveable utility → insight replies → audience-described pain → product.
 [[frontier-ai-standards-body]] — source-described proposal for dynamic frontier-model benchmarks, safety tests, pre-release review, and international standards.
+[[generation-evaluation-gap]] — held-out evaluation and external judges as safeguards against confusing memorization with generalization.
 [[goal-primitive]] — outcome-contract primitive for Claude Code/Codex/Hermes workflows: specify finish line, evidence, scope constraints, stop rules, and retry caps so agents iterate until verified or budget-exhausted.
+[[graph-engineering]] — dependency-first design for parallel AI-agent graphs, layered fan-in, and failure-aware orchestration.
 [[hermes-agent-income-system]] — framework for earning from agent outputs by repeatedly solving painful bottlenecks rather than selling autonomy itself.
 [[human-in-the-loop]] — workflow architecture placing human judgment at goals, constraints, sampling, audit evidence, and final verdict checkpoints rather than every AI action.
 [[human-nature-meta-skill]] — Dan Koe framework treating human nature as the durable meta-skill beneath AI-era skills: survival, identity, and progress tensions translated into persuasion levers.
@@ -639,6 +649,7 @@
 [[solo-ai-agency-operating-model]] — one-person AI agency model built around productized retainers, AI production, human QA, and reusable delivery systems.
 [[storm-multi-perspective-research]] — Fixed-lens research workflow: five perspectives, contradiction mapping, and adversarial citation verification for decision-ready briefings.
 [[topical-authority-seo]] — topical-coverage SEO framework extended with a concrete broken-link replacement loop.
+[[training]] — LLM training from pretraining through fine-tuning and reinforcement learning, with held-out evaluation.
 [[ui-design]] — UI design principles and practical AI-assisted resource stack spanning design skills, component libraries, and UX heuristics.
 [[vibe-coding-landing-pages]] — layered prompting and reference-driven AI workflow for building and polishing landing pages.
 [[viral-launch-system]] — Mitchell/Matte Epstein-style tech launch playbooks combining research, bold claims, hook-first product demos, proof windows, and iterative video cuts.

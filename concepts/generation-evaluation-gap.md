@@ -1,10 +1,10 @@
 ---
 title: Generation-Evaluation Gap
 created: 2026-04-14
-updated: 2026-06-14
+updated: 2026-07-25
 type: concept
 tags: [llm, training, method]
-sources: [raw/papers/autoreason.tex]
+sources: [raw/papers/autoreason.tex, raw/articles/thread-leerob-2080467752897146898.md]
 related_entity: [[autoreason]]
 ---
 
@@ -54,5 +54,11 @@ Huang et al. (2023) showed LLMs cannot self-correct reasoning without external f
 
 For mid-tier models (where the gap is wide): use structured multi-candidate evaluation like autoreason. For frontier models (where the gap is narrow): simple methods suffice. For weakest models: invest in generation quality first.
 
+## Held-out tests and model learning
+
+Lee Robinson's training overview uses a practice-test versus final-exam analogy: objective checks and rubric-based judges can measure improvement, but benchmarks should test unseen or held-out tasks so memorizing public answers is not mistaken for generalization. This complements the gap's emphasis on external evaluation without resolving how difficult benchmark construction remains. ^[raw/articles/thread-leerob-2080467752897146898.md]
+
 ## Related
 - [[autoreason]] — related entity from frontmatter; explicit cross-link
+- [[leerob]]
+- [[training]]

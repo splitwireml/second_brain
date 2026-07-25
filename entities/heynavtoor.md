@@ -1,10 +1,10 @@
 ---
 title: heynavtoor (Nav Toor)
 created: 2026-04-16
-updated: 2026-07-02
+updated: 2026-07-25
 type: entity
 tags: [person, x-creator, skill, claude-code]
-sources: [raw/articles/heynavtoor-pinchtab-browser-automation-2026-03-03.md, raw/articles/xarticle-the-anatomy-of-a-claude-skill-how-a-40-line-markdo-2057763612341723572.md, raw/articles/xarticle-httpstcokuncp7vuh1-2071905311162843433.md]
+sources: [raw/articles/heynavtoor-pinchtab-browser-automation-2026-03-03.md, raw/articles/xarticle-the-anatomy-of-a-claude-skill-how-a-40-line-markdo-2057763612341723572.md, raw/articles/xarticle-httpstcokuncp7vuh1-2071905311162843433.md, raw/articles/xarticle-httpstcovlodpai6vy-2080238307813040398.md]
 ---
 
 # Nav Toor (@heynavtoor)
@@ -22,7 +22,7 @@ Nav frames a skill as procedural memory you can read: stronger than a one-shot p
 
 ## Export-Failed Bookmark Provenance
 
-One later Nav Toor bookmark currently survives only as an export-failed bare t.co URL, so it adds provenance that he saved/shared the link without contributing recoverable commentary beyond the shortened URL itself. That source is tracked under [[link-post]] rather than as a new topic page.
+Two later Nav Toor bookmarks currently survive only as export-failed bare t.co URLs, so they add provenance that he saved/shared links without contributing recoverable commentary beyond the shortened URLs themselves. Those sources are tracked under [[link-post]] rather than as new topic pages.
 
 ## Related
 

@@ -1,10 +1,10 @@
 ---
 title: Chat-to-Animated-Ad Pipeline
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-25
 type: concept
 tags: [ai-generated-ads, video-generation, ai-tools, mcp, automation, content-automation, workflow, marketing]
-sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md]
+sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
 related_entity: [[maxfusion-ai]]
 author: [[stav-zilber]]
 ---
@@ -23,6 +23,10 @@ A conversational production pattern that turns a short product intake into a coh
 6. **Fallback mode** — remove the automation layer and return generator-ready prompts for manual execution.
 
 The source describes Claude as the conversational controller and [[maxfusion-ai]] MCP as the execution layer. The workflow is therefore an orchestration pattern, not merely a claim that one model makes a finished ad in one generation pass.
+
+## Static-to-animated static variant
+
+A source by [[ori-silver]] describes a related shorter-format branch: start from a proven static and animate the same composition in one locked six-second shot, with pieces landing in handmade stop-motion; the result can be delivered as video or GIF. Own-ad mode preserves the source style, while competitor-swap mode keeps the format skeleton but replaces the competitor's brand-specific elements. Three approval gates cover the extraction brief, the composed still, and audio/video generation. ^[raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
 
 ## Format and model thesis
 
@@ -50,3 +54,4 @@ Its main operational advantage is reduced coordination overhead: the operator ap
 - [[ai-animation-factory]] — broader modular animation-production pattern
 - [[ai-generated-ads]] — general AI-ad category
 - [[ai-ugc-ad-scaling-system]] — adjacent volume-testing and iteration system
+- [[ori-silver]] — source author of the static-to-animated variant

@@ -1,10 +1,10 @@
 ---
 title: Michel Lieben
 created: 2026-05-06
-updated: 2026-06-11
+updated: 2026-07-25
 type: entity
 tags: [person, b2b, content-creator, marketing, outbound, x-creator]
-sources: [raw/articles/xarticle-the-complete-guide-to-api-led-gtm-2051029582070141119.md, raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/michel-lieben-ai-lead-gen-agent-hermes-2051707320699396454.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-anatomy-of-a-linkedin-post-that-actually-gener-2059265591761055888.md]
+sources: [raw/articles/xarticle-the-complete-guide-to-api-led-gtm-2051029582070141119.md, raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/michel-lieben-ai-lead-gen-agent-hermes-2051707320699396454.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-anatomy-of-a-linkedin-post-that-actually-gener-2059265591761055888.md, raw/articles/xarticle-httpstcou687ybqcft-2080395750668927290.md]
 ---
 
 # Michel Lieben
@@ -27,6 +27,11 @@ Michel Lieben (@MichLieben) is the founder of [[coldiq]] and a B2B marketing ope
 ## 2026-06-11 Update
 
 The newer X article sharpens Michel's content thesis: on LinkedIn the image is the post, the body exists to convert scroll-stops into saves and DMs, and a compounding B2B content engine comes from reusable infographic formats rather than endless reinvention.
+
+
+## 2026-07-25 Link-post provenance
+
+- A local 2026-07-23 bookmark for @MichLieben is an export-failed bare shortened-URL post; the destination and topic are unavailable, so this records author-level link-post provenance only.^[raw/articles/xarticle-httpstcou687ybqcft-2080395750668927290.md]
 
 ## Related
 

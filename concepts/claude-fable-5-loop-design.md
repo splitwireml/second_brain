@@ -1,10 +1,10 @@
 ---
 title: Claude Fable 5 Loop Design
 created: 2026-06-11
-updated: 2026-07-16
+updated: 2026-07-25
 type: concept
 tags: [claude, workflow, reasoning, memory, agent, prompt-engineering]
-sources: [raw/articles/xarticle-designing-loops-with-fable-5-2064397389189071163.md, raw/articles/xarticle-a-field-guide-to-fable-finding-your-unknowns-2073100352921215386.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/thread-alex_prompter-2076727080402948561.md]
+sources: [raw/articles/xarticle-designing-loops-with-fable-5-2064397389189071163.md, raw/articles/xarticle-a-field-guide-to-fable-finding-your-unknowns-2073100352921215386.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
 related_entity: [[anthropic]]
 author: [[lance-martin]]
 ---
@@ -54,11 +54,17 @@ Amin's Google Ads workflow applies the same principle to copy. Instead of asking
 
 See [[ai-advertorial-workflow]] for the full six-block prompt architecture and the distinction between AI as production accelerator and the human's strategy layer.
 
+## Content-production configuration loop
+
+The local article adds a creator-media variant to the loop-design cluster: persist a JSON style/structure contract in a Claude Project, load reference transcripts and explicit failure-mode directives, then generate either a fictional script or a research-brief-grounded documentary script. A follow-up image-prompt pass and human selection of voice and visuals extend the loop beyond text generation. The article's model, throughput, monetization, and tool claims remain source-described. ^[raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
+
 ## Practical takeaway
 
 When models can self-correct and accumulate verified memory, the job of the operator shifts from handholding toward loop and context design: define the grader, the stop condition, the memory discipline, and the unknown-discovery artifacts that let Claude ask or investigate before guessing.
 
 ## Related
+
+- [[thegoldeenhand]]
 
 - [[anthropic]]
 - [[goal-primitive]]

@@ -1,10 +1,10 @@
 ---
 title: "AI 3D Scroll-Effect Websites"
 created: 2026-05-04
-updated: 2026-07-23
+updated: 2026-07-25
 type: concept
 tags: [3d-animation, ai, claude-code, kling, no-code, scroll-effect, website-design]
-sources: [raw/articles/2026-05-04-explorax-ai-3d-scroll-websites-2051261067339157657.md, raw/articles/explorax_-2051261067339157657.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
+sources: [raw/articles/2026-05-04-explorax-ai-3d-scroll-websites-2051261067339157657.md, raw/articles/explorax_-2051261067339157657.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/thread-0xKenny1st-2080369523765436623.md]
 ---
 
 # AI 3D Scroll-Effect Websites
@@ -67,9 +67,22 @@ Drop the animated assets into the generated site and deploy.
 
 See [[motion-website-service-playbook]] for the full productization workflow and validation questions.
 
+## Kenny1st's skill-pack variant
+
+A July 23, 2026 thread presents a shorter, reference-led variant of the workflow:
+
+1. Browse Pinterest or Dribbble for two or three motion or color references.
+2. Recreate the references as AI-generated images, then turn them into video.
+3. Put the skill pack into Cursor or another IDE and provide the video while requesting a 3D-scroll hero section.
+4. Let the skill supply the smooth-scroll logic and implementation practices instead of writing the scroll behavior from scratch.
+
+The thread's claim that this replaces custom scroll logic or animation-library learning, and its agency-price framing, remain source-described rather than independently verified. ^[raw/articles/thread-0xKenny1st-2080369523765436623.md]
+
 ## Related Concepts
 
+- [[0xkenny1st]] — source author of the skill-pack variant
 - [[ai-cinematic-website-design]] — Broader framework for AI-powered high-value website production
+- [[ai-website-production-loop]] — Reusable reference-to-assets-to-agent implementation loop
 - [[scroll-stopping-effect]] — The psychological mechanism this content leverages
 - [[claude-code]] — The coding agent used
 - [[kling]] — Video/animation model

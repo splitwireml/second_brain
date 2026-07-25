@@ -1,13 +1,13 @@
 ---
 title: "Landing Page Implementation Map: Animated, 3D, Cinematic, and 10k-Level"
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-07-25
 type: query
 tags: [landing-page, website, ui-design, design, conversion, workflow, prompt-engineering, 3d-animation, 3d, scroll-effect, animated-websites, framer-motion, video-generation, performance, ai-design, framework]
-sources: [raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md, raw/articles/prajwal-tomar-ai-cinematic-landing-page-2026-04-09.md, raw/articles/prajwal-tomar-landing-page-ai-workflow-2048742030466339120-2026-04-27.md, raw/articles/clear-graphics-vibe-coding-landing-pages-2051737941198647642.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md, raw/articles/bin-liu-hyperframes-remotion-detailed-2026-04-20.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md]
+sources: [raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md, raw/articles/prajwal-tomar-ai-cinematic-landing-page-2026-04-09.md, raw/articles/prajwal-tomar-landing-page-ai-workflow-2048742030466339120-2026-04-27.md, raw/articles/clear-graphics-vibe-coding-landing-pages-2051737941198647642.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/triverra-ai-travel-companion-hero-prompt.md, raw/articles/bin-liu-hyperframes-remotion-detailed-2026-04-20.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md, raw/articles/thread-0xKenny1st-2080369523765436623.md, raw/articles/thread-tranmautritam-2080583043929223469.md]
 question: "What is the detailed implementation map for animated, 3D, cinematic, and 10k-level landing pages, including levels, appropriateness, techniques, stack, and verification?"
 answer_status: answered
-related_pages: [ai-cinematic-website-design, landing-page-ai-workflow, ai-3d-scroll-websites, vibe-coding-landing-pages, ai-design-workflow, ai-travel-companion-landing-hero, above-the-fold-design, clear-graphics-yc-landing-page-framework, prompt-engineering-patterns, agentic-video-hyperframes, code-first-launch-video-production, ui-design, vibe-coding-in-production, html-native-design-skill, viral-product-principles]
+related_pages: [ai-cinematic-website-design, ai-website-production-loop, landing-page-ai-workflow, ai-3d-scroll-websites, vibe-coding-landing-pages, motion-website-service-playbook, ai-design-workflow, ai-travel-companion-landing-hero, above-the-fold-design, clear-graphics-yc-landing-page-framework, prompt-engineering-patterns, agentic-video-hyperframes, code-first-launch-video-production, ui-design, vibe-coding-in-production, html-native-design-skill, viral-product-principles]
 ---
 # Landing Page Implementation Map: Animated, 3D, Cinematic, and 10k-Level
 
@@ -20,6 +20,12 @@ What is the detailed implementation map for animated, 3D, cinematic, and 10k-lev
 The wiki does not contain one canonical “10k landing page” specification. It contains four overlapping tracks: conversion-first landing pages, reference-first premium builds, asset-first cinematic builds, and code-native motion/video. The recurring lesson is that the premium result comes from art direction, specificity, real assets, restrained motion, and verification—not from adding every available effect. ^[raw/articles/xarticle-how-to-build-a-10000-level-website-with-animations-2071246711222055363.md]
 
 “10k” is a commercial positioning label, not a technical or conversion benchmark. The sources report agency-equivalent pricing, speed, and cost claims, but those claims are not independently verified here.
+
+## July 21–25 update
+
+The recent ingest adds a reusable **AI Website Production Loop**: load design guidance, compress visual taste into a small set of section-specific references, write a constraint-rich brief, generate or supply real visual assets, build the page in layers, polish typography/spacing/motion/mobile separately, then deploy and reuse the production recipe. [[ai-website-production-loop]] synthesizes this recent material. ^[raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md] ^[raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
+
+The new motion branch is reference → AI image/video assets → skill-assisted 3D-scroll hero or agentic motion-site assembly. The new design-reference layer adds curated web, branding, editorial, logo, guideline, deck, and OG-image directories as the discovery input before implementation. These workflows and their agency-price, speed, and capability claims remain source-described rather than independently verified. ^[raw/articles/thread-0xKenny1st-2080369523765436623.md] ^[raw/articles/thread-tranmautritam-2080583043929223469.md]
 
 ## Level ladder
 

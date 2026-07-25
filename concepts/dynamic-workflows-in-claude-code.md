@@ -1,10 +1,10 @@
 ---
 title: Dynamic Workflows in Claude Code
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-07-25
 type: concept
 tags: [workflow, claude-code, orchestration, agent, tools]
-sources: [raw/articles/xarticle-a-harness-for-every-task-dynamic-workflows-in-clau-2061907337154367865.md, raw/articles/xarticle-how-to-master-dynamic-workflows-in-claude-code-6-p-2062127385923776831.md]
+sources: [raw/articles/xarticle-a-harness-for-every-task-dynamic-workflows-in-clau-2061907337154367865.md, raw/articles/xarticle-how-to-master-dynamic-workflows-in-claude-code-6-p-2062127385923776831.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
 related_entity: [[claude-code]]
 author: [[codez]]
 ---
@@ -32,6 +32,12 @@ The underlying harness uses three main execution shapes:
 - `pipeline()` for streaming stage-by-stage processing where items do not need to wait for the full batch
 
 The practical decision rule is simple: if the next step depends on every result, use parallel; if each item can keep flowing independently, use pipeline.
+
+## Graph dependency discipline
+
+The graph-engineering article gives the existing `agent()` / `parallel()` / `pipeline()` primitives a sharper design test: inspect the data and shared-resource boundary before choosing the execution shape. Independent nodes can fan out; a consolidation node should wait only on the results it actually needs; a shared write target is a hidden dependency even when prompts look unrelated.^[raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
+
+For large fan-outs, the source recommends layered synthesis instead of pushing every raw result into one context window: summarize bounded groups, then consolidate those summaries, and compare returned-node counts with expected counts before declaring the workflow complete. These controls extend the [[dynamic-workflows-in-claude-code]] patterns with explicit graph and failure accounting.^[raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
 
 ## Six recurring workflow patterns
 

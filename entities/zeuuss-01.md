@@ -1,10 +1,10 @@
 ---
 title: ZEUS
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-25
 type: entity
 tags: [person, x-creator, content-creator, ai-tools]
-sources: [raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
+sources: [raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-httpstcocbt3plngcn-2080408363507036432.md]
 ---
 
 # ZEUS
@@ -27,9 +27,14 @@ The article’s pricing, cost, performance, and platform-capability statements a
 - Reskin one codebase for multiple client sites.
 - Target businesses whose static sites leave product or conversion value unrealized.
 
+## Export-failed link-post provenance
+
+The July 23, 2026 local bookmark export preserved only Bird's failure marker and the shortened URL `https://t.co/cbt3plnGcN`; it adds author-level provenance for a bare-URL [[link-post]] without exposing a destination or topic. The local metadata records tweet ID `2080408363507036432`, 2 reposts, and 15 likes; those engagement values remain source metadata, not independently verified claims.^[raw/articles/xarticle-httpstcocbt3plngcn-2080408363507036432.md]
+
 ## Related
 
 - [[ai-3d-scroll-websites]]
 - [[higgsfield]]
 - [[claude-code]]
 - [[motion-website-service-playbook]]
+- [[link-post]] — recurring export-failed bare-URL provenance pattern

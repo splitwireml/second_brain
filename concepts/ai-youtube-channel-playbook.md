@@ -1,10 +1,10 @@
 ---
 title: AI YouTube Channel Playbook
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-07-25
 type: concept
 tags: [ai-video, video, content, content-strategy, content-automation, content-creator, marketing, youtube, framework, virality, x-article]
-sources: [raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
+sources: [raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
 related_entity: [[dmtr-btc]]
 ---
 
@@ -30,7 +30,13 @@ The framework separates **research**, **synthesis**, **production**, and **learn
 
 The author reports reaching monetization in under four months, 15k–40k views on the first ten system-made videos, and $3k–$6k/month in month six. These are source-reported results, not independently audited benchmarks. NotebookLM, Claude, channel sizes, retention figures, and production recommendations are likewise source-described workflow details, not verified platform guarantees.^[raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
 
+## Faceless story-channel variant
+
+A local X Article describes a more production-oriented branch of the playbook: keep one Claude Project per niche, encode chapter lengths, hooks, character state, cliffhangers, and voice directives in JSON, and load 2–3 competitor transcripts as a reference library. Fiction uses a one-line title prompt; documentary work starts with a research brief containing dates, names, timelines, quotes, and citations, followed by script generation and 18 image prompts. This extends the existing research/synthesis loop with a concrete output contract, but the source's capability, speed, revenue, and publish-ready claims are not independently verified. ^[raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
+
 ## Related
+
+- [[thegoldeenhand]]
 
 - [[dmtr-btc]] — source author and operator of the playbook
 - [[youtube]] — research surface and long-form publishing platform

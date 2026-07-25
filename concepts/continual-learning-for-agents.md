@@ -1,16 +1,18 @@
 ---
 title: Continual Learning for Agents
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-25
 type: concept
 tags: [ai-agent, evaluation, benchmark, vibe-coding, reliability]
-sources: [raw/articles/xarticle-continual-learning-for-agents-2074118901143679414.md]
+sources: [raw/articles/xarticle-continual-learning-for-agents-2074118901143679414.md, raw/articles/thread-leerob-2080467752897146898.md]
 related_entity: [[michele-catasta]]
 ---
 
 # Continual Learning for Agents
 
 Continual learning for production agents does not have to mean updating model weights. For teams building on closed frontier models, the learnable surface is the **harness** around the model and the **context** fed into future runs: prompts, tools, instructions, product workflows, memories, and evaluation datasets can all be improved from production evidence. ^[raw/articles/xarticle-continual-learning-for-agents-2074118901143679414.md]
+
+Lee Robinson's helpful-colleague analogy makes the boundary explicit: pretraining, SFT, and RL shape the model during training, while current conversations do not update model intelligence in real time. Until runtime learning is more capable, agents carry improvement forward through rules, skills, and other context files; that is useful persistent context, not weight-level learning. ^[raw/articles/thread-leerob-2080467752897146898.md]
 
 ## Replit Agent Pattern
 
@@ -37,3 +39,5 @@ The source is explicit that autonomous improvement does not remove human taste. 
 - [[vibe-coding-in-production]]
 - [[generation-evaluation-gap]]
 - [[agent]]
+- [[leerob]]
+- [[training]]
