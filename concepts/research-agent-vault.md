@@ -1,10 +1,10 @@
 ---
 title: Research Agent Vault
 created: 2026-05-05
-updated: 2026-07-16
+updated: 2026-07-26
 type: concept
 tags: [agent, ai-agent, memory, orchestration, research, workflow-automation]
-sources: [raw/articles/xarticle-i-run-6-ai-agents-only-this-one-makes-the-other-5--2051275483996909982.md, raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+sources: [raw/articles/xarticle-i-run-6-ai-agents-only-this-one-makes-the-other-5--2051275483996909982.md, raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md, raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
 related_entity: [[hermes-agent]]
 author: [[gkisokay]]
 ---
@@ -142,6 +142,12 @@ A research system should make the next decision easier.
 The interview with [[exm7777]] supplies a concrete operator use case for the vault: spend on deep, multiphase research; combine references from papers, blogs, videos, and marketing material to give the agent better taste; then turn the resulting brief into content, offers, and outreach. The source reports this as an operating practice, not an independently measured performance result.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 
 It also recommends a second, high-signal feed and side-running research agents rather than letting the main feed define the operator's worldview. That fits the vault's bounded source-plan and decision-support purpose, and connects it to [[content-os]] and [[hermes-agent-income-system]].^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+
+## Opportunity-signal research engine
+
+A July 2026 source by [[maxxmalist]] shows a creator-facing variant of the vault: a folder of Markdown files defines source plans (`reddit`, `quora`, X, YouTube, GitHub, papers, forums), signal rules, a kill list, scoring, clustering prompts, and output queues. The agent returns scored opportunities rather than an undifferentiated link pile. The source is a practical workflow description, not an independently measured product or research benchmark.^[raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
+
+Its core pipeline is `HARVEST → CLUSTER → SCORE → ROUTE`: collect raw complaints and questions without judging, group them by underlying problem, score pain/frequency/money/openness/speed, and route high-scoring themes into a content engine. This complements the vault's raw → finding → claim → verified-knowledge stages by adding a demand-discovery lane; the source's reported weekly cadence and output claims remain source-described.^[raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
 
 ## Quality Gates
 

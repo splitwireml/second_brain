@@ -1,10 +1,10 @@
 ---
 title: AI UGC Ad Scaling System
 created: 2026-04-13
-updated: 2026-07-22
+updated: 2026-07-26
 type: concept
 tags: [automation, genai, marketing, method, monetization]
-sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
+sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md]
 related_entity: [[makeugc]]
 author: [[stijn-feijen]]
 ---
@@ -62,6 +62,12 @@ These are source claims, not verified performance results.
 - Does MakeUGC expose enough performance data to support systematic creative learning loops?
 - Is [[seedance-2-0]] materially better than other AI video models for direct-response ads, or just the model bundled into this stack?
 - Which product categories actually tolerate fully AI-generated UGC without hurting trust or conversion?
+
+## Long-form podcast-style creative
+
+The local [[ceo-vlad]] article extends this volume-and-testing model beyond short UGC clips into two-person podcast-style ads. [[claude]] supplies dialogue and 20 hook variations; [[infinite-ugc]] generates a longer scene, while its Nebula agent adds B-roll, product shots, captions, and a reply-to-comment overlay. The source's revenue, cost, and performance claims remain unverified. ^[raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md]
+
+The format still follows the same operating thesis: make many hooks, batch-test them on Meta and TikTok, read CTR before hold rate and ROAS, and iterate on the winners. [[ai-podcast-ads]] captures this as a reusable format rather than a separate scaling philosophy.
 
 ## Related pages
 

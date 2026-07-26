@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-25 | Total pages: 1147
+> Last updated: 2026-07-26 | Total pages: 1152
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -97,6 +97,7 @@
 [[career-ops]] — title: Career-Ops
 [[carreport]] — planned U.S. used-car background-information web app and digital product.
 [[caveman-claude-skill]] — title: Caveman Claude Skill
+[[ceo-vlad]] — CEO Vlad (@CEO_Vlad), X creator documenting AI podcast-style ecommerce ads, Claude-assisted hooks, and high-volume creative testing.
 [[chatterbox]] — title: Chatterbox
 [[chewadot]] — X creator publishing operator-style Claude + Obsidian essays focused on self-filing vaults, raw-note immutability, and graph-building workflows.
 [[cjzafir]] — title: "CJ Zafir"
@@ -229,6 +230,7 @@
 [[iii-sandbox]] — title: iii-sandbox
 [[impeccable]] — design-oriented skill/harness extension described as a system of review, routing, state, hooks, browser interaction, and model-aware gates.
 [[indu-tripathi]] — title: Indu Tripathi
+[[infinite-ugc]] — source-described AI UGC ad-production tool for long-form two-person podcast scenes, captions, product shots, and multi-scene cuts.
 [[ingest-anything]] — title: ingest-anything
 [[insomnia-vip]] — title: insomniavip
 [[itsalexvacca]] — title: itsalexvacca
@@ -289,6 +291,7 @@
 [[maverick-creative]] — title: Maverick Creative
 [[maxfusion-ai]] — MaxFusion AI, an AI advertising/video-production platform with a source-described MCP execution layer.
 [[maxwellcopy-ecommerce-funnel]] — title: maxwellcopy-ecommerce-funnel
+[[maxxmalist]] — MAX (@maxxmalist), X creator who describes a Markdown-folder AI research engine for mining unmet demand and routing scored opportunities into content.
 [[mem0ai]] — title: mem0
 [[mengto]] — title: MengTo
 [[mercury-agent]] — title: Mercury Agent
@@ -297,6 +300,7 @@
 [[michel-lieben]] — Michel Lieben — ColdIQ founder documenting API-led GTM, folder-native Claude Code workflows, and recurring export-failed bare-URL link-post provenance.
 [[michele-catasta]] — Replit AI leader and X author writing about continual-learning loops for coding agents.
 [[MichLieben]] — title: "Michel Lieben"
+[[mightyking]] — X creator @mightyking identified in the local source as Stav Zilbershtein; source-described AI static-ad animation workflows.
 [[minimax]] — title: MiniMax
 [[minimax-m27]] — title: MiniMax-M2.7
 [[mitchell]] — tech launch-video operator documenting Claude-assisted viral launch systems, proof-window editing rules, and hook-first product demos.
@@ -570,6 +574,7 @@
 [[ai-native-services-agency]] — services-as-software model where AI handles repetitive delivery and humans own strategy, proof, and client judgment.
 [[ai-persona-agency-stack]] — title: AI Persona Agency Stack
 [[ai-persona-marketing]] — title: AI Persona Marketing
+[[ai-podcast-ads]] — source-described long-form two-person AI UGC ad format using native podcast framing, dialogue hooks, and volume testing.
 [[ai-productivity]] — title: AI Productivity
 [[ai-review-management-service]] — title: AI Review Management Service
 [[ai-side-hustle-models]] — title: AI Side Hustle Models

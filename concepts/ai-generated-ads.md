@@ -1,10 +1,10 @@
 ---
 title: AI-Generated Ads
 created: 2026-06-07
-updated: 2026-07-25
+updated: 2026-07-26
 type: concept
 tags: [ai-content, marketing, paid-ads, video-generation]
-sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
+sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md, raw/articles/xarticle-the-free-skill-that-turns-static-ads-into-stop-mot-2080301976919707660.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md]
 related_entity: [[ai-ugc]]
 ---
 
@@ -32,9 +32,17 @@ The supplied MakeUGC workflow adds a direct-response variant: upload a competito
 
 The [[ori-silver]] source describes a distinct creative-reformatting path: take a static whose hook, layout, and offer already work, then add motion without changing the locked shot. The six-second result can be delivered as video or GIF, with approval gates before extraction, the final still, and generation. Its competitor-swap mode is framed as borrowing layout logic while replacing brand-specific content, not cloning; rights, platform safety, and performance transfer remain open questions. ^[raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
 
+A second local source attributed to [[mightyking]] repeats the same static-to-animated branch, emphasizing layer extraction, a build order, handmade stop-motion timing, stop-motion sound effects, and a no-voice output that can be delivered as video or GIF. The “free skill” and platform claims remain source-described rather than independently verified. ^[raw/articles/xarticle-the-free-skill-that-turns-static-ads-into-stop-mot-2080301976919707660.md]
+
 ## Quality constraints
 
 For paper-collage / Vox-style explainers, legible on-screen text, stable narration, cross-clip visual continuity, and reroll cost are not secondary polish—they are the format's core constraints. The source claims Google Omni Flash handles these better and faster than Seedance; that comparison remains unverified.
+
+## Podcast-style native ad variant
+
+The [[ceo-vlad]] source describes a long-form AI UGC variant built to resemble a native podcast clip: two people discuss a product, a skeptic voices objections, and the product enters as a conversational recommendation. [[claude]] writes the dialogue and hooks; [[infinite-ugc]] generates the multi-scene video and adds B-roll, product shots, captions, and a soft CTA. These are source-described capabilities and claims, not independently verified product or performance findings. ^[raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md]
+
+The method is summarized in [[ai-podcast-ads]] and complements the reference-remake, advertorial, and static-to-animated branches already tracked on this page.
 
 ## Related
 
@@ -46,3 +54,4 @@ For paper-collage / Vox-style explainers, legible on-screen text, stable narrati
 - [[claude-fable-5-loop-design]]
 - [[maxfusion-ai]]
 - [[ori-silver]]
+- [[mightyking]]

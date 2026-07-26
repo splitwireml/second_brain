@@ -1,10 +1,10 @@
 ---
 title: content-strategy
 created: 2026-05-10
-updated: 2026-07-24
+updated: 2026-07-26
 type: concept
 tags: [content, content-strategy, marketing]
-sources: [raw/articles/thread-gurnoor__-2075063658523312256.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md, raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
+sources: [raw/articles/thread-gurnoor__-2075063658523312256.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md, raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
 related_entity: [[gurnoor]]
 ---
 
@@ -35,6 +35,12 @@ This source-specific pattern is expanded in [[reader-attention-hooks]] and linke
 Dmitry's article contributes a concrete research-to-script layer for YouTube strategy: apply three niche tests, study 3–5 reference channels, derive Curiosity/Retention/Story/Topic Bibles plus a Visual Bible, merge them into a Master Bible, and update that document from comments and analytics after each upload. The reported channel results remain source claims, not verified benchmarks.^[raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md]
 
 This complements the page's cross-platform cadence model by making the upstream intelligence and iteration loop explicit. See [[ai-youtube-channel-playbook]], [[dmtr-btc]], and [[youtube]].
+
+## Demand-mining upstream
+
+MAX's source describes upstream intelligence for content: maintain a Markdown research-engine folder that watches Reddit, Quora, X, YouTube, GitHub, papers, and forums; filter for unsatisfied demand; cluster repeated complaints; score themes; and pass top opportunities into a downstream content engine. The original language of people describing their problems is retained as hook material. This is source-described workflow guidance, not a verified guarantee of reach or conversion.^[raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
+
+This connects [[content-strategy]] to the evidence and routing discipline of [[research-agent-vault]], while [[maxxmalist]]'s workflow remains distinct from the page's later-stage publishing cadence.^[raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
 
 ## See Also
 - [[ai-youtube-channel-playbook]] — research-first long-form YouTube workflow

@@ -1,10 +1,10 @@
 ---
 title: Chat-to-Animated-Ad Pipeline
 created: 2026-07-11
-updated: 2026-07-25
+updated: 2026-07-26
 type: concept
 tags: [ai-generated-ads, video-generation, ai-tools, mcp, automation, content-automation, workflow, marketing]
-sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
+sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md, raw/articles/xarticle-the-free-skill-that-turns-static-ads-into-stop-mot-2080301976919707660.md]
 related_entity: [[maxfusion-ai]]
 author: [[stav-zilber]]
 ---
@@ -28,6 +28,8 @@ The source describes Claude as the conversational controller and [[maxfusion-ai]
 
 A source by [[ori-silver]] describes a related shorter-format branch: start from a proven static and animate the same composition in one locked six-second shot, with pieces landing in handmade stop-motion; the result can be delivered as video or GIF. Own-ad mode preserves the source style, while competitor-swap mode keeps the format skeleton but replaces the competitor's brand-specific elements. Three approval gates cover the extraction brief, the composed still, and audio/video generation. ^[raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md]
 
+A second local source attributed to [[mightyking]] describes the same branch as a free static-ad-animator skill: it separates a proven static into layers, assigns a build order, preserves the source creative in own-ad mode, and returns a six-second stop-motion video or GIF after approval gates. It adds explicit stop-motion sound effects and a no-voice workflow. These are source-described capabilities and promotion, not independently verified availability or performance. ^[raw/articles/xarticle-the-free-skill-that-turns-static-ads-into-stop-mot-2080301976919707660.md]
+
 ## Format and model thesis
 
 The target format is a paper-collage explainer: torn-paper edges, cutout lettering, flat illustrated scenes, arrows, and on-screen labels. It can be run as a faceless explainer or with a mascot/character host, and the source positions it as paid creative for apps, supplements, and other products that benefit from a “show how this works” explanation.
@@ -49,9 +51,10 @@ Its main operational advantage is reduced coordination overhead: the operator ap
 ## Related
 
 - [[maxfusion-ai]] — execution platform named by the source
-- [[stav-zilber]] — source author
+- [[stav-zilber]] — existing source author for the original conversational workflow
+- [[mightyking]] — additional local source attribution; handle differs from [[stav-zilber]]
 - [[claude]] — conversational orchestration layer
 - [[ai-animation-factory]] — broader modular animation-production pattern
 - [[ai-generated-ads]] — general AI-ad category
 - [[ai-ugc-ad-scaling-system]] — adjacent volume-testing and iteration system
-- [[ori-silver]] — source author of the static-to-animated variant
+- [[ori-silver]] — source author of the earlier static-to-animated variant

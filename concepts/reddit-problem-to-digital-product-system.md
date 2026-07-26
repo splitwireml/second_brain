@@ -1,10 +1,10 @@
 ---
 title: Reddit Problem-to-Digital Product System
 created: 2026-07-07
-updated: 2026-07-15
+updated: 2026-07-26
 type: concept
 tags: [business-models, monetization, ai-content, content-automation]
-sources: [raw/articles/xarticle-23000-last-month-ctrl-c-ctrl-v-2074140663927755082.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md]
+sources: [raw/articles/xarticle-23000-last-month-ctrl-c-ctrl-v-2074140663927755082.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
 related_entity: [[whotfiszackk]]
 author: [[whotfiszackk]]
 ---
@@ -50,6 +50,10 @@ The latest source applies the same complaint-mining loop to Spanish-language Red
 - **Source-claimed:** three example pages generated $23,989 last month: bookkeeping pricing ($9,234), lawn care systems ($6,566), and landlord operations ($7,189). These figures are not independently audited.
 - **Likely:** the workflow is directionally consistent with [[niche-specificity-digital-product]] and [[offer-traffic-digital-asset-framework]]: identify a specific audience/problem, create an offer, and feed it traffic/content.
 - **Speculative:** that "Reddit will always have angry people describing problems" is sufficient moat or dependable distribution; platform quality, niche intent, and account trust can vary.
+
+## Cross-platform signal-mining variant
+
+MAX's source generalizes complaint mining beyond Reddit: each platform is assigned a role, then raw signals are filtered, clustered, scored across pain/frequency/money/openness/speed, and routed into content or product ideas. Reddit remains the raw-complaint source in its examples, but the workflow also uses Quora, X, YouTube, GitHub, papers, and niche forums. This broadens the page's demand-screening logic without replacing its Reddit-first product-packaging example.^[raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
 
 ## Relationship to existing concepts
 
