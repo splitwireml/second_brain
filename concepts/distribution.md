@@ -1,10 +1,10 @@
 ---
 title: Distribution
 created: 2026-05-19
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [business, marketing, monetization, distribution, distribution-strategy, content-strategy]
-sources: [raw/articles/xarticle-how-to-start-a-67-figure-solo-ai-business-in-2026--2055559252744290358.md, raw/articles/user-dms-distributionmaxxing-2026-07-10.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md]
+sources: [raw/articles/xarticle-how-to-start-a-67-figure-solo-ai-business-in-2026--2055559252744290358.md, raw/articles/user-dms-distributionmaxxing-2026-07-10.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md, raw/articles/xarticle-the-full-distribution-roadmap-2081513372617765197.md]
 confidence: medium
 related_entity: [[content-strategy]]
 ---
@@ -116,6 +116,12 @@ The new zack source describes distribution as answering an active question rathe
 
 This is a higher-stakes version of content-led offer validation. Community participation must respect platform rules and avoid fear-based targeting; useful content is not evidence that the paid guide will produce employment outcomes. The related product framework is [[ai-displacement-career-pivot-info-products]].
 
+## Five-stage channel architecture
+
+The latest zack article turns the page's broader “distribution before product” thesis into a staged architecture: **foundation → community → owned audience → search → multiplication**. The handoff chain is explicit: acute-pain targeting determines positioning, proof, and a useful free resource; community and search send people to that resource; the resource captures email; a day 0/2/4/6/8 trust sequence leads to the offer; customer results create referral and partnership inputs; successful material is reused across channels. ^[raw/articles/xarticle-the-full-distribution-roadmap-2081513372617765197.md]
+
+The article's concrete routines—four non-promotional community weeks, two or three meaningful daily contributions, two to three weekly emails after onboarding, twelve acute-pain search answers, referral outreach after 30 customers, and ten initial partner targets—are preserved in [[five-stage-distribution-roadmap]]. Its conversion examples and two-to-six-month maturity claims remain source-described rather than verified benchmarks.
+
 ## Evidence Layers
 
 - **Confirmed:** The user-provided sources explicitly argue that audience ownership makes product selection more observable and that distribution should precede checkout optimization; the local faceless-portfolio article is preserved verbatim at `raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md`.
@@ -141,3 +147,4 @@ This is a higher-stakes version of content-led offer validation. Community parti
 - [[faceless-account-cold-start-distribution-problem]]
 - [[faceless-x-growth-loop]]
 - [[dormant-account-distribution-arbitrage]]
+- [[five-stage-distribution-roadmap]]

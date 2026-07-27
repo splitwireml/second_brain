@@ -1,10 +1,10 @@
 ---
 title: "Claude Cowork SEO System"
 created: 2026-03-25
-updated: 2026-07-20
+updated: 2026-07-27
 type: concept
 tags: [tools, agent, local-seo, marketing, monetization]
-sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md]
+sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md, raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
 ---
 
 # Claude Cowork SEO System
@@ -100,6 +100,38 @@ A later source from [[bloggersarvesh]] compresses the broader system into eight 
 5. **Execution:** post consistently, upload photos weekly, and respond to every review.
 
 The source's proposed cadence is week 1 foundation, week 2 listing, week 3 reviews, week 4 content, and week 5 onward execution. It says Claude should gather and structure evidence while a human decides which signals matter commercially and what action to take. ^[raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md]
+
+## Public website extension: 22-prompt library
+
+The public Alventra page publishes a longer version of the system as "Top 22 Claude Prompts For SEO." It preserves the same context-first architecture but makes the interfaces, input files, output formats, and audit thresholds explicit. The page's first 20 prompts map onto the existing table above; prompts 21 and 22 add deep on-page and backlink-gap workflows. ^[raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+
+### Context bootstrap and handoffs
+
+Before prompting, the operator loads a folder containing business name, address, phone, website, GBP URL, service areas, target keywords, current GBP details, and one GBP file per competitor. A separate prompt-library file is kept for each SEO task. Claude Cowork uses that context while Chrome/Google Maps and the GBP, SEMrush, Search Console, Ahrefs, Wikidata, Rich Results Test, WordPress, and analytics surfaces supply evidence. The intended output is usually a spreadsheet or prioritized action list, not generic prose. ^[raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+
+### Prompt 21 — detailed on-page SEO audit
+
+The site supplies an exact audit prompt for one target URL and keyword. It benchmarks against the top five Google results and requires:
+
+- title under 60 characters, keyword-led with a hook;
+- meta description under 155 characters, natural keyword use and CTA;
+- short keyword-bearing URL slug, with a redirect/301 decision when wrong;
+- exactly one intent-matched H1 and a corrected H2/H3 outline;
+- first-100-word, paragraph-length, keyword-usage, entity-coverage, thin-section, fluff, and CTA analysis;
+- image counts/alt text/file names, internal and external links, LocalBusiness/Article/FAQ/Breadcrumb/Review schema, Open Graph/Twitter cards, word-count gap, table of contents, and featured-snippet opportunities;
+- a scorecard plus a WordPress/Gutenberg fix checklist with exact click paths, copy to paste, time, and High/Medium/Low impact.
+
+The prompt explicitly bans generic advice and tells the agent to report blocked, paywalled, or JavaScript-rendered evidence instead of guessing. ^[raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+
+### Prompt 22 — backlink-gap audit
+
+The site also supplies an Ahrefs workflow for estimating the page-level referring-domain target for a keyword. It starts in Ahrefs Keywords Explorer with country set to the United States, records KD, US/global volume, traffic potential, and the top 10 organic SERP rows, then drills into five normal competitor pages. Each backlink report is scoped to Exact URL and filtered to dofollow, one link per domain, English, all platforms, sorted by DR. ^[raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+
+The required analysis captures referring-page URL, domain, DR, anchor text, first-seen date, link type, page backlinks, page-level referring domains, and organic traffic. It buckets referring domains into DR 70+, 50–69, 30–49, and 0–29; reports mean and median referring domains; sets a target from the median plus a 10–15% buffer; checks PBN/paid-link/expired-domain patterns; and returns the 15 domains linking to at least two competitors. The prompt also specifies 3–5 second pacing between competitor drill-downs, a 60-second retry after rate limits, no CSV exports unless requested, screenshots per competitor, and stop conditions for fewer than five usable results, KD above 80, or structurally uncompetitive branded SERPs. ^[raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+
+### Version drift
+
+The X Article labels the stack a 20-part system, while the public page labels it 22 prompts. The website's later 12-week usage order still enumerates prompts 1–20 and does not place prompts 21–22, so the expanded count is confirmed as a source version but its execution placement remains unspecified. The page's ranking, speed, review-effect, and revenue outcomes are source claims, not independently verified results. ^[raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
 
 ## Evidence and caveats
 

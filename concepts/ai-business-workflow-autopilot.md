@@ -1,10 +1,10 @@
 ---
 title: AI Business Workflow Autopilot
 created: 2026-04-25
-updated: 2026-06-14
+updated: 2026-07-27
 type: concept
 tags: [ai-automation, business, productivity, workflow-automation]
-sources: [raw/articles/khairallah-ai-business-workflow-autopilot-2026-04-25.md]
+sources: [raw/articles/khairallah-ai-business-workflow-autopilot-2026-04-25.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 related_entity: [[khairallah-al-awady]]
 ---
 
@@ -59,6 +59,12 @@ Three metrics per workflow:
 - **Quality score** — sample 10% of outputs weekly
 
 Monthly: fix lowest-scoring workflow. Quarterly: assess new AI capabilities.
+
+## Machina's five-lane operating overlay
+
+Machina's source supplies a concrete lane decomposition for the same operational layer: content, projects, outreach, finance, and ads. The fastest path puts one channel per lane in Slack or Microsoft Teams, pins the business context and escalation rules, and uses [[viktor]]'s managed connectors and scheduled jobs; the outreach lane is intentionally denied any sending tool. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
+The source preserves exact human gates and outputs: content researches X over 14 days, then drafts 5 posts and 1 thread; projects posts a weekly plan and every-workday 8:00 standup under 8 lines; outreach researches 10 businesses and drafts first touches for the top 5, with nothing sent; finance drafts but never finalizes invoices and posts Friday 16:00 issued/paid/overdue summaries under 10 lines; ads proposes 2 audiences and 2 angles per audience, then builds everything PAUSED after explicit go. The operating overlay adds two daily review windows, a hard monthly spend cap, and quote-before-execute. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 
 ## Relationship to Existing Concepts
 

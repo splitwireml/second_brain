@@ -1,10 +1,10 @@
 ---
 title: Claude-Obsidian Second Brain Stack
 created: 2026-06-27
-updated: 2026-07-08
+updated: 2026-07-27
 type: concept
 tags: [agent, workflow, memory, knowledge-management, obsidian, pkm, second-brain]
-sources: [raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md, raw/articles/xarticle-this-ai-brain-will-make-you-so-smart-its-almost-un-2070848134209556898.md, raw/articles/xarticle-the-self-writing-vault-8-rules-for-pointing-claude-2071564521735684253.md, raw/articles/xarticle-your-second-brain-is-useless-until-ai-maintains-it-2073375316840415716.md]
+sources: [raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md, raw/articles/xarticle-this-ai-brain-will-make-you-so-smart-its-almost-un-2070848134209556898.md, raw/articles/xarticle-the-self-writing-vault-8-rules-for-pointing-claude-2071564521735684253.md, raw/articles/xarticle-your-second-brain-is-useless-until-ai-maintains-it-2073375316840415716.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 related_entity: [[moysei]]
 ---
 
@@ -82,9 +82,15 @@ Operationally, this strengthens the Karpathy-inspired `raw/` + `wiki/` split alr
 - The Porto case study in Chewa's article is anecdotal and unverified in the raw export.
 - The exact subscription pricing claim for Claude Pro from the first source was not independently verified during this ingest.
 
+## Machina's business-vault variant
+
+Machina's source narrows the Obsidian role from generic second brain to a business brain shared by interchangeable specialists. Its five note clusters are **offer** (what is sold, pricing, included and out of scope), **client** (buyers, verticals, qualified-lead definition), **voice** (writing style, forbidden words, best-work examples), **playbooks** (stage-by-stage project checklists), and **rulings** (decisions that should never be re-argued). Every correction adds one line to rulings, and every agent reads it before work; the pinned context message in the out-of-the-box [[viktor]] path is this vault in miniature. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
+The source also makes identity/memory separation operational: each custom specialist has a durable identity file, only the needed vault slice, bounded job memory, and a schedule/gate. This complements the existing raw/processed split and scheduled maintenance here without merging Machina's Slack/Microsoft Teams, managed-connector, or five-lane workflow into the other Obsidian stacks. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
 ## Related
 
-- [[obsidian-ai-second-brain]] — broader concept page for the recurring pattern
+- [[obsidian-ai-second-brain]] — broader pattern
 - [[obsidian-knowledge-vault-system]] — adjacent implementation with stronger capture and automation emphasis
 - [[obsidian-vault-as-agent-context-source]] — narrower pattern focused on exposing a vault to an agent
 - [[obsidian-vault-intelligence]] — adjacent argument that vault value comes from retrieval and synthesis rather than collection alone

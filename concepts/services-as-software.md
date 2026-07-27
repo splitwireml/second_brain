@@ -1,10 +1,10 @@
 ---
 title: Services-as-Software
 created: 2026-04-29
-updated: 2026-07-22
+updated: 2026-07-27
 type: concept
 tags: [agency, ai-services, business-models, monetization, outbound]
-sources: [raw/articles/xarticle-how-to-build-a-one-person-services-as-software-com-2048486401105358933.md, raw/articles/thread-21xFORTUNA-2078982946707435591.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+sources: [raw/articles/xarticle-how-to-build-a-one-person-services-as-software-com-2048486401105358933.md, raw/articles/thread-21xFORTUNA-2078982946707435591.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 related_entity: [[alex-vacca]]
 author: [[alex-vacca]]
 ---
@@ -76,6 +76,12 @@ A local X Article by [[whotfiszackk]] supplies a concrete near-term version of s
 The source lists content systems, local-business lead generation, personal-brand video scripting, and e-commerce email marketing as candidate offers, with claimed pricing that puts $10k/month at three to six clients. These offer prices and revenue calculations are source-reported, not independently verified. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
 
 Its go-to-market sequence begins with 30 warm contacts and referral asks, then uses the first client result as a case study before adding cold outreach. That gives the outcome-selling model a lower-risk starting motion than immediately blasting high-volume cold email, while preserving the existing [[outbound]] and [[distribution]] layers. ^[raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md]
+
+## Machina's five-lane outcome-delivery system
+
+Machina's source provides a concrete services-as-software operating variant: let proven software handle Stripe billing, CRM pipeline, booking-tool scheduling, and Meta ad delivery while an AI worker applies the business knowledge of clients, pricing, qualified leads, escalations, and delivery. The source-described [[viktor]] route puts the worker in Slack or Microsoft Teams, connects managed tools, and runs scheduled jobs through five channels: content, projects, outreach, finance, and ads. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
+This is an outcome system rather than an unconstrained assistant. Content researches X for the last 14 days and drafts 5 posts plus 1 thread; projects posts 8:00 standups under 8 lines; outreach researches 10 businesses and drafts the top 5 with no sending tool; finance drafts invoices but never finalizes them and posts Friday 16:00 summaries under 10 lines; ads proposes 2 audiences and 2 skeptical-of-AI angles per audience and keeps campaigns PAUSED until explicit go. The operator reviews twice daily, sets a monthly spend cap, and requires quote-before-execute. Viktor's claimed $100 free-credit offer is source-described and unverified. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 
 ## Related
 

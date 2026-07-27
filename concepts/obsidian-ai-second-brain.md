@@ -1,10 +1,10 @@
 ---
 title: "Obsidian AI Second Brain"
 created: 2026-04-14
-updated: 2026-06-27
+updated: 2026-07-27
 type: concept
 tags: [agent, method, productivity]
-sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md, raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md]
+sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md, raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 ---
 
 # Obsidian AI Second Brain
@@ -67,6 +67,10 @@ A later X Article by [[moysei]] pushes this pattern from vague "AI second brain"
 - **Scheduled 7 a.m. maintenance** to ingest new material, flag stale notes, and write an overnight change summary
 
 See [[claude-obsidian-second-brain-stack]] for the distilled framework page.
+
+## Machina's business-vault specialization
+
+Machina's source uses the same local Markdown principle for a business vault: offer, client, voice, playbooks, and rulings are separate fact clusters; every correction becomes a standing line in rulings; and each specialist receives only the relevant vault slice. In the source-described out-of-the-box path, Viktor's pinned lane context is the vault in miniature; in the custom path, an identity file stays separate from bounded memory. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 
 ## Evidence Layers
 

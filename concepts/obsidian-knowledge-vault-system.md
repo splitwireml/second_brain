@@ -1,10 +1,10 @@
 ---
 title: Obsidian Knowledge Vault System
 created: 2026-05-09
-updated: 2026-06-11
+updated: 2026-07-27
 type: concept
 tags: [automation, claude, feedback-loop, knowledge-management, obsidian, pkm, productivity, second-brain]
-sources: [raw/articles/xarticle-cyrilXBT-2052235121416188114.md, raw/articles/xarticle-how-to-use-obsidian-vellum-to-build-a-second-brain-2059461814333673705.md]
+sources: [raw/articles/xarticle-cyrilXBT-2052235121416188114.md, raw/articles/xarticle-how-to-use-obsidian-vellum-to-build-a-second-brain-2059461814333673705.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 related_entity: [[cyrilXBT]]
 author: [[cyrilXBT]]
 ---
@@ -52,6 +52,10 @@ The expanded system runs as recurring workflows rather than ad hoc searches:
 - **Project-specific research** — read the whole vault through the lens of one current build or decision
 
 ## Related Concepts
+
+## Machina's five-cluster business brain
+
+Machina's source supplies a business-specific information architecture for the local vault: offer, client, voice, playbooks, and rulings. The rulings note stores one line per correction so it is not re-argued, and every agent reads it before work. The source pairs this shared Markdown brain with one-agent/one-job decomposition and per-specialist knowledge-base slices rather than a single giant prompt. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 
 - [[second-brain]] — the broader PKM concept
 - [[obsidian-vault-intelligence]] — the higher-level thesis that a vault should generate insights, not just store notes

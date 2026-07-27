@@ -1,10 +1,10 @@
 ---
 title: Agent SaaS Playbook
 created: 2026-07-07
-updated: 2026-07-16
+updated: 2026-07-27
 type: concept
 tags: [ai-agent, business-models, services-as-software, workflow, monetization, ai-business]
-sources: [raw/articles/xarticle-agents-are-the-new-saas-heres-the-whole-playbook-2072451543073439905.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+sources: [raw/articles/xarticle-agents-are-the-new-saas-heres-the-whole-playbook-2072451543073439905.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 related_entity: [[startupideaspod]]
 ---
 
@@ -92,6 +92,12 @@ Isenberg also describes model chaining, reusable markdown skills, and specialize
 [[exm7777]] recommends starting an agent business with a research system: monitor a niche, competitors, and useful sources continuously, deliver a morning brief, and let that evidence feed content, offers, and outreach. Autonomy is earned by reviewing the system's work; each task that repeatedly needs no change can move into the system's ownership. This is a complementary path to the playbook's workflow-first autonomy ladder.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
 
 The source also favors one niche and one business model for roughly three months before rotating or tweaking. That makes the customer and workflow selection criteria above more operational: narrow focus creates the repetition needed to discover breakage points and safely productize the service.^[raw/articles/xarticle-how-creators-can-actually-grow-their-business-with-2077109780498227601.md]
+
+## Machina's one-agent/one-job implementation
+
+Machina's custom build is a concrete execution layer for this playbook: reject one giant assistant with one enormous prompt; use one agent for one job, with a researcher that only researches, a writer that only writes, and a reviewer who is never the author. Each specialist contains an identity file (scope and things it must never do), a slice of the business knowledge base, bounded memory, and a schedule/gate that decides which outputs wait for approval. Identity and memory stay separate so a passing fact cannot rewrite the agent's role. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
+The source's out-of-the-box path uses [[viktor]] in Slack or Microsoft Teams with managed connectors and scheduled jobs across content, projects, outreach, finance, and ads. Its workflow-before-autonomy boundaries are exact: 5 posts plus 1 thread from the last 14 days of X research; 8:00 under-8-line standups; 10 researched businesses and top-5 outreach drafts with no sending; draft invoices never finalized plus Friday 16:00 finance summaries; and PAUSED ad campaigns requiring explicit go. The human reviews in two daily windows, sets a monthly spend cap, and requires quote-before-execute. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 
 ## Evidence Layers
 

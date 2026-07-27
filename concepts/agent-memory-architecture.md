@@ -1,10 +1,10 @@
 ---
 title: Agent Memory Architecture
 created: 2026-04-29
-updated: 2026-07-23
+updated: 2026-07-27
 type: concept
 tags: [agent, memory, architecture, knowledge-management]
-sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md, raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md]
+sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md, raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 related_entity: [[mercury-agent]]
 
 ---
@@ -76,6 +76,12 @@ The practical rule is scarcity at the push layer and retrieval at the pull layer
 - **Skill-specific lessons should ship as skill updates**, not private memory notes, so the fix becomes versioned behavior instead of stale tribal knowledge.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
 - **Finished work should be archived, not kept hot**, because shipped PRs and completed tasks are provenance, not steering context.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
 - **Project-level instruction files should avoid duplication**: using `CLAUDE.md` as a thin importer for `AGENTS.md` keeps cross-agent conventions synchronized and reduces instruction drift.^[raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md]
+
+## Machina's bounded-memory rule set
+
+Machina's source offers a deliberately low-tech memory ladder for a working agent: level 1 files loaded at startup, level 2 a meaning-retrieval store such as mem0 when the material outgrows context, and level 3 a graph of entities and facts with time windows when “what changed when” is the real question. The recommendation is to stop at the lowest level that solves the problem; most one-person businesses remain at level 1. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
+The source's controls are a few-hundred-line cap for always-loaded memory, on-demand loading for the rest, review dates for entries, and old facts marked as replaced when a new version is written. It reports one production store logging 10,000 entries in a month with about 200 worth keeping, illustrating why forgetting and review are part of memory design. Identity files remain separate from job memory so saved facts cannot rewrite agent identity; a specialist instead gets a bounded memory, a knowledge-base slice, and a schedule/gate. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 
 ## Related
 

@@ -1,10 +1,10 @@
 ---
 title: Multi-Agent Orchestration
 created: 2026-05-19
-updated: 2026-07-25
+updated: 2026-07-27
 type: concept
 tags: [agent, ai-agent, multi-agent, orchestration, workflow, architecture]
-sources: [raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2055215784092401966.md, raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2058817146411692358.md, raw/articles/xarticle-how-to-build-a-multi-agent-system-that-actually-fi-2068135133618540931.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
+sources: [raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2055215784092401966.md, raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2058817146411692358.md, raw/articles/xarticle-how-to-build-a-multi-agent-system-that-actually-fi-2068135133618540931.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 ---
 
 # Multi-Agent Orchestration
@@ -101,6 +101,12 @@ The source groups tool choices into two buckets:
 - **Code-first frameworks**: Claude API with tool use, LangGraph, Agno, and [[autogen]] for teams that need explicit control over graphs, conversations, memory, and coordination logic.^[raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2058817146411692358.md]
 
 The key point is not the brand of framework but the match between workflow complexity and orchestration overhead. For many operators, [[n8n]] or a simple code-based orchestrator is enough; hierarchy should be earned rather than assumed.
+
+## Machina's custom decomposition
+
+Machina's custom build states the smallest durable unit as one agent, one job: a research agent only researches, a writer only writes, and an independent reviewer is never the author. Each specialist has four parts—an identity file defining scope and forbidden actions, a slice of the business knowledge base, bounded memory, and a schedule plus gate controlling when it wakes and which outputs need human approval. Identity must remain separate from memory so learned churn cannot rewrite the agent's role. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
+The source's out-of-the-box lane system is the same decomposition expressed as Slack or Microsoft Teams channels: content, projects, outreach, finance, and ads. Its handoffs retain concrete parameters—14-day X research to 5 posts plus 1 thread; 8:00 standups under 8 lines; 10-business research to top-5 drafts with no sending; draft invoices never finalized plus Friday 16:00 finance summaries; and PAUSED ad campaigns after an explicit go. These are approval gates and bounded outputs, not a claim that more agents automatically improve quality. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 
 ## Example use cases
 

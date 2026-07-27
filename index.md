@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-26 | Total pages: 1152
+> Last updated: 2026-07-27 | Total pages: 1154
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -163,7 +163,7 @@
 [[ernesto-lopez]] — title: Ernesto Lopez
 [[ernesto-software]] — title: Ernesto Lopez
 [[ernie-image]] — title: Ernie Image
-[[exm7777]] — Machina (@exm7777), operator interviewed on AI leverage, research systems, and earned autonomy for existing businesses.
+[[exm7777]] — Machina (@exm7777), operator documenting AI leverage, research systems, earned autonomy, and a five-lane one-person business blueprint.
 [[explorax_]] — title: "exploraX"
 [[eyad-khrais]] — Applied AI engineer and X author whose Varick article frames the role around evals, harness engineering, and distributed-systems-safe multi-agent design.
 [[falcon-perception]] — title: Falcon Perception
@@ -330,6 +330,7 @@
 [[nvidia-ai]] — NVIDIA AI (@NVIDIAAI) account sharing source-described agentic autoresearch with NeMo RL/Gym and Qwen3-VL-2B vision training.
 [[nyk-builderz]] — title: nykbuilderz
 [[obscura]] — title: obscura
+[[obsidian]] — local-first Markdown business-vault tool for offer, client, voice, playbooks, and rulings context.
 [[ods]] — one-install local AI deployment product that detects hardware, selects a local model, and starts a private inference/dashboard stack.
 [[ole-lehmann]] — title: "ole-lehmann"
 [[oliverkenyon]] — title: Oliver Kenyon
@@ -476,6 +477,7 @@
 [[vas]] — title: "Vas"
 [[vercel]] — title: Vercel
 [[vibevoice]] — title: VibeVoice — Microsoft Open-Source Voice AI
+[[viktor]] — source-described AI employee that joins Slack or Microsoft Teams and runs gated five-lane business workflows through managed connectors and scheduled jobs.
 [[viktor-seraleev]] — title: Viktor Seraleev
 [[viktoroddy]] — title: Viktor Oddy
 [[vllm]] — title: vLLM
@@ -613,6 +615,7 @@
 [[faceless-content-system]] — faceless content monetization systems spanning long-form redistribution, Fable-driven story channels, and short-form outlier research loops.
 [[faceless-digital-product-portfolio]] — zack’s faceless low-ticket PDF/template portfolio model, now connected to a clarity-first X growth loop and asset-light operations.
 [[faceless-x-growth-loop]] — X-specific faceless growth loop: unresolved conversation → saveable utility → insight replies → audience-described pain → product.
+[[five-stage-distribution-roadmap]] — staged acquisition system linking positioning, proof, community trust, owned email, search, referrals, partnerships, and cross-channel content reuse.
 [[frontier-ai-standards-body]] — source-described proposal for dynamic frontier-model benchmarks, safety tests, pre-release review, and international standards.
 [[generation-evaluation-gap]] — held-out evaluation and external judges as safeguards against confusing memorization with generalization.
 [[goal-primitive]] — outcome-contract primitive for Claude Code/Codex/Hermes workflows: specify finish line, evidence, scope constraints, stop rules, and retry caps so agents iterate until verified or budget-exhausted.
@@ -636,7 +639,10 @@
 [[multi-agent-orchestration]] — Coordination patterns for agent teams, now including distributed-systems controls such as single-writer state, idempotency keys, preconditioned writes, and explicit handoffs.
 [[multilingual-faceless-product-arbitrage]] — AI-assisted expansion of faceless digital products into underserved language markets with native review, local pricing, and local operators.
 [[niche-specificity-digital-product]] — Niche-specificity framework extended with portfolio-scale quantitative screening of pain, competition, intent, and willingness to pay.
+[[obsidian-ai-second-brain]] — Obsidian plus AI-agent pattern for persistent, local Markdown context and business-vault memory.
+[[obsidian-knowledge-vault-system]] — Obsidian vault architecture for type-organized capture, automation, synthesis, and AI instruction layers.
 [[one-click-local-ai-deployment]] — product pattern for packaging hardware detection, model selection, local inference startup, and dashboard/workflow layers into a beginner-safe local AI server.
+[[one-person-business-2026]] — one-person AI business model extended with Machina's five-lane Viktor blueprint, custom agent decomposition, vault structure, memory levels, gates, and build sheet.
 [[outbound]] — multichannel B2B outreach from warm-network referrals to cold intent sourcing, with AI follow-through and human quality gates.
 [[paid-ads-agency-funnel]] — High-ticket B2B paid-social funnel with broad targeting, VSL/application variants, lead routing, setters, and pre-call nurture.
 [[personal-brand-establishment]] — Personal-brand operating model now including Anson Lin’s founder-content system: proprietary raw material, reusable post formats, proof, distribution, and conversion.
