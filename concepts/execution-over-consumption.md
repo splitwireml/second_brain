@@ -1,10 +1,10 @@
 ---
 title: Execution Over Consumption
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-28
 type: concept
 tags: [method, productivity, monetization, business-models, learning]
-sources: [raw/articles/xarticle-you-can-either-spend-the-next-6-months-scrolling-a-2075940287130824945.md]
+sources: [raw/articles/xarticle-you-can-either-spend-the-next-6-months-scrolling-a-2075940287130824945.md, raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 related_entity: [[whotfiszackk]]
 author: [[whotfiszackk]]
 ---
@@ -28,6 +28,10 @@ The source's central distinction is not “learning is bad.” It is that learni
 5. **Reduce passive consumption as the workflow becomes legible.**
 
 This is the execution layer of the [[reddit-problem-to-digital-product-system]]: research can identify painful language, but only a packaged offer and a live distribution surface create evidence. It also complements [[manual-first-validation]], where manual work is used to prove demand before heavier automation.
+
+## Dan Koe's project-first learning loop (2026-07-26)
+
+A related source sharpens execution-over-consumption into a learning rule: do not begin by collecting general knowledge. Begin with a meaningful project, let its goal create the error signal and relevance filter, and acquire only the specific technique needed for the next step. The article's examples are an **After Effects** project-specific tutorial and learning a guitar song chord by chord. This complements the existing ship/measure/iterate loop but keeps the source's reading-and-learning workflow distinct. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 
 ## What compounds
 

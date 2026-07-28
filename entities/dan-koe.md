@@ -1,10 +1,10 @@
 ---
 title: Dan Koe
 created: 2026-04-26
-updated: 2026-07-05
+updated: 2026-07-28
 type: entity
 tags: [person, business, content-creator, solo-founder]
-sources: [raw/articles/the-dankoe-multiple-interests-superpower.md, raw/articles/xarticle-how-to-survive-ai-mass-replacement-2069186019560394833.md, raw/articles/xarticle-the-most-profitable-skill-of-the-21st-century-not-ai-2073418764058825045.md]
+sources: [raw/articles/the-dankoe-multiple-interests-superpower.md, raw/articles/xarticle-how-to-survive-ai-mass-replacement-2069186019560394833.md, raw/articles/xarticle-the-most-profitable-skill-of-the-21st-century-not-ai-2073418764058825045.md, raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 ---
 
 # Dan Koe
@@ -26,6 +26,16 @@ He runs a newsletter at [letters.thedankoe.com](https://letters.thedankoe.com) (
 - **Systems as product**: Modern products must be personal operating systems, not generic solutions
 - **Becoming unemployable**: Surviving AI-era disruption requires agency, taste, persuasion, persistence, and iteration so a person can create their own work rather than depend on employer stability
 - **Human nature as meta-skill**: The durable skill beneath AI, coding, marketing, and content is understanding what makes people notice, identify, desire, trust, and act
+
+## This article: goal-directed learning and a digital commonplace book (2026-07-26)
+
+Dan Koe's source argues that learning should be treated as an output process rather than input hoarding: a meaningful goal creates an error signal, which creates a relevance filter, which creates retention. The source frames learning cybernetically as a helmsman repeatedly reading the current state, comparing it with a target, and correcting course; its four named elements are **reference signal (goal)**, **sensor (perception)**, **comparator (gap/error signal)**, and **actuator (behavior)**. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
+
+The source then recommends a project-first path: become emotionally committed to a meaningful goal, take the first step toward a project instead of beginning with general study, and seek specific knowledge only when the project demands it. Its examples are learning **After Effects** by following a project-specific tutorial rather than the whole software, and learning guitar by choosing a song and acquiring its chords and tuning hacks incrementally. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
+
+For knowledge capture, the article distinguishes a digital commonplace book or "second subconscious" from a passive bookmark archive. It names [[eden]] as Dan's own product context, while also describing [[obsidian-ai-second-brain]] and [[claude-obsidian-second-brain-stack]] as the self-built alternative; the stored ideas are meant to fuel writing, content, and projects through later retrieval and synthesis. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
+
+The source's creation loop is **performance + excitement → braindump → outline → draft**: pair a topic with proven social performance and personal curiosity, organize the braindump as **Problem → Insight → Solution**, and use AI for structure options, next-direction suggestions, or research rather than outsourcing the writer's beliefs and opinions. The final publication remains the human's responsibility. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 
 ## Products
 

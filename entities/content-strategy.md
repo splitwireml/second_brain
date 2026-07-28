@@ -1,10 +1,10 @@
 ---
 title: content-strategy
 created: 2026-05-10
-updated: 2026-07-26
+updated: 2026-07-28
 type: concept
 tags: [content, content-strategy, marketing]
-sources: [raw/articles/thread-gurnoor__-2075063658523312256.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md, raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
+sources: [raw/articles/thread-gurnoor__-2075063658523312256.md, raw/articles/xarticle-how-to-maximize-your-content-output-across-all-soc-2079228257401184282.md, raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md, raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md]
 related_entity: [[gurnoor]]
 ---
 
@@ -29,6 +29,16 @@ This update connects the page to [[dickie-bush]], [[distribution]], [[content-os
 Nicolas Cole's article adds a reader-retention layer to content strategy: optimize the headline, formatting, and opening sentences so the reader takes the next small step instead of bouncing. Its six source-described opening patterns are a declarative sentence, thought-provoking question, controversial opinion, vulnerable statement, weird or unique insight, and moment in time. The article's performance figures remain source claims. ^[raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md]
 
 This source-specific pattern is expanded in [[reader-attention-hooks]] and linked to [[nicolas-cole]].
+
+## North-Star-to-publish drafting workflow
+
+Nicolas Cole's later article adds a source-specific drafting layer to content strategy: the first draft is only for getting ideas onto the page, writing is iterative, and trying to solve ideation, organization, wording, and editing in one sitting creates avoidable frustration. Its five-draft sequence is: Draft 1 asks what the writer is saying to whom, why, and what the big ideas are; Draft 2 adds omissions; Draft 3 eliminates unnecessary material; Draft 4 finds faster wording; and Draft 5 refines clarity and specificity. ^[raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md]
+
+The source's six-step path is operational rather than a generic content calendar: (1) find a “North Star” by identifying the target reader, desired thought and feeling, problem, audience, emotion, action, and benefit, then compress the idea into `How To {Outcome} Without {The Obstacle}`; (2) set a 10-minute timer for a bullet-point brain dump, take a short walk if needed, group similar ideas, and turn them into main points and subpoints; (3) check every idea against the North Star and brainstorm five more short, concise, specific headline options; (4) open a blank document and add the North Star or revised headline, outline subheads, and ordered main points; (5) fill one section at a time with steps, examples, reasons, mistakes, and stories; and (6) step away for a day or two, reread with fresh eyes, edit, and publish. ^[raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md]
+
+Cole calls the clarification layer “Pinpoint Writing.” The five questions are: “What problem am I solving?”, “Whose problem am I solving?”, “What emotion am I creating?”, “What action am I encouraging?”, and “What benefit am I unlocking?” The article gives headline examples including “How To Make Tons of Money Without Working 60 Hours Per Week,” “How To Become A Digital Writer Without Spending $120K On An English Degree,” and “How To Write A First Draft Without The Pressure Of Perfection.” It says most first-draft time should be spent here because an unfillable template signals that the writer does not yet know what they are writing about. ^[raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md]
+
+This source-specific workflow complements [[reader-attention-hooks]] without collapsing the two: hooks govern the reader's opening, while this method governs the writer's path from idea and headline through outline, skeleton, detail, marination, and publication. It also links the drafting process to [[nicolas-cole]] and the broader publishing context of [[content-strategy]]. ^[raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md]
 
 ## Research-first YouTube playbook
 

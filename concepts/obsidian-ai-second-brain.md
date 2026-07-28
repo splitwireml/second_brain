@@ -1,10 +1,10 @@
 ---
 title: "Obsidian AI Second Brain"
 created: 2026-04-14
-updated: 2026-07-27
+updated: 2026-07-28
 type: concept
 tags: [agent, method, productivity]
-sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md, raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+sources: [raw/articles/obsidian-productivity-plugins-last30days-2026-04-14.md, raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md, raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 ---
 
 # Obsidian AI Second Brain
@@ -71,6 +71,12 @@ See [[claude-obsidian-second-brain-stack]] for the distilled framework page.
 ## Machina's business-vault specialization
 
 Machina's source uses the same local Markdown principle for a business vault: offer, client, voice, playbooks, and rulings are separate fact clusters; every correction becomes a standing line in rulings; and each specialist receives only the relevant vault slice. In the source-described out-of-the-box path, Viktor's pinned lane context is the vault in miniature; in the custom path, an identity file stays separate from bounded memory. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
+## Dan Koe's source-specific implementation choice (2026-07-26)
+
+The source presents Eden as the managed alternative to a self-built Claude/Obsidian vault. It describes Eden's Library, Reader, and Highlights for saving Substack, X, and YouTube material; transcript reading; highlights; Kindle import; automatic tags, categories, and embeddings; meaning-based retrieval using approximately `~1500` coordinate-like numbers; an outlier feed; scheduled posts; and an MCP for Claude access. These are source-described product claims, not independently verified capabilities. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
+
+The article's sharper principle is that capture only matters if ideas can resurface during a real project. It contrasts this managed path with Claude Code + Obsidian skills that create an inbox and process it into folders, tags, and backlinks, and warns that manual vector-database maintenance would otherwise include an embedding API, indexing, re-embedding after edits, rename/delete synchronization, and caching. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 
 ## Evidence Layers
 

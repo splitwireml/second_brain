@@ -1,10 +1,10 @@
 ---
 title: Claude-Obsidian Second Brain Stack
 created: 2026-06-27
-updated: 2026-07-27
+updated: 2026-07-28
 type: concept
 tags: [agent, workflow, memory, knowledge-management, obsidian, pkm, second-brain]
-sources: [raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md, raw/articles/xarticle-this-ai-brain-will-make-you-so-smart-its-almost-un-2070848134209556898.md, raw/articles/xarticle-the-self-writing-vault-8-rules-for-pointing-claude-2071564521735684253.md, raw/articles/xarticle-your-second-brain-is-useless-until-ai-maintains-it-2073375316840415716.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+sources: [raw/articles/xarticle-the-10-step-second-brain-2069494292695932964.md, raw/articles/xarticle-this-ai-brain-will-make-you-so-smart-its-almost-un-2070848134209556898.md, raw/articles/xarticle-the-self-writing-vault-8-rules-for-pointing-claude-2071564521735684253.md, raw/articles/xarticle-your-second-brain-is-useless-until-ai-maintains-it-2073375316840415716.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md, raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 related_entity: [[moysei]]
 ---
 
@@ -60,6 +60,20 @@ The new source pushes this concept away from generic "AI second brain" rhetoric 
 [[degen-calls]] reframes the stack as a move from disposable retrieval to compounding knowledge: uploading a document and asking a chatbot is useful, but the synthesis usually disappears when the chat ends. The durable pattern is a local markdown wiki where raw evidence remains immutable, the LLM compiles sources into pages, the schema defines maintenance rules, and health checks/linting keep links, contradictions, indexes, and stale claims visible.^[raw/articles/xarticle-your-second-brain-is-useless-until-ai-maintains-it-2073375316840415716.md]
 
 Operationally, this strengthens the Karpathy-inspired `raw/` + `wiki/` split already in the stack. The human role narrows to choosing sources, reviewing weak synthesis, and asking better questions; the AI role becomes clerical and structural: summarize, link, revise, cite, lint, and maintain. The article also clarifies why markdown matters: the knowledge base remains inspectable, versionable, portable, and easy for agents or scripts to modify rather than becoming trapped inside a proprietary chatbot interface.^[raw/articles/xarticle-your-second-brain-is-useless-until-ai-maintains-it-2073375316840415716.md]
+
+## Dan Koe's Option 1 workflow: Claude Code + Obsidian (2026-07-26)
+
+Dan Koe's article gives a concrete five-step self-built route distinct from the scheduled, REST/MCP-heavy stacks described above:
+
+1. **Download Obsidian and Claude.**
+2. **Open Claude Code or Claude Cowork** and select the Obsidian vault folder on the computer as the working folder.
+3. Create a **"save an idea" skill** that creates a note in an inbox folder with a clear title.
+4. Create a **"process my inbox" skill** that goes through the inbox, adds tags, moves each note to the right folder, and adds backlinks to related notes within the vault.
+5. Ask Claude to help define the **taxonomy** of tags/categories it should use.
+
+The retrieval instruction is: **“Search my vault for everything related to [idea I’m writing about].”** The source says this works for ordinary retrieval but argues that creative work also needs novel connections rather than keyword search or synonym brainstorming. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
+
+The same source's Option 2 is a software library such as MyMind or [[eden]] that automatically tags, categorizes, and embeds knowledge in "meaning space." It says Eden can transcribe and highlight Substack, X, and YouTube sources, import Kindle highlights, expose an MCP to Claude, and surface outlier social posts. It explicitly keeps this managed path separate from the manual Claude Code + Obsidian path. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 
 ## Evidence layers
 

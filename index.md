@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-27 | Total pages: 1154
+> Last updated: 2026-07-28 | Total pages: 1158
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -95,6 +95,7 @@
 [[caddy]] — title: Caddy
 [[camoufox]] — title: Camoufox
 [[career-ops]] — title: Career-Ops
+[[carl-weische]] — Carl Weische (@CarlWeische), X author documenting source-described listicle pre-sell pages, pain/belief funnels, and objection-led ecommerce copy testing.
 [[carreport]] — planned U.S. used-car background-information web app and digital product.
 [[caveman-claude-skill]] — title: Caveman Claude Skill
 [[ceo-vlad]] — CEO Vlad (@CEO_Vlad), X creator documenting AI podcast-style ecommerce ads, Claude-assisted hooks, and high-volume creative testing.
@@ -114,6 +115,7 @@
 [[coach_kevin_m]] — title: Kevin Middleton
 [[cobi]] — link-only X bookmark stub author preserved from failed local article export.
 [[code_kartik]] — title: "Kartik"
+[[codex]] — OpenAI Codex coding-agent entity, now including source-described Multi-Agent V2 model routing and delegation controls.
 [[codex-gpt-5-5]] — title: Codex GPT-5.5
 [[codez]] — title: Codez
 [[codi-fyy]] — title: CODIFY
@@ -154,6 +156,7 @@
 [[dokploy]] — title: Dokploy
 [[dra]] — Dra (@draprints), X creator/operator documenting funding-triggered LinkedIn and email outbound systems for B2B businesses.
 [[dspy]] — title: DSPy
+[[eden]] — source-described creator research and semantic knowledge-library platform by Dan Koe.
 [[ecom-amin]] — Amin (@eCom_Amin), an e-commerce operator documenting AI advertorial workflows for Google Ads.
 [[ecomrads-mcp]] — source-described MCP connector for Claude-driven video generation; availability and routing unverified.
 [[elder-plinius]] — title: Elder Plinius
@@ -378,6 +381,7 @@
 [[proxmox]] — title: Proxmox
 [[pupposandro]] — title: pupposandro
 [[pushscroll]] — Screen-time/app-blocking fitness app used as a case study in visual product hooks, organic Reels/TikTok-style growth, and comment-to-DM install loops.
+[[pvncher]] — Eric Provencher (@pvncher), X creator documenting source-described Codex Multi-Agent V2 roles, messaging, context, and delegation boundaries.
 [[qwen]] — Alibaba open-source model family, including Qwen3 vision-language models used in the source-described agentic training experiment.
 [[qwen-image-layered]] — title: Qwen-Image-Layered
 [[qwen2-5-coder-0-5b]] — title: Qwen2.5-Coder-0.5B
@@ -538,7 +542,7 @@
 [[agent-saas-playbook]] — Productized agent business model: sell completed work rather than software seats by choosing paid workflows, shadowing humans, wrapping bounded autonomy with evals/logs/approvals, and selling pilots before productizing.
 [[agent-skills-framework]] — title: agent-skills-framework
 [[agent-swarm]] — title: Agent Swarm
-[[agent-teams]] — multi-agent collaboration patterns with explicit roles, review layers, and bounded revision loops.
+[[agent-teams]] — multi-agent collaboration patterns with explicit roles, peer communication, model routing, context boundaries, review layers, and bounded revision loops.
 [[agent-web-stack]] — title: Agent Web Stack
 [[agentic-software-five-layer-framework]] — title: Agentic Software Five-Layer Framework
 [[agentic-video-hyperframes]] — title: Agentic Video via HTML
@@ -611,10 +615,12 @@
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
 [[distribution]] — distribution systems spanning save-led faceless X growth, audience-led product validation, and warm-network-to-inbound service acquisition.
 [[dormant-account-distribution-arbitrage]] — claimed strategy of buying aged dormant X accounts as pre-existing distribution infrastructure for faceless niche pages.
+[[ecommerce-funnel-training]] — Six-stage DTC subscription funnel with pain-point pages, listicle pre-sell variants, quiz capture, aggressive early nurture, and education-first retention.
 [[execution-over-consumption]] — bounded learning, early shipping, and feedback loops as an antidote to passive research replacing work.
 [[faceless-content-system]] — faceless content monetization systems spanning long-form redistribution, Fable-driven story channels, and short-form outlier research loops.
 [[faceless-digital-product-portfolio]] — zack’s faceless low-ticket PDF/template portfolio model, now connected to a clarity-first X growth loop and asset-light operations.
 [[faceless-x-growth-loop]] — X-specific faceless growth loop: unresolved conversation → saveable utility → insight replies → audience-described pain → product.
+[[first-draft-writing-workflow]] — six-step method for turning a blank page into a finished draft through a North Star, brain dump, headline iteration, page prep, skeleton filling, and marination.
 [[five-stage-distribution-roadmap]] — staged acquisition system linking positioning, proof, community trust, owned email, search, referrals, partnerships, and cross-channel content reuse.
 [[frontier-ai-standards-body]] — source-described proposal for dynamic frontier-model benchmarks, safety tests, pre-release review, and international standards.
 [[generation-evaluation-gap]] — held-out evaluation and external judges as safeguards against confusing memorization with generalization.
@@ -631,12 +637,12 @@
 [[loop-engineering]] — bounded agent loops built from specs, orchestrators, independent verifiers/judges, trackers, parallel execution, explicit budgets, and human-owned outer-loop steering.
 [[manager-worker-pr-loop]] — manager/worker software-shipping loop using worktrees, PR review, heartbeat monitoring, `/goal`, and CI/manual merge gates.
 [[mascot-driven-app-growth]] — Mascot-led growth framework for utility apps, persistent characters, and faceless AI UGC.
-[[meta-ad-funnel-architectures]] — Twelve Meta-ad funnel architectures matched to offer price, audience awareness, trust, and conversion path.
+[[meta-ad-funnel-architectures]] — Twelve Meta-ad funnel architectures matched to offer price, audience awareness, trust, and conversion path, including listicle pre-sell mechanics.
 [[metacognition-human-ai-systems]] — computational-debugging framework for the human half of human–AI work: operating level, search phase, reality contact, and budget.
 [[mobile-app-organic-virality]] — Organic mobile-app growth pattern: visual product idea, novelty window, hook/watch-time craft, copy-paste-adapt research, and conversion-weighted short-form distribution.
 [[model-agnostic-agent-harness]] — reusable operating scaffolding around an LLM — context, loop, tools, checks, memory, and cross-model verification — that lets probabilistic models safely act inside deterministic software.
 [[motion-website-service-playbook]] — source-described productized motion-website workflow using Higgsfield MCP, Claude/Claude Code, reusable skills, and niche-specific reskinning.
-[[multi-agent-orchestration]] — Coordination patterns for agent teams, now including distributed-systems controls such as single-writer state, idempotency keys, preconditioned writes, and explicit handoffs.
+[[multi-agent-orchestration]] — Coordination patterns for agent teams, including Codex Multi-Agent V2 model/effort routing, peer messaging, context inheritance, and distributed-systems controls.
 [[multilingual-faceless-product-arbitrage]] — AI-assisted expansion of faceless digital products into underserved language markets with native review, local pricing, and local operators.
 [[niche-specificity-digital-product]] — Niche-specificity framework extended with portfolio-scale quantitative screening of pain, competition, intent, and willingness to pay.
 [[obsidian-ai-second-brain]] — Obsidian plus AI-agent pattern for persistent, local Markdown context and business-vault memory.

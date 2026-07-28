@@ -1,10 +1,10 @@
 ---
 title: Multi-Agent Orchestration
 created: 2026-05-19
-updated: 2026-07-27
+updated: 2026-07-28
 type: concept
 tags: [agent, ai-agent, multi-agent, orchestration, workflow, architecture]
-sources: [raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2055215784092401966.md, raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2058817146411692358.md, raw/articles/xarticle-how-to-build-a-multi-agent-system-that-actually-fi-2068135133618540931.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+sources: [raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2055215784092401966.md, raw/articles/xarticle-how-to-build-a-team-of-ai-agents-that-actually-wor-2058817146411692358.md, raw/articles/xarticle-how-to-build-a-multi-agent-system-that-actually-fi-2068135133618540931.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md, raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
 ---
 
 # Multi-Agent Orchestration
@@ -119,6 +119,46 @@ The article grounds the pattern in concrete teams:
 
 In each case the system works because the handoffs are explicit and the review step is designed in, not because the agents are given unlimited autonomy.
 
+## Codex Multi-Agent V2: practical coordination pattern
+
+Eric Provencher's July 24, 2026 local X Article describes a Codex-specific variant of the team pattern. The source names GPT-5.6 Sol and Terra as models that can delegate and coordinate through Codex's **Multi-Agent V2** tools. It presents Ultra as a default coordination mode for high-stakes work where ambiguity or scattered context justify extra depth; for other tasks, a short prompt or skill can encourage the same collaboration while Sol remains in the user's conversation. These capability and model-behavior statements are source-reported, not independently verified.^[raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
+
+### Match reasoning effort to the work
+
+The article's simplest setup keeps one model family and changes reasoning effort through three role defaults:
+
+- **Scout — GPT-5.6 Sol Light:** answer narrow, read-only questions such as locating files, tracing a code path, or finding relevant tests.
+- **Worker — GPT-5.6 Sol Medium:** implement scoped changes, run checks, or handle supporting work.
+- **Smart worker — GPT-5.6 Sol High:** handle difficult implementation, resolve ambiguity, or coordinate help when useful.
+
+These are defaults rather than rigid identities. The source specifically says Sol Light retains enough judgment to find useful context without spending as much reasoning on discovery.^[raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
+
+### Coordinator, peer messaging, and concurrency
+
+The coordinator is the primary delegator: it assigns substantive work, avoids duplicate investigations, and tracks what each agent is doing. Scouts can investigate in parallel; workers can share implementation when responsibilities are clear. Agents can message one another directly through a common messaging system with separate inboxes. A scout that discovers a dependency can send its findings directly to the worker that needs them instead of waiting for the coordinator to relay them.^[raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
+
+Concurrency is configurable per thread and defaults to **four agents including the coordinator**. Within that budget, a smart worker can coordinate one scout and another worker, or the coordinator can send three scouts to investigate separate questions. The source does not specify the messaging protocol, inbox storage, scheduler, API surface, or implementation of the concurrency budget.^[raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
+
+### Context inheritance and leaf boundaries
+
+Forking conversation history lets agents inherit the broader goal and earlier decisions. Setting `fork_turns: "none"` starts a fresh, focused assignment instead. Fresh-context agents can still recognize when a teammate needs information and contact that teammate independently. Agents that inherit their parent's context may also see its orchestration instructions; when an agent should remain a leaf, the source gives this exact boundary:
+
+```text
+Complete this assignment directly. Do not spawn other agents; your parent's delegation instructions apply only to your parent.
+```
+
+Fresh-context agents do not inherit task-specific tool or safety boundaries, so essential restrictions must be included directly in their assignments. The source does not specify the conversation-history storage format or the mechanism used to enforce the leaf boundary.^[raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
+
+### Skill prompt for the coordinator
+
+The source proposes capturing the pattern in a practical skill. Its prompt is preserved verbatim:
+
+```text
+Stay available to the user while delegating substantive work. Send focused, read-only scouts out in parallel with reasoning_effort: "low" and fork_turns: "none". Use reasoning_effort: "medium" for routine implementation and reasoning_effort: "high" for harder problems. Give each agent clear ownership, avoid overlapping assignments, and tell leaf workers not to delegate. Bring the results together and keep approvals with the user.
+```
+
+The article recommends starting with these defaults and then experimenting with **reasoning effort**, **context inheritance**, **delegation authority**, and **how agents collaborate**. Its stated objective is to learn which settings move a team forward without spending more reasoning than the task requires; it does not provide an evaluation protocol, measured benchmark, or implementation configuration beyond the named parameters.^[raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
+
 ## Related
 
 - [[agent-orchestration-patterns]]
@@ -128,3 +168,4 @@ In each case the system works because the handoffs are explicit and the review s
 - [[n8n]]
 - [[manager-worker-pr-loop]]
 - [[paul-solt]]
+- [[pvncher]]

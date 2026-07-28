@@ -1,10 +1,10 @@
 ---
 title: Ecommerce Funnel Training
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-07-28
 type: concept
 tags: [ecommerce, growth, marketing]
-sources: [raw/articles/maxwellcopy-ecommerce-funnel-2051640749100531800.md]
+sources: [raw/articles/maxwellcopy-ecommerce-funnel-2051640749100531800.md, raw/articles/xarticle-how-100m-brands-write-listicles-2081349274227409116.md]
 related_entity: [[maxwellcopy-ecommerce-funnel]]
 ---
 
@@ -32,7 +32,14 @@ Daily emails and SMS in the first days post-capture. Infographic-forward design,
 ### Stage 6: Post-Purchase Retention
 Shift entirely to education once subscribed. Remind to use product, reaffirm the decision, show benefits. Email frequency drops after purchase—every email to a subscriber is a cancellation reminder if it screams "subscription exists."
 
+## Listicle pre-sell variant
+
+Carl Weische's source adds a listicle-specific version of the pain-point landing-page stage: a broad pre-sell page for colder paid traffic that can serve multiple ad angles, educate the reader before the PDP, and then hand off to a product CTA. Its source-described structure is an urgency announcement bar, a headline such as “7 reasons over 50,000 [your avatar] are using [your product],” optional benefit subheading, independently scannable reason sections, and a bottom CTA. Reasons can be objection-led, pain-led, outcome-led, or curiosity-led; Weische recommends ranking ICP objections by frequency and split-testing the ordering. ^[raw/articles/xarticle-how-100m-brands-write-listicles-2081349274227409116.md]
+
+The source's sheets example uses a problem → pain → cost/ripple → silver-infused-fiber mechanism → reduced-washing/time-and-money benefit sequence, with scarcity/urgency wording at the CTA and continual tests of reasons, the first headline, above-the-fold elements, and reason headlines. This is a distinct copy layer from the six-stage subscription, ad-volume, quiz-capture, early email/SMS, and retention system already described above; the local source does not specify a CMS, analytics setup, experiment duration, or checkout implementation. ^[raw/articles/xarticle-how-100m-brands-write-listicles-2081349274227409116.md]
+
 ## Key Insights
+- [[carl-weische]] — listicle pre-sell variant
 
 - The funnel is the real differentiator between $100M brands and everyone else—not ads, not product
 - Most brands leak post-click; the architecture connects every stage so cold traffic converts on first visit

@@ -1,10 +1,10 @@
 ---
 title: Generalist Entrepreneurship
 created: 2026-04-26
-updated: 2026-07-05
+updated: 2026-07-28
 type: concept
 tags: [brand, business, content-strategy, idea, monetization]
-sources: [raw/articles/the-dankoe-multiple-interests-superpower.md, raw/articles/xarticle-the-most-profitable-skill-of-the-21st-century-not-ai-2073418764058825045.md]
+sources: [raw/articles/the-dankoe-multiple-interests-superpower.md, raw/articles/xarticle-the-most-profitable-skill-of-the-21st-century-not-ai-2073418764058825045.md, raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 author: [[dan-koe]]
 ---
 
@@ -49,6 +49,10 @@ The missing piece is not more learning — it is a **vessel**: a way to channel 
 **Path 1 — Skill-Based**: Learn one marketable skill → teach it via content → sell a product related to it. Limitation: one-dimensional, creates a second 9-to-5.
 
 **Path 2 — Development-Based** (preferred): Turn yourself into the customer avatar. You pursue your goals → this validates the usefulness of your offer → you help the past version of yourself. This path subsumes Path 1 (you still need marketable skills) but starts from genuine interest rather than chasing profit.
+
+## Source-specific self-education loop (2026-07-26)
+
+This article adds a concrete mechanism to the page's self-education thesis: a meaningful project is the frame that filters knowledge. Do not begin by studying a whole domain; take the first step toward the desired project, find the narrow tutorial or technique needed to continue, and stack techniques through repeated projects. The source illustrates this with **After Effects** and guitar rather than with general curricula. ^[raw/articles/xarticle-how-to-remember-everything-you-read-stop-trying-2081415714636996844.md]
 
 ## Extension: Human Nature as the Meta-Skill
 
