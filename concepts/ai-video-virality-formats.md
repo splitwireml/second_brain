@@ -1,10 +1,10 @@
 ---
 title: ai-video-virality-formats
 created: 2026-04-20
-updated: 2026-07-10
+updated: 2026-07-30
 type: concept
 tags: [content-marketing, seedance-2-0, tiktok, virality, ai-video, ai-ugc]
-sources: [raw/articles/frederikfeldt-ai-video-formats-2026-04-20.md, raw/articles/xarticle-every-viral-ai-video-format-explained-in-1-article-2074886930479620587.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md]
+sources: [raw/articles/frederikfeldt-ai-video-formats-2026-04-20.md, raw/articles/xarticle-every-viral-ai-video-format-explained-in-1-article-2074886930479620587.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
 ---
 
 # ai-video-virality-formats
@@ -88,6 +88,14 @@ All three trigger the same psychological response: **familiarity**.
 - Viral copy: literally a format already validated by the audience
 
 Familiarity → trust → engagement → algorithmic distribution. The algorithm pushes what people engage with, and engagement comes from trust, which comes from familiarity.
+## Three-vector execution variant
+
+Sleep's TikTok article does not add a new individual video format to this page's format taxonomy; it adds an operating layer for testing formats at volume. Each of 8 daily clips must vary the hook, opening visual, and sound, while all 8 are clustered inside a 2-hour regional traffic window. The source's concrete cadence is 6:00, 6:15, 6:30, 6:45, 7:00, 7:15, 7:30, and 7:45pm local time, repeated for 14 days without reducing output after a hit. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+
+The named production stack is Claude (56 hook variations/week, $20), ElevenLabs (AI narration, $22), Arcads (avatar variation over the same script, $200), CapCut (edit, hook overlay, caption, free), Metricool (2-hour-window clustering, $22), and TikTok analytics (identify the cluster that hits, free). The source gives no model/version, hook prompt, API/interface, file format/path, scheduler configuration, or handoff schema; these named roles and costs are source-described. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+
+The source claims the system produces 112 clips over 14 days and can move from 2K views to 50M+ cumulative views by combining volume, velocity, and signal density. Those reach figures, the 5M post-hit rule, the claimed 72-hour baseline reweighting, and the $264 four-platform total remain unverified promotional/operational claims rather than evidence that any particular format or model generalizes. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+
 
 ## Related
 

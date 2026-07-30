@@ -1,10 +1,10 @@
 ---
 title: Claude
 created: 2026-05-14
-updated: 2026-07-25
+updated: 2026-07-30
 type: entity
 tags: [product, llm, ai]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
 ---
 
 ## Overview
@@ -37,11 +37,23 @@ The source describes Claude being used to pressure-test niche ideas, synthesize 
 ### Faceless AI story-channel scripting
 
 The local article describes Claude Fable 5 being configured inside one Claude Project per niche with a JSON style/structure template, competitor transcripts, and production directives. It then uses the same context for fictional or documentary scripts, image-prompt generation, and a niche-matched voice/editing stack. The article's claims about model identity, context size, publish-ready rate, speed, revenue, and tool availability are source-described, not verified benchmarks. ^[raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
+
+### Nexlev MCP + Opus 5 analyst workflow
+
+A local X Article describes a Claude Project whose project knowledge includes a Markdown `channel-analyst.md` file and whose interface is connected to Nexlev MCP. The source says Nexlev exposes 60+ natural-language YouTube tools and that Opus 5 uses them for channel analytics, video performance data, competitor benchmarking, monetisation estimates, niche intelligence, outlier detection, and audience demographics. The skill file defines full channel audit, competitor benchmarking, niche opportunity scan, and retention diagnosis modes, with exact-number output, source-data citations, problem-first recommendations, and retention-impact ranking. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
+
+The source presents Opus 5 as Anthropic's publicly available “mythos-class” model with safety classifiers, coding/reasoning/vision/knowledge-work/long-horizon-agentic capability, `$10` input and `$50` output per million tokens, a 1M-token context window, self-checking analysis, and a 10-point jump over Opus 4.8 on Hex's core analytics benchmark, claimed as the first model above 90%. It compares Sonnet 5 at `$2`/`$10` per million tokens and claims an audit costs under `$5` in tokens. These model labels, release status, prices, context size, benchmark, self-checking behavior, and cost claims are source-described, not independently verified. The source does not document Nexlev setup/authentication, exact tool schemas, MCP transport/API endpoints, dataset provenance, or an evaluation protocol. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
+
+### TikTok hook-variation use
+
+In Sleep's source-described tool stack, Claude generates 56 hook variations per week for $20 as the input to the Three-Vector System. The local article names no Claude model or version, prompt text, command, API/interface, configuration, or file handoff, so this is a source-reported role and cost rather than a verified Claude capability or pricing fact. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+
 ## Related
 
 - [[thegoldeenhand]]
 - [[ai-youtube-channel-playbook]]
 - [[dmtr-btc]]
+- [[fyreinteractive]]
 
 - [[anthropic]]
 - [[claude-code]]

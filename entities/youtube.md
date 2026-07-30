@@ -1,10 +1,10 @@
 ---
 title: YouTube
 created: 2026-05-31
-updated: 2026-07-25
+updated: 2026-07-30
 type: entity
 tags: [platform, content, social-media, ugc, video, youtube]
-sources: [raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
+sources: [raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
 related_entity: [[google]]
 ---
 
@@ -34,9 +34,16 @@ A source-described YouTube playbook treats the platform as both a research surfa
 
 A local X Article describes YouTube as the publishing surface for 8,000+ word fictional or documentary scripts generated from a niche-specific JSON contract, reference transcripts, and research briefs. It also describes a follow-up image-prompt pass, voice selection, and editing workflow. The source's channel economics, algorithm, model-capability, and production-speed claims are source-reported, not independently verified. ^[raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
 
+## Nexlev MCP analytics variant
+
+A local X Article presents YouTube as the data surface for a source-described analyst assembled from Nexlev MCP and Opus 5. Nexlev is said to expose 60+ natural-language tools for channel analytics, video performance, competitor benchmarking, monetisation estimates, niche intelligence, outlier detection, and audience demographics. The linked `channel-analyst.md` workflow pulls the last 30 videos for a full audit, 20 videos per competitor for benchmarking, and transcripts for retention diagnosis; it compares hooks, topic framing, title construction, thumbnails, view-to-average multiples, retention at 0:30 if available, upload frequency, topic gaps, RPM brackets, and monetisation status. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
+
+The workflow treats retention, script structure, 5x+ outlier videos, and 3–5 direct competitors as primary analytical lenses. Its diagnosis checks the first 15 seconds, first 90 seconds, 30–60 second payoff gaps, three promise foreshadowings, pacing cycles, and AI-slop patterns. The source calls the system 24/7 but does not specify a scheduler, continuous worker, Nexlev API/tool schema, MCP transport, dataset provenance, or evaluation protocol; the analytics and platform claims therefore remain source-described rather than verified. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
+
 ## Related
 
 - [[thegoldeenhand]]
 - [[ai-youtube-channel-playbook]] — research-first channel workflow
 - [[dmtr-btc]] — source author
+- [[fyreinteractive]] — source author of the Nexlev MCP analytics variant
 - [[google]] — related entity from frontmatter; explicit cross-link

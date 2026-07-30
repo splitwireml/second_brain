@@ -1,10 +1,10 @@
 ---
 title: "Faceless Content System"
 created: 2026-05-04
-updated: 2026-07-25
+updated: 2026-07-30
 type: concept
 tags: [agent, ai-agent, content-creator, instagram, method, monetization, social-media, tiktok]
-sources: [raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
+sources: [raw/articles/faceless-content-system-0xdepressionn-2049879715083616371.md, raw/articles/xarticle-how-i-predict-viral-videos-before-they-explode-2074798903124259223.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
 related_entity: [[0xdepressionn]]
 ---
 
@@ -74,11 +74,18 @@ This variant links content production to product feedback: public complaints rev
 
 The local article describes a long-form faceless branch built around Claude Fable 5: one persistent project per niche, a JSON script contract, competitor transcripts, production directives, research briefs for documentary work, and generated image prompts before voiceover and editing. It presents this as a high-throughput YouTube production system, but its $10k/month, 95%-publish-ready, timing, pricing, and platform-performance figures remain source claims rather than audited results. ^[raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md]
 
+### Analytics-led FacelessOS variant
+
+Haris's source adds an analytics-to-script layer: Nexlev MCP supplies 60+ YouTube research tools through natural-language queries to Opus 5 in a Claude Project, while a `channel-analyst.md` skill file turns channel data into a full audit, competitor benchmark, niche opportunity scan, or retention diagnosis. The audit pulls 30 videos, the benchmark pulls 20 videos per competitor, the niche scan filters high view-to-subscriber ratios and under-50K-subscriber channels averaging over 100K views, and the diagnosis uses a transcript plus delay disease, context dump, payoff void, grand payoff betrayal, pacing, and AI-slop checks. The source's exact prompt variant narrows the niche scan to fewer than 30,000 subscribers, 100K+ average views, and RPM above $8. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
+
+The source describes the resulting FacelessOS loop as research → analytics → script brief → skill-file-produced scripts, and attributes 200+ creators, 15 other skill files, 6 power workflows, and calibration across 7,000+ scripts and 42+ niches to it. It also claims two zero-start faceless channels generated $50,000+ in two months, a Joey script reached 863,000 views after outlier analysis, and a larger offer has 8,000+ scripts, $5M+ generated for clients, 21 Claude skill files, and 50+ niches. These are promotional claims, not independently audited metrics. The article does not specify Nexlev setup/authentication, exact MCP schemas or transport, analytics provenance, evaluation protocol, or a scheduler that would make the title's “24/7” operation continuous. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
+
 ## Relationship to Other Concepts
 
 - [[thegoldeenhand]]
 - [[ai-youtube-channel-playbook]] — research-first long-form YouTube variant
 - [[dmtr-btc]] — source author of the research-first variant
+- [[fyreinteractive]] — source author of the analytics-led FacelessOS variant
 
 - [[ai-ugc-income-system]] — broader AI UGC monetization frameworks; this system is a specific multi-platform implementation using AI tools
 - [[ai-ugc-ad-scaling-system]] — AI UGC ad workflow; this system is organic content rather than paid ads

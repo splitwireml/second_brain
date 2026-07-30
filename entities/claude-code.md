@@ -1,10 +1,10 @@
 ---
 title: Claude Code
 created: 2026-04-20
-updated: 2026-07-24
+updated: 2026-07-30
 type: entity
 tags: [product, agent, coding]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md, raw/articles/xarticle-model-and-effort-in-claude-code-knowing-more-vs-tr-2074900291062034618.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md, raw/articles/xarticle-model-and-effort-in-claude-code-knowing-more-vs-tr-2074900291062034618.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md, raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
 ---
 
 # Claude Code
@@ -48,6 +48,10 @@ Model/effort routing sharpens that ladder: use smaller models for routine, preci
 ## Code-first video work
 
 A Trope launch-video case study uses Claude Code as the shared workspace for up to six parallel Fable 5 sessions, each working against a Remotion project and the product's actual code. The durable pattern is to make code, renders, voiceover timestamps, and annotated screenshots the feedback surface rather than treating the video as a locked editor project. See [[code-first-launch-video-production]] and [[remotion]]. ^[raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md]
+
+## Source-described launch research workflow
+
+Juan's July 2026 X Article uses Claude Code as the execution surface for a launch-research system. After obtaining X data through the source-described twitterapi.io service, the operator supplies a list of 50 or more direct competitors, adjacent products, and category companies launched in the previous six months. Claude Code pulls recent posts from each account, filters to posts above each account's own average views, analyzes first-line construction, opening claim, video/image use, and requested action, then writes one view-ranked swipe file with a note explaining why each post worked. The source says the file is for extracting reusable patterns, not copying sentences. It does not specify a Claude model/version, command, API endpoint, configuration, prompt text, output file format, or implementation detail; the workflow and service claims remain source-described. ^[raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
 
 ## Usage Stats
 

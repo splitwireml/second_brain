@@ -1,10 +1,10 @@
 ---
 title: Nicolas Cole
 created: 2026-07-23
-updated: 2026-07-28
+updated: 2026-07-30
 type: entity
 tags: [person, content-creator, x-creator, content-strategy]
-sources: [raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md, raw/articles/xarticle-httpstcoip9npcm57r-2080270972603826577.md, raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md]
+sources: [raw/articles/xarticle-6-proven-ways-to-hook-your-reader-in-the-first-5-s-2079548773962047945.md, raw/articles/xarticle-httpstcoip9npcm57r-2080270972603826577.md, raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md, raw/articles/xarticle-httpstcoidi2kxfg82-2081721221100740615.md]
 ---
 
 # Nicolas Cole
@@ -18,6 +18,8 @@ Cole's article uses the metaphor of getting a reader to "eat the first chip": ma
 ## Link-post provenance
 
 A 2026-07-23 local bookmark from the same `@Nicolascole77` account is an export-failed bare shortened-URL post. It adds author-level provenance only: the local capture does not expose the linked destination or its topic. [[link-post]] records this recurring export-failure format. ^[raw/articles/xarticle-httpstcoip9npcm57r-2080270972603826577.md]
+
+Another 2026-07-27 local bookmark from the same exact `@Nicolascole77` account is an export-failed `x_article` with `character_count: 23`, `retweet_count: 26`, and `like_count: 318`. Its local metadata preserves the `bird read --json failed` marker for the X status, the export note, and only the shortened URL `https://t.co/Idi2KXfg82`; it exposes no recoverable article body or destination, so this is author-level link-post provenance only, not topical evidence. ^[raw/articles/xarticle-httpstcoidi2kxfg82-2081721221100740615.md]
 
 ## Six-step first-draft workflow
 

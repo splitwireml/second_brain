@@ -2,11 +2,12 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-07-28 | Total pages: 1158
+> Last updated: 2026-07-30 | Total pages: 1162
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
 [[0xdepressionn]] — title: "0xDepressionn"
+[[0xfjuan]] — Juan (@0xfJuan), X creator documenting a source-described four-stage launch-trending system: research, hook, coordinated creator attention, and conversion.
 [[0xjeff]] — title: 0xJeff
 [[0xkenny1st]] — Kenny1st (@0xKenny1st), an X creator sharing source-described Claude skill-pack workflows for AI-generated 3D-scroll hero sections.
 [[0xsero]] — X creator documenting VRAM-bucketed local-model recommendations and hardware-fit tradeoffs.
@@ -180,6 +181,7 @@
 [[forrest-chang]] — title: Forrest Chang
 [[frederikfeldt]] — title: Frederik Feldt
 [[frederikfeldt-seedance-pricing]] — title: "Frederik Feldt: Seedance 2.0 Pricing"
+[[fyreinteractive]] — Haris (@fyreinteractive), X author of a source-described Nexlev MCP + Opus 5 YouTube analyst and FacelessOS loop.
 [[garrytan]] — title: Garry Tan
 [[gauri-gupta-llm-optimization]] — title: Gauri Gupta
 [[gemma-4]] — title: Gemma 4
@@ -323,7 +325,7 @@
 [[nevodavid]] — title: Nevo David
 [[nftcps]] — title: NFTCPS
 [[nick-saraev]] — title: nick saraev
-[[nicolas-cole]] — Nicolas Cole — X creator and digital-writing educator whose article presents six reader-opening patterns, with an export-failed bare-URL [[link-post]] provenance record.
+[[nicolas-cole]] — Nicolas Cole — X creator and digital-writing educator whose article presents six reader-opening patterns, with recurring export-failed bare-URL [[link-post]] provenance.
 [[noah-frydberg]] — title: Noah Frydberg
 [[noel-ceta]] — title: Noel Ceta
 [[noisy]] — title: Noisy
@@ -439,6 +441,7 @@
 [[simgym]] — title: "simgym"
 [[skalski-p-top-cvpr-2026-papers]] — title: SkalskiP/top-cvpr-2026-papers
 [[slack]] — title: Slack
+[[sleepclip]] — Sleep (@sleepclip), X creator documenting a source-described TikTok Three-Vector volume/velocity/signal-density system.
 [[starmex]] — title: starmex
 [[startupideaspod]] — AI/startup podcast and X publisher turning AI-tool and agent-business episodes into operator playbooks, including Seedance workflows and agent SaaS labor-replacement strategy.
 [[stav-zilber]] — Stav Zilbershtein (@stavzilber), X creator documenting AI-assisted advertising and video-production workflows.
@@ -510,7 +513,7 @@
 [[zephyr-hg]] — Zephyr — X creator whose ingested bookmarks currently resolve to recurring export-failed bare-URL [[link-post]] provenance.
 [[zettelkasten]] — title: zettelkasten
 [[zeuuss-01]] — ZEUS (@zeuuss_01), X creator documenting AI-assisted motion websites and productized creative services.
-[[ziwen]] — title: Ziwen
+[[ziwen]] — Ziwen (@ziwenxu_), X creator covering AI-agent workflows, knowledge-management systems, productivity automation, and recurring export-failed link-post provenance.
 [[zodchiii]] — X creator who amplified a Shopify engineering quote about replacing prompt polishing with loop design.
 [[zostaff]] — title: zostaff
 
@@ -592,10 +595,10 @@
 [[ai-user-acquisition-agent]] — title: ai-user-acquisition-agent
 [[ai-video]] — AI-assisted video generation and delivery, including a property-listing walkthrough service case.
 [[ai-video-marketing-used-car-reports]] — strategy for using AI-assisted video to market a trust-sensitive used-car background-report product.
-[[ai-video-virality-formats]] — reusable AI/short-form video structures plus the outlier-score research loop for finding formats before saturation.
+[[ai-video-virality-formats]] — reusable AI/short-form video structures plus outlier-score research and Three-Vector TikTok volume/velocity/signal-density execution.
 [[ai-website-production-loop]] — repeatable AI website workflow: references, design constraints, generated assets, agent implementation, polish, deployment, and reuse.
 [[ai-workflow-setup-service]] — title: AI Workflow Setup Service
-[[ai-youtube-channel-playbook]] — research-first and template-driven long-form YouTube workflow built from reference-channel Bibles, JSON contracts, and analytics feedback.
+[[ai-youtube-channel-playbook]] — research-first and analytics-connected long-form YouTube workflow, including Nexlev MCP + Opus 5 and retention diagnosis.
 [[anatoli-kopadze-thread-2026-05-01]] — title: "Anatoli Kopadze thread (2026-05-01)"
 [[answer-engine-optimization]] — title: Answer Engine Optimization (AEO)
 [[anthropic-ai-engineer-career-speedrun]] — title: Anthropic AI Engineer Career Speedrun
@@ -613,11 +616,11 @@
 [[contextual-value-positioning]] — source-described framework for recalibrating self-perception by changing environments, comparison groups, and visible standards.
 [[continual-learning-for-agents]] — Replit-style agent improvement loop using evals, production traces, A/B tests, and harness/context updates instead of weight updates.
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
-[[distribution]] — distribution systems spanning save-led faceless X growth, audience-led product validation, and warm-network-to-inbound service acquisition.
+[[distribution]] — distribution systems spanning TikTok Three-Vector cadence, save-led faceless X growth, audience-led product validation, coordinated X launch timing/conversion, and warm-network-to-inbound service acquisition.
 [[dormant-account-distribution-arbitrage]] — claimed strategy of buying aged dormant X accounts as pre-existing distribution infrastructure for faceless niche pages.
 [[ecommerce-funnel-training]] — Six-stage DTC subscription funnel with pain-point pages, listicle pre-sell variants, quiz capture, aggressive early nurture, and education-first retention.
 [[execution-over-consumption]] — bounded learning, early shipping, and feedback loops as an antidote to passive research replacing work.
-[[faceless-content-system]] — faceless content monetization systems spanning long-form redistribution, Fable-driven story channels, and short-form outlier research loops.
+[[faceless-content-system]] — faceless publishing and monetization system extended with analytics-led FacelessOS research-to-script loops.
 [[faceless-digital-product-portfolio]] — zack’s faceless low-ticket PDF/template portfolio model, now connected to a clarity-first X growth loop and asset-light operations.
 [[faceless-x-growth-loop]] — X-specific faceless growth loop: unresolved conversation → saveable utility → insight replies → audience-described pain → product.
 [[first-draft-writing-workflow]] — six-step method for turning a blank page into a finished draft through a North Star, brain dump, headline iteration, page prep, skeleton filling, and marination.
@@ -651,6 +654,7 @@
 [[one-person-business-2026]] — one-person AI business model extended with Machina's five-lane Viktor blueprint, custom agent decomposition, vault structure, memory levels, gates, and build sheet.
 [[outbound]] — multichannel B2B outreach from warm-network referrals to cold intent sourcing, with AI follow-through and human quality gates.
 [[paid-ads-agency-funnel]] — High-ticket B2B paid-social funnel with broad targeting, VSL/application variants, lead routing, setters, and pre-call nurture.
+[[playable-web-game-brief]] — constraint-dense browser game brief for a magic-carpet endless flying-runner, including controls, gameplay, HUD, visual direction, and evidence boundaries.
 [[personal-brand-establishment]] — Personal-brand operating model now including Anson Lin’s founder-content system: proprietary raw material, reusable post formats, proof, distribution, and conversion.
 [[prediction-market-calibration-bot]] — Prediction-market estimator pattern: Beta-Binomial shrinkage, priors, credible intervals, hierarchical buckets, and Brier/log-loss calibration before sizing trades.
 [[proof-driven-content-rebuilding]] — source-described loop for finding proven posts, preserving resonance, changing the angle, and routing attention to a relevant offer.
@@ -669,8 +673,8 @@
 [[training]] — LLM training from pretraining through fine-tuning and reinforcement learning, with held-out evaluation.
 [[ui-design]] — UI design principles and practical AI-assisted resource stack spanning design skills, component libraries, and UX heuristics.
 [[vibe-coding-landing-pages]] — layered prompting and reference-driven AI workflow for building and polishing landing pages.
-[[viral-launch-system]] — Mitchell/Matte Epstein-style tech launch playbooks combining research, bold claims, hook-first product demos, proof windows, and iterative video cuts.
-[[virality-mechanics]] — behavioral-signal and platform-specific amplification mechanics, now including a faceless X save/reply variant.
+[[viral-launch-system]] — tech launch playbooks combining research, bold claims, hook-first product demos, coordinated X creator waves, conversion, proof windows, and iterative video cuts.
+[[virality-mechanics]] — behavioral-signal and platform-specific amplification mechanics, now including TikTok Three-Vector volume/velocity/signal-density and X sampled-distribution variants.
 [[viv-deep-agents-evals]] — Evaluation patterns for deep/compound agents, including separate grading of final outcome and tool-call trajectory.
 
 [[x-organic-b2b-sales]] — X/Twitter content-to-inbound framework now extended with founder post formats: build logs, failures, value posts, receipts, contrast hooks, and milestone chapters.

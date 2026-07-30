@@ -1,10 +1,10 @@
 ---
 title: "Rahul (sairahul1)"
 created: 2026-05-01
-updated: 2026-07-24
+updated: 2026-07-30
 type: entity
 tags: [person, x-creator, ai-curator, content-creator]
-sources: [raw/articles/xarticle-how-to-build-a-software-factory-with-claude-code-t-2058832033628241931.md, raw/articles/xarticle-sairahul1-2054091054048260222.md, raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md, raw/assets/2026-05-01-claude-code-hidden-features-sairahul1.mp3, raw/articles/xarticle-6-ai-concepts-you-must-master-to-build-production--2067540315620405543.md, raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md]
+sources: [raw/articles/xarticle-how-to-build-a-software-factory-with-claude-code-t-2058832033628241931.md, raw/articles/xarticle-sairahul1-2054091054048260222.md, raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md, raw/assets/2026-05-01-claude-code-hidden-features-sairahul1.mp3, raw/articles/xarticle-6-ai-concepts-you-must-master-to-build-production--2067540315620405543.md, raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md, raw/articles/xarticle-httpstcofv3d2jpexs-2081681747520209385.md]
 ---
 
 # Rahul (sairahul1)
@@ -28,6 +28,10 @@ X creator (@sairahul1) who curates and surfaces AI/tech content. Known for high-
 
 - **2026-07-22** — Bookmarked an X Article whose Bird export failed; the local capture preserves only the shortened URL `https://t.co/WT9BInhEgt` and no recoverable article body, so no destination or topic is inferred.
   - Source: `raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md`
+  - Pattern: [[link-post]]
+
+- **2026-07-27** — Bookmarked X Article `2081681747520209385`; the local `bird read --json` export failed for `https://x.com/sairahul1/status/2081681747520209385`, preserving only the shortened URL `https://t.co/fV3d2JpExs` and no recoverable article body. The source metadata reports `character_count: 23`, `retweet_count: 38`, and `like_count: 324`; no destination or topic is inferred. ^[raw/articles/xarticle-httpstcofv3d2jpexs-2081681747520209385.md]
+  - Source: `raw/articles/xarticle-httpstcofv3d2jpexs-2081681747520209385.md`
   - Pattern: [[link-post]]
 
 - **2026-04-29** — Posted 24-minute Anthropic "Prompting 101" demo video featuring engineers Hannah and Christian walking through prompt engineering best practices for Claude Code. Tweet: 27,899 likes, 2,614 retweets, 96 replies. Video ingested and transcribed via VibeVoice ASR.

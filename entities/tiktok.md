@@ -1,10 +1,10 @@
 ---
 title: TikTok
 created: 2026-04-18
-updated: 2026-06-14
+updated: 2026-07-30
 type: entity
 tags: [platform, content, social-media, tiktok, ugc, video]
-sources: []
+sources: [raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
 related_entity: [[yt-dlp]]
 ---
 
@@ -26,6 +26,10 @@ TikTok is the primary distribution surface for [[ai-ugc]] content:
 - [[reelmeal]]-style content utilities
 - [[ai-cartoon-character-ugc-system]] character accounts
 - chinese-ai UGC frameworks ([[minimax]] video generation, [[qwen]] integration)
+
+## Source-described Three-Vector cadence
+
+A local X Article by [[sleepclip]] presents TikTok as a distribution system built from 8 posts per day, a 2-hour regional window, and distinct hooks, opening visuals, and sounds per clip. It gives the exact 6:00pm–7:45pm quarter-hour schedule, repeats it for 14 days, and says the system is intended to expose content to cold audience clusters; these mechanics and the claimed 50M+ outcome are source-described, not independently verified. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
 
 ## Related Concepts
 

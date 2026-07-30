@@ -1,10 +1,10 @@
 ---
 title: Distribution
 created: 2026-05-19
-updated: 2026-07-27
+updated: 2026-07-30
 type: concept
 tags: [business, marketing, monetization, distribution, distribution-strategy, content-strategy]
-sources: [raw/articles/xarticle-how-to-start-a-67-figure-solo-ai-business-in-2026--2055559252744290358.md, raw/articles/user-dms-distributionmaxxing-2026-07-10.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md, raw/articles/xarticle-the-full-distribution-roadmap-2081513372617765197.md]
+sources: [raw/articles/xarticle-how-to-start-a-67-figure-solo-ai-business-in-2026--2055559252744290358.md, raw/articles/user-dms-distributionmaxxing-2026-07-10.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md, raw/articles/xarticle-the-full-distribution-roadmap-2081513372617765197.md, raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
 confidence: medium
 related_entity: [[content-strategy]]
 ---
@@ -122,11 +122,27 @@ The latest zack article turns the page's broader “distribution before product�
 
 The article's concrete routines—four non-promotional community weeks, two or three meaningful daily contributions, two to three weekly emails after onboarding, twelve acute-pain search answers, referral outreach after 30 customers, and ten initial partner targets—are preserved in [[five-stage-distribution-roadmap]]. Its conversion examples and two-to-six-month maturity claims remain source-described rather than verified benchmarks.
 
+## Coordinated X launch distribution and conversion variant
+
+Juan's four-stage launch system treats distribution as a timed handoff rather than a single launch post. Before launch day, recruit three creator tiers: big accounts for reach, mid-size experts whose audiences contain actual buyers, and hundreds of small accounts whose volume makes a subject appear to come from everywhere. Briefs specify the exact minute, link, claim, and several angles while preserving each creator's voice. Big accounts and experts post in the first hour; small accounts roll out in waves for the following three hours; the source targets 200 or more posts in the first four hours. These creator counts and timing rules are source-described. ^[raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
+
+The conversion handoff keeps the same attention loop alive: the founder answers every comment, DMs same-day every account that shared or quoted the launch, and delivers a first-reply lead magnet quickly with an additional question about what the commenter is building. The article's five-person allocation is one person posting and four people in DMs. During 48 hours, the team posts plain-number milestones—signups, views, and waitlist size—replies publicly to late large accounts, and recuts working material into video clips, reaction screenshots, and a founder note; it posts nothing outside that story. Continued visibility matters because the source says buyers often convert weeks after the trend spike. ^[raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
+
+This is a source-specific X launch routine, not evidence that the stated 6m+ impressions, 2.4M first-day result, close-to-90% lead-magnet response, or 200-plus-post pattern generalize to other launches. ^[raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
+
 ## Evidence Layers
 
 - **Confirmed:** The user-provided sources explicitly argue that audience ownership makes product selection more observable and that distribution should precede checkout optimization; the local faceless-portfolio article is preserved verbatim at `raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md`.
 - **Likely:** A trusted audience lowers product-discovery uncertainty because direct requests are stronger signals than isolated founder ideation.
 - **Speculative:** The source's strongest “mediocre product + large reach” and “everything downstream gets easy” claims are rhetorical overstatements; reach alone does not guarantee conversion, retention, or durable revenue.
+## TikTok content-channel infrastructure variant
+
+Sleep's local X Article frames distribution as a supply-and-cadence problem: 3 posts per week supposedly marks an account as a casual user capped near its warm audience, while 8 posts per day marks it as a content channel/infrastructure that can be tested with cold audience clusters. The source places the threshold between 5 and 7 daily posts and calls the three simultaneous inputs Volume, Velocity, and Signal density. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+
+The source's operational schedule is 8 posts in a target market's 6:00pm–8:00pm local window, at 15-minute intervals from 6:00 through 7:45pm, repeated for 14 days. Each post uses a different hook structure, opening visual, and audio source. Its claimed 14-day progression is 40 clips/168K views, another 40 clips/2.2M cumulative views with two 1M clips, then 32 clips adding 25M+ through a 12M clip, an 8M clip, and three 1M clips, for 112 clips and 50M cumulative views. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+
+The named cross-platform stack costs $264 monthly in the article's arithmetic: Claude $20 for 56 weekly hook variations, ElevenLabs $22 for AI narration, Arcads $200 for same-script avatar variation, CapCut free for editing/hook overlays/captions, Metricool $22 for clustered posting, and free TikTok analytics for identifying the winning cluster. The source's distribution lift, order-of-magnitude penalty for missing a vector, 72-hour baseline reweighting, and four-platform cost are source-described and not independently audited. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+
 
 ## See Also
 
