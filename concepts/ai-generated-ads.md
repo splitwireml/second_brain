@@ -1,10 +1,10 @@
 ---
 title: AI-Generated Ads
 created: 2026-06-07
-updated: 2026-07-26
+updated: 2026-08-03
 type: concept
 tags: [ai-content, marketing, paid-ads, video-generation]
-sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md, raw/articles/xarticle-the-free-skill-that-turns-static-ads-into-stop-mot-2080301976919707660.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md]
+sources: [raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-turn-your-winning-static-ads-to-animated-statics-v-2080300729462395186.md, raw/articles/xarticle-the-free-skill-that-turns-static-ads-into-stop-mot-2080301976919707660.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md, raw/articles/xarticle-this-marketing-agent-replaces-your-10kmonth-ad-age-2083189973155779034.md]
 related_entity: [[ai-ugc]]
 ---
 
@@ -44,6 +44,12 @@ The [[ceo-vlad]] source describes a long-form AI UGC variant built to resemble a
 
 The method is summarized in [[ai-podcast-ads]] and complements the reference-remake, advertorial, and static-to-animated branches already tracked on this page.
 
+## Autonomous marketing-agent creative branch
+
+Prajwal Tomar's marketing-agent article gives a concrete static/video production split inside a larger Facebook ads feedback loop. For statics, Kai AI runs Google's [[nano-banana]] with a competitor ad from the Facebook Ads Library as seed material plus the brand style guide; a vision model checks text readability and on-brand fonts, and off-brand outputs are rejected. For video, [[heygen]] creates AI-avatar UGC from the researched pain points; operators are moving toward Seedance, but short clips require stitching, so HeyGen remains the production path described in the source. ^[raw/articles/xarticle-this-marketing-agent-replaces-your-10kmonth-ad-age-2083189973155779034.md]
+
+The article requires every prompt and script to be saved to a database so later cycles can analyze the creative DNA that converts. It does not name the vision model, database schema, prompt text, clip duration, stitching implementation, or exact Kai AI/Nano Banana/HeyGen interface. The workflow and all performance/algorithm claims remain source-described. See [[ai-user-acquisition-agent]] for the data spine, write-only API boundary, cadence, entropy controls, and experiment evidence. ^[raw/articles/xarticle-this-marketing-agent-replaces-your-10kmonth-ad-age-2083189973155779034.md]
+
 ## Related
 
 - [[ai-ugc]]
@@ -55,3 +61,7 @@ The method is summarized in [[ai-podcast-ads]] and complements the reference-rem
 - [[maxfusion-ai]]
 - [[ori-silver]]
 - [[mightyking]]
+- [[prajwal-tomar]]
+- [[ai-user-acquisition-agent]]
+- [[nano-banana]]
+- [[heygen]]

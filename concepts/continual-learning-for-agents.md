@@ -1,10 +1,10 @@
 ---
 title: Continual Learning for Agents
 created: 2026-07-08
-updated: 2026-07-25
+updated: 2026-08-03
 type: concept
 tags: [ai-agent, evaluation, benchmark, vibe-coding, reliability]
-sources: [raw/articles/xarticle-continual-learning-for-agents-2074118901143679414.md, raw/articles/thread-leerob-2080467752897146898.md]
+sources: [raw/articles/xarticle-continual-learning-for-agents-2074118901143679414.md, raw/articles/thread-leerob-2080467752897146898.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 related_entity: [[michele-catasta]]
 ---
 
@@ -27,6 +27,12 @@ The loop has three reinforcing signals:
 ## Why It Matters
 
 The practical claim is that agent evaluation should become an improvement loop, not just a launch gate. A single score can compare candidate releases, but production traces explain what failed and what to fix next. That makes this concept complementary to [[generation-evaluation-gap]]: when self-evaluation is insufficient, external eval infrastructure, user traces, and human judgment provide the feedback signal.
+
+## Trace-derived eval cases
+
+Hanako's eval-engineering course gives a concrete minimum trace set for that improvement loop: a clean baseline, a user-rephrased or corrected request, an empty tool response or duplicated identical call, and an external timeout. Each case is documented by what the agent did, what worked or failed, whether the agent or a dependency caused it, and which capability the eval should protect. The answer key must come from tests, records, policy, or a person because a trace records behavior, not the behavior that should have happened. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
+
+The verifier is tested with one clearly correct result and one plausible wrong result before it is allowed to gate a run. This turns production evidence into regression cases and keeps a rate-limit or other dependency failure distinct from an agent failure unless recovery was part of the contract. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 
 ## Human Gatekeeping
 

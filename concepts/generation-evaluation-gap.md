@@ -1,10 +1,10 @@
 ---
 title: Generation-Evaluation Gap
 created: 2026-04-14
-updated: 2026-07-25
+updated: 2026-08-03
 type: concept
 tags: [llm, training, method]
-sources: [raw/papers/autoreason.tex, raw/articles/thread-leerob-2080467752897146898.md]
+sources: [raw/papers/autoreason.tex, raw/articles/thread-leerob-2080467752897146898.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 related_entity: [[autoreason]]
 ---
 
@@ -57,6 +57,12 @@ For mid-tier models (where the gap is wide): use structured multi-candidate eval
 ## Held-out tests and model learning
 
 Lee Robinson's training overview uses a practice-test versus final-exam analogy: objective checks and rubric-based judges can measure improvement, but benchmarks should test unseen or held-out tasks so memorizing public answers is not mistaken for generalization. This complements the gap's emphasis on external evaluation without resolving how difficult benchmark construction remains. ^[raw/articles/thread-leerob-2080467752897146898.md]
+
+## Judge bias and external grounding
+
+Hanako's eval-engineering course adds a measurement-system failure mode: frontier judges can favor their own model family, disagree dramatically on identical outputs, and reward verbosity. The source reports 75–84% own-family win rates for GPT-5.2 and Gemini 3.1 Pro, 10.6–41.2% for Claude Opus 4.7, -38% to +90% bias across ArenaHard judges, and identical outputs scoring 93.3% versus 39.5% under different judges. The article recommends cross-family judging, multi-vendor panels for high-stakes work, and code for objective checks. These figures are source-described and not independently reproduced here. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
+
+The same course cites Huang and colleagues at DeepMind's ICLR 2024 work: intrinsic self-correction without external grounding does not reliably help and can worsen results. This makes the generation-evaluation gap an engineering constraint: pin the judge version, use an independently observable pass condition, and treat the evaluator as another software component that must be tested. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 
 ## Related
 - [[autoreason]] — related entity from frontmatter; explicit cross-link

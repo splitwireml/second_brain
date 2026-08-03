@@ -1,10 +1,10 @@
 ---
 title: "Deep Agents Evals"
 created: 2026-04-11
-updated: 2026-07-09
+updated: 2026-08-03
 type: concept
 tags: [agent, evaluation]
-sources: [raw/articles/x-bookmarks-2026.md, raw/articles/x-bookmarks-weekly.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md]
+sources: [raw/articles/x-bookmarks-2026.md, raw/articles/x-bookmarks-weekly.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 ---
 
 # How We Build Evals for Deep Agents
@@ -41,6 +41,12 @@ Define a rubric of subtasks; each has a weight; final score is weighted sum. Ena
 ## Outcome and trajectory grading
 
 [[eyad-khrais]]'s applied AI engineering guide makes the evaluation split concrete: grade the final outcome separately from the trajectory that produced it. A production agent can reach the right final answer while taking a dangerous path, such as touching a forbidden field or attempting payment before approval. Deterministic checks should catch safety violations in the tool-call log, while model judges or rubrics score judgment calls such as escalation quality or reasoning adequacy.
+
+## Eval-engineering gate
+
+Hanako's six-step course adds a component-level repair lens to the outcome/trajectory split: evaluate end to end for task success, trajectory for loops, redundant calls, and wasted steps, and components for which retriever, tool, or sub-agent failed. Its starter metrics are faithfulness to returned tool evidence, tool-parameter accuracy, and task completion against a real signal rather than the agent's own claim. The article's judge-bias figures, version-pinning rule, and blast-radius lanes are source-described and unverified here. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
+
+The proposed gate also mines complete production traces for eval cases: clean baselines, user corrections, empty or duplicated tool calls, and external timeouts. A verifier is tested with one clearly correct and one plausible wrong result before it is trusted, and objectively checkable conditions go to code rather than a model judge. This makes [[eval-engineering]] the operational companion to this page's deep-agent evaluation framework. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 
 ## Relevance to This Wiki
 

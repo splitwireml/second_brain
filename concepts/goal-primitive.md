@@ -1,10 +1,10 @@
 ---
 title: "/goal Primitive"
 created: 2026-05-19
-updated: 2026-07-11
+updated: 2026-08-03
 type: concept
 tags: [tools, agent, workflow, orchestration, delegation]
-sources: [raw/articles/xarticle-the-ultimate-guide-to-goal-2054988166541770782.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md]
+sources: [raw/articles/xarticle-the-ultimate-guide-to-goal-2054988166541770782.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 ---
 
 # /goal Primitive
@@ -68,6 +68,8 @@ The verifier closes the gap between agent self-report and actual state: agents w
 Phosphen's harness guide reinforces the same point with the maker/checker split: `/goal` is only safe when a separate checker or objective command owns the finish line, and the condition includes a hard stop such as an iteration, token, or time budget.^[raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md]
 
 The AI Guides article adds a beginner-facing version of that contract: a working `/goal` needs a finish line a stranger can verify, explicit file/folder scope, an internal checker, and both success and failure stop rules. Its examples are intentionally mundane — research briefs, content audits, weekly reports — which makes the primitive legible outside software engineering.^[raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md]
+
+Hanako's eval-engineering course makes the external-check boundary even sharper: an agent stopping tool calls has only ended its turn, while verified completion is the only acceptable run terminator. Low grounding rejects a handoff, schema failure blocks an edge, and suspected fabrication quarantines a branch. The `/goal` contract therefore needs a verdict that changes the run, not merely a score on a dashboard. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 
 ## `/goal` inside a manager-worker loop
 

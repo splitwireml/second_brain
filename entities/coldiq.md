@@ -1,10 +1,10 @@
 ---
 title: ColdIQ
 created: 2026-04-14
-updated: 2026-06-11
+updated: 2026-08-03
 type: entity
 tags: [agency, b2b, marketing, outbound, seo]
-sources: [raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md]
+sources: [raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md]
 ---
 
 # ColdIQ
@@ -33,6 +33,14 @@ The May 22 article describes ColdIQ's internal GTM stack as a set of agent folde
 - **Campaign buildout agent** — tiers target accounts, finds contacts, waterfalls enrichment, writes copy, and pushes the full campaign into Instantly
 
 The key implementation detail is that each successful API interaction becomes a reusable skill, which makes the GTM system more deterministic over time.
+
+## 2026-08-03 Cold Email Playbook
+
+The new source adds a source-described ColdIQ operating pattern: attach a LinkedIn touch from a real profile to every email sequence, mine first-degree post engagement weekly, and use engagement topics as personalization signals. Its reported client comparison says multi-channel clients stay 2.5x longer than email-only clients; the figure is not independently audited.^[raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md]
+
+The source's proprietary-signal examples are operational rather than vendor-catalog abstractions: merge the team's spam folders into a target list through [[lemlist]]; watch for target decision makers connecting with competitor reps; notice sudden Meta ad-budget or web-traffic spikes; and identify missing DMARC. ColdIQ's described signal-discovery method is to call the last 20 customers, read sales-call transcripts for repeated sentences, and target a public data point when seven of ten prospects name the same trigger. Michel says the spam pattern became one of ColdIQ's targeting rules after AI-post engagement and booked-call evidence pointed to different problems.^[raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md]
+
+The source also describes GTM engineers prompting an entire campaign build, leaving for breakfast, and returning about 30 minutes later to review a finished draft with the list uploaded and every touchpoint placed. It reports that around 1,500 companies already run Lemlist through Claude each month. These are source-described workflow and adoption claims; the source does not specify the prompt, model version, API schema, uploaded-list format, or touchpoint configuration.^[raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md]
 
 ## Relationship to [[programmatic-seo]]
 

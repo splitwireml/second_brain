@@ -1,10 +1,10 @@
 ---
 title: Human in the Loop
 created: 2026-07-02
-updated: 2026-07-23
+updated: 2026-08-03
 type: concept
 tags: [agent, workflow, prompting, evaluation]
-sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md]
+sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 related_entity: [[alex-prompter]]
 ---
 
@@ -47,6 +47,12 @@ This pushes the practical leverage point upward from one-off [[prompt-engineerin
 [[greg-isenberg]] applies the same control-surface logic to new customer agents: start with draft-and-approve, run the system against 50 real examples, and only widen autonomy after the operator can measure what worked, what was flagged, and what failed. The evaluation set doubles as a sales demonstration, so human review is both a safety boundary and a product-discovery instrument.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
 
 This is consistent with [[agent-saas-playbook]]: approval, escalation, and success criteria should be designed before the agent is allowed to act independently. The source's recommendation is not permanent manual supervision; it is earned autonomy backed by evidence.^[raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md]
+
+## Eval-gated autonomy
+
+Hanako's eval-engineering course adds a rollout protocol for the human checkpoint: sort changes by blast radius, let reversible contained work open first, require deterministic checks plus a clean trajectory for wide-but-reversible changes, and keep migrations, deletions, production-data writes, and money movement closed regardless of score. Start in shadow mode, track gate-versus-human disagreement, and keep the gate closed while disagreement is meaningfully above zero. These are source-described controls rather than independently validated operating thresholds. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
+
+The source also makes the evidence ordering explicit: deterministic tests, types, schema checks, or sandbox execution first; the agent-version trajectory second; rollback history third; and the model's own assessment least weighted. This sharpens the human role from approving every action to owning the sampling policy, audit evidence, and final production verdict alongside [[eval-engineering]]. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 
 ## Practical takeaway
 

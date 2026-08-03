@@ -1,10 +1,10 @@
 ---
 title: "Rahul (sairahul1)"
 created: 2026-05-01
-updated: 2026-07-30
+updated: 2026-08-03
 type: entity
 tags: [person, x-creator, ai-curator, content-creator]
-sources: [raw/articles/xarticle-how-to-build-a-software-factory-with-claude-code-t-2058832033628241931.md, raw/articles/xarticle-sairahul1-2054091054048260222.md, raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md, raw/assets/2026-05-01-claude-code-hidden-features-sairahul1.mp3, raw/articles/xarticle-6-ai-concepts-you-must-master-to-build-production--2067540315620405543.md, raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md, raw/articles/xarticle-httpstcofv3d2jpexs-2081681747520209385.md]
+sources: [raw/articles/xarticle-how-to-build-a-software-factory-with-claude-code-t-2058832033628241931.md, raw/articles/xarticle-sairahul1-2054091054048260222.md, raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md, raw/assets/2026-05-01-claude-code-hidden-features-sairahul1.mp3, raw/articles/xarticle-6-ai-concepts-you-must-master-to-build-production--2067540315620405543.md, raw/articles/xarticle-httpstcowt9binhegt-2079817450028519801.md, raw/articles/xarticle-httpstcofv3d2jpexs-2081681747520209385.md, raw/articles/xarticle-httpstcop3x0pw3eaz-2083445852027392195.md]
 ---
 
 # Rahul (sairahul1)
@@ -37,6 +37,10 @@ X creator (@sairahul1) who curates and surfaces AI/tech content. Known for high-
 - **2026-04-29** — Posted 24-minute Anthropic "Prompting 101" demo video featuring engineers Hannah and Christian walking through prompt engineering best practices for Claude Code. Tweet: 27,899 likes, 2,614 retweets, 96 replies. Video ingested and transcribed via VibeVoice ASR.
   - Source: `raw/transcripts/2026-05-01-claude-code-hidden-features-sairahul1.md`
   - Concept page: [[anthropic-prompt-engineering-car-insurance-demo]]
+
+- **2026-08-01** — Bookmarked X Article `2083445852027392195`; the local `bird read --json` export failed for `https://x.com/sairahul1/status/2083445852027392195`, preserving only the shortened URL `https://t.co/p3X0PW3eAZ` and no recoverable article body. The local `x-bookmarks` metadata reports tweet timestamp `Sat Aug 01 06:52:54 +0000 2026`, bookmark date `2026-08-01`, `content_type: "x_article"`, `character_count: 23`, `retweet_count: 41`, and `like_count: 294`; the export note repeats the Bird failure, so no destination or topic is inferred. ^[raw/articles/xarticle-httpstcop3x0pw3eaz-2083445852027392195.md]
+  - Source: `raw/articles/xarticle-httpstcop3x0pw3eaz-2083445852027392195.md`
+  - Pattern: [[link-post]]
 
 ## Related
 

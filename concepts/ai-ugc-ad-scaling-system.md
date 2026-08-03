@@ -1,10 +1,10 @@
 ---
 title: AI UGC Ad Scaling System
 created: 2026-04-13
-updated: 2026-07-26
+updated: 2026-08-03
 type: concept
 tags: [automation, genai, marketing, method, monetization]
-sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md]
+sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md, raw/articles/xarticle-this-marketing-agent-replaces-your-10kmonth-ad-age-2083189973155779034.md]
 related_entity: [[makeugc]]
 author: [[stijn-feijen]]
 ---
@@ -69,6 +69,12 @@ The local [[ceo-vlad]] article extends this volume-and-testing model beyond shor
 
 The format still follows the same operating thesis: make many hooks, batch-test them on Meta and TikTok, read CTR before hold rate and ROAS, and iterate on the winners. [[ai-podcast-ads]] captures this as a reusable format rather than a separate scaling philosophy.
 
+## Autonomous marketing-agent cadence
+
+Prajwal Tomar's broader marketing-agent article supplies a paid-social branch that keeps the same volume-and-iteration thesis while moving research, data reading, and promotion into an autonomous loop. Fresh ad sets are published daily; each batch runs 2–3 days for initial signal; the agent reads warehouse results, turns off the worst performers, moves winners into a pool where they compete for budget, and generates the next batch from the winning DNA. This is a source-described workflow, not independent evidence that the cadence or winner-pool economics generalize. ^[raw/articles/xarticle-this-marketing-agent-replaces-your-10kmonth-ad-age-2083189973155779034.md]
+
+The source's creative branch includes statics made with Kai AI and Google's [[nano-banana]], reviewed by a vision model, plus [[heygen]] AI-avatar UGC. The prompt/script archive is treated as training data for later creative analysis. The broader data spine, Facebook Marketing API writes-only rule, fresh competitor/transcript seed material, and 31-day experiment are preserved in [[ai-user-acquisition-agent]]; this page keeps the overlap at the ad-scaling layer. ^[raw/articles/xarticle-this-marketing-agent-replaces-your-10kmonth-ad-age-2083189973155779034.md]
+
 ## Related pages
 
 - [[makeugc]] — execution layer for publishing, testing, and scaling
@@ -77,6 +83,9 @@ The format still follows the same operating thesis: make many hooks, batch-test 
 - [[prompt-engineering-patterns]] — upstream prompting logic for hooks and scripts
 - [[ai-workflow-setup-service]] — adjacent business model for selling automation systems to clients
 - [[ai-cartoon-ugc-monetization]] — specific AI cartoon UGC monetization sub-strategy within this broader ad system
+- [[ai-user-acquisition-agent]] — warehouse-backed autonomous paid-ads branch
+- [[ai-generated-ads]] — broader AI advertising production cluster
+- [[prajwal-tomar]] — source author of the autonomous marketing-agent variant
 
 ## References
 
