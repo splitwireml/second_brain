@@ -1,10 +1,10 @@
 ---
 title: Borja
 created: 2026-07-10
-updated: 2026-08-03
+updated: 2026-08-04
 type: entity
 tags: [person, x-creator, founder, seo]
-sources: [raw/articles/xarticle-2026-ai-visibility-audit-do-or-die-2074830918167015884.md, raw/articles/xarticle-httpstco0zz8uarddm-2074473083440664733.md, raw/articles/xarticle-httpstcon6tcwg9pqh-2076649660215628159.md, raw/articles/xarticle-httpstco7h6pprurqc-2077046673553965231.md, raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md, raw/articles/xarticle-httpstcouoggqfafjz-2079542931342434390.md, raw/articles/xarticle-httpstcojyr8boh7s8-2081023355394683059.md, raw/articles/thread-borjafat-2082159756383326268.md, raw/articles/xarticle-httpstcowpyxxuxveh-2083179592873902377.md]
+sources: [raw/articles/xarticle-2026-ai-visibility-audit-do-or-die-2074830918167015884.md, raw/articles/xarticle-httpstco0zz8uarddm-2074473083440664733.md, raw/articles/xarticle-httpstcon6tcwg9pqh-2076649660215628159.md, raw/articles/xarticle-httpstco7h6pprurqc-2077046673553965231.md, raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md, raw/articles/xarticle-httpstcouoggqfafjz-2079542931342434390.md, raw/articles/xarticle-httpstcojyr8boh7s8-2081023355394683059.md, raw/articles/thread-borjafat-2082159756383326268.md, raw/articles/xarticle-httpstcowpyxxuxveh-2083179592873902377.md, raw/articles/xarticle-httpstcoqdoegyvtig-2084260212848906630.md]
 ---
 
 # Borja
@@ -34,6 +34,10 @@ The 2026-07-28 local bookmark is a one-post thread teaser whose complete body re
 ## Additional export-failed link-post provenance
 
 The 2026-07-31 local `x_article` export preserved only Bird's failure marker and a shortened URL; it adds another exact-`@borjafat` author-level provenance record for a bare-URL [[link-post]] without exposing a destination or topic. Locally reported metadata: tweet ID `2083179592873902377`; tweet timestamp `Fri Jul 31 13:14:53 +0000 2026`; 9 retweets; 182 likes; preserved shortlink `https://t.co/wpYXXUXVeh`. The linked destination and article content remain unknown. ^[raw/articles/xarticle-httpstcowpyxxuxveh-2083179592873902377.md]
+
+## New export-failed link-post provenance
+
+The 2026-08-03 local `x_article` export preserved only Bird's failure marker, export note, and a shortened URL; it adds another exact-`@borjafat` author-level provenance record for a bare-URL [[link-post]] without exposing a destination, article content, or topic. Locally reported metadata: tweet ID `2084260212848906630`; tweet timestamp `Mon Aug 03 12:48:53 +0000 2026`; 5 retweets; 107 likes. The shortened destination and article content remain unknown. ^[raw/articles/xarticle-httpstcoqdoegyvtig-2084260212848906630.md]
 
 ## Related
 

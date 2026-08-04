@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-03 | Total pages: 1172
+> Last updated: 2026-08-04 | Total pages: 1178
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -125,7 +125,7 @@
 [[coldiq]] — ColdIQ — B2B marketing agency applying multichannel cold email/LinkedIn, proprietary intent signals, and Claude-connected campaign workflows.
 [[conicai-llm]] — title: ConicAI LLM
 [[connor-showler]] — title: Connor Showler
-[[content-strategy]] — content planning across channels, including entertainment-led ecommerce creative.
+[[content-strategy]] — content planning across channels, now including reader hooks, iterative drafting, and public writing as career evidence and audience-building practice.
 [[coolify]] — title: Coolify
 [[coreyganim]] — title: coreyganim
 [[creatorpascal]] — Pascal — X creator whose four export-failed bare-URL bookmarks are tracked as recurring [[link-post]] provenance.
@@ -191,6 +191,7 @@
 [[george-clem]] — title: George Clements  Paid House
 [[george-clements-paid-ads-agency]] — title: George Clements Paid Ads Agency Funnel
 [[george-from-prodmgmt-world]] — X article author writing about product-management operating systems and pre-committed success metrics.
+[[ghostfeed]] — AI UGC production and scheduling product for TikTok video cloning, UGC reactions, and slideshows.
 [[ghumare64]] — title: ghumare64
 [[gittend0x]] — title: GitTrend
 [[gkisokay]] — title: Graeme
@@ -300,6 +301,7 @@
 [[matthew-berman]] — title: Matthew Berman
 [[maverick-creative]] — title: Maverick Creative
 [[maxfusion-ai]] — MaxFusion AI, an AI advertising/video-production platform with a source-described MCP execution layer.
+[[max-torchbearer]] — Max (@MaxTorchbearer), author of a source-described finishable-work method for restoring motivation by turning distant goals into bounded tests, evidence, and next decisions.
 [[maxwellcopy-ecommerce-funnel]] — title: maxwellcopy-ecommerce-funnel
 [[maxxmalist]] — MAX (@maxxmalist), X creator who describes a Markdown-folder AI research engine for mining unmet demand and routing scored opportunities into content.
 [[mem0ai]] — title: mem0
@@ -330,7 +332,7 @@
 [[nevodavid]] — title: Nevo David
 [[nftcps]] — title: NFTCPS
 [[nick-saraev]] — title: nick saraev
-[[nicolas-cole]] — Nicolas Cole — X creator and digital-writing educator whose article presents six reader-opening patterns, with recurring export-failed bare-URL [[link-post]] provenance.
+[[nicolas-cole]] — Nicolas Cole — X creator and digital-writing educator covering reader hooks, iterative drafting, and source-described public writing as career evidence and opportunity arbitrage.
 [[noah-frydberg]] — title: Noah Frydberg
 [[noel-ceta]] — title: Noel Ceta
 [[noisy]] — title: Noisy
@@ -454,7 +456,7 @@
 [[stephen-schoettler]] — title: Stephen Schoettler
 [[stijn-feijen]] — title: Stijn Feijen
 [[stitch-by-google]] — title: Stitch by Google
-[[success-metric]] — pre-committed product decision contract defining the outcome, deciding metric, thresholds, review timing, and guardrails.
+[[success-metric]] — pre-committed outcome contract spanning product metrics and finishable work units that turn long goals into evidence, results, and next decisions.
 [[supertone]] — title: Supertone
 [[suryansh-tiwari]] — title: Suryansh Tiwari
 [[t3mp3st]] — open-source offensive-security harness that wraps coding agents with recon, exploit, audit, CTF, and reporting workflows for authorized testing.
@@ -480,6 +482,7 @@
 [[triverra]] — source-provided AI travel companion brand represented by a constraint-dense full-viewport hero brief.
 [[trope]] — YC-launched startup/product used as the case study for a code-first launch-video workflow.
 [[trq212]] — title: "Thariq (trq212)"
+[[type-kshitij]] — Kshitij (Tjay) Dhyani, author of a source-described AI UGC persona-portfolio and TikTok distribution system.
 [[u2net-mlx]] — title: u2net-mlx
 [[unsloth]] — title: Unsloth
 [[vadim-strizheus]] — title: Vadim Strizheus
@@ -497,6 +500,7 @@
 [[vmiss]] — title: vmiss
 [[void-model-mlx]] — title: "Void-Model-MLX"
 [[voxyz_ai]] — title: Voxyzai
+[[voyzlab]] — Voyz (@voyzlab), author of a source-described shot-first AI video director workflow spanning scripting, storyboarding, reference locking, model-per-shot routing, sound, editing, and color grade.
 [[waleed]] — title: waleed
 [[wandermist]] — X creator currently represented by an export-failed bare-URL [[link-post]] bookmark with no recoverable destination context.
 [[waybarrios-vllm-mlx]] — title: vllm-mlx
@@ -594,12 +598,14 @@
 [[ai-review-management-service]] — title: AI Review Management Service
 [[ai-side-hustle-models]] — title: AI Side Hustle Models
 [[ai-travel-companion-landing-hero]] — full-viewport cinematic landing-hero pattern for an AI travel companion, with glassmorphic navigation and specified CTA micro-interactions.
-[[ai-ugc]] — synthetic-UGC category including reference-led ad remakes and scene-by-scene production workflows.
-[[ai-ugc-ad-scaling-system]] — volume-and-testing system for AI UGC ads, now including reference-video remakes as a creative-input shortcut.
+[[ai-ugc]] — synthetic-UGC category including reference-led remakes, scene-by-scene workflows, and organic persona portfolios.
+[[ai-ugc-ad-scaling-system]] — volume-and-testing system for AI UGC ads, with an adjacent organic persona-portfolio branch.
 [[ai-ugc-behavioral-biases]] — title: ai-ugc-behavioral-biases
 [[ai-ugc-income-system]] — monetization playbook for AI/tech UGC, now expanded with Sidney Brant's first-client and account-warmup workflow.
+[[ai-ugc-persona-factory]] — source-described AI UGC system combining tokenomics, locked personas, hook skills, warmed TikTok accounts, and save/DM funnels.
 [[ai-user-acquisition-agent]] — autonomous marketing-agent pattern connecting research, AI creative, warehouse feedback, and Meta ad iteration.
 [[ai-video]] — AI-assisted video generation and delivery, including a property-listing walkthrough service case.
+[[ai-video-director-workflow]] — source-described shot-first cinematic AI-video pipeline: emotional core, 5–8-shot plan, reference locking, model-per-shot routing, sound, edit, and color grade.
 [[ai-video-marketing-used-car-reports]] — strategy for using AI-assisted video to market a trust-sensitive used-car background-report product.
 [[ai-video-virality-formats]] — reusable AI/short-form video structures plus outlier-score research and Three-Vector TikTok volume/velocity/signal-density execution.
 [[ai-website-production-loop]] — repeatable AI website workflow: references, design constraints, generated assets, agent implementation, polish, deployment, and reuse.
@@ -626,7 +632,7 @@
 [[contextual-value-positioning]] — source-described framework for recalibrating self-perception by changing environments, comparison groups, and visible standards.
 [[continual-learning-for-agents]] — Replit-style agent improvement loop using evals, production traces, A/B tests, and harness/context updates instead of weight updates.
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
-[[distribution]] — distribution systems spanning TikTok Three-Vector cadence, save-led faceless X growth, audience-led product validation, coordinated X launch timing/conversion, and warm-network-to-inbound service acquisition.
+[[distribution]] — distribution systems spanning public writing as career evidence, TikTok Three-Vector cadence, save-led faceless X growth, audience-led product validation, coordinated X launch timing/conversion, and warm-network-to-inbound service acquisition.
 [[dormant-account-distribution-arbitrage]] — claimed strategy of buying aged dormant X accounts as pre-existing distribution infrastructure for faceless niche pages.
 [[ecommerce-funnel-training]] — Six-stage DTC subscription funnel with pain-point pages, listicle pre-sell variants, quiz capture, aggressive early nurture, and education-first retention.
 [[eval-engineering]] — evidence-driven agent gates covering judge bias, verdict-controlled runs, trajectory/component evals, trace-derived tests, and blast-radius rollout.
@@ -667,7 +673,7 @@
 [[one-person-business-2026]] — one-person AI business model extended with Machina's five-lane Viktor blueprint, custom agent decomposition, vault structure, memory levels, gates, and build sheet.
 [[outbound]] — Multichannel B2B outreach from intent signals and account mapping to AI follow-through, human quality gates, and enterprise multi-threading.
 [[paid-ads-agency-funnel]] — High-ticket B2B paid-social funnel with broad targeting, VSL/application variants, lead routing, setters, and pre-call nurture.
-[[personal-brand-establishment]] — Personal-brand operating model now including Anson Lin’s founder-content system: proprietary raw material, reusable post formats, proof, distribution, and conversion.
+[[personal-brand-establishment]] — Personal-brand operating model spanning public writing as career proof, Anson Lin’s founder-content system, reusable post formats, proof, distribution, and conversion.
 [[playable-web-game-brief]] — constraint-dense browser game brief for a magic-carpet endless flying-runner, including controls, gameplay, HUD, visual direction, and evidence boundaries.
 [[prediction-market-calibration-bot]] — Prediction-market estimator pattern: Beta-Binomial shrinkage, priors, credible intervals, hierarchical buckets, and Brier/log-loss calibration before sizing trades.
 [[proof-driven-content-rebuilding]] — source-described loop for finding proven posts, preserving resonance, changing the angle, and routing attention to a relevant offer.

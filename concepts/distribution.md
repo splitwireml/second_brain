@@ -1,10 +1,10 @@
 ---
 title: Distribution
 created: 2026-05-19
-updated: 2026-07-30
+updated: 2026-08-04
 type: concept
 tags: [business, marketing, monetization, distribution, distribution-strategy, content-strategy]
-sources: [raw/articles/xarticle-how-to-start-a-67-figure-solo-ai-business-in-2026--2055559252744290358.md, raw/articles/user-dms-distributionmaxxing-2026-07-10.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md, raw/articles/xarticle-the-full-distribution-roadmap-2081513372617765197.md, raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+sources: [raw/articles/xarticle-how-to-start-a-67-figure-solo-ai-business-in-2026--2055559252744290358.md, raw/articles/user-dms-distributionmaxxing-2026-07-10.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md, raw/articles/xarticle-the-full-distribution-roadmap-2081513372617765197.md, raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md, raw/articles/xarticle-creating-content-is-gasoline-for-your-career-its-t-2084253831127576705.md]
 confidence: medium
 related_entity: [[content-strategy]]
 ---
@@ -143,6 +143,12 @@ The source's operational schedule is 8 posts in a target market's 6:00pm–8:00p
 
 The named cross-platform stack costs $264 monthly in the article's arithmetic: Claude $20 for 56 weekly hook variations, ElevenLabs $22 for AI narration, Arcads $200 for same-script avatar variation, CapCut free for editing/hook overlays/captions, Metricool $22 for clustered posting, and free TikTok analytics for identifying the winning cluster. The source's distribution lift, order-of-magnitude penalty for missing a vector, 72-hour baseline reweighting, and four-platform cost are source-described and not independently audited. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
 
+
+## Public writing as career distribution
+
+Cole's career article adds a low-infrastructure distribution path: publish writing consistently so work, current learning, and visible experience can be found by employers and other opportunities. The article claims that most people read, lurk, or listen without publishing, and that simply starting to post can create a source-described top-1%-in-field position, scale a personal brand, attract opportunities, and open elite networks. This is a source-described opportunity-arbitrage thesis, not a measured reach or hiring rule. ^[raw/articles/xarticle-creating-content-is-gasoline-for-your-career-its-t-2084253831127576705.md]
+
+The source does not specify a platform-selection strategy, audience research method, exact posting cadence beyond “consistently”/“every day,” analytics, funnel, or conversion measurement. It points readers to a free crash course and a **13,000-word Ultimate Guide** for going viral, avoiding the blank page, attracting readers, dominating a niche, and building an audience on X, with a promotional claim that the guide helped **100,000 Digital Writers** build daily habits. The guide and its destination were not independently inspected. ^[raw/articles/xarticle-creating-content-is-gasoline-for-your-career-its-t-2084253831127576705.md]
 
 ## See Also
 

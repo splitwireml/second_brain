@@ -1,10 +1,10 @@
 ---
 title: TikTok
 created: 2026-04-18
-updated: 2026-07-30
+updated: 2026-08-04
 type: entity
 tags: [platform, content, social-media, tiktok, ugc, video]
-sources: [raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+sources: [raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md]
 related_entity: [[yt-dlp]]
 ---
 
@@ -26,6 +26,12 @@ TikTok is the primary distribution surface for [[ai-ugc]] content:
 - [[reelmeal]]-style content utilities
 - [[ai-cartoon-character-ugc-system]] character accounts
 - chinese-ai UGC frameworks ([[minimax]] video generation, [[qwen]] integration)
+
+## AI persona portfolio variant
+
+[[type-kshitij]]'s source treats TikTok as the organic distribution surface for a portfolio of locked AI personas. The operating sequence combines low-cost slideshows or reference-led reactions, audience-specific hooks, save/comment/DM funnels, and warmed physical-device accounts. The source's account-fingerprint, shadowban, view, and conversion claims are not independently verified. ^[raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md]
+
+See [[ai-ugc-persona-factory]] for the complete source-described production and publishing workflow.
 
 ## Source-described Three-Vector cadence
 

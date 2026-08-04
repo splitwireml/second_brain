@@ -1,10 +1,10 @@
 ---
 title: Character-Consistent AI Video Workflow
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-04
 type: concept
 tags: [ai-video, video-generation, image-generation, prompting, workflow]
-sources: [raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md]
+sources: [raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
 related_entity: [[primee32]]
 author: [[primee32]]
 confidence: medium
@@ -37,6 +37,10 @@ The source's image prompt table lists seven blocks—subject, action, environmen
 ## Business layer
 
 Primee32 proposes prompt packs, sponsored content, done-for-you videos, paid newsletters, and mini-courses as monetization routes. The article's price bands ($15–$100 prompt packs, $300–$1,500 videos, and other ranges) are source-claimed and not evidence of realized demand or revenue.
+
+## Broader director workflow
+
+The later [[voyzlab]] article reaches the same reference-first conclusion from a broader production angle: create one strong front-facing portrait, use that exact image for every following shot, and never re-describe the character twice. It adds a pre-generation shot list, first/last-frame checks, model-per-shot routing, sound-critical shot ordering, and final color continuity. Those additions are filed in [[ai-video-director-workflow]]; the identity-locking claim remains source-described rather than a guarantee of zero drift. ^[raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
 
 ## Evidence layers
 

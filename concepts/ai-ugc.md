@@ -1,10 +1,10 @@
 ---
 title: AI-UGC
 created: 2026-05-31
-updated: 2026-07-26
+updated: 2026-08-04
 type: concept
 tags: [ai-ugc, content, marketing, ugc, video, viral]
-sources: [raw/articles/14-second-ai-vlog-method.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md]
+sources: [raw/articles/14-second-ai-vlog-method.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md]
 ---
 
 # AI-UGC
@@ -22,6 +22,12 @@ The MakeUGC paste describes a reference-led synthetic-UGC path: start from a com
 The [[ceo-vlad]] article adds a longer-form advertising pattern to AI-UGC: two synthetic speakers use a podcast frame, conversational objections, and product-in-context dialogue instead of a short direct pitch. [[infinite-ugc]] is the source-described production tool, with [[claude]] used for scripts and hook volume. The article's claims about watch time, cost, and ecommerce revenue remain source-reported. ^[raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md]
 
 See [[ai-podcast-ads]] for the format-specific workflow and [[ai-ugc-ad-scaling-system]] for the testing loop around it.
+
+## Organic persona-portfolio branch
+
+[[type-kshitij]]'s source adds an organic portfolio variant: lock one AI persona identity, choose slideshow or reaction formats from generation economics, study the target audience's language, and distribute through warmed TikTok accounts. The source calculates roughly `$0.06` per persona-led slideshow and `$0.74` per 10-second reaction, then connects saves/comments/DMs/shares to a SaaS funnel. These economics, performance comparisons, and account-behavior claims remain source-reported. ^[raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md]
+
+The reusable framework is filed as [[ai-ugc-persona-factory]]. It complements the paid creative-testing model in [[ai-ugc-ad-scaling-system]] rather than replacing it.
 
 ## Key Patterns
 

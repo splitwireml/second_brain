@@ -1,10 +1,10 @@
 ---
 title: AI Animation Factory
 created: 2026-06-11
-updated: 2026-07-11
+updated: 2026-08-04
 type: concept
 tags: [ai-ugc, video-generation, workflow, monetization, content-automation]
-sources: [raw/articles/xarticle-i-built-an-ai-animation-factory-that-runs-247-2063922946947575945.md, raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md]
+sources: [raw/articles/xarticle-i-built-an-ai-animation-factory-that-runs-247-2063922946947575945.md, raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
 related_entity: [[0x-fokki]]
 ---
 
@@ -38,6 +38,10 @@ This is a source-described workflow, not proof that the automation produces reli
 ## Why it matters
 
 This is a good example of AI-native media operations: the moat is not the prompt, but the workflow design, asset handoff discipline, and ability to run the loop repeatedly enough to sell outputs instead of bespoke labor.
+
+## Director-controlled variant
+
+[[voyzlab]]'s cinematic workflow is the upstream quality-control counterpart to this factory pattern. It inserts emotional-core selection, three-structure comparison, shot-list planning, still-frame arc checks, reference locking, model-per-shot routing, sound-first prioritization, and a final color grade before the modular handoffs. The source describes the steps and tool roles; its comparative model judgments are not independently verified. ^[raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
 
 ## Related
 

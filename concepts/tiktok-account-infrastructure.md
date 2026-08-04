@@ -1,10 +1,10 @@
 ---
 title: TikTok Account Infrastructure
 created: 2026-05-06
-updated: 2026-05-10
+updated: 2026-08-04
 type: concept
 tags: [account-warming, content-infrastructure, distribution, tiktok]
-sources: [raw/articles/thread-codi_fyy-2050594569675481584.md]
+sources: [raw/articles/thread-codi_fyy-2050594569675481584.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md]
 related_entity: [[codi-fyy]]
 author: [[codi-fyy]]
 ---
@@ -32,6 +32,12 @@ High-volume content operations separate the stack into three layers:
 3. **Distribute** — account infrastructure (treated as core system, not afterthought)
 
 Distribution infrastructure requires investment in real, in-country accounts with proper warming to achieve sustainable reach.
+
+## AI persona variant
+
+[[type-kshitij]]'s source applies the same infrastructure model to AI UGC personas. It claims one physical phone supported up to three persona accounts in the author's experience, recommends starting with one account and adding the others only after health is established, and gives a day-one/day-two/day-three warm-up sequence. It also adds a physical-device final-post handoff for early growth, fresh email/Apple ID separation, and a rule against identical media uploads across accounts. These limits and platform-behavior claims are source-reported, not official TikTok guarantees. ^[raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md]
+
+See [[ai-ugc-persona-factory]] for the full source-described provisioning, warm-up, scheduling, and failure-mode details.
 
 ## Relevance
 
