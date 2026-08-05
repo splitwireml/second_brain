@@ -1,10 +1,10 @@
 ---
 title: Five-Stage Distribution Roadmap
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-05
 type: concept
 tags: [distribution, distribution-strategy, business, marketing, framework, content-strategy]
-sources: [raw/articles/xarticle-the-full-distribution-roadmap-2081513372617765197.md]
+sources: [raw/articles/xarticle-the-full-distribution-roadmap-2081513372617765197.md, raw/articles/xarticle-if-youre-building-a-faceless-page-and-you-havent-h-2084658027219828755.md]
 related_entity: [[whotfiszackk]]
 author: [[whotfiszackk]]
 ---
@@ -139,6 +139,18 @@ Nothing is intended to be created once and used once. This mechanism extends [[c
 | Month 6+ | Maintain and manage the system rather than treating it as fantasy autopilot. |
 
 The schedule is the author's proposed operating model. It is not verified for different markets, products, domain authority, list quality, or sales cycles.
+
+## Source variant: faceless-page $100,000 compounding model
+
+The 2026-08-04 local article reuses the foundation → community → owned audience → search → multiplication architecture but supplies a separate, more aggressive numeric model. It defines $100,000 as eight to twelve months of recurring revenue, not one viral post or launch. At $47 per product, the target is 177 customers/month: community 30–40, search 40–50 from 12 pieces, email 50–60 from 1,500 subscribers and a five-email sequence converting at 4%, and referral/partnership 30–40; the stated total is 150–190 customers and $7,050–$8,930/month. The article later describes partnerships as a fifth component, so its channel arithmetic should remain source-specific rather than silently reconciled.^[raw/articles/xarticle-if-youre-building-a-faceless-page-and-you-havent-h-2084658027219828755.md]
+
+**Foundation and community.** Phase one takes two weeks: write the one-sentence positioning statement (the source contrasts 1% conversion for “might be interested” with 8% for “exactly right”), then build a free checklist, template, or mini-guide that works on its own in three days. It contrasts a 4% versus 0.8% email conversion on 1,500 subscribers (60 versus 12 customers, or $2,820 versus $564 at $47 per product). In weeks 3–6, identify five acute-pain communities—examples are a subreddit, Facebook group, LinkedIn comment section, or Discord server—and answer the urgent question daily for four weeks without mentioning the product; promotion starts in week seven. The source claims trusted recommendations convert at six times cold promotion and the channel can deliver 30–40 customers/month.^[raw/articles/xarticle-if-youre-building-a-faceless-page-and-you-havent-h-2084658027219828755.md]
+
+**Search and owned email.** Weeks 3–12 run search simultaneously with community: mine repeated unanswered questions from those communities, write the most useful answer to 12 of them, and publish each on an indexable page. The source claims 40–50 customers/month, persistent results through month 24, and no extra effort after initial writing; it names Google search but no SEO tool or ranking method. Starting week seven, every channel points to the free resource and its email address. The five-email sequence is: immediate delivery plus one sentence about what follows; useful follow-up with no pitch; a same-situation case study; an honest discussion of the common action barrier; and the offer as the logical next step. The source claims 40–60 new subscribers/week, 1,500 by month six, 2,400 by month nine, and 3,600 by month twelve; at 4%, the last figure is 144 customers or $6,768 per Thursday.^[raw/articles/xarticle-if-youre-building-a-faceless-page-and-you-havent-h-2084658027219828755.md]
+
+**Multiplication and timeline.** After the first 30 customers get results, the source asks the first 30 happy customers by direct personal message (not an automated notification) for referrals and claims 18% referred conversion. From month three it proposes 10 adjacent newsletter operators/community managers, with 2–3 accepting and 20–30 customers per event; three quarterly partnerships are claimed as 60–90 customers. The timeline claims $1,500–$3,000/month in months 1–2, $4,000–$6,000 in months 3–4, $7,000–$10,000 in months 5–6, and $8,000–$15,000 in months 7–12, totaling $85,000–$120,000. It gives no provider, CRM, analytics/attribution, deliverability or consent mechanics, technical SEO, paid-acquisition plan, or channel stop condition; all rates, customer counts, and revenue are source claims.^[raw/articles/xarticle-if-youre-building-a-faceless-page-and-you-havent-h-2084658027219828755.md]
+
+The referral script is preserved as source-specific copy: “you mentioned the checklist caught something you would have missed. i wanted to ask — do you know one or two people dealing with the same situation? i'd love to take care of them at a discount if you wanted to pass it along.”
 
 ## Boundaries and omissions
 

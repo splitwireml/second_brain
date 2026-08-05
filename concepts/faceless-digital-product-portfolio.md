@@ -1,10 +1,10 @@
 ---
 title: Faceless Digital Product Portfolio
 created: 2026-07-07
-updated: 2026-07-23
+updated: 2026-08-05
 type: concept
 tags: [business-models, monetization, distribution, product]
-sources: [raw/articles/xarticle-made-347k-last-year-selling-pdfs-from-pages-nobody-knows-are-mine-2074097134518034527.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-either-spend-the-next-6-months-scrolling-a-2075940287130824945.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md]
+sources: [raw/articles/xarticle-made-347k-last-year-selling-pdfs-from-pages-nobody-knows-are-mine-2074097134518034527.md, raw/articles/xarticle-buy-dead-twitter-accounts-rebrand-faceless-info-pages-2075195353155146107.md, raw/articles/xarticle-rebuild-viral-content-with-proof-2075272992758903183.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-my-faceless-page-portfolio-generates-more-revenue--2075554616880882025.md, raw/articles/xarticle-you-can-either-spend-the-next-6-months-scrolling-a-2075940287130824945.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-you-can-build-a-faceless-page-create-a-product-wit-2078811004901916995.md, raw/articles/xarticle-4200-a-month-from-a-twitter-account-nobody-knows-exists-2080006266295136505.md, raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md, raw/articles/xarticle-if-youre-building-a-faceless-page-and-you-havent-h-2084658027219828755.md]
 related_entity: [[whotfiszackk]]
 author: [[whotfiszackk]]
 ---
@@ -79,6 +79,12 @@ This sharpens the portfolio sequence to **specificity → saves → conversation
 The new source applies the portfolio model to people whose jobs were automated or who fear imminent displacement. It proposes a 30-day pivot plan, role-specific transition guides, a 90-day emergency kit, and a prevention playbook, then expands into coaching and employer-funded outplacement. The source's prices, market gap, refund rates, and revenue projections are claims, not audited benchmarks. ^[raw/articles/xarticle-displaced-worker-market-info-products-2077423916600168843.md]
 
 This is a different product wedge from generic templates: the artifact must help a buyer make a high-stakes transition, so qualified career expertise, current labor-market evidence, and realistic promises matter more than anonymous packaging alone. The reusable concept is [[ai-displacement-career-pivot-info-products]].
+
+## Source variant: compounding distribution for a low-ticket page
+
+A local 2026-08-04 article gives the portfolio model a specific $47-product operating case. It says the product is not launched once for a spike; a two-week positioning/free-resource foundation, community contribution, indexable search answers, owned email, referrals, and partnerships are left running for eight to twelve months. The article claims $1,500–$3,000/month in months 1–2, $4,000–$6,000 in months 3–4, $7,000–$10,000 in months 5–6, and $8,000–$15,000 in months 7–12, or $85,000–$120,000 over twelve months. Those numbers, conversion rates, and customer counts are source claims, not audited portfolio benchmarks.^[raw/articles/xarticle-if-youre-building-a-faceless-page-and-you-havent-h-2084658027219828755.md]
+
+This source adds a durable constraint to the portfolio thesis: faceless packaging does not eliminate distribution. The page still needs a narrow buyer/problem position, a useful artifact, an email capture route, ongoing community/search surfaces, and evidence from customers before referrals or partnerships can start. Its public offer is a source-described DM invitation to **"GUILD"**; no product identity, storefront, provider, analytics stack, or implementation beyond the named channels is specified.^[raw/articles/xarticle-if-youre-building-a-faceless-page-and-you-havent-h-2084658027219828755.md]
 
 ## Strategic distinction
 

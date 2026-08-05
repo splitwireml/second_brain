@@ -1,10 +1,10 @@
 ---
 title: YouTube
 created: 2026-05-31
-updated: 2026-07-30
+updated: 2026-08-05
 type: entity
 tags: [platform, content, social-media, ugc, video, youtube]
-sources: [raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
+sources: [raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
 related_entity: [[google]]
 ---
 
@@ -40,9 +40,16 @@ A local X Article presents YouTube as the data surface for a source-described an
 
 The workflow treats retention, script structure, 5x+ outlier videos, and 3–5 direct competitors as primary analytical lenses. Its diagnosis checks the first 15 seconds, first 90 seconds, 30–60 second payoff gaps, three promise foreshadowings, pacing cycles, and AI-slop patterns. The source calls the system 24/7 but does not specify a scheduler, continuous worker, Nexlev API/tool schema, MCP transport, dataset provenance, or evaluation protocol; the analytics and platform claims therefore remain source-described rather than verified. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
 
+## One-hour faceless-channel variant
+
+Miss Scarlett's local article presents YouTube as the publishing and monetization surface for a faceless pipeline: Claude ideation and scripting, ElevenLabs narration, Kling/Runway/Higgsfield image-to-motion visuals, CapCut assembly with auto-captions, and Canva thumbnails. It recommends narration first, one new visual per pause, long videos as the money base, and Shorts cutdowns as a second discovery engine. It also describes first-48-hour click-through/watch-duration checks, YouTube's thumbnail test tool, and a 20–30-video learning window; the source does not specify API endpoints, analytics exports, menu paths, file formats, or scheduler implementation. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
+The source describes level-one fan funding at 500 subscribers, 3 public uploads, and either 3,000 watch hours in 12 months or 3 million Shorts views in 90 days; level two ad revenue at 1,000 subscribers plus 4,000 watch hours in 12 months or 10 million Shorts views in 90 days. It also claims that a July 2026 “inauthentic content” crackdown targets low-effort mass-produced AI videos while original writing, voice identity, image variation, and real value remain allowed. These requirements and policy statements are time-sensitive source claims, not independently verified platform facts. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
 ## Related
 
 - [[thegoldeenhand]]
+- [[vampscally]] — source author of the one-hour faceless-channel variant
 - [[ai-youtube-channel-playbook]] — research-first channel workflow
 - [[dmtr-btc]] — source author
 - [[fyreinteractive]] — source author of the Nexlev MCP analytics variant

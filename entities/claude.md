@@ -1,10 +1,10 @@
 ---
 title: Claude
 created: 2026-05-14
-updated: 2026-07-30
+updated: 2026-08-05
 type: entity
 tags: [product, llm, ai]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md, raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
 ---
 
 ## Overview
@@ -44,6 +44,10 @@ A local X Article describes a Claude Project whose project knowledge includes a 
 
 The source presents Opus 5 as Anthropic's publicly available “mythos-class” model with safety classifiers, coding/reasoning/vision/knowledge-work/long-horizon-agentic capability, `$10` input and `$50` output per million tokens, a 1M-token context window, self-checking analysis, and a 10-point jump over Opus 4.8 on Hex's core analytics benchmark, claimed as the first model above 90%. It compares Sonnet 5 at `$2`/`$10` per million tokens and claims an audit costs under `$5` in tokens. These model labels, release status, prices, context size, benchmark, self-checking behavior, and cost claims are source-described, not independently verified. The source does not document Nexlev setup/authentication, exact tool schemas, MCP transport/API endpoints, dataset provenance, or an evaluation protocol. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
 
+### One-hour faceless YouTube production
+
+Miss Scarlett's local X Article uses Claude for weekly niche/title ideation, retention-oriented 8–10 minute script generation, titles, descriptions, tags, and packaging. The supplied prompts require a 5-second hook, 3–5 body sections with examples and cliffhangers, pattern interrupts every 60–90 seconds, a natural subscribe close, five thumbnail ideas, three title options, a title under 60 characters, a 200-word SEO description, 15 tags, and three pinned-comment ideas. The source gives no Claude model/version, API/interface, or file handoff; its approximately `$20` monthly price is source-described. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
 ### TikTok hook-variation use
 
 In Sleep's source-described tool stack, Claude generates 56 hook variations per week for $20 as the input to the Three-Vector System. The local article names no Claude model or version, prompt text, command, API/interface, configuration, or file handoff, so this is a source-reported role and cost rather than a verified Claude capability or pricing fact. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
@@ -51,6 +55,7 @@ In Sleep's source-described tool stack, Claude generates 56 hook variations per 
 ## Related
 
 - [[thegoldeenhand]]
+- [[vampscally]]
 - [[ai-youtube-channel-playbook]]
 - [[dmtr-btc]]
 - [[fyreinteractive]]

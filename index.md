@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-04 | Total pages: 1178
+> Last updated: 2026-08-05 | Total pages: 1179
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -163,6 +163,7 @@
 [[ecomrads-mcp]] — source-described MCP connector for Claude-driven video generation; availability and routing unverified.
 [[eden]] — source-described creator research and semantic knowledge-library platform by Dan Koe.
 [[elder-plinius]] — title: Elder Plinius
+[[elevenlabs]] — AI voice synthesis platform used for source-described faceless YouTube narration.
 [[elvis-x]] — title: Elvis X
 [[erdemwrites]] — title: ErdeM
 [[eric-mishra]] — title: Eric Mishra
@@ -300,8 +301,8 @@
 [[mattepstein]] — Matt Epstein, X creator documenting AI-assisted product-launch systems, now also represented by an export-failed bare-URL link-post provenance record.
 [[matthew-berman]] — title: Matthew Berman
 [[maverick-creative]] — title: Maverick Creative
-[[maxfusion-ai]] — MaxFusion AI, an AI advertising/video-production platform with a source-described MCP execution layer.
 [[max-torchbearer]] — Max (@MaxTorchbearer), author of a source-described finishable-work method for restoring motivation by turning distant goals into bounded tests, evidence, and next decisions.
+[[maxfusion-ai]] — MaxFusion AI, an AI advertising/video-production platform with a source-described MCP execution layer.
 [[maxwellcopy-ecommerce-funnel]] — title: maxwellcopy-ecommerce-funnel
 [[maxxmalist]] — MAX (@maxxmalist), X creator who describes a Markdown-folder AI research engine for mining unmet demand and routing scored opportunities into content.
 [[mem0ai]] — title: mem0
@@ -488,6 +489,7 @@
 [[vadim-strizheus]] — title: Vadim Strizheus
 [[vadoo]] — title: Vadoo
 [[vaibhav-sisinty]] — X creator who turns AI-tool discoveries into operator-friendly setup walkthroughs for cost and workflow leverage.
+[[vampscally]] — Miss Scarlett (@vampScally), X Article author documenting a source-described one-hour faceless YouTube workflow.
 [[vane]] — title: "Vane (ItzCrazyKns)"
 [[varick-agents]] — Enterprise AI deployment company whose public writing emphasizes process audits, model-agnostic orchestration, and applied AI engineering for production agents.
 [[vas]] — title: "Vas"

@@ -1,10 +1,10 @@
 ---
 title: AI YouTube Channel Playbook
 created: 2026-07-24
-updated: 2026-07-30
+updated: 2026-08-05
 type: concept
 tags: [ai-video, video, content, content-strategy, content-automation, content-creator, marketing, youtube, framework, virality, x-article]
-sources: [raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
+sources: [raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
 related_entity: [[dmtr-btc]]
 ---
 
@@ -78,14 +78,104 @@ The intended loop is: the channel audit identifies structural patterns; competit
 
 The source does not provide Nexlev installation or authentication steps, exact tool names/schemas, MCP transport or API endpoints, a dataset or analytics provenance trail, retention-definition details, an evaluation protocol, actual tool-returned outputs, or implementation details for a 24/7 scheduler/worker. It also does not independently establish Opus 5 or Sonnet 5 release/version status. The raw article preserves the linked URLs and its nested X-export frontmatter verbatim. ^[raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md]
 
+## Miss Scarlett's one-hour faceless-channel variant
+
+Miss Scarlett's article presents a more execution-oriented branch of this playbook: choose a niche by RPM and repeatability, use [[claude]] for ideas and scripts, generate narration before visuals, assemble in CapCut, package the upload, and batch/schedule posts. The article says the author's main horror channel reached 100,000 subscribers and more than $50,000 from YouTube in recent months while taking about one hour per day; those outcomes, timing, and algorithm claims are source-reported rather than independently audited. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
+### Policy and evidence boundary
+
+The source says that a July 2026 YouTube rule change began treating lazy, mass-produced AI videos as “inauthentic content,” with a described three-strike path of warning, 90-day suspension, and removal from monetization. It does not say that AI is banned: its proposed safe boundary is one layer of real value in every video—an original written story, a deliberate voice choice that gives the channel identity, original images/covers rather than repeated stock clips, and variation between videos. The rule, enforcement sequence, and “safe” conclusion are source-described and should not be treated as verified platform policy without independent confirmation. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
+### Niche selection and exact prompt
+
+The source recommends choosing by estimated RPM and repeatability rather than personal interest. Its rough source ranges are finance/business `$15–$40` per 1,000 views, tech/AI `$10–$25`, education/philosophy `$6–$15`, horror/stories `$4–$10`, and kids/general entertainment `$2–$6`. It then asks whether the niche can sustain 200 videos; examples include horror stories, kids stories, philosophy questions, scary history, sleep stories, and motivation. The ranges, the repeatability heuristic, and the claim that horror trades lower RPM for huge, endlessly producible view volume are source claims.
+
+```text
+Act as a YouTube strategist for faceless AI channels. I want to start one.
+Analyze these niches: [list 5 you are considering].
+For each, give me: estimated RPM range, how saturated it is, how easy it is
+to make 200+ videos, the audience size, and one content angle nobody is doing
+well yet. Then pick the single best one for a beginner and give me 30 video
+title ideas for it. If you cannot easily list 30, the niche is too narrow.
+```
+
+### Named tool stack and ordered handoffs
+
+The source's intentionally small stack is:
+
+- **Claude** — ideas, scripts, titles, and descriptions; approximately `$20` per month in the source.
+- **ElevenLabs** — reads the script aloud; the source recommends choosing one voice and keeping it for channel identity, at approximately `$22` per month.
+- **Kling**, **Runway**, or **Higgsfield** — turn still covers/images into moving shots; free tiers are said to exist and paid use is described as about `$20–$30` per month when scaling.
+- **CapCut** — drops visuals onto the voice track, adds auto-captions, and exports the assembled video; described as free.
+- **Canva** — makes thumbnails; described as free.
+
+The source calls the starting total roughly `$30` per month and says free tiers can be used, even though its individual price estimates imply a different total; this is an internal source claim, not reconciled pricing. It explicitly does not specify a model/version for any tool, an API or connector, audio/video file format, file path, dimensions, frame rate, codec, caption settings, or scheduler implementation. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
+The source's daily production order and handoffs are:
+
+1. **Ideas:** once a week, ask Claude for a batch of titles and choose the strongest; about 10 minutes for a week of content.
+2. **Script:** have Claude write for retention, read it once, and fix anything that feels wrong; about 15 minutes.
+3. **Voice:** paste the script into the voice tool, generate, and download; about 5 minutes.
+4. **Visuals:** generate a cover and images or moving shots, with one new visual for every pause in the voice; about 15 minutes.
+5. **Assembly:** drop visuals onto the voice track in CapCut, turn on auto-captions, and export; about 15 minutes.
+6. **Packaging:** have Claude write the title, description, and tags, then make the thumbnail in Canva; about 10 minutes.
+
+The listed timings add up to more than the article's “about one hour” headline, so both are preserved as source-described estimates. The article says several videos can be made in one sitting and scheduled to post automatically through the week; making is “manual-ish” while posting is fully automated, with more of the pipeline expected to automate over time. Its human/automation boundary is “you become the director, the AI becomes the crew.” ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
+### Retention script and packaging prompts
+
+The article supplies this exact script prompt:
+
+```text
+You are a senior YouTube scriptwriter for a faceless [niche] channel.
+Write a full script for the video titled: [title].
+Length: about [8-10] minutes. Audience: [who].
+
+Structure it like this:
+- Open with a hook in the first 5 seconds using a shocking line or question.
+  No intro and no "hey guys."
+- Build tension with specifics and the word "you."
+- Main body in 3 to 5 sections. Each one: a bold point, a real example,
+  and a small cliffhanger into the next.
+- Add a pattern interrupt every 60 to 90 seconds so attention never drops.
+- Close by calling back to the hook and asking for the subscribe naturally.
+
+Write for speaking, short sentences, no filler.
+Also give me 5 thumbnail ideas and 3 title options.
+```
+
+For metadata and packaging it supplies:
+
+```text
+Act as a YouTube SEO and packaging expert.
+Video topic: [topic]. Niche: [niche].
+Give me:
+1. A title under 60 characters that triggers curiosity
+2. A 200-word description that is SEO friendly with a call to action
+3. 15 tags mixing broad and specific
+4. 3 pinned comment ideas to boost engagement
+Optimize for click-through and watch time.
+```
+
+The accompanying heuristics are a simple thumbnail with one focal point, strong emotion or curiosity, high contrast, and at most three words; curiosity-led titles; and a claim that title and thumbnail produce 80% of the result. These are source recommendations, not measured guarantees. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
+### Monetization, feedback, and scaling rules
+
+The article describes two current monetization levels: level one for fan funding at 500 subscribers, 3 public uploads, and either 3,000 public watch hours in the past year or 3 million Shorts views in 90 days; and level two for ad revenue at 1,000 subscribers plus 4,000 watch hours in the past 12 months or 10 million Shorts views in 90 days. Its proposed strategy is long videos as the money base, cutting each into several Shorts to chase views and feed subscribers back to the main channel, while still requiring value and variety for approval. These requirements and the claim that long videos pay more but grow slower than Shorts are source-described and time-sensitive.
+
+The source further recommends finding videos whose views greatly exceed their channel's subscriber count, adapting the format to a fresh subject, keeping horror suspenseful rather than graphic because gore can trigger limited ads, using YouTube's thumbnail test tool, watching click-through and watch duration during the first 48 hours, building narration before visuals so pauses determine image changes, and publishing 20–30 videos before judging the channel. Its scaling model tests several niche channels for a couple of months, kills flops, and concentrates on the one or two that pop. The first-30-day cadence is: week 1 choose the niche with Claude and set up the stack; week 2 make and post 3–5 videos without judging them; weeks 3–4 keep a fixed schedule and study attention. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
+The source does not specify the YouTube thumbnail-test interface/menu path, analytics export or evaluation procedure, exact content-review checklist beyond reading and fixing the script, the renderer or image-generation model behind the named tools, the voice model, file formats, storage paths, compression, accessibility/fallback behavior, or how automatic posting is implemented. Its revenue (`$50,000+`), subscriber (`100,000`), RPM, tool-cost, one-hour, monetization, “safe,” and growth claims remain evidence boundaries rather than verified wiki facts. ^[raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+
 ## Related
 
 - [[thegoldeenhand]]
-
+- [[vampscally]] — source author of the one-hour faceless-channel variant
 - [[dmtr-btc]] — source author and operator of the playbook
 - [[fyreinteractive]] — source author of the Nexlev MCP + Opus 5 analyst variant
 - [[youtube]] — research surface and long-form publishing platform
 - [[claude]] — source-described niche, synthesis, and scripting tool
+- [[elevenlabs]] — source-described narration tool
 - [[faceless-content-system]] — adjacent multi-platform faceless publishing system
 - [[content-strategy]] — broader cadence and audience-planning context
 - [[ai-video-virality-formats]] — adjacent short-form format-research loop
