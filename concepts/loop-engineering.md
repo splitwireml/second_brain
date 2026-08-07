@@ -1,10 +1,10 @@
 ---
 title: Loop Engineering
 created: 2026-06-11
-updated: 2026-08-03
+updated: 2026-08-07
 type: concept
 tags: [workflow, orchestration, agent, claude-code, codex, ai-research, training, evaluation]
-sources: [raw/articles/xarticle-loop-engineering-2064127981161959567.md, raw/articles/xarticle-from-prompting-agents-to-loop-engineering-2068008743153832264.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/thread-zodchiii-2070809778153832264.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-what-the-hell-is-a-loop-anyway-2073492320159510869.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
+sources: [raw/articles/xarticle-loop-engineering-2064127981161959567.md, raw/articles/xarticle-from-prompting-agents-to-loop-engineering-2068008743153832264.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/thread-zodchiii-2070809778150953343.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-what-the-hell-is-a-loop-anyway-2073492320159510869.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md, raw/articles/github-block-buzz-readme-2026-08-07.md, raw/articles/github-block-buzz-architecture-2026-08-07.md]
 related_entity: [[claude-code]]
 ---
 
@@ -132,6 +132,10 @@ Hanako's eval-engineering course makes the verdict part of the loop rather than 
 
 The same gate opens by blast radius instead of one confidence threshold. Reversible contained changes can open after evidence; wide changes such as shared utilities or schemas need deterministic checks plus a clean trajectory; migrations, deletions, production-data writes, and money movement remain closed regardless of score. Evidence is read in order: tests/types/schema/sandbox, then the agent-version trajectory, then rollback history, with the model's self-assessment weighted least. Shadow mode and gate-versus-human disagreement tracking provide the rollout boundary. This is the operational form of [[eval-engineering]] for a [[manager-worker-pr-loop]]. ^[raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
 
+## Buzz as loop substrate, not loop controller
+
+[[buzz]] supplies event triggers, schedules, channel history, signed agent identity, run traces, and a CLI/ACP surface through which an external loop can report progress or ask for human action. Its workflow engine is sequential and its execution kinds are excluded from retriggering, which is useful loop hygiene but not a general loop-until-verified primitive. The native workflow schema does not provide attempt counters, retry policies, verifier-owned stop conditions, or dynamic fan-out; those belong in the external harness or orchestrator.^[raw/articles/github-block-buzz-readme-2026-08-07.md][raw/articles/github-block-buzz-architecture-2026-08-07.md][raw/articles/github-block-buzz-workflow-schema-2026-08-07.md]
+
 ## Why it matters
 
 Once tools like [[claude-code]] and [[codex]] expose scheduling, isolated execution, and stopping-condition primitives, the main engineering task becomes designing the loop around them. The expensive part is no longer just a single model call; it is the number of iterations the loop burns before convergence.
@@ -173,6 +177,8 @@ A good loop combines explicit stop conditions like [[goal-primitive]], isolation
 - [[omarsar0]]
 - [[phosphenq]]
 - [[human-in-the-loop]]
+- [[buzz]]
+- [[buzz-for-graph-loop-pipelines]]
 - [[nvidia-ai]]
 - [[manager-worker-pr-loop]]
 - [[paul-solt]]

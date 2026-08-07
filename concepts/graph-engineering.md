@@ -1,10 +1,10 @@
 ---
 title: Graph Engineering
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-08-07
 type: concept
 tags: [agent, ai-agent, multi-agent, orchestration, architecture, agent-systems, workflow, tools]
-sources: [raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
+sources: [raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md, raw/articles/github-block-buzz-readme-2026-08-07.md, raw/articles/github-block-buzz-workflow-schema-2026-08-07.md]
 related_entity: [[0xwast3]]
 ---
 
@@ -33,6 +33,10 @@ At scale, the coordinator should fan out independent nodes and fan them back in 
 
 The source identifies three recurring breaks: context collapse at large fan-in, false independence caused by shared resources, and silent worker failure hidden by an apparently complete synthesis. The orchestrator's job is to decompose the task, identify the edges, dispatch the graph, and enforce completeness checks; it should not become another worker doing the work itself.^[raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md]
 
+## Buzz as a graph substrate, not a graph executor
+
+[[buzz]] contributes the durable substrate a graph coordinator often lacks: signed worker identities, channel-scoped context, searchable events, workflow triggers, and an audit trail. Its current YAML workflow engine is explicitly ordered and sequential, however. Conditions can skip steps and outputs can feed later templates, but the schema has no first-class node dependency declarations, parallel fan-out, fan-in barriers, missing-result checks, or graph scheduler. An external graph orchestrator can use Buzz as its event bus and evidence ledger while retaining dependency state and scheduling elsewhere.^[raw/articles/github-block-buzz-readme-2026-08-07.md][raw/articles/github-block-buzz-workflow-schema-2026-08-07.md]
+
 ## Related
 
 - [[multi-agent-orchestration]]
@@ -42,3 +46,5 @@ The source identifies three recurring breaks: context collapse at large fan-in, 
 - [[loop-engineering]]
 - [[human-in-the-loop]]
 - [[0xwast3]]
+- [[buzz]]
+- [[buzz-for-graph-loop-pipelines]]

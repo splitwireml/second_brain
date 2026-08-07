@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-05 | Total pages: 1179
+> Last updated: 2026-08-07 | Total pages: 1180
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -705,6 +705,7 @@
 ## Comparisons
 
 ## Queries
+[[buzz-for-graph-loop-pipelines]] — evaluates Buzz as a control plane/evidence layer versus a native graph or loop executor.
 [[carreport-ai-video-marketing-strategy]] — answers whether AI-generated video can market CarReport and sets a proof-led 30-video validation plan.
 [[claude-answers-to-money-digital-products]] — Clarifies that Claude does not create money directly; it converts raw market pain into packaged assets, while money comes from distribution, trust, and a specific paid outcome.
 [[faceless-account-cold-start-distribution-problem]] — Identifies the hidden bottleneck in the faceless-page model: product creation can be quick, but audience and distribution cannot be assumed.
