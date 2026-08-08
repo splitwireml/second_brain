@@ -1,10 +1,10 @@
 ---
 title: Din
 created: 2026-06-11
-updated: 2026-08-03
+updated: 2026-08-08
 type: entity
 tags: [person, x-creator, lead-gen, ai-business]
-sources: [raw/articles/xarticle-how-to-put-b2b-lead-gen-on-full-autopilot-with-one-2064382296975675867.md, raw/articles/xarticle-how-to-print-50kmonth-with-a-20-reply-rate-on-link-2059309386594480187.md, raw/articles/xarticle-httpstcobhewgetxo2-2071994887721947226.md, raw/articles/xarticle-httpstcomc6jkerp7q-2074893973441675651.md, raw/articles/xarticle-httpstcomzw0ayjreh-2081850885550821530.md, raw/articles/xarticle-how-to-target-enterprise-companies-on-linkedin-and-2083725262890357129.md]
+sources: [raw/articles/xarticle-how-to-put-b2b-lead-gen-on-full-autopilot-with-one-2064382296975675867.md, raw/articles/xarticle-how-to-print-50kmonth-with-a-20-reply-rate-on-link-2059309386594480187.md, raw/articles/xarticle-httpstcobhewgetxo2-2071994887721947226.md, raw/articles/xarticle-httpstcomc6jkerp7q-2074893973441675651.md, raw/articles/xarticle-httpstcomzw0ayjreh-2081850885550821530.md, raw/articles/xarticle-how-to-target-enterprise-companies-on-linkedin-and-2083725262890357129.md, raw/articles/xarticle-httpstcouo2i1ywmmk-2085034572572443117.md]
 ---
 
 # Din
@@ -12,6 +12,8 @@ sources: [raw/articles/xarticle-how-to-put-b2b-lead-gen-on-full-autopilot-with-o
 X creator (@DinScales26) writing about outbound systems that combine public-data scraping, AI research, and automated call-setting. Multiple later export-failed bookmarks also show recurring bare shortened-URL [[link-post]] behavior, but with no recoverable commentary beyond the shared links.^[raw/articles/xarticle-httpstcobhewgetxo2-2071994887721947226.md]^[raw/articles/xarticle-httpstcomc6jkerp7q-2074893973441675651.md]
 
 - The 2026-07-27 export-failed X Article bookmark retained `tweet_id: 2081850885550821530`, `content_type: "x_article"`, `character_count: 23`, `retweet_count: 3`, and `like_count: 33`; `bird read --json` failed for the source URL, leaving only `https://t.co/MZw0AyJREH` and no recoverable article body, destination, or topic.^[raw/articles/xarticle-httpstcomzw0ayjreh-2081850885550821530.md]
+
+- The 2026-08-05 export-failed X Article bookmark retained `tweet_id: "2085034572572443117"`, `content_type: "x_article"`, `character_count: 23`, `retweet_count: 1`, and `like_count: 14`; `bird read --json` failed for the source URL, leaving only its shortened URL and no recoverable article body, destination, or topic.^[raw/articles/xarticle-httpstcouo2i1ywmmk-2085034572572443117.md]
 
 ## Content
 

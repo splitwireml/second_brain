@@ -1,10 +1,10 @@
 ---
 title: AI Video Director Workflow
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-08
 type: concept
 tags: [ai-video, video-generation, image-generation, prompting, workflow, audio, optimization]
-sources: [raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
+sources: [raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md, raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md, raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md, raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
 related_entity: [[voyzlab]]
 author: [[voyzlab]]
 ---
@@ -147,9 +147,36 @@ emotional core
 - **Likely:** shot-first planning, reference-first identity locking, and still-frame arc checks are reusable production disciplines because they create explicit review gates before expensive motion generation.
 - **Source-claimed / unverified:** model rankings, “best/strongest/cheapest” comparisons, native feature support, personal quality improvements, and any implied render-time or cost advantage.
 
+## Seedance 2.5 format-specific direction and reference pipeline (2026-08-04)
+
+Machina's source adds five format recipes to the shot-first director pattern:
+
+- **K-pop music video:** cut tightly on snares/drops with hard cuts, use symmetrical center-weighted framing and recurring archways/circular portals for eye-level backward dollies, keep one saturated block-color palette with neutral-to-warm skin, use medium close-ups with crisp diction/open vowels/staccato phrasing for lip sync, and pair one dance move with each cut.
+- **Vlog:** specify handheld micro-jitter, arm's-length selfie framing, and natural body sway; use existing golden-hour backlight or cool overhead fluorescent light rather than a studio setup; cut on turns, steps, or reaching hands, insert quick b-roll, grade warm/soft outdoors and cooler/flatter indoors, and retain giveaway details such as a mic cable, windblown hair, and a friend-like look into the lens.
+- **Product shot with 3D elements:** describe physical material properties (glossy polycarbonate with internal light scatter or matte PBT-style plastic with high diffuse roughness), keep a 360-degree texture orbit separate from a straight pull-back exploded-parts reveal, use large diffused softboxes, a translucent-edge rim, a gradient specular sweep, an infinite pastel backdrop with ambient occlusion, no visible edges or competing real-world environment, and pastel lifted blacks without clipped highlights.
+- **Realistic lighting:** specify light direction and color temperature separately; contrast a warm key with cool sky fill, use hard directional light and crisp shadows near camera, atmospheric haze at distance, rim-lit hair, a tilt-triggered lens flare, smooth highlight rolloff, bounced local shadow color, and reduced background contrast/saturation with distance.
+- **Animation:** commit to one era/style (cel-shaded, painterly-over-3D, or classic 2D), animate characters on twos while vehicles/cameras remain smooth, mix extreme close-ups, tracking shots, and low angles, use painterly brushstrokes and hand-painted highlights over 3D geometry, and keep one palette family across scenes.
+
+The same source's production loop is: build the linked Obsidian reference bible; review it after every session with a short Claude note; write six details for each shot; place those details inside four timestamped 30-second beats; define each reference's allowed and forbidden role; build images first; lock recurring references; and adjust motion prompts rather than replacing locked images. The source's 30-second claims, format advice, and tool capabilities are source-described rather than independently verified. ^[raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md]
+
+## Aggregated Seedance 2.5 montage workflow (2026-08-06)
+
+A source-described Seedance 2.5 variant treats the model as a coverage generator rather than a one-shot director: take `2–5 seconds` of script, expand it with ChatGPT into a `15–30 second` fast-cut montage, state that the edit will be done in Premiere, generate about `10`, and cut the strongest moments together. The source reports roughly `$15–$35` for ten 15-second montages at its cited API rates; cost, quality, and the claim that this avoids expensive broken-prompt retries remain unverified. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+Its narrative prompt grammar is `SHOT` → `REFERENCES` → `CHARACTER @image` → `SETTING @image` → `CAMERA` → timed `SEQUENCE` → reusable `STYLE PROMPT`, under `3,500` characters. A prompt repeats no music, inline diegetic sound, `face stable throughout, no deformation`, role-labeled references, and only observed negative failures. The source specifies emotion as body movement, physics as trajectory/distance/impact/reaction, and contrast-driven rhythm; narrative work stays at `3–4 beats per 15 seconds`, while montage prompts deliberately exceed that ceiling. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+For continuity, reuse the same references, environment, and lighting through one narrative block, bridge adjacent prompts with the same audio cue, and repeat framing and eye placement when an action crosses a cut. This complements the existing shot-first handoff rather than replacing it: the operator still selects, edits, and reviews the generated coverage. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+## Grok Imagine source-specific branch (2026-08-08)
+
+Tetsuo's local X Article applies the director pattern to Grok Imagine: write a `CHARACTERS`/`LOCATIONS`/`PROPS`/`SCRIPT` bible, create references before video, map each beat to one shot, and seal every prompt with active state. Its runtime rule is 6–10 beats/minute (45 seconds → 5 beats; 2 minutes → 15–20), with a current three-reference `@`-tag ceiling, a 47°/63°/29°/18°/12° FOV ladder, explicit transition mechanics, roughly four generations per beat, optional `extend`, CapCut post-processing, and a web-beta Agent Mode. The detailed Grok-specific stack, API parameter, skill commands, camera/lighting values, and evidence boundaries are preserved in [[grok-imagine-short-film-pipeline]]. ^[raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
+
+This is a product-specific branch rather than a new umbrella concept: [[grok-imagine]] records the product/interface claims and [[tetsuoai]] records the source attribution. Availability, `grok-imagine-video-1.5`, `reference_image_urls`, rollout, native 1080p, skill behavior, and quality claims remain source-described and unverified. ^[raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
+
 ## Related
 
 - [[voyzlab]] — source author
+- [[beechinour]] — source author of the Seedance 2.5 coverage variant
 - [[ai-video]] — broader application area
 - [[video-generation]] — model and generation context
 - [[character-consistent-ai-video-workflow]] — identity-locking sub-workflow

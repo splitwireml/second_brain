@@ -1,10 +1,10 @@
 ---
 title: Loop Engineering
 created: 2026-06-11
-updated: 2026-08-07
+updated: 2026-08-08
 type: concept
 tags: [workflow, orchestration, agent, claude-code, codex, ai-research, training, evaluation]
-sources: [raw/articles/xarticle-loop-engineering-2064127981161959567.md, raw/articles/xarticle-from-prompting-agents-to-loop-engineering-2068008743153832264.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/thread-zodchiii-2070809778150953343.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-what-the-hell-is-a-loop-anyway-2073492320159510869.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md, raw/articles/github-block-buzz-readme-2026-08-07.md, raw/articles/github-block-buzz-architecture-2026-08-07.md]
+sources: [raw/articles/xarticle-loop-engineering-2064127981161959567.md, raw/articles/xarticle-from-prompting-agents-to-loop-engineering-2068008743153832264.md, raw/articles/xarticle-wtf-is-a-loop-part-2-the-15-loops-people-are-actua-2068426104088748331.md, raw/articles/thread-zodchiii-2070809778150953343.md, raw/articles/thread-eng_khairallah1-2071964839916802354.md, raw/articles/xarticle-loop-engineering-in-5-minutes-no-code-required-2073391903819608421.md, raw/articles/xarticle-what-the-hell-is-a-loop-anyway-2073492320159510869.md, raw/articles/xarticle-getting-started-with-loops-2074208949205881033.md, raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-graph-engineering-how-to-run-1000-ai-agents-in-par-2079899723947712845.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md, raw/articles/github-block-buzz-readme-2026-08-07.md, raw/articles/github-block-buzz-architecture-2026-08-07.md, raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 related_entity: [[claude-code]]
 ---
 
@@ -161,6 +161,18 @@ Loop engineering does not remove responsibility from the operator. Across these 
 
 A good loop combines explicit stop conditions like [[goal-primitive]], isolation patterns similar to [[dynamic-workflows-in-claude-code]], reusable context capture such as [[hermes-skills-workflow]], and operating cadences closer to [[the-hive-claude-code-architecture]]. The engineer's job shifts from composing perfect one-off prompts to designing the runtime that makes repeated agent work safe, bounded, and reviewable.
 
+## Media-production loop variant (Machina, 2026-08-08)
+
+Machina's source applies the loop pattern to generated UGC: render the hook, watch it, change one variable, regenerate, and keep only clips that earn their place. The approved hook's audio becomes the reference for later clips; remaining shots run in parallel within the backend concurrency cap, then `ffmpeg` concatenates the ordered clips and normalizes loudness. The platform and unattended-factory claims are source-described, not independently executed here.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
+
+The source separates a machine frame gate from the human outer loop: 16 evenly spaced frames check limbs/fingers, object permanence, label text, continuity, and filming-device leaks, but the gate is cut-blind and cannot decide whether persuasion survived. A broken-frame verdict triggers regeneration; a human decides whether the finished ad sells.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
+
+
+## Software-factory loop variant (Nazar, 2026-08-08)
+
+Nazar's product-level software factory makes the outer loop concrete: `tasks/QUEUE.md` supplies durable work, a checker returns exit code `1` for unchecked `HIGH`/`Critical` work, cron starts `node check-queue.js || ./run-agent.sh` or `./run-agent.sh --night`, and fresh sessions avoid unbounded context growth. Git worktrees provide rooms, write permissions define the graph, and a fail-closed policy gate decides what can merge. This is a source-described implementation pattern, not evidence that the named scripts or GitHub Actions schedule were independently executed. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
+
+The source's persistent state is file-native: `MEMORY.md`, `CLAUDE.md`, `_FRAGILE.md`, `_NEXT_SESSION_MEMO.md`, `_VOCABULARY.md`, plus a worker-written handover and a plain-code rule checker. Its core recurrence is queue → isolated worker → permission-scoped output → independent gate → recorded lesson, with human attention reserved for protected paths and ambiguous verdicts. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 ## Related
 
 - [[claude-code]]

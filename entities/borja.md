@@ -1,10 +1,10 @@
 ---
 title: Borja
 created: 2026-07-10
-updated: 2026-08-04
+updated: 2026-08-08
 type: entity
 tags: [person, x-creator, founder, seo]
-sources: [raw/articles/xarticle-2026-ai-visibility-audit-do-or-die-2074830918167015884.md, raw/articles/xarticle-httpstco0zz8uarddm-2074473083440664733.md, raw/articles/xarticle-httpstcon6tcwg9pqh-2076649660215628159.md, raw/articles/xarticle-httpstco7h6pprurqc-2077046673553965231.md, raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md, raw/articles/xarticle-httpstcouoggqfafjz-2079542931342434390.md, raw/articles/xarticle-httpstcojyr8boh7s8-2081023355394683059.md, raw/articles/thread-borjafat-2082159756383326268.md, raw/articles/xarticle-httpstcowpyxxuxveh-2083179592873902377.md, raw/articles/xarticle-httpstcoqdoegyvtig-2084260212848906630.md]
+sources: [raw/articles/xarticle-2026-ai-visibility-audit-do-or-die-2074830918167015884.md, raw/articles/xarticle-httpstco0zz8uarddm-2074473083440664733.md, raw/articles/xarticle-httpstcon6tcwg9pqh-2076649660215628159.md, raw/articles/xarticle-httpstco7h6pprurqc-2077046673553965231.md, raw/articles/xarticle-kimi-k3-my-new-head-of-seo-link-outreach-broken-li-2079207506581045451.md, raw/articles/xarticle-httpstcouoggqfafjz-2079542931342434390.md, raw/articles/xarticle-httpstcojyr8boh7s8-2081023355394683059.md, raw/articles/thread-borjafat-2082159756383326268.md, raw/articles/xarticle-httpstcowpyxxuxveh-2083179592873902377.md, raw/articles/xarticle-httpstcoqdoegyvtig-2084260212848906630.md, raw/articles/thread-borjafat-2084980608753631314.md, raw/articles/thread-borjafat-2085384179412336662.md]
 ---
 
 # Borja
@@ -38,6 +38,22 @@ The 2026-07-31 local `x_article` export preserved only Bird's failure marker and
 ## New export-failed link-post provenance
 
 The 2026-08-03 local `x_article` export preserved only Bird's failure marker, export note, and a shortened URL; it adds another exact-`@borjafat` author-level provenance record for a bare-URL [[link-post]] without exposing a destination, article content, or topic. Locally reported metadata: tweet ID `2084260212848906630`; tweet timestamp `Mon Aug 03 12:48:53 +0000 2026`; 5 retweets; 107 likes. The shortened destination and article content remain unknown. ^[raw/articles/xarticle-httpstcoqdoegyvtig-2084260212848906630.md]
+
+## Additional short-teaser provenance
+
+The 2026-08-05 local `thread` payload is a one-sentence announcement/shortlink teaser: `Summary inside. Save it and give to your agent. Enjoy! https://t.co/9SgTxuFAiD` (tweet ID `2084980608753631314`; tweet timestamp: Wed Aug 05 12:31:28 +0000 2026; 3 retweets; 82 likes; `character_count: 78`). It provides no recoverable destination, implementation sequence, tool, model, version, framework, configuration, parameter, prompt, interface, file format, workflow stage, or detailed claim beyond the announcement. The linked destination and any underlying method remain unknown, so this capture is retained as exact-author provenance only. ^[raw/articles/thread-borjafat-2084980608753631314.md]
+
+## Additional short-teaser provenance
+
+The 2026-08-06 local `thread` payload is a three-line save/share teaser. Its exact body is:
+
+```text
+1. Save this. 
+2. Send it to your AI Agent.
+3. Summary inside, read it today. https://t.co/4HBcgnQCSZ
+```
+
+(tweet ID `2085384179412336662`; tweet timestamp: Thu Aug 06 15:15:07 +0000 2026; bookmark date: 2026-08-06; `character_count: 101`; `retweet_count: 1`; `like_count: 23`; `external_urls: [https://t.co/4HBcgnQCSZ]`). It provides no recoverable destination, summary contents, implementation sequence, tool, model, version, framework, command, configuration, parameter, prompt, interface, file format, workflow stage, constraint, or detailed claim beyond the announcement. The linked destination, summary, topic, and any underlying method remain unknown. Because this is text plus a shortened URL rather than a bare URL and supplies no recoverable mechanics, this is exact-author provenance only; no mature product/topic concept was updated. ^[raw/articles/thread-borjafat-2085384179412336662.md]
 
 ## Related
 

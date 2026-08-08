@@ -1,10 +1,10 @@
 ---
 title: Seedance 2.0
 created: 2026-04-13
-updated: 2026-07-22
+updated: 2026-08-08
 type: entity
 tags: [product, tools, genai, marketing, video-generation]
-sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
+sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md, raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
 ---
 
 # Seedance 2.0
@@ -70,6 +70,7 @@ The Startup Ideas Podcast article frames Seedance 2.0 as fundamentally different
 - [[frederikfeldt-seedance-pricing]] — pricing analysis and API access context
 - [[prompt-engineering-patterns]] — upstream scripting layer that feeds the generation step
 - [[startupideaspod]] — podcast that featured Sirio's Seedance 2.0 deep dive; covered virtual try-on, AI influencer, and green screen workflows
+- [[beechinour]] — source author of the Seedance 2.5 prompting and coverage guide
 
 ## Character-consistency workflow (Primee32 source claim)
 
@@ -94,6 +95,31 @@ Related pages: [[ecomrads-mcp]], [[14-second-ai-vlog-method]], [[character-consi
 
 The MakeUGC Ad Remake paste lists Seedance 2.0, Veo 3.1, and Kling 3 Pro as model choices for recreating a reference-led product ad. It recommends Seedance 2.0 as the author's default while explicitly leaving comparative testing to the operator. This is a source-described interface/workflow claim, not independent confirmation of availability or model quality. ^[raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
 
+## Seedance 2.5 source-described upgrade and control pattern (2026-08-04)
+
+Machina's article describes Seedance 2.5 as a forthcoming successor: one prompt can cover a 30-second story rather than 15 seconds, and audio/video are generated together in one pass rather than stitched afterward. It reports up to 30 image references, 10 video clips, and 10 audio clips, but says the stable range from the cited guide is 1–8 images and 1–5 video/audio clips. The source warns that stretching an old 15-second prompt to 30 seconds without structure can produce incoherent actions, disappearing props, and character drift; it attributes the stable 1–8 image and 1–5 video/audio guidance to ByteDance's own guide. These model behavior, release, and guide-attribution claims remain source-described and unverified. ^[raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md]
+
+The source's default control grammar is to specify, for each shot or timed beat, what is present, what it does, where it is, how the camera moves, the visual style, and rules to follow. A 30-second prompt is divided into 0–6 seconds (set the scene), 6–14 (build it out), 14–24 (the turn/big moment), and 24–30 (the ending). Reference tags include `@image`, `@video 1`, `@audio 1`, grouped ranges such as `@images 6 to 10`, and `@clay render 1`; each reference must state what it controls and what it must not transfer. The source gives the example `@video 1 defines motion, camera movement, and pacing` followed by a prohibition on transferring identity, clothing, or scene. ^[raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md]
+
+A source-described edit pattern is: `edit @video 1, keep the characters and visual style unchanged, adjust only the camera movement over 6 to 12 seconds`. The article defines `@clay render 1` as an untextured 3D shape used for camera movement and blocking while a separate image controls look, materials, and lighting. These are preserved workflow examples, not verified product requirements. ^[raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md]
+
+## Seedance 2.5 prompt-and-coverage workflow (beech, 2026-08-06)
+
+beech's local X Article describes Seedance 2.5 as a costly but instruction-sensitive video model: API pricing is reported at roughly `$0.50–$1.20` per 5-second clip by resolution, while a 30-second 4K generation on credit platforms is reported at `2,000+` credits. The guide says the model has 50 reference slots that remember structure, but these pricing, capacity, realism, text-rendering, and ROI claims are source-described and unverified. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+The production rule is to aggregate coverage rather than one-shot a whole video. Convert `2–5 seconds` of script into a `15–30 second` fast-cut montage prompt, tell the model the operator will cut in Premiere, generate about `10` variants, and assemble the best moments. The source reports roughly `$15–$35` for ten 15-second montages at the cited API rates and treats that spend as coverage rather than hope-driven retries. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+The narrative prompt grammar is `SHOT`, `REFERENCES`, `CHARACTER @image`, `SETTING @image`, `CAMERA`, `SEQUENCE`, and `STYLE PROMPT`, with a hard narrative limit under `3,500` characters. Every prompt repeats `no music`, describes diegetic sound inline, includes `face stable throughout, no deformation`, names each received `@image` by role and order, and keeps negatives limited to observed failures. `ratio`, `duration`, and `24fps` belong in the reusable style paragraph. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+The `SEQUENCE` block encodes emotion as body movement, physics as trajectory/distance/impact/reaction, sound per beat, and rhythm through contrast. Narrative prompts stay at `3–4 beats per 15 seconds`; montage prompts intentionally break that ceiling. For continuity, reuse references, environment, and light across a narrative block, bridge cuts with the same audio cue, and repeat framing/eye placement when the next shot continues the action. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+The source's fighter-jet montage uses one `@image1` for pilot, primary aircraft, sky, and style; it requests 13 beats in 15 seconds and lens coverage at `18mm`, `24mm`, `35mm`, `50mm`, `85mm`, and `135mm`. Opposing aircraft stay distant and simple while the primary aircraft remains locked. The full timed prompt and its negative list are preserved in [[beechinour]] and the immutable raw source. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+Reference sheets use three face angles for a character and two or three environment angles. The guide reports `4–10` references per prompt for narrative work, but fewer references for montages to leave room for invention. It keeps native SFX for mechanical subjects, mostly omits native dialogue, adds music in Premiere, and says text in frame should be handled with captions and overlays in the edit. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+The source-specific style branch runs Midjourney → GPT image models for conversion, upscaling, and style-locking → `4–10` Seedance references. Gemini is described as a style-detail extractor that turns loved imagery or cartoons into reusable keywords; the same style paragraph is pasted into Midjourney, GPT image, and Seedance. These tool roles and the claimed Into-the-Spider-Verse-like target are source-described, not independently evaluated. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+## References
 ## References
 
 - Original tweet: https://x.com/spwfeijen/status/2043692176689795202

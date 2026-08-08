@@ -1,10 +1,10 @@
 ---
 title: Video Generation
 created: 2026-05-31
-updated: 2026-08-04
+updated: 2026-08-08
 type: concept
 tags: [ai-video, diffusion, generation, video, video-generation]
-sources: [raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
+sources: [raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md, raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
 ---
 
 # Video Generation
@@ -14,6 +14,12 @@ AI models that generate video from text, images, or video prompts. Key players: 
 The 14-second AI vlog source adds a lighter-weight production pattern: repeat a fixed cast block across independent shots, inspect each generation, and hard-cut the accepted clips. It is a workflow recommendation, not evidence that a particular model or connector will reliably maintain identity or render legible product labels. ^[raw/articles/14-second-ai-vlog-method.md]
 
 [[voyzlab]]'s director workflow adds model-per-shot routing: hero stills and first/last frames first, dialogue and sound-critical shots next on a model with native audio, and b-roll/transitions last. The article names Seedance 2.0, Veo 3.1, Kling 3.0, WAN 2.6, Runway Gen-4.5, and MiniMax by source-described fit; those rankings and feature claims are not independently verified. ^[raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
+
+## Grok Imagine API and reference workflow (2026-08-08)
+
+The local article names `grok-imagine-video-1.5`, `reference_image_urls`, text-to-video, native 1080p, and image/voice references across Grok Imagine's web/iOS/Android surfaces. Its manual workflow uses four skills, a written beat bible, `@`-selected references (up to three per generation in the source's current interface), and a sealed prompt for every shot. These availability, API, billing, and capability claims are source-described and unverified; the article supplies no endpoint or request/response schema. ^[raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
+
+The source is a concrete implementation branch of [[ai-video-director-workflow]] and [[character-consistent-ai-video-workflow]], not a replacement for the broader model ecosystem. The full camera ladder, asset/state bookkeeping, transition mechanics, prompt order, and evidence boundary are in [[grok-imagine-short-film-pipeline]].
 
 ## Related Concepts
 

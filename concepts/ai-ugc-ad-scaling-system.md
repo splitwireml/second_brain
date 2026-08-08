@@ -1,10 +1,10 @@
 ---
 title: AI UGC Ad Scaling System
 created: 2026-04-13
-updated: 2026-08-04
+updated: 2026-08-08
 type: concept
 tags: [automation, genai, marketing, method, monetization]
-sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md, raw/articles/xarticle-this-marketing-agent-replaces-your-10kmonth-ad-age-2083189973155779034.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md]
+sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-i-do-6mmonth-with-my-ecom-brand-using-ai-podca-2080778980555133219.md, raw/articles/xarticle-this-marketing-agent-replaces-your-10kmonth-ad-age-2083189973155779034.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md, raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
 related_entity: [[makeugc]]
 author: [[stijn-feijen]]
 ---
@@ -95,3 +95,11 @@ The source's creative branch includes statics made with Kai AI and Google's [[na
 
 - Raw source: `raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md`
 - Original tweet: https://x.com/spwfeijen/status/2043692176689795202
+
+## Research-first factory branch (Machina, 2026-08-08)
+
+Machina's source extends the paid UGC testing system upstream: customer complaints, reviews, and comments come before competitor ads. TikTok Shop, TikTok Creative Center, and Meta's library are treated as candidate discovery surfaces because they show what ran rather than what converted. Each teardown is split into a **persuasion record** (hook family, beat timing, product entry, proof, objection, CTA) and a **capture record** (device, framing, light, cuts), so a factory inherits the selling argument without blindly copying the look. The source's research-agent, platform, and performance framing remain source-described.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
+
+The production loop is hook-first: render one hook, approve face and voice, use its approved audio as the anchor, then submit the remaining clips in parallel with the same character sheet and product still. Every clip is a held state; transformations happen across cuts. The backend concurrency cap is part of the control system, and Claude Code stitches the ordered clips with `ffmpeg` and loudness normalization. This is a concrete render/review loop inside the broader volume-and-iteration model, not evidence that unattended output can ship without human review.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
+
+The article's machine gate samples 16 evenly spaced frames and checks fingers/limbs, object permanence, label readability, background continuity, and filming-device leaks. It is cut-blind and optimized to find broken frames, while its worst scores can belong to the best ads when action was preserved; the human eye still decides whether the ad sells. The source also states that TikTok requires an AI label for significantly generated ad media. These platform and quality claims are source-described and unverified.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]

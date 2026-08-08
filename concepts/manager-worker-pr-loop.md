@@ -1,10 +1,10 @@
 ---
 title: Manager-Worker PR Loop
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-08-08
 type: concept
 tags: [agent, ai-agent, multi-agent, orchestration, workflow, coding, testing, github, automation]
-sources: [raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md]
+sources: [raw/articles/xarticle-codex-built-8-features-overnight-5-step-pr-loop-2073470146115490230.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 related_entity: [[paul-solt]]
 ---
 
@@ -61,6 +61,12 @@ It complements [[agent-friendly-xcode-projects]]: the project substrate makes bu
 - **Source-described:** the 5-step PR loop, 5–10 minute heartbeat, `/goal` worker contract, four-task proof of concept, and reported failure modes.
 - **Likely generalization:** the same manager/worker pattern can apply beyond Apple apps when worktree isolation, review surfaces, and deterministic checks are available.
 
+
+## Permission-separated factory variant (Nazar, 2026-08-08)
+
+Nazar's source supplies a broader production-line variant of the manager/worker pattern. Git worktrees give each worker a directory and branch; ignored runtime files can be copied through `.worktreeinclude`; offset ports and separate database branches prevent shared-process collisions. The source gives `git worktree add ../app-checkout -b checkout`, `git worktree list`, `git worktree remove ../app-checkout`, and Claude Code's `claude --worktree`, `claude -w --tmux`, `claude -w "#1234"`, plus subagent `isolation: "worktree"`. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
+
+Unlike a task-only split, each worker is constrained by what it may write: testing touches only tests, review only issues/refactor output, security only a timestamped security report, performance only reports, and platform only build/deploy/infrastructure. A central operator reads commits and merges; a `300`-line file ceiling, fail-closed policy, `max_files: 5`, `max_lines: 150`, `require_ci: true`, and protected paths such as `.github/**`, `**/*auth*`, `**/*secret*`, `**/.env*`, `**/migrations/**`, `**/*.tf`, and `**/package-lock.json` define the gate. These controls are source-described and complement, rather than replace, the PR/CI/manual-UI checks documented above. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 ## Related
 
 - [[paul-solt]] — source author and operator

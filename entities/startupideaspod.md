@@ -1,10 +1,10 @@
 ---
 title: The Startup Ideas Podcast
 created: 2026-04-20
-updated: 2026-07-07
+updated: 2026-08-08
 type: entity
 tags: [content-creator, x-creator, podcast, ai-business]
-sources: [raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/xarticle-agents-are-the-new-saas-heres-the-whole-playbook-2072451543073439905.md]
+sources: [raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/xarticle-agents-are-the-new-saas-heres-the-whole-playbook-2072451543073439905.md, raw/articles/xarticle-httpstcowvuxo3emid-2085125392915116234.md]
 ---
 
 # The Startup Ideas Podcast
@@ -16,6 +16,7 @@ The Startup Ideas Podcast (SIP, @startupideaspod) is an AI/startup-focused podca
 - [Seedance 2.0: The New Default Video Model](https://x.com/startupideaspod/status/2045221480120885529) — Interview with Sirio walking through Seedance 2.0's multi-input video generation workflow, prompting techniques, and production use cases.
 - [Agents are the new SaaS](https://x.com/startupideaspod/status/2072451543073439905) — Playbook for selling agent products as labor replacement rather than software seats: pick paid workflows, shadow the human operator, build bounded autonomy, wrap the agent with logs/approvals/evals, sell pilots, then productize repeatable delivery.
 
+- Export-failed link-post provenance (2026-08-05): An exact-@startupideaspod local X Article bookmark (tweet ID `2085125392915116234`, tweet timestamp `Wed Aug 05 22:06:48 +0000 2026`, bookmark date `2026-08-05`) reports `content_type: "x_article"`, `character_count: 23`, `retweet_count: 9`, and `like_count: 98`; the local Bird failure marker remains preserved, leaving only a shortened URL. No recoverable article body, destination, product, topic, claims, or technical details are available, so none is inferred. ^[raw/articles/xarticle-httpstcowvuxo3emid-2085125392915116234.md]
 ## Themes
 
 ### AI media as operator playbook

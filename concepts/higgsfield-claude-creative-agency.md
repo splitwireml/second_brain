@@ -1,10 +1,10 @@
 ---
 title: "Higgsfield + Claude Creative Agency Stack"
 created: "2026-05-05"
-updated: 2026-07-23
+updated: 2026-08-08
 type: concept
 tags: [agent, ai-agent, workflow, automation, claude, creative, higgsfield]
-sources: [raw/articles/xarticle-nateherk-2051295831965367297.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md]
+sources: [raw/articles/xarticle-nateherk-2051295831965367297.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
 related_entity: [[nate-herk]]
 ---
 
@@ -109,3 +109,9 @@ Each piece boring alone. Stacked = creative team that doesn't sleep, doesn't get
 
 - [[nate-herk]] — X Article (2051644586502615163); 139 likes, 7 RTs; Tue May 05 2026
 - [[zeuuss-01]] — X Article (2067204840342630789); 686 likes, 70 RTs; Wed Jun 17 2026
+
+## AI UGC factory variant (Machina, 2026-08-08)
+
+The local Machina article is a distinct UGC-ad branch of this stack. Instead of the existing spreadsheet/tracker-and-scheduled-creative system, its two choices are Higgsfield Supercomputer for a managed research-to-montage run or Higgsfield's agent-addressable models controlled by Claude Code. The source-specific handoffs are customer language → winning-ad Markdown vault → counted script → locked character/product references → Seedance clips → `ffmpeg` assembly → 16-frame vision check → human shipping verdict. These platform and quality claims remain source-described.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
+
+The source keeps the selling argument ahead of the look: every saved ad has a receipt link, verbatim transcript, hook family, timed beat map, proof device, CTA, and reason it wins, while device/framing/light/cuts are stored separately as capture notes. This is a source-specific research and reference discipline, not a replacement for the existing Marketing Studio, Google Sheets, or routine-based stack above.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]

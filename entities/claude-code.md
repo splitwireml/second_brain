@@ -1,10 +1,10 @@
 ---
 title: Claude Code
 created: 2026-04-20
-updated: 2026-08-04
+updated: 2026-08-08
 type: entity
 tags: [product, agent, coding]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md, raw/articles/xarticle-model-and-effort-in-claude-code-knowing-more-vs-tr-2074900291062034618.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md, raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md, raw/articles/xarticle-model-and-effort-in-claude-code-knowing-more-vs-tr-2074900291062034618.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md, raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md, raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 ---
 
 # Claude Code
@@ -61,6 +61,16 @@ Juan's July 2026 X Article uses Claude Code as the execution surface for a launc
 
 - Average developer spends **20+ hours/week** running Claude Code ^[raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md]
 
+## Agentic UGC production workflow (2026-08-08)
+
+Machina's source uses Claude Code as the DIY factory controller: research and script inputs feed Higgsfield model calls, the hook is rendered and reviewed first, then the remaining clips run in parallel with shared character, product, and voice references. Claude Code is also described as concatenating the ordered clips with `ffmpeg` and normalizing loudness. The article supplies no Claude model/version, command syntax, API endpoint, configuration, or implementation code; the roles and capability claims remain source-described.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
+
+The workflow illustrates a media-specific loop: generate, watch, change one variable, regenerate, and keep only clips that earn their place. A concurrency cap is treated as a scheduling boundary rather than an error, while a 16-frame vision check catches defects before the human decides whether the ad actually sells. This is adjacent to Claude Code's existing coding-loop surfaces, not evidence of a built-in UGC feature.^[raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md]
+
+
+## Software-factory worktree controls (Nazar, 2026-08-08)
+
+Nazar's source gives Claude Code a concrete isolation role inside a broader software factory. The documented flags are `claude --worktree`, `claude -w --tmux`, and `claude -w "#1234"`; the last pulls a pull request into its own room for review work. A subagent launched with `isolation: "worktree"` is likewise described as routing into its own worktree. The adjacent Git commands are `git worktree add ../app-checkout -b checkout`, `git worktree list`, and `git worktree remove ../app-checkout`. These are source-described command examples; the article supplies no implementation details for the surrounding launcher or room provisioning. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 ## Related
 
 - [[rody]]

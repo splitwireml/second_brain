@@ -1,10 +1,10 @@
 ---
 title: Character-Consistent AI Video Workflow
 created: 2026-07-20
-updated: 2026-08-04
+updated: 2026-08-08
 type: concept
 tags: [ai-video, video-generation, image-generation, prompting, workflow]
-sources: [raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
+sources: [raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md, raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md, raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md, raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
 related_entity: [[primee32]]
 author: [[primee32]]
 confidence: medium
@@ -48,9 +48,28 @@ The later [[voyzlab]] article reaches the same reference-first conclusion from a
 - **Likely:** reference-first previsualization is a useful general production discipline because it creates explicit identity and shot-level checks before motion generation.
 - **Speculative:** the article's claim that the method produces "zero drift," its competitive-model ratings, and its claims about an open monetization window.
 
+## Seedance 2.5 reference-role discipline (2026-08-04)
+
+Machina's source extends reference-first identity locking into explicit role boundaries. A prompt can hold up to 30 images, 10 video clips, and 10 audio clips, but the source says 1–8 images and 1–5 video/audio clips are the steadier range. Tags such as `@image`, `@video 1`, `@audio 1`, `@images 6 to 10`, and `@clay render 1` are followed by what each reference controls and what it must not touch; for example, a motion reference can define motion, camera movement, and pacing while being forbidden from transferring identity, clothing, or scene. `@clay render 1` is an untextured blocking/camera reference while an image reference owns look, materials, and lighting. ^[raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md]
+
+The image-building sequence is: lock one project look; with Midjourney, use Style Creator until 20–22 picks yield a `--sref` code or try `--sref random` until 2–3 codes look right; generate separate wide establishing, environment, main-character, key-prop, and closing-shot categories; make front/side/back/blank-background reference sheets for recurring characters, creatures, or products; then do not regenerate locked images when motion is wrong. The article says the same sequence can use Nano Banana Pro or GPT Image 2 for realism, real faces, materials, and light, and says the completed bible can be assembled in about an afternoon while staying inside the 1–8 range rather than the impressive-sounding 50-slot ceiling. These are source-described tool roles, settings, and productivity claims, not independent evaluations. ^[raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md]
+
+## Seedance 2.5 reference-role and identity rules (2026-08-06)
+
+beech's guide reinforces reference-first identity locking with explicit `@image` roles: every received reference is numbered in appearance order and named for what it controls, while unreceived images are never cited. Narrative prompts use `4–10` references, a three-angle character sheet, and a two- or three-angle environment sheet; montage prompts intentionally use fewer references so the model can invent extra coverage without losing the rough environment and style. The source also reports a 50-slot structure-memory capacity, which is not independently verified. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+The recurring identity guard is the literal instruction `face stable throughout, no deformation`, plus a fixed character description and locked clothing. The fighter-jet example keeps one `@image1` responsible for pilot, primary aircraft, sky, lighting, and style while enemy aircraft remain distant and simple; its negative list bans face/aircraft/wing/marking drift, merging, impossible motion, damage, extra detailed enemy cockpits, and other observed failures. This is a source-described prompting discipline, not a guarantee of zero drift. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+## Grok Imagine reference system (2026-08-08)
+
+Tetsuo's Grok Imagine workflow reinforces the reference-first rule with a three-panel character sheet: head-cropped full-body front, full-body back, and square head-and-shoulders portrait on a light-grey backdrop. It warns that multiple face views can increase drift, that green screens bleed into generations, and that identity references should carry appearance while text carries action and hidden per-shot facts. Each beat then calls selected images through `@` element tags, with the current source-described ceiling of three references per generation. ^[raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
+
+The source adds 47° full-body/18° portrait optics, 5600K key plus cool rim, locked tripod distances, per-beat `ASSETS` lists, `STATE` notes, positive locks, and a `/imagine-character-sheet-prompt` → `/imagine-prompt-creator` handoff. These are source-described Grok mechanics, not guaranteed product requirements. See [[grok-imagine-short-film-pipeline]] and [[grok-imagine]]. ^[raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
+
 ## Related
 
 - [[primee32]] — source author
+- [[beechinour]] — source author of the Seedance 2.5 reference-role guide
 - [[gpt-image-2-prompting]] — image and reference-sheet prompting
 - [[seedance-2-0]] — motion-generation layer
 - [[image-to-video]] — broader technique

@@ -1,10 +1,10 @@
 ---
 title: 4-Beat Short-Form Ad Structure
 created: 2026-04-20
-updated: 2026-07-22
+updated: 2026-08-08
 type: concept
 tags: [ai-generated-ads, marketing, method, ugc]
-sources: [raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md]
+sources: [raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md]
 related_entity: [[vadoo]]
 ---
 
@@ -42,6 +42,10 @@ The reference pack discipline (1 identity anchor + 1 style anchor + 1 compositio
 ## Relationship to broader systems
 
 This structure is the **execution unit** inside the [[ai-ugc-ad-scaling-system]] — the smallest repeatable conversion artifact in a volume-based short-form ad workflow. It converts a hook angle (from [[prompt-engineering-patterns]]) into a shippable video asset.
+
+## 30-second Seedance 2.5 beat map (2026-08-04)
+
+The local Seedance 2.5 course uses a longer four-beat map than this page's 15-second direct-response structure: **0–6 seconds** set the scene, **6–14** build it out, **14–24** deliver the turn or big moment, and **24–30** show how it ends. The source requires the same six shot details—what is present, what it does, where it is, camera movement, style, and rules—for each timed chunk inside one prompt. This is a source-described narrative-control pattern, not independent confirmation of Seedance 2.5 behavior or release status. ^[raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md]
 
 ## Related pages
 

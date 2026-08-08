@@ -1,10 +1,10 @@
 ---
 title: One-Person Business 2026
 created: 2026-05-20
-updated: 2026-07-27
+updated: 2026-08-08
 type: concept
 tags: [agency, ai, business, monetization, productivity]
-sources: [raw/articles/one-person-business-2026-2056662429224898601.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+sources: [raw/articles/one-person-business-2026-2056662429224898601.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 ---
 
 ## Definition
@@ -101,6 +101,12 @@ The scaling question is whether the last lane produced that morning without a pr
 
 The source's closing warning is that skipping rule 4 means editing forever, while skipping rule 7 lets the bill teach instead. The article is a source-described operating blueprint; Viktor capabilities, the $100 credits claim, and any implied business outcomes remain unverified. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
 
+
+## Software-factory portfolio math (Nazar, 2026-08-08)
+
+Nazar's source frames a software factory as cheap, repeatable attempts rather than guaranteed income. It describes a six-agent line running `8`–`12` full cycles per day at source-claimed model usage of about `$10`–`$15` daily, roughly `$4,400` annually including a small computer, and heavy billion-plus-token sprints under a couple thousand dollars including hosting when context is reused. These figures are source-reported and unverified. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
+
+The illustrative target is `$1M` per year = `$83,333` per month, a `$49` product, about `1,700` subscribers, and `12` products per year, or roughly `142` customers per product; the source calls `$4,400` versus `$1M` under half a percent. Its caveat is the important part: only product judgment, taste, distribution, and finding `142` paying customers determine whether a shot lands. The line changes the number of attempts, not the probability of any one product succeeding. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 ## Related
 
 - [[monetization]]

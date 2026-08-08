@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-07 | Total pages: 1180
+> Last updated: 2026-08-08 | Total pages: 1186
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -72,6 +72,7 @@
 [[basedbiohacker]] — title: BasedBiohacker
 [[bateshkaaa]] — Romario (@bateshkaaa), X creator documenting a constraint-first Claude Code workflow for agency-style marketing websites.
 [[bayendor]] — title: David Bayendor
+[[beechinour]] — beech (@beechinour), X article author documenting source-described Seedance 2.5 prompting, coverage aggregation, reference discipline, and painted-animation workflows.
 [[beka-saparbek]] — Shynggys Saparbek, X article author documenting a Reddit-first app-promotion playbook and compounding organic acquisition.
 [[benji-ai-playground]] — title: Benji's AI Playground
 [[berkeley]] — title: Berkeley
@@ -106,7 +107,7 @@
 [[chewadot]] — X creator publishing operator-style Claude + Obsidian essays focused on self-filing vaults, raw-note immutability, and graph-building workflows.
 [[cjzafir]] — title: "CJ Zafir"
 [[claude]] — Claude entity with source-linked Fable 5 advertorial, faceless story-channel, and loop-design workflows.
-[[claude-code]] — Anthropic coding agent with model/effort routing guidance and a source-described `/loops` build-test-fix surface.
+[[claude-code]] — Anthropic coding agent with model/effort routing, `/loops`, and a source-described Higgsfield/ffmpeg AI UGC production workflow.
 [[claude-cowork]] — title: "Claude Cowork"
 [[claude-design]] — title: Claude Design
 [[claude-devs]] — official/practitioner-facing Claude Code account explaining loop taxonomies plus model-vs-effort routing for bounded, verified agent work.
@@ -163,14 +164,14 @@
 [[ecomrads-mcp]] — source-described MCP connector for Claude-driven video generation; availability and routing unverified.
 [[eden]] — source-described creator research and semantic knowledge-library platform by Dan Koe.
 [[elder-plinius]] — title: Elder Plinius
-[[elevenlabs]] — AI voice synthesis platform used for source-described faceless YouTube narration.
+[[elevenlabs]] — AI voice synthesis platform used for source-described faceless narration, cinematic sound, and optional AI UGC voice anchors.
 [[elvis-x]] — title: Elvis X
 [[erdemwrites]] — title: ErdeM
 [[eric-mishra]] — title: Eric Mishra
 [[ernesto-lopez]] — title: Ernesto Lopez
 [[ernesto-software]] — title: Ernesto Lopez
 [[ernie-image]] — title: Ernie Image
-[[exm7777]] — Machina (@exm7777), operator documenting AI leverage, research systems, earned autonomy, and a five-lane one-person business blueprint.
+[[exm7777]] — Machina (@exm7777), operator documenting AI leverage, agentic business systems, reference-first video workflows, and a research-first AI UGC factory.
 [[explorax_]] — title: "exploraX"
 [[eyad-khrais]] — Applied AI engineer and X author whose Varick article frames the role around evals, harness engineering, and distributed-systems-safe multi-agent design.
 [[falcon-perception]] — title: Falcon Perception
@@ -207,6 +208,7 @@
 [[granite-speech-4-1-2b-nar]] — title: granite-speech-4.1-2b-nar
 [[granite-speech-4-1-2b-plus]] — title: granite-speech-4.1-2b-plus
 [[greg-isenberg]] — founder and X creator writing about AI-native products, agent businesses, and bootstrapped product portfolios.
+[[grok-imagine]] — source-described xAI image/video generation surface with reference tags, Grok skills, API model, and Agent Mode.
 [[gurnoor]] — Gurnoor Singh, an X creator discussing entertainment-led ecommerce advertising.
 [[h100envy]] — title: h100envy
 [[hallmark]] — Open-source nutlope design skill for Claude Code, Cursor, and Codex, intended to reduce generic AI-generated UI and landing-page output.
@@ -221,7 +223,7 @@
 [[hermes-vault]] — title: hermes-vault
 [[heygen]] — title: HeyGen
 [[heynavtoor]] — Nav Toor — creator focused on browser automation, Claude skill design patterns, and occasional export-failed [[link-post]] provenance.
-[[higgsfield]] — AI video-generation platform with source-described MCP workflows for motion sites and archive clipping.
+[[higgsfield]] — AI video-generation platform with source-described MCP/CLI workflows, model aggregation, Supercomputer orchestration, and agentic UGC production.
 [[higgsfield-marketing-studio]] — title: Higgsfield Marketing Studio
 [[honcho]] — title: Honcho
 [[huasheng]] — title: huasheng
@@ -326,14 +328,15 @@
 [[n8n]] — title: n8n
 [[nainsi_dwivedi]] — title: Nainsi Dwivedi
 [[nanbeige]] — source-described 4–8 GB model candidate for lightweight tagging workloads.
-[[nano-banana]] — source-described image-generation model used through a Claude MCP for realistic product and ad imagery.
+[[nano-banana]] — source-described image-generation model used through Claude MCPs and fixed headshot/product-reference workflows for realistic ad creative.
 [[nate-herk]] — title: Nate Herk
 [[nathangotch]] — title: nathangotch
+[[nazik2053]] — Nazar (Nazik2053), author of a source-described queue-driven software-factory and production-line workflow.
 [[neo-ai-forecast]] — title: NeoAIForecast
 [[nevodavid]] — title: Nevo David
 [[nftcps]] — title: NFTCPS
 [[nick-saraev]] — title: nick saraev
-[[nicolas-cole]] — Nicolas Cole — X creator and digital-writing educator covering reader hooks, iterative drafting, and source-described public writing as career evidence and opportunity arbitrage.
+[[nicolas-cole]] — Nicolas Cole — X creator and digital-writing educator covering reader hooks, iterative drafting, public writing as career evidence and opportunity arbitrage, with recurring export-failed link-post provenance.
 [[noah-frydberg]] — title: Noah Frydberg
 [[noel-ceta]] — title: Noel Ceta
 [[noisy]] — title: Noisy
@@ -343,7 +346,7 @@
 [[nvidia-ai]] — NVIDIA AI (@NVIDIAAI) account sharing source-described agentic autoresearch with NeMo RL/Gym and Qwen3-VL-2B vision training.
 [[nyk-builderz]] — title: nykbuilderz
 [[obscura]] — title: obscura
-[[obsidian]] — local-first Markdown business-vault tool for offer, client, voice, playbooks, and rulings context.
+[[obsidian]] — local-first Markdown vault used for business context, Seedance reference bibles, and a source-described winning-ad/script research vault.
 [[ods]] — one-install local AI deployment product that detects hardware, selects a local model, and starts a private inference/dashboard stack.
 [[ole-lehmann]] — title: "ole-lehmann"
 [[oliverkenyon]] — title: Oliver Kenyon
@@ -384,6 +387,7 @@
 [[playwright]] — source-described real-browser automation layer for Claude MCP workflows.
 [[pm-os]] — source-described Product Manager's AI Operating System with 200+ skills for grounded product workflows.
 [[postiz]] — title: Postiz
+[[pounddz]] — Pounds (@pounddz), source-described non-viral Instagram peptide-affiliate system using R.A.C.E., AI avatars, lead magnets, and Claude-assisted research/email.
 [[powvibess]] — X article writer identified in the VETTED interview on AI leverage, creator systems, and business growth.
 [[prajwal-tomar]] — X creator documenting AI-assisted marketing-agent systems and landing-page workflows.
 [[primee32]] — X creator publishing a reference-first GPT Image 2 + Seedance 2.0 character-consistency workflow.
@@ -431,7 +435,7 @@
 [[scrapy]] — title: Scrapy
 [[searxng]] — title: SearXNG
 [[second-brain]] — title: second-brain
-[[seedance-2-0]] — Seedance 2.0 video-generation model used in reference-led UGC ad and character-consistency workflows.
+[[seedance-2-0]] — Seedance 2.0/2.5 video-generation model with source-described multi-reference, timed-shot, and reference-led UGC workflows.
 [[seelffff]] — title: seelffff
 [[sentra]] — title: Sentra
 [[seobydan]] — title: Daniel  SEO (seobydan)
@@ -466,6 +470,7 @@
 [[tencent]] — title: Tencent
 [[tencentarc]] — title: Tencent ARC
 [[termsheetinator]] — title: Termsheetinator
+[[tetsuoai]] — X creator documenting a source-described Grok Imagine short-film pipeline with reference locking and sealed prompts.
 [[the-smart-ape]] — title: The Smart Ape
 [[theahmadosman]] — title: TheAhmadOsman
 [[thegoldeenhand]] — gold. (@thegoldeenhand), author of a source-described Claude Fable 5 workflow for faceless AI story-channel scripting, visual prompts, and YouTube production.
@@ -526,10 +531,10 @@
 [[zettelkasten]] — title: zettelkasten
 [[zeuuss-01]] — ZEUS (@zeuuss_01), X creator documenting AI-assisted motion websites and productized creative services.
 [[ziwen]] — Ziwen (@ziwenxu_), X creator covering AI-agent workflows, knowledge-management systems, productivity automation, and recurring export-failed link-post provenance.
-
 [[zodchiii]] — X creator who amplified a Shopify engineering quote about replacing prompt polishing with loop design.
 [[zostaff]] — title: zostaff
 [[zubair-trabzada]] — title: zubair-trabzada
+
 ## Concepts
 <!-- Topics, methods, frameworks -->
 [[1-bit-bonsai-bitnet-fine-tuning]] — title: 1-bit Bonsai & BitNet b1.58 Fine-Tuning on RTX 40 Series
@@ -537,13 +542,13 @@
 [[14-second-ai-vlog-method]] — source-described three-scene synthetic-UGC vlog workflow with fixed casting and manual QC.
 [[3d-vision]] — title: 3D Vision
 [[3dgs]] — title: 3D Gaussian Splatting
-[[4-beat-short-form-ad-structure]] — four-beat hook/problem/proof/CTA structure for short-form AI ads, now connected to reference-led remakes.
+[[4-beat-short-form-ad-structure]] — 15-second direct-response structure plus a source-described 30-second Seedance 2.5 timestamped beat map.
 [[60-claude-cowork-moves]] — title: 60-claude-cowork-moves
 [[a2a-protocol-cross-agent-communication]] — title: A2A Protocol Cross-Agent Communication
 [[above-the-fold-design]] — title: above-the-fold-design
 [[action-memory]] — title: Action Memory
-[[affiliate-ai-ugc]] — title: affiliate-ai-ugc
-[[affiliate-marketing]] — title: Affiliate Marketing
+[[affiliate-ai-ugc]] — affiliate AI-UGC monetization across TikTok and Instagram, including reaction-clip and five-account AI-avatar variants with lead capture.
+[[affiliate-marketing]] — Affiliate marketing through creator/UGC traffic, offer selection, lead capture, email nurture, and source-described appointment-based conversion.
 [[agency]] — title: agency
 [[agency-client-acquisition]] — zero-budget agency acquisition via warm contacts, proof, content, and outbound.
 [[agency-pricing-no-case-studies]] — title: Agency Pricing No Case Studies
@@ -600,14 +605,14 @@
 [[ai-review-management-service]] — title: AI Review Management Service
 [[ai-side-hustle-models]] — title: AI Side Hustle Models
 [[ai-travel-companion-landing-hero]] — full-viewport cinematic landing-hero pattern for an AI travel companion, with glassmorphic navigation and specified CTA micro-interactions.
-[[ai-ugc]] — synthetic-UGC category including reference-led remakes, scene-by-scene workflows, and organic persona portfolios.
-[[ai-ugc-ad-scaling-system]] — volume-and-testing system for AI UGC ads, with an adjacent organic persona-portfolio branch.
+[[ai-ugc]] — synthetic-UGC category spanning reference-led remakes, persona portfolios, research-first ad factories, locked references, and frame-level QA.
+[[ai-ugc-ad-scaling-system]] — volume-and-testing system for AI UGC ads, extended with customer-language research, hook-first parallel rendering, and frame QA.
 [[ai-ugc-behavioral-biases]] — title: ai-ugc-behavioral-biases
 [[ai-ugc-income-system]] — monetization playbook for AI/tech UGC, now expanded with Sidney Brant's first-client and account-warmup workflow.
 [[ai-ugc-persona-factory]] — source-described AI UGC system combining tokenomics, locked personas, hook skills, warmed TikTok accounts, and save/DM funnels.
 [[ai-user-acquisition-agent]] — autonomous marketing-agent pattern connecting research, AI creative, warehouse feedback, and Meta ad iteration.
-[[ai-video]] — AI-assisted video generation and delivery, including a property-listing walkthrough service case.
-[[ai-video-director-workflow]] — source-described shot-first cinematic AI-video pipeline: emotional core, 5–8-shot plan, reference locking, model-per-shot routing, sound, edit, and color grade.
+[[ai-video]] — AI-assisted video generation and delivery, including property walkthroughs, shot-first directing, and Grok Imagine short-film production.
+[[ai-video-director-workflow]] — source-described shot-first cinematic AI-video pipeline with reference bibles, timed beats, model-per-shot routing, sound/edit/color control, and a Grok Imagine sealed-prompt branch.
 [[ai-video-marketing-used-car-reports]] — strategy for using AI-assisted video to market a trust-sensitive used-car background-report product.
 [[ai-video-virality-formats]] — reusable AI/short-form video structures plus outlier-score research and Three-Vector TikTok volume/velocity/signal-density execution.
 [[ai-website-production-loop]] — repeatable AI website workflow: references, design constraints, generated assets, agent implementation, polish, deployment, and reuse.
@@ -620,7 +625,7 @@
 [[appmaxxing-app-factory]] — Claude/Codex-assisted iOS portfolio framework combining reusable templates, App Store Connect automation, ASO keyword validation, screenshots, paywalls, QA, and repeated validated shots on goal.
 [[autonomous-red-team-agent-swarms]] — authorized security-testing agent swarms with scoped targets, phase-specific operators, tool-verified findings, and human approval gates.
 [[broken-link-building]] — SEO outreach method that replaces dead linked resources after recovering their original link intent.
-[[character-consistent-ai-video-workflow]] — reference-first identity locking across image and video generation.
+[[character-consistent-ai-video-workflow]] — reference-first identity locking across image and video generation, including Grok Imagine character sheets, @-tagged references, and per-shot prompt sealing.
 [[chat-to-animated-ad-pipeline]] — conversational workflow that turns a short product intake into a chained, AI-generated animated ad through LLM orchestration and an MCP video platform.
 [[claude-code-model-effort]] — Claude Code routing rule: fix context first, use stronger models for knowledge/capability gaps, and raise effort for more reading, verification, and follow-through.
 [[claude-cowork-seo-advanced-audits]] — detailed on-page and page-level backlink-gap extensions to the Claude Cowork SEO system.
@@ -634,7 +639,7 @@
 [[contextual-value-positioning]] — source-described framework for recalibrating self-perception by changing environments, comparison groups, and visible standards.
 [[continual-learning-for-agents]] — Replit-style agent improvement loop using evals, production traces, A/B tests, and harness/context updates instead of weight updates.
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
-[[distribution]] — distribution systems spanning public writing as career evidence, TikTok Three-Vector cadence, save-led faceless X growth, audience-led product validation, coordinated X launch timing/conversion, and warm-network-to-inbound service acquisition.
+[[distribution]] — distribution systems spanning public writing, short-form cadence, audience-led offer validation, coordinated launches, warm-network acquisition, and non-viral Instagram affiliate email loops.
 [[dormant-account-distribution-arbitrage]] — claimed strategy of buying aged dormant X accounts as pre-existing distribution infrastructure for faceless niche pages.
 [[ecommerce-funnel-training]] — Six-stage DTC subscription funnel with pain-point pages, listicle pre-sell variants, quiz capture, aggressive early nurture, and education-first retention.
 [[eval-engineering]] — evidence-driven agent gates covering judge bias, verdict-controlled runs, trajectory/component evals, trace-derived tests, and blast-radius rollout.
@@ -647,18 +652,22 @@
 [[frontier-ai-standards-body]] — source-described proposal for dynamic frontier-model benchmarks, safety tests, pre-release review, and international standards.
 [[game-theory-life-strategy]] — practical game-theory framework extended with iterated-game cooperation, protected boundaries, Tit for Tat, and long-term aggregate dominance.
 [[generation-evaluation-gap]] — held-out evaluation and external judges as safeguards against confusing memorization with generalization.
+[[glitchy-ai-income-system]] — Glitchy affiliate income loops spanning AI-UGC distribution, offer selection, and a source-described Instagram appointment-lead variant.
 [[goal-primitive]] — outcome-contract primitive for Claude Code/Codex/Hermes workflows: specify finish line, evidence, scope constraints, stop rules, and retry caps so agents iterate until verified or budget-exhausted.
 [[graph-engineering]] — dependency-first design for parallel AI-agent graphs, layered fan-in, and failure-aware orchestration.
+[[grok-imagine-short-film-pipeline]] — source-specific Grok Imagine pipeline for beat bibles, reference assets, sealed prompts, generation, transitions, and editing.
 [[hermes-agent-income-system]] — framework for earning from agent outputs by repeatedly solving painful bottlenecks rather than selling autonomy itself.
+[[higgsfield-claude-creative-agency]] — Claude + Higgsfield creative-production stack with model access, reference injection, tracking, skills, scheduled generation, and a UGC factory branch.
 [[human-in-the-loop]] — workflow architecture placing human judgment at goals, constraints, sampling, audit evidence, and final verdict checkpoints rather than every AI action.
 [[human-nature-meta-skill]] — Dan Koe framework treating human nature as the durable meta-skill beneath AI-era skills: survival, identity, and progress tensions translated into persuasion levers.
+[[instagram-ugc-system]] — AI-generated UGC distribution on Instagram/TikTok, including Seedance multi-account and source-described R.A.C.E./email-capture variants.
 [[ios-app-mrr-guide]] — iOS app MRR playbooks spanning TikTok Smart+ paid acquisition and the ASO-first portfolio-factory variant.
 [[lead-gen]] — B2B lead sourcing and qualification across outbound, inbound, paid channels, and AI-assisted research.
 [[link-post]] — export-failed bare-URL X bookmark pattern where the post body preserves only a shortened link, useful mostly as author-level and recurring-post provenance.
 [[linkedin-growth]] — LinkedIn as a complete B2B authority and demand system, including enterprise account mapping, multi-threaded outreach, engagement mining, proof-led content, and follow-up.
 [[llm-seo]] — AI-mediated search visibility playbook spanning LLM discovery, competitor recommendation audits, cited-source gaps, and classic SEO foundations.
 [[local-llm-size-tradeoffs]] — hardware/model-size tradeoffs for local LLM deployment, grounded in a source-reported VRAM ladder and dissenting user reports.
-[[loop-engineering]] — bounded agent loops built from specs, orchestrators, independent verifiers/judges, trackers, parallel execution, explicit budgets, and human-owned outer-loop steering.
+[[loop-engineering]] — bounded agent loops built from specs, verifiers, trackers, parallel execution, explicit budgets, and nested media-generation review cycles.
 [[manager-worker-pr-loop]] — manager/worker software-shipping loop using worktrees, PR review, heartbeat monitoring, `/goal`, and CI/manual merge gates.
 [[mascot-driven-app-growth]] — Mascot-led growth framework for utility apps, persistent characters, and faceless AI UGC.
 [[meta-ad-funnel-architectures]] — Twelve Meta-ad funnel architectures matched to offer price, audience awareness, trust, and conversion path, including listicle pre-sell mechanics.
@@ -675,6 +684,7 @@
 [[one-person-business-2026]] — one-person AI business model extended with Machina's five-lane Viktor blueprint, custom agent decomposition, vault structure, memory levels, gates, and build sheet.
 [[outbound]] — Multichannel B2B outreach from intent signals and account mapping to AI follow-through, human quality gates, and enterprise multi-threading.
 [[paid-ads-agency-funnel]] — High-ticket B2B paid-social funnel with broad targeting, VSL/application variants, lead routing, setters, and pre-call nurture.
+[[peptide-marketing-distribution]] — Peptide distribution via human UGC, AI slideshows, AI UGC, and a source-described Instagram appointment-lead variant.
 [[personal-brand-establishment]] — Personal-brand operating model spanning public writing as career proof, Anson Lin’s founder-content system, reusable post formats, proof, distribution, and conversion.
 [[playable-web-game-brief]] — constraint-dense browser game brief for a magic-carpet endless flying-runner, including controls, gameplay, HUD, visual direction, and evidence boundaries.
 [[prediction-market-calibration-bot]] — Prediction-market estimator pattern: Beta-Binomial shrinkage, priors, credible intervals, hierarchical buckets, and Brier/log-loss calibration before sizing trades.
@@ -689,20 +699,23 @@
 [[services-as-software]] — outcome-oriented AI delivery model spanning warm-start productized services and property-listing case studies.
 [[skill-based-agent-architecture]] — agent architecture where named skills package durable procedure, progressive disclosure, scripts, checks, and runtime-specific harness behavior.
 [[social-ai]] — source-described category where people and agents are equal members of one network doing work together.
+[[software-factory-with-claude-code]] — Role-separated Claude Code software-factory pattern extended with queue-first execution, isolated worktrees, write-permission boundaries, fail-closed gates, and self-updating project memory.
 [[solo-ai-agency-operating-model]] — one-person AI agency model built around productized retainers, AI production, human QA, and reusable delivery systems.
 [[storm-multi-perspective-research]] — Fixed-lens research workflow: five perspectives, contradiction mapping, and adversarial citation verification for decision-ready briefings.
 [[topical-authority-seo]] — topical-coverage SEO framework extended with a concrete broken-link replacement loop.
 [[training]] — LLM training from pretraining through fine-tuning and reinforcement learning, with held-out evaluation.
 [[ui-design]] — UI design principles and practical AI-assisted resource stack spanning design skills, component libraries, and UX heuristics.
 [[vibe-coding-landing-pages]] — layered prompting and reference-driven AI workflow for building and polishing landing pages.
+[[video-generation]] — AI video generation models and reference-first, shot-specific production workflows.
 [[viral-launch-system]] — tech launch playbooks combining research, bold claims, hook-first product demos, coordinated X creator waves, conversion, proof windows, and iterative video cuts.
 [[virality-mechanics]] — behavioral-signal and platform-specific amplification mechanics, now including TikTok Three-Vector volume/velocity/signal-density and X sampled-distribution variants.
-
 [[viv-deep-agents-evals]] — Evaluation patterns for deep/compound agents, including separate grading of final outcome and tool-call trajectory.
 [[x-organic-b2b-sales]] — X/Twitter content-to-inbound framework now extended with founder post formats: build logs, failures, value posts, receipts, contrast hooks, and milestone chapters.
 [[xarticle-httpstcooyx7sflxbj-2074526361159626959]] — Export-failure placeholder for a Shubham Saboo X article whose local bookmark export retained only metadata and a t.co shortlink.
 [[youtube-clipping-distribution]] — distribution model for turning dormant long-form recordings into ranked short-form clips and selling the revived attention as a service.
+
 ## Comparisons
+
 
 ## Queries
 [[buzz-for-graph-loop-pipelines]] — evaluates Buzz as a control plane/evidence layer versus a native graph or loop executor.
@@ -713,3 +726,4 @@
 [[landing-page-implementation-map]] — detailed implementation map for animated, 3D, cinematic, and 10k-level landing pages, including levels, appropriateness, techniques, stack, and verification.
 [[reddit-research-source-vs-twitter-distribution]] — Disambiguates the article’s platform roles: Reddit is the source of pain language; Twitter/X appears to be the stated posting channel; the “page” is the faceless niche distribution asset/product line.
 [[why-people-post-problems-in-threads-in-ai-age]] — Explains why public threads remain valuable market evidence: people seek lived experience, validation, social proof, and multiple perspectives rather than only private answers.
+

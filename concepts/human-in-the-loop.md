@@ -1,10 +1,10 @@
 ---
 title: Human in the Loop
 created: 2026-07-02
-updated: 2026-08-03
+updated: 2026-08-08
 type: concept
 tags: [agent, workflow, prompting, evaluation]
-sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
+sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 related_entity: [[alex-prompter]]
 ---
 
@@ -65,6 +65,12 @@ If a workflow already uses AI for drafts, research, coding, or summarization, th
 
 That pattern keeps human judgment where it adds the most value and removes it from the repetitive approval loop where it adds the least.
 
+
+## Policy gate and earned autonomy (Nazar, 2026-08-08)
+
+Nazar's software-factory gate moves the human checkpoint from every tool call to policy and evidence. The source's agent profile auto-merges only `**/*.md`, `**/*.txt`, and `docs/**`, with `max_files: 5`, `max_lines: 150`, and `require_ci: true`; it keeps `.github/**`, `**/*auth*`, `**/*secret*`, `**/.env*`, `**/migrations/**`, `**/*.tf`, and `**/package-lock.json` protected for human review. A missing policy file fails closed. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
+
+The source describes earned autonomy as an optional ledger that can widen an author's allowlist after merged work survives, but never open protected paths. It recommends a verdict demo and a non-mutating dry-run, and names shell downloads, credential literals (`sk-live-`, `ghp_`, `AKIA`), disabled certificate checks, `permissions: write-all`, `DROP TABLE`, and concatenated secrets as risky patterns. These are source-described controls; no policy implementation or independent false-positive rate is provided. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 ## Related
 
 - [[alex-prompter]]

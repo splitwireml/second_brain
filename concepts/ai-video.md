@@ -1,10 +1,10 @@
 ---
 title: AI Video
 created: 2026-05-31
-updated: 2026-08-04
+updated: 2026-08-08
 type: concept
 tags: [ai-video, generation, video, video-generation]
-sources: [raw/articles/thread-21xFORTUNA-2078982946707435591.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
+sources: [raw/articles/thread-21xFORTUNA-2078982946707435591.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md, raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
 ---
 
 # AI Video
@@ -22,6 +22,10 @@ AI lowers delivery cost, but it does not establish that a listing is real or tha
 ## Director workflow branch
 
 [[voyzlab]]'s AI Video Workflow 2026 adds a production-control layer: write the emotional core, choose among three beat structures, create a 5–8 shot list with framing and camera movement, storyboard with stills, lock character references, route each shot to the model that fits its job, generate sound-critical shots early, then edit and apply one unifying color grade. This is filed as [[ai-video-director-workflow]]. The process is source-described; model rankings and feature claims remain unverified. ^[raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
+
+## Grok Imagine short-film branch (2026-08-08)
+
+[[tetsuoai]]'s local article describes a full short-film production path in [[grok-imagine]]: script writer → character/location/prop references → one sealed measurable prompt per beat → about four candidate videos per beat → `extend` where useful → editor/Agent Mode assembly. The source uses a 45-second/5-beat example, a nine-beat `THE WALK` script, and explicit visual transitions such as a white bloom, snow-to-confetti, pixel dissolution, and UI glitch to white/black. Product availability, model, pricing, rollout, and quality remain source-described and unverified. ^[raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
 
 ## Related Concepts
 

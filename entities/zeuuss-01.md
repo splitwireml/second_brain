@@ -1,10 +1,10 @@
 ---
 title: ZEUS
 created: 2026-07-23
-updated: 2026-07-30
+updated: 2026-08-08
 type: entity
 tags: [person, x-creator, content-creator, ai-tools]
-sources: [raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-httpstcocbt3plngcn-2080408363507036432.md, raw/articles/thread-zeuuss_01-2081837342726214087.md]
+sources: [raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-httpstcocbt3plngcn-2080408363507036432.md, raw/articles/thread-zeuuss_01-2081837342726214087.md, raw/articles/xarticle-httpstcov5hujdcoy7-2085112087605342552.md]
 ---
 
 # ZEUS
@@ -43,6 +43,10 @@ This source is a design/build brief, not evidence that the game was implemented 
 
 
 The July 23, 2026 local bookmark export preserved only Bird's failure marker and the shortened URL `https://t.co/cbt3plnGcN`; it adds author-level provenance for a bare-URL [[link-post]] without exposing a destination or topic. The local metadata records tweet ID `2080408363507036432`, 2 reposts, and 15 likes; those engagement values remain source metadata, not independently verified claims.^[raw/articles/xarticle-httpstcocbt3plngcn-2080408363507036432.md]
+
+## Export-failed link-post provenance (2026-08-05)
+
+The 2026-08-05 local `x-bookmarks` export for the exact `@zeuuss_01` account preserves an X Article with tweet ID `2085112087605342552`, tweet timestamp `Wed Aug 05 21:13:55 +0000 2026`, bookmark date `2026-08-05`, title and external URL `https://t.co/v5HUJdCoY7`, `content_type: "x_article"`, `character_count: 23`, `retweet_count: 0`, and `like_count: 23`. It also preserves the exact `tweet_url`, `author_name: "ZEUS⚡️"`, `author_handle: "@zeuuss_01"`, `export_error: "bird read --json failed for https://x.com/zeuuss_01/status/2085112087605342552"`, and export note, but no recoverable article body or destination. This adds author-level provenance for a bare-URL [[link-post]]; no product, topic, claim, or technical detail is inferred. ^[raw/articles/xarticle-httpstcov5hujdcoy7-2085112087605342552.md]
 
 ## Related
 

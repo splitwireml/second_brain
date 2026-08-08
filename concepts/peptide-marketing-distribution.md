@@ -1,11 +1,11 @@
 ---
 title: Peptide Marketing Distribution Strategy
 created: 2026-05-09
-updated: 2026-05-10
+updated: 2026-08-08
 type: concept
 source: https://x.com/i/status/2052015573710623076
-tags: [affiliate-marketing, ai-content, distribution-strategy, ecommerce, peptide-marketing, ugc]
-sources: [raw/articles/xarticle-2052015573710623076.md]
+tags: [affiliate-marketing, ai-content, distribution-strategy, ecommerce, peptide-marketing, ugc, funnel]
+sources: [raw/articles/xarticle-2052015573710623076.md, raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md]
 ---
 
 # Peptide Marketing Distribution Strategy
@@ -44,6 +44,17 @@ Guide by [[roman_khaves]] on winning peptide marketing distribution via three co
 ## Tools
 
 - AffiliateNetwork.com — creator network for all three formats
+
+## Instagram appointment-lead variant (Pounds, 2026-08-05)
+
+Pounds describes a different peptide-distribution stack from this page's human UGC, AI slideshow, and AffiliateNetwork.com workflows. The source uses five Instagram accounts with distinct AI avatars, narrow-problem mini VSLs, a Manychat keyword-to-guide funnel, and an email pipeline. Its named example is Whoosh on Glitchy; the article says peptide offers convert on doctor appointments set rather than sales and calls the friction nearly CPA-like. ^[raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md]
+
+The offer, appointment qualification, payout, approval, tracking, health/compliance handling, and performance claims are not independently verified or specified. Pounds' R.A.C.E. method—Relate, Advise, Captivate, Enroll—describes the content-to-owned-audience handoff, while Claude-assisted research and email nurture remain source-described rather than an implementation prescription. ^[raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md]
+
+## Related
+
+- [[pounddz]] — source author of the Instagram variant
+- [[glitchy-ai-income-system]] — separate Glitchy AI-UGC loop
 
 ## Related Concepts
 
