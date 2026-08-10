@@ -1,10 +1,10 @@
 ---
 title: Hermes Agent
 created: 2026-04-27
-updated: 2026-06-11
+updated: 2026-08-10
 type: entity
 tags: [agent, ai-agent, nous-research, open-source, research]
-sources: [raw/articles/rohit-solo-founder-stack-2026-2047699770308014406.md, raw/articles/xarticle-the-10-hermes-agent-settings-most-users-never-find-2062720923942228205.md]
+sources: [raw/articles/rohit-solo-founder-stack-2026-2047699770308014406.md, raw/articles/xarticle-the-10-hermes-agent-settings-most-users-never-find-2062720923942228205.md, raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
 ---
 
 # Hermes Agent
@@ -28,6 +28,10 @@ Operational configuration that shows up repeatedly in community writeups:
 Runs on $5 VPS.
 
 Related: [[rohit]], [[solo-founder-stack-2026]], [[openclaw]], [[higgsfield-marketing-studio]], [[hermes-agent-practical-usecases]]
+
+## Reddit content-operations variant
+
+Chris's local X Article describes Hermes as the scheduled layer for a Reddit research-and-draft workflow: scrape selected subreddits weekly, inspect what performs, prepare two posts per day, notify the operator, and leave rewriting plus submission to a human. It says Hermes connects to APIs such as Apify but does not specify a skill, cron expression, model, API schema, or Reddit posting integration. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
 
 ## Related
 

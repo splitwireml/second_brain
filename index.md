@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-08 | Total pages: 1186
+> Last updated: 2026-08-10 | Total pages: 1187
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -171,6 +171,7 @@
 [[ernesto-lopez]] — title: Ernesto Lopez
 [[ernesto-software]] — title: Ernesto Lopez
 [[ernie-image]] — title: Ernie Image
+[[everestchris6]] — Chris (@everestchris6), X article author documenting a Reddit-first product, acquisition, and agent-assisted content workflow.
 [[exm7777]] — Machina (@exm7777), operator documenting AI leverage, agentic business systems, reference-first video workflows, and a research-first AI UGC factory.
 [[explorax_]] — title: "exploraX"
 [[eyad-khrais]] — Applied AI engineer and X author whose Varick article frames the role around evals, harness engineering, and distributed-systems-safe multi-agent design.
@@ -533,7 +534,6 @@
 [[ziwen]] — Ziwen (@ziwenxu_), X creator covering AI-agent workflows, knowledge-management systems, productivity automation, and recurring export-failed link-post provenance.
 [[zodchiii]] — X creator who amplified a Shopify engineering quote about replacing prompt polishing with loop design.
 [[zostaff]] — title: zostaff
-[[zubair-trabzada]] — title: zubair-trabzada
 
 ## Concepts
 <!-- Topics, methods, frameworks -->
@@ -639,7 +639,7 @@
 [[contextual-value-positioning]] — source-described framework for recalibrating self-perception by changing environments, comparison groups, and visible standards.
 [[continual-learning-for-agents]] — Replit-style agent improvement loop using evals, production traces, A/B tests, and harness/context updates instead of weight updates.
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
-[[distribution]] — distribution systems spanning public writing, short-form cadence, audience-led offer validation, coordinated launches, warm-network acquisition, and non-viral Instagram affiliate email loops.
+[[distribution]] — distribution systems spanning public writing, Reddit answer-first acquisition, short-form cadence, audience-led offer validation, coordinated launches, warm-network acquisition, and non-viral Instagram affiliate email loops.
 [[dormant-account-distribution-arbitrage]] — claimed strategy of buying aged dormant X accounts as pre-existing distribution infrastructure for faceless niche pages.
 [[ecommerce-funnel-training]] — Six-stage DTC subscription funnel with pain-point pages, listicle pre-sell variants, quiz capture, aggressive early nurture, and education-first retention.
 [[eval-engineering]] — evidence-driven agent gates covering judge bias, verdict-controlled runs, trajectory/component evals, trace-derived tests, and blast-radius rollout.
@@ -656,6 +656,7 @@
 [[goal-primitive]] — outcome-contract primitive for Claude Code/Codex/Hermes workflows: specify finish line, evidence, scope constraints, stop rules, and retry caps so agents iterate until verified or budget-exhausted.
 [[graph-engineering]] — dependency-first design for parallel AI-agent graphs, layered fan-in, and failure-aware orchestration.
 [[grok-imagine-short-film-pipeline]] — source-specific Grok Imagine pipeline for beat bibles, reference assets, sealed prompts, generation, transitions, and editing.
+[[hermes-agent-24-7-automation-patterns]] — always-on Hermes patterns spanning schedules, memory, skills, retries, and a source-described Reddit research-to-draft review loop.
 [[hermes-agent-income-system]] — framework for earning from agent outputs by repeatedly solving painful bottlenecks rather than selling autonomy itself.
 [[higgsfield-claude-creative-agency]] — Claude + Higgsfield creative-production stack with model access, reference injection, tracking, skills, scheduled generation, and a UGC factory branch.
 [[human-in-the-loop]] — workflow architecture placing human judgment at goals, constraints, sampling, audit evidence, and final verdict checkpoints rather than every AI action.
@@ -693,7 +694,7 @@
 [[qwen3-6-consumer-gpu-tuning]] — consumer-GPU sizing, quantization, offloading, and context tradeoffs for Qwen3.6 models.
 [[reader-attention-hooks]] — six source-described opening patterns for making readers continue past the first sentence.
 [[realtime-gf-simulator]] — source-described real-time GF simulator: 720p/60 fps streaming, controllable events, open weights, and a Wan basis.
-[[reddit-problem-to-digital-product-system]] — lightweight workflow for turning high-pain Reddit comments into AI-assisted PDFs, listings, and faceless-page content calendars.
+[[reddit-problem-to-digital-product-system]] — Reddit pain mining extended with direct Reddit acquisition, Apify MCP research, Claude/Cursor product construction, account-trust constraints, and Hermes-assisted drafting.
 [[reference-driven-ai-ugc-ad-remake]] — source-described reference-video workflow for remaking product ads with AI UGC models.
 [[research-agent-vault]] — durable research knowledge system that gives an AI-agent stack an accumulating, queryable evidence base.
 [[services-as-software]] — outcome-oriented AI delivery model spanning warm-start productized services and property-listing case studies.
@@ -712,7 +713,6 @@
 [[viv-deep-agents-evals]] — Evaluation patterns for deep/compound agents, including separate grading of final outcome and tool-call trajectory.
 [[x-organic-b2b-sales]] — X/Twitter content-to-inbound framework now extended with founder post formats: build logs, failures, value posts, receipts, contrast hooks, and milestone chapters.
 [[xarticle-httpstcooyx7sflxbj-2074526361159626959]] — Export-failure placeholder for a Shubham Saboo X article whose local bookmark export retained only metadata and a t.co shortlink.
-[[youtube-clipping-distribution]] — distribution model for turning dormant long-form recordings into ranked short-form clips and selling the revived attention as a service.
 
 ## Comparisons
 
@@ -726,4 +726,3 @@
 [[landing-page-implementation-map]] — detailed implementation map for animated, 3D, cinematic, and 10k-level landing pages, including levels, appropriateness, techniques, stack, and verification.
 [[reddit-research-source-vs-twitter-distribution]] — Disambiguates the article’s platform roles: Reddit is the source of pain language; Twitter/X appears to be the stated posting channel; the “page” is the faceless niche distribution asset/product line.
 [[why-people-post-problems-in-threads-in-ai-age]] — Explains why public threads remain valuable market evidence: people seek lived experience, validation, social proof, and multiple perspectives rather than only private answers.
-

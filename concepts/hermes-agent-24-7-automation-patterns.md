@@ -1,10 +1,10 @@
 ---
 title: Hermes Agent 24/7 Automation Patterns
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-08-10
 type: concept
 tags: [hermes-agent, workflow, automation, skills, configuration]
-sources: [raw/articles/xarticle-10-hermes-agent-hacks-that-turned-my-chat-agent-in-2062101068842975409.md, raw/articles/xarticle-the-10-hermes-agent-settings-most-users-never-find-2062720923942228205.md]
+sources: [raw/articles/xarticle-10-hermes-agent-hacks-that-turned-my-chat-agent-in-2062101068842975409.md, raw/articles/xarticle-the-10-hermes-agent-settings-most-users-never-find-2062720923942228205.md, raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
 related_entity: [[hermes-agent]]
 author: [[cyrilXBT]]
 ---
@@ -48,6 +48,12 @@ The strongest claim across both sources is that Hermes becomes qualitatively dif
 - The article's memory/output recommendations align with [[obsidian-knowledge-vault-system]] and broader vault-centric operating-system patterns
 - The cost-control angle overlaps with [[hermes-auxiliary-model-configuration]]: always-on agents need correct background-model routing as well as correct scheduling
 - The pipeline framing complements [[hermes-agent-delegation]], where isolated subagents become one stage inside a longer operating loop
+
+## Reddit research-to-draft scheduling variant (2026-08-09)
+
+Chris's local X Article gives a source-described content-operations loop for Hermes: schedule a weekly scrape of named subreddits through API-connected tools such as Apify, inspect which posts are performing, have two posts written and waiting each day, notify the operator, and keep final review and submission human. The source does not specify a Hermes skill name, cron expression, model, API schema, or Reddit posting integration; it is evidence for a schedule-plus-review pattern, not a verified built-in Reddit feature. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+The division of labor is explicit: Apify/Claude handle public-data research and drafting, a reusable skill file captures community voice, Hermes supplies recurring scheduling and notification, and the operator rewrites, fixes, and submits. Direct messages stay manual because they are both a detection-sensitive surface and the conversion conversation. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
 
 ## Related
 

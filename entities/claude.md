@@ -1,10 +1,10 @@
 ---
 title: Claude
 created: 2026-05-14
-updated: 2026-08-05
+updated: 2026-08-10
 type: entity
 tags: [product, llm, ai]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md, raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md, raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md, raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
 ---
 
 ## Overview
@@ -51,6 +51,10 @@ Miss Scarlett's local X Article uses Claude for weekly niche/title ideation, ret
 ### TikTok hook-variation use
 
 In Sleep's source-described tool stack, Claude generates 56 hook variations per week for $20 as the input to the Three-Vector System. The local article names no Claude model or version, prompt text, command, API/interface, configuration, or file handoff, so this is a source-reported role and cost rather than a verified Claude capability or pricing fact. ^[raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md]
+
+### Reddit demand-research and drafting variant (2026-08-09)
+
+Chris's source uses Claude in two stages: an interactive one-question-at-a-time self-inventory prompt, followed by analysis of a three-month Reddit post/comment corpus returned through the Apify MCP. The requested outputs include repeated-problem ranking, two or three quoted lines per problem, current payment substitutes, and a PDF/newsletter decision. Later, Claude drafts from the community's language and infers the subreddit voice into a reusable skill file. No Claude model/version, API, command, or execution configuration is specified. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
 
 ## Related
 

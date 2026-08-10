@@ -1,10 +1,10 @@
 ---
 title: Reddit Problem-to-Digital Product System
 created: 2026-07-07
-updated: 2026-07-26
+updated: 2026-08-10
 type: concept
 tags: [business-models, monetization, ai-content, content-automation]
-sources: [raw/articles/xarticle-23000-last-month-ctrl-c-ctrl-v-2074140663927755082.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
+sources: [raw/articles/xarticle-23000-last-month-ctrl-c-ctrl-v-2074140663927755082.md, raw/articles/xarticle-hidden-market-of-faceless-page-operators-doing-50k-2075731297922879880.md, raw/articles/xarticle-you-can-use-ai-to-run-faceless-pages-in-languages-you-dont-speak-and-sell-info-products-2077122078223036773.md, raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md, raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
 related_entity: [[whotfiszackk]]
 author: [[whotfiszackk]]
 ---
@@ -54,6 +54,50 @@ The latest source applies the same complaint-mining loop to Spanish-language Red
 ## Cross-platform signal-mining variant
 
 MAX's source generalizes complaint mining beyond Reddit: each platform is assigned a role, then raw signals are filtered, clustered, scored across pain/frequency/money/openness/speed, and routed into content or product ideas. Reddit remains the raw-complaint source in its examples, but the workflow also uses Quora, X, YouTube, GitHub, papers, and niche forums. This broadens the page's demand-screening logic without replacing its Reddit-first product-packaging example.^[raw/articles/xarticle-how-i-built-my-ai-research-engine-full-system-2080742426763723104.md]
+
+## Direct Reddit acquisition and agent-assisted operating variant (Chris, 2026-08-09)
+
+Chris's guide is a distinct direct-Reddit branch of the existing Reddit-to-product system. Earlier sources in this page use Reddit primarily for complaint mining and route content to faceless X pages; this source posts value-first help on Reddit itself, converts through manual conversations, and uses the platform's Google search persistence as a second acquisition surface. The guide claims roughly `$1,000/day` from a SaaS and earlier PDFs, 1.1M/1.2M-view posts, and recurring inbound messages; these outcomes are source claims, not independently audited. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+### Demand discovery and product selection
+
+1. Read the target subreddit before building. Repeated questions, tool requests, “how do I” questions, and “I wish there was” language are treated as a public list of problems people want solved.
+2. Use Google rather than Reddit's weaker native search: `site:reddit.com/r/[subreddit] "how do i"`, plus variants such as `"is there a tool that"`, `"does anyone know how to"`, and `"i wish there was"`; use Google's Tools menu to filter to the past three months.
+3. For the full-data path, connect the **Apify MCP** at `mcp.apify.com` to Claude and ask it in plain English to find a suitable Reddit scraper actor and return every post and comment from a named subreddit for the last three months. The source names no actor, schema, authentication method, or pagination configuration.
+4. Pass the corpus to Claude with the source's requested outputs: rank repeated problems by frequency and apparent upset, quote two or three real lines per problem, identify existing payment attempts and substitutes, and choose one problem plus either a PDF guide or paid newsletter—or reject all candidates.
+
+The source says to paste the first-stage prompt into **Claude or ChatGPT**. Its contract is deliberately evidence-seeking: the model asks one question at a time, without summarising or encouraging, across five prompts about what others seek help with, what the operator had to learn alone, what used to take weeks, where people waste money, and what would take another person a year to learn. Afterward it extracts only specific knowledge, maps each item to a current problem, a 2am Google query, and relevant subreddits, rejects audiences without buying intent, and stops at an idea plus a verification check. The source explicitly says to read the last three months of results before believing the chat-derived idea. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+The source's second-stage corpus prompt asks Claude to rank repeated problems by frequency and emotional intensity, quote real lines, identify what people already pay for and use instead, and select a single PDF/newsletter opportunity only when the data supports it. This keeps the handoff **public posts/comments → Claude synthesis → product hypothesis → independent verification**, rather than treating a chat-window idea as evidence. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+### Product and landing-page handoff
+
+The proposed first product is a PDF guide; a `$9/month` newsletter is suggested when the audience is smaller and each buyer needs to be worth more. Claude writes from the research using the audience's own language. The source's unloopa example gives away a method using Google Maps to find local businesses, free tools to build their site, a Google Sheet the owner can edit, and an exact email; this example is source-specific and does not define the PDF/newsletter stack. The landing page is built in **Cursor** with the **Claude Code extension** and a skill file containing the stack/components; the source includes a Telegram resource for that skill file, but the destination and its implementation were not fetched. The source says the rest of the workflow runs in Claude's web or desktop app and that the landing page is the only Cursor-dependent step. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+### Reddit account trust and platform boundary
+
+The source says followers contribute little; subreddit eligibility instead depends on total karma or comment karma, account age, subreddit-specific rules, and automod checks that can remove a post within seconds. Its reference account had about `6,800` karma and was five years old. It distinguishes an old account from an old account with useful karma, warns that repost-farmed karma is detectable, and recommends checking for a shadowban in a private logged-out window before paying for an account. It then describes two weeks of roughly `15` genuine comments per day on large general subreddits as the author's preferred warm-up. These are source-described operating claims, not platform guarantees. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+The source also states that Reddit's user agreement does not allow account selling or transfer, that multi-account promotion can violate subreddit norms, and that its own five-year-old, `6,800`-karma account was permanently banned. The guide treats the ban as an eventual platform outcome rather than evidence that VPNs can solve the problem. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+### Automation boundary and human handoff
+
+VPNs and private proxies are described as failed experiments: accounts were banned within days of the first automated post. The source attributes detection to more than IP address, naming browser fingerprints, action timing, activity before and after posting, and shared setup history across accounts. Research, scraping, and weekly summaries are the proposed automation surface; writing is drafted by Claude and rewritten by the operator.
+
+The source describes inspecting high-performing subreddit posts so Claude can infer community voice, then saving that voice as a reusable skill file. Posting is handed to an Upwork or onlinejobs.ph contractor only after the operator has posted manually for several weeks. The handoff document contains account logins, an account-to-subreddit schedule, drafts, and common-question answers; the recovery email remains on an operator-controlled address and its password is not handed over. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+The Hermes pattern is: schedule a weekly scrape, inspect what is performing, prepare two posts per day, notify the operator, then have the operator fix and submit them. The source says Hermes connects to APIs such as Apify; it does not name a Hermes skill, API schema, cron expression, model, or posting integration. DMs remain manual, with five to ten message exchanges of specific help before mentioning the product. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+### Content, timing, and conversion
+
+The post gives away the complete method, contains no link in the post or comments, and ends with an invitation to ask questions. A US audience is tested in the morning and again around `6pm` or `7pm`, but the source says to infer the audience's actual phone-use window and test it. It claims that revenue came from subsequent conversations rather than posts: help first, then mention the guide once the person has already decided the author understands the problem. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+## Evidence layers for the direct-Reddit variant
+
+- **Confirmed:** the local export contains the full source text, exact tool names, prompt contracts, account mechanics, automation boundary, and evidence caveats; the raw source is preserved verbatim.^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+- **Source-claimed:** Reddit-only marketing, `$1,000/day`, view/upvote totals, account-age/karma observations, ban timing, and the approximate `95%` automation framing.
+- **Likely:** direct answer-first participation can combine community-fit feedback with durable search discovery, but the platform and conversion mechanism remain contingent on trust and policy fit.
+- **Speculative:** that the described Reddit-to-PDF/newsletter economics or Hermes-assisted draft loop will repeat across subreddits, authors, or account histories.
 
 ## Relationship to existing concepts
 
