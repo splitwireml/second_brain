@@ -2,6 +2,21 @@
 
 > Chronological record of all wiki actions. Append-only.
 
+## [2026-09-19] ingest | xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690
+- FILE: `/Users/mali/Development/x-bookmarks/data/run-2026-09-18/2026-09-17/xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690.md`; run: `run-2026-09-18`; author metadata: `David Ch` (`@chhddavid`); tweet ID: `2100537116635672690`.
+- Already Existed: no — initial content-aware raw/article scan found no occurrence of tweet ID `2100537116635672690`; no duplicate source mapping was present.
+- Restrictions honored: local disk only; no Bird/API calls, X calls, web fetches, URL resolution, or `x-twitter-to-wiki` loading.
+- Classification: substantive local X Article; the complete `22600`-byte export describes research across 30,600 iOS apps plus market validation, a 7–14-day build boundary, Shipper context handoff, onboarding/paywall experimentation, short-form distribution tiers, creator scaling, and organic-to-paid funnel diagnosis.
+- Raw: new `/Users/mali/wiki/raw/articles/xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690.md`; source bytes preserved byte-for-byte below a real-newline wrapper; sha256(source_bytes): `a2da7935ff9adc5958bc01044be2aeaa5c2529eba36fa4975f17c269356be6ac`.
+- Entity Created: `[[chhddavid]]`.
+- Concepts Updated: `[[mobile-app-organic-virality]]` and `[[ios-app-mrr-guide]]`; no duplicate per-article concept was created.
+- Technical preservation: retained named Claude Code, Shipper, Cal AI, Steve Hoyek, Journable, TikTok, Instagram, and App Store contexts; the 5–10-app research/screenshot handoff; onboarding, monetization, and core-loop release scope; Tier 0–5 funnel; 50/100/200-creative learning interval; small-creator selection; and organic-before-paid creative amplification. Revenue, experiment, funnel, and platform-performance figures remain explicitly source-described.
+- Index: added `[[chhddavid]]`; refreshed existing concept sources/content; current live filesystem-derived typed-page count is `1188` and matches `index.md`.
+- AST check: `ast.parse` of `/Users/mali/scripts/wiki-lint.py` passed before writes.
+- Raw verification: outer wrapper uses real newline bytes; source-payload equality and payload-only SHA-256 `a2da7935ff9adc5958bc01044be2aeaa5c2529eba36fa4975f17c269356be6ac` passed; nested source frontmatter and trailing-newline state were preserved.
+- Final verification: source slug `xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690` is ALREADY; exact raw wrapper/payload, both touched concept/entity `sources:` frontmatter arrays, resolving wikilinks, one index entry, standalone index sections, and one exact ingest heading were parent-checked.
+- Lint: parent final reconciliation: required `ast.parse` passed; fresh `python3 /Users/mali/scripts/wiki-lint.py /Users/mali/wiki` exited `0` with `12` unrelated global issues (7 orphans, 3 broken wikilinks, the expected `log.md` no-frontmatter warning, and 1 consistency issue); 0 tag issues; touched raw/entity/concept/index/log files clean; global wiki lint remains non-zero with unrelated pre-existing issues.
+
 ## [2026-08-10] ingest | xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984
 - FILE: `/Users/mali/Development/x-bookmarks/data/run-2026-08-09/2026-08-09/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md`; run: `run-2026-08-09`; author metadata: `Chris` (`@everestchris6`); tweet ID: `2086455451429060984`.
 - Already Existed: no — initial content-aware duplicate search found no occurrence of tweet ID `2086455451429060984` across durable wiki Markdown; the raw destination was absent.

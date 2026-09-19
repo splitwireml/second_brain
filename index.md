@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-08-10 | Total pages: 1187
+> Last updated: 2026-09-19 | Total pages: 1188
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -105,6 +105,7 @@
 [[ceo-vlad]] — CEO Vlad (@CEO_Vlad), X creator documenting AI podcast-style ecommerce ads, Claude-assisted hooks, and high-volume creative testing.
 [[chatterbox]] — title: Chatterbox
 [[chewadot]] — X creator publishing operator-style Claude + Obsidian essays focused on self-filing vaults, raw-note immutability, and graph-building workflows.
+[[chhddavid]] — David Ch (@chhddavid), X article author documenting a source-described 30,600-app iOS research, onboarding, creative-testing, and funnel-scaling framework.
 [[cjzafir]] — title: "CJ Zafir"
 [[claude]] — Claude entity with source-linked Fable 5 advertorial, faceless story-channel, and loop-design workflows.
 [[claude-code]] — Anthropic coding agent with model/effort routing, `/loops`, and a source-described Higgsfield/ffmpeg AI UGC production workflow.

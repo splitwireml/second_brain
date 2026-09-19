@@ -1,10 +1,10 @@
 ---
 title: Mobile App Organic Virality
 created: 2026-07-10
-updated: 2026-07-21
+updated: 2026-09-19
 type: concept
 tags: [mobile-apps, viral-marketing, virality, user-acquisition, instagram]
-sources: [raw/articles/xarticle-how-i-marketed-my-screen-time-app-to-1000000-with--2074524268285538350.md, raw/articles/xarticle-how-to-turn-a-boring-study-app-into-5m-with-one-ma-2074823642798563727.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md]
+sources: [raw/articles/xarticle-how-i-marketed-my-screen-time-app-to-1000000-with--2074524268285538350.md, raw/articles/xarticle-how-to-turn-a-boring-study-app-into-5m-with-one-ma-2074823642798563727.md, raw/articles/xarticle-how-to-promote-your-app-on-reddit-2079081162014904353.md, raw/articles/xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690.md]
 related_entity: [[pushscroll]]
 ---
 
@@ -49,3 +49,15 @@ This is adjacent to the visual novelty and short-form loops above rather than a 
 - **Confirmed from raw source:** the article text and tweet metadata were preserved locally.
 - **Source-claimed:** $1M+ proceeds, 28M push-ups, 200k-user videos, install/comment outcomes, and competitor revenue examples.
 - **Open question:** whether the playbook generalizes beyond visual consumer apps with novelty hooks and a clear habit-change promise.
+## iOS research-to-funnel variant
+
+David Ch’s source supplies a detailed 2026 iOS operator sequence rather than a generic “make viral videos” rule. First, choose a proven consumer problem—examples named are weight loss, appearance, screen-time addiction, relationships, sleep, quitting an addiction, food tracking, and strength—and use competitors’ revenue, customer complaints, and acquisition channels as evidence. Before building, test whether the product can be understood in a seven-second TikTok demonstration or produces a naturally shareable result; the Cal AI food-photo calorie-tracking and Steve Hoyek’s Journable simplicity examples are source-described, including their reported revenue.^[raw/articles/xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690.md]
+
+For the first version, the stated target is 7 days (or 14 when genuinely necessary) and only three components: onboarding, monetization, and the core app loop. The source names Claude Code and Shipper as tools that lower implementation friction, but explicitly separates that from product judgment: download 5–10 category leaders; run the full customer journey; screenshot onboarding, paywall, home screen, core feature, results, and notable interactions; identify why each decision exists; decide the differentiated behavior; then hand Shipper the plan, screenshots, visual references, opening action, follow-on action, and desired feel. A generic “build me a fitness app” prompt is presented as insufficient context. The article's tool-effectiveness claim is source-described.^[raw/articles/xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690.md]
+
+The distribution loop begins before App Store approval: inspect competitor TikTok and Instagram accounts, creators, ads, high-performing assets, hooks, first frames, time-to-app appearance, demonstrations, and CTAs. Its diagnostic hierarchy is Tier 0 low views; Tier 1 views; Tier 2 views plus engagement; Tier 3 adds downloads; Tier 4 adds conversions; Tier 5 adds low churn. The recommended response is stage-specific: fix hook/scroll stopping at Tier 0, do not count engagement as success before downstream movement, fix onboarding/paywall/product when downloads fail to pay, and scale only once the funnel connects. These tiers are a source-authored framework, not platform measurement guidance.^[raw/articles/xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690.md]
+
+For creative scale, retain a format once it repeatedly produces downloads: vary the story, opening, person, example, and visual while preserving the underlying format. The source says 10 videos reveal little whereas 50, 100, or 200 can reveal patterns; it proposes selecting smaller creators by demonstrated hook/camera/communication skill rather than follower count, furnishing them winning videos, competitor examples, hooks, screen recordings, and download-producing angles, and multiplying creator×creative combinations. Its 8,000-follower/500k-view versus 300,000-follower comparison is illustrative and source-described.^[raw/articles/xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690.md]
+
+Paid acquisition follows organic evidence, not three arbitrary ads: after roughly 100 pieces of content, take concepts that drove most downloads and make hook/creator/opening/demo variants. The article's example funnel is $1,000 for 500 installs, 50 trials, and 20 payments; it uses this to show how creative, App Store conversion, onboarding, paywall, and retention multiply through business economics. This is an illustrative model; costs, conversion rates, and revenue outcomes are not verified or generalizable from the local source.^[raw/articles/xarticle-i-manually-studied-30600-ios-apps-making-20k-100km-2100537116635672690.md]
+
