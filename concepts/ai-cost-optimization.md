@@ -1,10 +1,10 @@
 ---
 title: AI Cost Optimization
 created: 2026-04-12
-updated: 2026-07-15
+updated: 2026-09-22
 type: concept
 tags: [tools, monetization, optimization]
-sources: [raw/articles/noisyb0y1-ai-cost-optimization-2026-04-10.md, raw/articles/thread-VaibhavSisinty-2071243569814491579.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md]
+sources: [raw/articles/noisyb0y1-ai-cost-optimization-2026-04-10.md, raw/articles/thread-VaibhavSisinty-2071243569814491579.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md, raw/articles/sydney-runkle-x-article-2100754364545761643.md]
 ---
 
 # AI Cost Optimization
@@ -42,6 +42,10 @@ A newer cost lever is to move routine preprocessing off the frontier model entir
 - a larger local fallback handles degraded-mode operational work during outages or rate limits
 
 This does not eliminate cloud usage. It preserves cloud budget for the tasks that actually need frontier reasoning.
+
+### Typed Decision Sidecars
+
+[[jev]] supplies a hosted alternative for narrow decision work: submit a shared state plus typed questions, then reserve the generative LLM for tasks requiring open-ended reasoning. The source's proposed uses are model routing and pre-tool-call risk gating; LangChain documents `TypeSafeClassifier` for routing, model choice, and safe-tool decisions. The source/company's up-to-200× speed and 400× lower-cost figures are not independently benchmarked here, so the economic case remains workload-specific. [[system-one-models]] captures the architecture. ^[raw/articles/sydney-runkle-x-article-2100754364545761643.md]
 
 ### Provider Router + Prompt Compression
 

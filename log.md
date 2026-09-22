@@ -4010,3 +4010,11 @@ ed pre-existing issues.
 - Query: list video-making and video-editing tools represented in the wiki that AI agents can use.
 - Result: no query page filed; returned a scoped inventory from existing entity, concept, and comparison pages. Inventory counts: 11 agent-native/agent-operable or explicitly proposed tools, 6 indirect generation/production backends, and 9 manual editors/helpers with no direct agent-control evidence.
 - Verification: oriented with `SCHEMA.md`, `index.md`, and the recent log; every listed source page path exists; no external research was used.
+
+
+## [2026-09-22] ingest | sydney-runkle-x-article-2100754364545761643
+- Source: “Building a Harness with Jev” by Sydney Runkle (@sydneyrunkle), published 2026-09-18; exact X text preserved in `raw/articles/sydney-runkle-x-article-2100754364545761643.md` (8,435 chars; SHA-256 `4a237a289ed5fe31ab7c9f4f9c257def6c19ddc705a1fc1109c8ff39b5e0b03a`).
+- Entities created: [[jev]] and [[sydney-runkle]]. Concept created: [[system-one-models]]. Existing [[model-agnostic-agent-harness]] and [[ai-cost-optimization]] now cover typed decision sidecars.
+- Evidence: TypeSafe and LangChain documentation confirm the typed-question/API integration; the article/company's 200× speed and 400× cost claims remain explicitly unbenchmarked.
+- Index: updated to 1191 typed pages.
+- Lint: touched files clean; global lint reports 12 unrelated pre-existing issues (7 orphans, 3 broken links, log.md frontmatter warning, 1 unrelated author-format inconsistency); 0 tag issues.

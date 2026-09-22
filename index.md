@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-19 | Total pages: 1188
+> Last updated: 2026-09-22 | Total pages: 1191
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -254,6 +254,7 @@
 [[jacob-klug]] — Jacob Klug (@Jacobsklug), X article author documenting spec-driven autonomous coding loops with verifiers, trackers, and parallel runs.
 [[JayaGup10]] — title: JayaGup10
 [[jayanth]] — title: Jayanth
+[[jev]] — TypeSafe AI System One model for typed, calibrated agent decisions rather than text generation.
 [[jeyxbt]] — Jey — X creator focused on file-based Claude memory, identity files, and Obsidian second-brain workflows.
 [[john-virality]] — X creator mapping AI-generated UGC virality mechanics and repeatable short-form AI video formats.
 [[jordy]] — title: jordy
@@ -466,6 +467,7 @@
 [[success-metric]] — pre-committed outcome contract spanning product metrics and finishable work units that turn long goals into evidence, results, and next decisions.
 [[supertone]] — title: Supertone
 [[suryansh-tiwari]] — title: Suryansh Tiwari
+[[sydney-runkle]] — X Article author of “Building a Harness with Jev,” covering typed decision sidecars for LangChain agents.
 [[t3mp3st]] — open-source offensive-security harness that wraps coding agents with recon, exploit, audit, CTF, and reporting workflows for authorized testing.
 [[techwith_ram]] — title: "𝗿𝗮𝗺𝗮𝗸𝗿𝘂𝘀𝘩𝗻𝗮— 𝗲/𝗮𝗰𝗰"
 [[teddy-riker]] — title: "teddy-riker"
@@ -535,7 +537,6 @@
 [[ziwen]] — Ziwen (@ziwenxu_), X creator covering AI-agent workflows, knowledge-management systems, productivity automation, and recurring export-failed link-post provenance.
 [[zodchiii]] — X creator who amplified a Shopify engineering quote about replacing prompt polishing with loop design.
 [[zostaff]] — title: zostaff
-
 ## Concepts
 <!-- Topics, methods, frameworks -->
 [[1-bit-bonsai-bitnet-fine-tuning]] — title: 1-bit Bonsai & BitNet b1.58 Fine-Tuning on RTX 40 Series
@@ -704,6 +705,7 @@
 [[software-factory-with-claude-code]] — Role-separated Claude Code software-factory pattern extended with queue-first execution, isolated worktrees, write-permission boundaries, fail-closed gates, and self-updating project memory.
 [[solo-ai-agency-operating-model]] — one-person AI agency model built around productized retainers, AI production, human QA, and reusable delivery systems.
 [[storm-multi-perspective-research]] — Fixed-lens research workflow: five perspectives, contradiction mapping, and adversarial citation verification for decision-ready briefings.
+[[system-one-models]] — Non-generative typed decision models used alongside LLMs for routing, triage, and tool-risk gates.
 [[topical-authority-seo]] — topical-coverage SEO framework extended with a concrete broken-link replacement loop.
 [[training]] — LLM training from pretraining through fine-tuning and reinforcement learning, with held-out evaluation.
 [[ui-design]] — UI design principles and practical AI-assisted resource stack spanning design skills, component libraries, and UX heuristics.
@@ -714,7 +716,6 @@
 [[viv-deep-agents-evals]] — Evaluation patterns for deep/compound agents, including separate grading of final outcome and tool-call trajectory.
 [[x-organic-b2b-sales]] — X/Twitter content-to-inbound framework now extended with founder post formats: build logs, failures, value posts, receipts, contrast hooks, and milestone chapters.
 [[xarticle-httpstcooyx7sflxbj-2074526361159626959]] — Export-failure placeholder for a Shubham Saboo X article whose local bookmark export retained only metadata and a t.co shortlink.
-
 ## Comparisons
 
 

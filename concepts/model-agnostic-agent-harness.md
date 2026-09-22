@@ -1,10 +1,10 @@
 ---
 title: Model-Agnostic Agent Harness
 created: 2026-07-08
-updated: 2026-07-16
+updated: 2026-09-22
 type: concept
 tags: [agent, workflow, orchestration, claude-code, ai-agent, tools]
-sources: [raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-you-have-a-few-days-to-clone-fable-5-into-opus-48-2074198124898181121.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
+sources: [raw/articles/xarticle-how-i-get-frontier-results-from-any-model-the-harn-2074195371920666718.md, raw/articles/xarticle-you-have-a-few-days-to-clone-fable-5-into-opus-48-2074198124898181121.md, raw/articles/xarticle-how-to-become-an-applied-ai-engineer-2074519552277336571.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md, raw/articles/thread-alex_prompter-2076727080402948561.md, raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md, raw/articles/sydney-runkle-x-article-2100754364545761643.md]
 related_entity: [[phosphenq]]
 ---
 
@@ -45,6 +45,10 @@ The case also makes model agnosticism operational rather than rhetorical: route 
 The local skill-engineering article makes skills a concrete harness layer. [[impeccable]] is presented as a case where the skill supplies adversarial review, forced divergence, internal routing, persistent snapshots, scripts that emit just-in-time instructions, passive hooks, browser events, and per-harness builds rather than relying on prose alone. These are source-described techniques, not independently tested claims.^[raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
 
 This sharpens the five-layer model: skills are part of context and memory, but their scripts, hooks, and routing also shape the loop, tools, and checks. The portability test is behavioral—compile the same skill for each harness and model, then verify that the gates still fire and the result remains acceptable.^[raw/articles/xarticle-the-dark-arts-of-skill-engineering-2077114326985687525.md]
+
+## Fast decision sidecars
+
+Sydney Runkle's Jev article adds a narrower component to the five-layer harness: a typed-decision sidecar that receives existing agent state plus named questions, then returns Choice, Score, or Noul probabilities rather than text. The practical placements are model routing and pre-execution tool-risk gating, while open-ended reasoning and generation stay with an LLM. TypeSafe and LangChain document the decision-oriented interface; the source's 200× speed and 400× cost claims remain unbenchmarked here. See [[system-one-models]] and [[jev]].^[raw/articles/sydney-runkle-x-article-2100754364545761643.md]
 
 ## Safety and economics
 
