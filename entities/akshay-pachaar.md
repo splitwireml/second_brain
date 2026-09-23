@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-06-14
 type: entity
 tags: [person, content-creator, x-creator]
-sources: [raw/articles/akshay-pachaar-wiki-vs-graph-falkordb-2026-04-23.md, raw/articles/thread-akshay-pachaar-2049916107923034300-2026-04-30.md, raw/articles/xarticle-httpstcovw9eyoiy4z-2058976178908885210.md]
+sources: [raw/articles/akshay-pachaar-wiki-vs-graph-falkordb-2026-04-23.md, raw/articles/thread-akshay-pachaar-2049916107923034300-2026-04-30.md, raw/articles/xarticle-httpstcovw9eyoiy4z-2058976178908885210.md, raw/articles/xarticle-build-a-jev-judge-2102087107410002345.md]
 ---
 
 ## Overview
@@ -30,3 +30,11 @@ A later bookmarked X article from Akshay failed to export, so the wiki stores it
 
 X creator (@akshay_pachaar); posts about LLMs, AI Agents, and Machine Learning.
 - [You're doing RAG wrong](https://x.com/i/status/2052743644411765230) (May 8, 2026) — 344 likes, 34 RTs
+
+## 2026-09-22: Jev-as-a-judge
+
+Akshay's local X Article “Build a Jev Judge” describes a post-run refund-support evaluator: [[jev]] makes bounded semantic judgments over request, policy, tool-result, and final-answer state; [[opik]] remains the surrounding experiment/observability layer. The source separates deterministic checks such as `issue_refund` success from semantic checking of whether the answer falsely claims completion, and keeps pre-execution enforcement outside this tutorial's scope.^[raw/articles/xarticle-build-a-jev-judge-2102087107410002345.md]
+
+- [[jev]]
+- [[opik]]
+- [[eval-engineering]]

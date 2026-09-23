@@ -1,10 +1,10 @@
 ---
 title: ColdIQ
 created: 2026-04-14
-updated: 2026-08-03
+updated: 2026-09-22
 type: entity
 tags: [agency, b2b, marketing, outbound, seo]
-sources: [raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md]
+sources: [raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md]
 ---
 
 # ColdIQ
@@ -41,6 +41,10 @@ The new source adds a source-described ColdIQ operating pattern: attach a Linked
 The source's proprietary-signal examples are operational rather than vendor-catalog abstractions: merge the team's spam folders into a target list through [[lemlist]]; watch for target decision makers connecting with competitor reps; notice sudden Meta ad-budget or web-traffic spikes; and identify missing DMARC. ColdIQ's described signal-discovery method is to call the last 20 customers, read sales-call transcripts for repeated sentences, and target a public data point when seven of ten prospects name the same trigger. Michel says the spam pattern became one of ColdIQ's targeting rules after AI-post engagement and booked-call evidence pointed to different problems.^[raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md]
 
 The source also describes GTM engineers prompting an entire campaign build, leaving for breakfast, and returning about 30 minutes later to review a finished draft with the list uploaded and every touchpoint placed. It reports that around 1,500 companies already run Lemlist through Claude each month. These are source-described workflow and adoption claims; the source does not specify the prompt, model version, API schema, uploaded-list format, or touchpoint configuration.^[raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md]
+
+## 2026-09-22 Terminal GTM Stack
+
+Michel Lieben's local article says ColdIQ's terminal-oriented system organizes 28 APIs into data, intent, outreach, automation, infrastructure, sales, SEO/AEO, and affiliation layers. Its claimed capacity shift is three to ten clients per GTM engineer on the way to $7M ARR; it names Claude Code as the agent that reads local configuration, calls APIs, and writes each result to a shared Supabase leads table before the next step. The exact catalog, keys/MCP setup, waterfall, SQL table, prompts, scheduled monitor, pricing, volume, and performance figures are source-described and unverified; [[api-led-gtm]] preserves them without treating the vendor claims as benchmarks.^[raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md]
 
 ## Relationship to [[programmatic-seo]]
 

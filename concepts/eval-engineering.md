@@ -4,7 +4,7 @@ created: 2026-08-03
 updated: 2026-08-03
 type: concept
 tags: [ai-agent, evaluation, benchmark, testing, reliability, workflow]
-sources: [raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md]
+sources: [raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md, raw/articles/xarticle-build-a-jev-judge-2102087107410002345.md]
 related_entity: [[hanako]]
 ---
 
@@ -78,3 +78,13 @@ Within an open lane, read evidence in order: deterministic tests, types, schema 
 - [[goal-primitive]]
 - [[human-in-the-loop]]
 - [[model-agnostic-agent-harness]]
+
+## Typed post-run judge with an experiment layer
+
+A Jev-as-a-judge tutorial adds a distinct evaluation arrangement: frozen traces make the customer request, policy, tool calls/results, and final answer available as evidence; exact conditions stay in code, [[jev]] answers narrow semantic rubric questions, human review handles uncertainty/consequential disagreement, and [[opik]] records datasets, experiments, traces, and feedback. The source uses ten synthetic runs so response regeneration does not confound a behavior-evaluation comparison; some cases fabricate return windows, claim actions that did not occur, ignore questions, or try to manipulate the evaluator.^[raw/articles/xarticle-build-a-jev-judge-2102087107410002345.md]
+
+The metric must fail closed: the client validates the response, authentication failures are not retried, and invalid/missing evaluation is reported as failure rather than a clean score. For production, the source says to validate thresholds against representative traces labeled by domain reviewers, measure missed failures, retain deterministic checks for exact rules, inspect uncertain and sampled confident cases, and keep pre-execution controls on a separate enforcement path. This complements this page's trace-derived-test and observable-rubric rules; it is not evidence that a typed judge alone is sufficient for high-consequence actions.^[raw/articles/xarticle-build-a-jev-judge-2102087107410002345.md]
+
+- [[jev]]
+- [[opik]]
+- [[system-one-models]]

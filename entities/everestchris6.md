@@ -1,10 +1,10 @@
 ---
 title: Chris (@everestchris6)
 created: 2026-08-10
-updated: 2026-08-10
+updated: 2026-09-22
 type: entity
 tags: [person, x-creator, content-creator, x-article, business-models, ai-agent, automation, marketing]
-sources: [raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+sources: [raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md, raw/articles/xarticle-httpstcoitksvhrivm-2101697429192286312.md]
 ---
 
 # Chris (@everestchris6)
@@ -23,6 +23,10 @@ Chris (`@everestchris6`) is an X Article author documenting a source-described R
 ## Evidence boundary
 
 The source claims a Reddit-only marketing path, approximately `$1,000/day` results, large view/upvote totals, and an account that was eventually permanently banned. These are source claims. The local export does not establish a repeatable revenue rate, platform guarantee, safe account-transfer method, or reliable automated-posting configuration. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+## Export-failed link-post provenance
+
+A local `x_article` export from the exact `@everestchris6` account, dated 2026-09-20 (tweet ID `2101697429192286312`), retained `character_count: 23`, 34 reposts, 311 likes, the Bird failure marker, and only a shortened URL. The local source does not recover a destination, body, topic, product, workflow, or technical detail, so none is inferred. ^[raw/articles/xarticle-httpstcoitksvhrivm-2101697429192286312.md]
 
 ## Related
 

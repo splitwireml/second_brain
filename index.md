@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-22 | Total pages: 1191
+> Last updated: 2026-09-22 | Total pages: 1196
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -161,6 +161,7 @@
 [[dokploy]] — title: Dokploy
 [[dra]] — Dra (@draprints), X creator/operator documenting funding-triggered LinkedIn and email outbound systems for B2B businesses.
 [[dspy]] — title: DSPy
+[[dsqjaffa]] — jaffa (@dsqjaffa), author of a source-described Jev + Virlo content-research and short-form scripting workflow.
 [[ecom-amin]] — Amin (@eCom_Amin), an e-commerce operator documenting AI advertorial workflows for Google Ads.
 [[ecomrads-mcp]] — source-described MCP connector for Claude-driven video generation; availability and routing unverified.
 [[eden]] — source-described creator research and semantic knowledge-library platform by Dan Koe.
@@ -305,6 +306,7 @@
 [[matt-van-horn]] — AI research synthesizer who turns cross-platform sweeps into operator playbooks on loops, prompting, and memory discipline.
 [[mattepstein]] — Matt Epstein, X creator documenting AI-assisted product-launch systems, now also represented by an export-failed bare-URL link-post provenance record.
 [[matthew-berman]] — title: Matthew Berman
+[[matthewcanham]] — Matt Canham (@matthewcanham), X author of a source-described Jev explainer covering typed decision contracts, examples, and evidence limits.
 [[maverick-creative]] — title: Maverick Creative
 [[max-torchbearer]] — Max (@MaxTorchbearer), author of a source-described finishable-work method for restoring motivation by turning distant goals into bounded tests, evidence, and next decisions.
 [[maxfusion-ai]] — MaxFusion AI, an AI advertising/video-production platform with a source-described MCP execution layer.
@@ -369,6 +371,7 @@
 [[openai-codex-plugin-cc]] — title: openai/codex-plugin-cc
 [[openclaw]] — title: OpenClaw
 [[openrouter]] — title: OpenRouter
+[[opik]] — Open-source experiment and observability layer used in a source-described Jev-as-a-judge evaluation workflow.
 [[ori-silver]] — X article author documenting a source-described static-to-animated advertising workflow through MaxFusion AI.
 [[paolo-scales]] — Paolo Trivellato — creator focused on LinkedIn inbound funnel systems for B2B services.
 [[paper-design]] — title: Paper.design
@@ -507,6 +510,7 @@
 [[viktor]] — source-described AI employee that joins Slack or Microsoft Teams and runs gated five-lane business workflows through managed connectors and scheduled jobs.
 [[viktor-seraleev]] — title: Viktor Seraleev
 [[viktoroddy]] — title: Viktor Oddy
+[[virlo]] — Source-described short-form content-research platform with dashboard and MCP/API paths, Jev-backed Clearance, and 80-signal analysis claims.
 [[vllm]] — title: vLLM
 [[vmiss]] — title: vmiss
 [[void-model-mlx]] — title: "Void-Model-MLX"
@@ -537,6 +541,7 @@
 [[ziwen]] — Ziwen (@ziwenxu_), X creator covering AI-agent workflows, knowledge-management systems, productivity automation, and recurring export-failed link-post provenance.
 [[zodchiii]] — X creator who amplified a Shopify engineering quote about replacing prompt polishing with loop design.
 [[zostaff]] — title: zostaff
+
 ## Concepts
 <!-- Topics, methods, frameworks -->
 [[1-bit-bonsai-bitnet-fine-tuning]] — title: 1-bit Bonsai & BitNet b1.58 Fine-Tuning on RTX 40 Series
@@ -638,6 +643,7 @@
 [[code-first-launch-video-production]] — Launch-video production pattern using real product code, React/Remotion, Fable 5 loops, renders, and frame-level feedback.
 [[cold-email]] — B2B outbound email playbook covering qualification-first list reduction, multichannel trust, engagement signals, human writing, pattern interrupts, and feedback loops.
 [[company-brain]] — enterprise AI memory architecture for preserving organizational context, interaction, and action.
+[[content-research-agents]] — Content-research workflow: operator intake, Clearance, typed video decisions, ranked evidence, and adapted script handoff.
 [[contextual-value-positioning]] — source-described framework for recalibrating self-perception by changing environments, comparison groups, and visible standards.
 [[continual-learning-for-agents]] — Replit-style agent improvement loop using evals, production traces, A/B tests, and harness/context updates instead of weight updates.
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
@@ -716,6 +722,7 @@
 [[viv-deep-agents-evals]] — Evaluation patterns for deep/compound agents, including separate grading of final outcome and tool-call trajectory.
 [[x-organic-b2b-sales]] — X/Twitter content-to-inbound framework now extended with founder post formats: build logs, failures, value posts, receipts, contrast hooks, and milestone chapters.
 [[xarticle-httpstcooyx7sflxbj-2074526361159626959]] — Export-failure placeholder for a Shubham Saboo X article whose local bookmark export retained only metadata and a t.co shortlink.
+
 ## Comparisons
 
 
