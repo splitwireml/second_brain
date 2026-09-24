@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-22 | Total pages: 1196
+> Last updated: 2026-09-24 | Total pages: 1198
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -80,6 +80,7 @@
 [[bidah]] — title: bidah
 [[bin-liu]] — title: Bin Liu
 [[birefnet]] — title: BiRefNet
+[[biscuitweb3]] — Biscuit (@biscuitweb3): source-described project-first AI learning loop from paid-result selection through sample, offer, and feedback.
 [[bleap]] — title: Bleap
 [[bloggersarvesh]] — title: "Sarvesh Shrivastava"
 [[Bomx-qwoted-seo-backlinks-skill]] — title: qwoted-seo-backlinks-skill
@@ -541,7 +542,6 @@
 [[ziwen]] — Ziwen (@ziwenxu_), X creator covering AI-agent workflows, knowledge-management systems, productivity automation, and recurring export-failed link-post provenance.
 [[zodchiii]] — X creator who amplified a Shopify engineering quote about replacing prompt polishing with loop design.
 [[zostaff]] — title: zostaff
-
 ## Concepts
 <!-- Topics, methods, frameworks -->
 [[1-bit-bonsai-bitnet-fine-tuning]] — title: 1-bit Bonsai & BitNet b1.58 Fine-Tuning on RTX 40 Series
@@ -646,12 +646,13 @@
 [[content-research-agents]] — Content-research workflow: operator intake, Clearance, typed video decisions, ranked evidence, and adapted script handoff.
 [[contextual-value-positioning]] — source-described framework for recalibrating self-perception by changing environments, comparison groups, and visible standards.
 [[continual-learning-for-agents]] — Replit-style agent improvement loop using evals, production traces, A/B tests, and harness/context updates instead of weight updates.
+[[decision-work-and-doing-work]] — source-described task boundary: humans decide requirements and acceptance; the agent executes bounded operational work.
 [[design-workflow-claude]] — Claude-oriented design workflow using design-system references, DESIGN.md/templates, and a practical UI/UX resource shortlist.
 [[distribution]] — distribution systems spanning public writing, Reddit answer-first acquisition, short-form cadence, audience-led offer validation, coordinated launches, warm-network acquisition, and non-viral Instagram affiliate email loops.
 [[dormant-account-distribution-arbitrage]] — claimed strategy of buying aged dormant X accounts as pre-existing distribution infrastructure for faceless niche pages.
 [[ecommerce-funnel-training]] — Six-stage DTC subscription funnel with pain-point pages, listicle pre-sell variants, quiz capture, aggressive early nurture, and education-first retention.
 [[eval-engineering]] — evidence-driven agent gates covering judge bias, verdict-controlled runs, trajectory/component evals, trace-derived tests, and blast-radius rollout.
-[[execution-over-consumption]] — bounded learning, early shipping, and feedback loops as an antidote to passive research replacing work.
+[[execution-over-consumption]] — Project-first learning and market feedback loop, now including Biscuit's AI-guided seven-day sample-to-offer sequence and delegation boundary.
 [[faceless-content-system]] — faceless publishing and monetization system extended with analytics-led FacelessOS research-to-script loops.
 [[faceless-digital-product-portfolio]] — zack’s faceless low-ticket PDF/template portfolio model, now connected to a clarity-first X growth loop and asset-light operations.
 [[faceless-x-growth-loop]] — X-specific faceless growth loop: unresolved conversation → saveable utility → insight replies → audience-described pain → product.

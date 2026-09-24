@@ -4,7 +4,7 @@ created: 2026-07-02
 updated: 2026-08-08
 type: concept
 tags: [agent, workflow, prompting, evaluation]
-sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
+sources: [raw/articles/xarticle-human-in-the-loop-2072003526755266744.md, raw/articles/xarticle-own-the-outer-loop-2074927530482835916.md, raw/articles/thread-NVIDIAAI-2077061428998013279.md, raw/articles/xarticle-how-id-make-10-million-with-ai-agents-2076733920834371585.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-eval-engineering-build-the-gate-that-lets-your-age-2083540339147567268.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md, raw/articles/xarticle-gpt-6-astra-has-completely-changed-the-way-i-run-m-2102753461796262232.md]
 related_entity: [[alex-prompter]]
 ---
 
@@ -71,6 +71,13 @@ That pattern keeps human judgment where it adds the most value and removes it fr
 Nazar's software-factory gate moves the human checkpoint from every tool call to policy and evidence. The source's agent profile auto-merges only `**/*.md`, `**/*.txt`, and `docs/**`, with `max_files: 5`, `max_lines: 150`, and `require_ci: true`; it keeps `.github/**`, `**/*auth*`, `**/*secret*`, `**/.env*`, `**/migrations/**`, `**/*.tf`, and `**/package-lock.json` protected for human review. A missing policy file fails closed. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
 
 The source describes earned autonomy as an optional ledger that can widen an author's allowlist after merged work survives, but never open protected paths. It recommends a verdict demo and a non-mutating dry-run, and names shell downloads, credential literals (`sk-live-`, `ghp_`, `AKIA`), disabled certificate checks, `permissions: write-all`, `DROP TABLE`, and concatenated secrets as risky patterns. These are source-described controls; no policy implementation or independent false-positive rate is provided. ^[raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md]
+## Deciding before doing (Dickie Bush, 2026-09-24)
+
+Dickie Bush's Astra article gives a business-operations variant of the control boundary: split a project into **Decision Work** (choose outcome, requirements, required questions, offer/content/brand choices, and final review) and **Doing Work** (enter choices into tools, configure branding and routing, test paths, copy an embed, paste it into HTML, upload/schedule/format, typo-check, create graphics, and distribute). The human supplies a sufficiently concrete first pass, reviews the proposed build order and V1, resolves consequential questions, iterates in plain English, and accepts only after an end-to-end test; the agent is assigned the routine middle. ^[raw/articles/xarticle-gpt-6-astra-has-completely-changed-the-way-i-run-m-2102753461796262232.md]
+
+For the cited Vortex build, the source reports browser/MCP access to eight systems, a working V1 after about 15 minutes versus a self-estimated 3–4 hours manually, subsequent offer/brand/form changes, and an application → Calendly → Airtable → Slack test. These are source-described performance and reliability claims, not independently reproduced. The source specifies neither authorization boundaries, secrets handling, connector schemas, failure recovery, nor test fixtures, so it should not be read as a deployment-safety recipe. [[decision-work-and-doing-work]] separates this task classification from the broader loop controls in [[loop-engineering]]. ^[raw/articles/xarticle-gpt-6-astra-has-completely-changed-the-way-i-run-m-2102753461796262232.md]
+
+
 ## Related
 
 - [[alex-prompter]]

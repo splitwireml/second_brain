@@ -1,10 +1,10 @@
 ---
 title: Viktor
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-09-24
 type: entity
 tags: [product, ai-agent, ai-tools, ai-business, workflow, platform]
-sources: [raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+sources: [raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md, raw/articles/xarticle-how-to-automate-seo-with-opus-55-full-course-2102758425386172842.md]
 ---
 
 # Viktor
@@ -24,6 +24,10 @@ The five briefs are:
 - **Ads:** summarize the offer in two lines, propose a test plan with 2 specific audiences, 2 skeptical-of-AI ad angles per audience, and a split of the daily cap; after approval, build the campaign with everything PAUSED, and never go live without explicit go.
 
 The source claims that $100 in free credits at viktor.com covers the whole five-lane build without a card; this remains a promotional claim. ^[raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+
+## SEO/AEO operating route (Machina, 2026-09-23)
+
+Machina's later source describes a separate SEO route for Viktor: it lives in Slack so the team can see and join the work, connects Google Search Console, DataForSEO, optional Ahrefs, WordPress or Webflow, and PostHog, and is said to handle the login setup without webhooks or Zapier chains. The recurring natural-language brief is: every Monday, compare last week's search performance with signups per landing page, return the one page worth attention, and attach a link behind every reason. These connector, interface, and $100-credit claims are source-described and unverified; no connector configuration, permissions, API schema, or run transcript is supplied.^[raw/articles/xarticle-how-to-automate-seo-with-opus-55-full-course-2102758425386172842.md]
 
 ## Related
 

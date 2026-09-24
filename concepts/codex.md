@@ -4,7 +4,7 @@ created: 2026-05-31
 updated: 2026-07-28
 type: entity
 tags: [llm, model, code-generation, coding, openai]
-sources: [raw/articles/xarticle-how-i-build-apps-with-codex-without-opening-xcode-2040132557983936772.md, raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
+sources: [raw/articles/xarticle-how-i-build-apps-with-codex-without-opening-xcode-2040132557983936772.md, raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md, raw/articles/xarticle-gpt-6-astra-has-completely-changed-the-way-i-run-m-2102753461796262232.md]
 related_entity: [[openai]]
 ---
 
@@ -23,6 +23,13 @@ The article keeps one model family and routes work by reasoning effort: **GPT-5.
 The coordinator assigns substantive work, avoids duplicate investigations, and tracks agent activity. Scouts can investigate in parallel, workers can share implementation when responsibilities are clear, and agents can message one another through a common messaging system with separate inboxes. Concurrency is configurable per thread and defaults to **four agents including the coordinator**. The source does not specify the messaging protocol, inbox storage, scheduler, or API surface.^[raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
 
 Forked conversation history carries the broader goal and earlier decisions; `fork_turns: "none"` starts a fresh, focused assignment. Fresh-context agents can still contact teammates but do not inherit task-specific tool or safety boundaries. The source's leaf-worker boundary is: `Complete this assignment directly. Do not spawn other agents; your parent's delegation instructions apply only to your parent.` Its coordinator skill uses `reasoning_effort: "low"` for focused read-only scouts, `"medium"` for routine implementation, and `"high"` for harder problems; it requires clear ownership, non-overlapping assignments, no delegation by leaf workers, result synthesis, and keeping approvals with the user.^[raw/articles/xarticle-practical-multi-agent-orchestration-in-codex-2080707291603407077.md]
+
+## Astra computer-use workflow (2026-09-24)
+
+A Dickie Bush local X Article presents **GPT-6 Astra in Codex/ChatGPT desktop** as a source-described computer-use harness rather than a CLI-only coding flow. The article quotes a claimed 1.9× Mind2Web task-completion speedup against GPT-5.6 Sol and claims browser/form, CRM, calendar, research/email/document, scientific-data/plot, website/frontend-QA, software-install/test, and on-screen-troubleshooting coverage; it reports no reproducible configuration, benchmark protocol, permission model, auth scope, connector contract, or independent verification. ^[raw/articles/xarticle-gpt-6-astra-has-completely-changed-the-way-i-run-m-2102753461796262232.md]
+
+The source's concrete access matrix is browser login for Typeform, Namecheap, Calendly, and Zapier, versus MCP login for Airtable, GitHub, Vercel, and Slack. It describes a rough desired outcome and build-order review, then autonomous execution interrupted only for consequential decisions, iterative plain-English changes, full cross-tool testing, and a final bullet summary. This is a source-specific instance of [[decision-work-and-doing-work]], [[human-in-the-loop]], and [[loop-engineering]]; it does not establish that the named integrations, completion timings, or first-try results generalize. ^[raw/articles/xarticle-gpt-6-astra-has-completely-changed-the-way-i-run-m-2102753461796262232.md]
+
 
 ## Related
 
