@@ -1,10 +1,10 @@
 ---
 title: Chris (@everestchris6)
 created: 2026-08-10
-updated: 2026-09-22
+updated: 2026-09-29
 type: entity
 tags: [person, x-creator, content-creator, x-article, business-models, ai-agent, automation, marketing]
-sources: [raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md, raw/articles/xarticle-httpstcoitksvhrivm-2101697429192286312.md]
+sources: [raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md, raw/articles/xarticle-httpstcoitksvhrivm-2101697429192286312.md, raw/articles/xarticle-how-to-run-an-ai-video-agency-full-guide-2104231799090217078.md]
 ---
 
 # Chris (@everestchris6)
@@ -27,6 +27,10 @@ The source claims a Reddit-only marketing path, approximately `$1,000/day` resul
 ## Export-failed link-post provenance
 
 A local `x_article` export from the exact `@everestchris6` account, dated 2026-09-20 (tweet ID `2101697429192286312`), retained `character_count: 23`, 34 reposts, 311 likes, the Bird failure marker, and only a shortened URL. The local source does not recover a destination, body, topic, product, workflow, or technical detail, so none is inferred. ^[raw/articles/xarticle-httpstcoitksvhrivm-2101697429192286312.md]
+
+## Local video-agency guide (Chris, 2026-09-27)
+
+Chris also describes a source-specific AI-video agency path: start with roofing contractors, sell a tightly scoped video from client-approved footage, and use [[hermes-agent]] only after the delivery loop works for one client. The claimed model/tool stack, pricing observations, production procedure, and outcomes remain source-described rather than independently tested. The author frames the human approval between Telegram draft and client delivery as mandatory. ^[raw/articles/xarticle-how-to-run-an-ai-video-agency-full-guide-2104231799090217078.md]
 
 ## Related
 

@@ -1,10 +1,10 @@
 ---
 title: Claude Code
 created: 2026-04-20
-updated: 2026-08-10
+updated: 2026-09-29
 type: entity
 tags: [product, agent, coding]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md, raw/articles/xarticle-model-and-effort-in-claude-code-knowing-more-vs-tr-2074900291062034618.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md, raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md, raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md, raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-to-build-a-claude-agent-team-in-7-steps-from-s-2058475548242784649.md, raw/articles/xarticle-model-and-effort-in-claude-code-knowing-more-vs-tr-2074900291062034618.md, raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-the-engineering-loop-that-powers-1-of-builders-2076880438677946396.md, raw/articles/xarticle-35k-motion-website-playbook-higgsfield-claude-code-2067204840342630789.md, raw/articles/xarticle-build-agency-quality-10k-websites-with-claude-code-2079218516150862086.md, raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md, raw/articles/xarticle-no-bs-guide-to-ai-ugc-at-scale-2049286061105483868.md, raw/articles/xarticle-how-to-build-an-ai-ugc-factory-in-claude-code-2085362363214201033.md, raw/articles/xarticle-software-factory-how-to-turn-one-ai-into-a-product-2085276400580223275.md, raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md, raw/articles/xarticle-how-i-make-10k-launch-videos-for-0-with-opus-55-fu-2104446706741825818.md]
 ---
 
 # Claude Code
@@ -74,6 +74,11 @@ Nazar's source gives Claude Code a concrete isolation role inside a broader soft
 ## Reddit-offer landing-page variant
 
 Chris's local X Article assigns one narrow step to the Claude Code extension: in Cursor, load a skill file containing the landing-page stack and components, describe the page's purpose, and have the extension build the lander. The source says the rest of this workflow runs in Claude's web or desktop app and provides no model/version, command, API, skill-file contents, or build configuration. ^[raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+
+
+### Opus 5.5 HTML-motion studio (2026-09-29)^[raw/articles/xarticle-how-i-make-10k-launch-videos-for-0-with-opus-55-fu-2104446706741825818.md]
+
+zero (@twoclipping)'s source uses Claude Code with Opus 5.5 as a source-described code-motion studio: a local HTML `seek(t)` renderer, Playwright with Chromium frame capture, and ffmpeg assembly replace a timeline editor; the article requests a beat map and selected stills before full code, then uses timed SFX and frame-by-frame review. The course's “0 mcp”, “0 external tools”, $0/$10K, and quality claims are unverified; detailed prompts, `numpy`, `ffmpeg tmix`, `loudnorm -14 LUFS`, and source-specific caveats are retained in [[code-first-launch-video-production]]. ^[raw/articles/xarticle-how-i-make-10k-launch-videos-for-0-with-opus-55-fu-2104446706741825818.md]
 
 ## Related
 

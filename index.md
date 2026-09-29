@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-09-24 | Total pages: 1198
+> Last updated: 2026-09-29 | Total pages: 1199
 ## Entities
 <!-- People, programs, organizations, products, models -->
 [[0x-fokki]] — X creator documenting AI-native animation factories and viral short-form video research loops.
@@ -495,7 +495,8 @@
 [[trevin-chow]] — title: Trevin Chow
 [[triverra]] — source-provided AI travel companion brand represented by a constraint-dense full-viewport hero brief.
 [[trope]] — YC-launched startup/product used as the case study for a code-first launch-video workflow.
-[[trq212]] — title: "Thariq (trq212)"
+[[trq212]] — X creator documenting Claude Code effort routing: interview/spec, low/medium implementation, and high-effort verification.
+[[twoclipping]] — zero (@twoclipping), source-described author of an Opus 5.5 HTML-motion launch-video workflow.
 [[type-kshitij]] — Kshitij (Tjay) Dhyani, author of a source-described AI UGC persona-portfolio and TikTok distribution system.
 [[u2net-mlx]] — title: u2net-mlx
 [[unsloth]] — title: Unsloth
@@ -634,7 +635,7 @@
 [[broken-link-building]] — SEO outreach method that replaces dead linked resources after recovering their original link intent.
 [[character-consistent-ai-video-workflow]] — reference-first identity locking across image and video generation, including Grok Imagine character sheets, @-tagged references, and per-shot prompt sealing.
 [[chat-to-animated-ad-pipeline]] — conversational workflow that turns a short product intake into a chained, AI-generated animated ad through LLM orchestration and an MCP video platform.
-[[claude-code-model-effort]] — Claude Code routing rule: fix context first, use stronger models for knowledge/capability gaps, and raise effort for more reading, verification, and follow-through.
+[[claude-code-model-effort]] — Claude Code routing: context/model/effort distinction plus Thariq’s low/medium build and high-verification effort loop.
 [[claude-cowork-seo-advanced-audits]] — detailed on-page and page-level backlink-gap extensions to the Claude Cowork SEO system.
 [[claude-cowork-seo-system]] — source-reconciled Claude Cowork local-SEO system: context loading, 20-prompt stack, execution cadence, and evidence boundaries.
 [[claude-cowork-seo-system-prompt-library]] — operational prompt cards for the 20-prompt Claude Cowork local-SEO workflow.

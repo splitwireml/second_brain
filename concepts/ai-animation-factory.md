@@ -1,10 +1,10 @@
 ---
 title: AI Animation Factory
 created: 2026-06-11
-updated: 2026-08-04
+updated: 2026-09-29
 type: concept
 tags: [ai-ugc, video-generation, workflow, monetization, content-automation]
-sources: [raw/articles/xarticle-i-built-an-ai-animation-factory-that-runs-247-2063922946947575945.md, raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md]
+sources: [raw/articles/xarticle-i-built-an-ai-animation-factory-that-runs-247-2063922946947575945.md, raw/articles/xarticle-one-chat-one-finished-vox-style-animated-ad-zero-prompts-2074136751203868949.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md, raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
 related_entity: [[0x-fokki]]
 ---
 
@@ -49,3 +49,9 @@ This is a good example of AI-native media operations: the moat is not the prompt
 - [[claude]]
 - [[elevenlabs]]
 - [[content-strategy]]
+
+## Pixar-animation commercial-services branch (Pounds, 2026-09-27)
+
+A source-described branch treats polished “Pixar” AI animation as a sellable creative-service output rather than an autonomous factory. Pounds reports freelance ad creation / creative strategy at `$300-$500 per ad`, `3-5%` of ad spend for videos that run, and consulting on `SAAS + Creative teams`; he names `Omni`, `Seedance`, `Nano Banana Pro`, and `Claude` only as “Basic AI tools,” alongside direct-response copywriting, marketing psychology, basic directing, and social-media algorithms. The source provides no tool roles, model/version, prompt, command, configuration, API/interface, file format/path, or handoff, so this is not merged with the existing Claude → Midjourney → Runway → ElevenLabs → Suno → Make stack. ^[raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
+
+The source advises learning the stated skills, breaking down viral videos intentionally, choosing Instagram, TikTok, or Youtube, and publishing outputs on X; its claimed `$20k/month` result, attention/virality claims, and “gold rush” timing are source-described and unverified. The adjacent affiliate variants belong in [[glitchy-ai-income-system]] and [[affiliate-ai-ugc]], while [[pounddz]] records the author-specific commercial framing. ^[raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]

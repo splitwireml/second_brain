@@ -1,10 +1,10 @@
 ---
 title: Pounds
 created: 2026-08-08
-updated: 2026-08-08
+updated: 2026-09-29
 type: entity
 tags: [person, content-creator, x-creator, x-article, affiliate-marketing, instagram, ai-ugc, marketing]
-sources: [raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md]
+sources: [raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md, raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
 ---
 
 # Pounds
@@ -45,3 +45,15 @@ The source supplies no independent audit of the `$500-$1,000/day` outcome, the `
 - [[instagram-ugc-system]] — Instagram AI-UGC distribution cluster
 - [[peptide-marketing-distribution]] — peptide offer/distribution context
 - [[glitchy-ai-income-system]] — separate Glitchy AI-UGC loop
+
+## Pixar-animation ad and affiliate branches (2026-09-27)
+
+Pounds (`@pounddz`) describes a source-claimed `$20k/month` business around AI animations he says can look “straight out of the Pixar office.” He says interest began after seeing Franky Shaw post them, then reports hours of tests, `100s of dollars` spent, and many failures; the income, quality, attention, virality, paid-ad prevalence, and “gold rush of the next 2 months” framing remain source-described rather than independently verified. ^[raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
+
+His first stated revenue path is freelance ad creation / creative strategy: brands reportedly pay `$300-$500 per ad`; he says he has `2 clients` plus others, and takes `3-5%` of ad spend for videos that run. The second is consulting on `SAAS + Creative teams`, teaching ideas and the animation process. He explicitly says he does not use AI to originate ideas, instead citing walks in nature, and says a paid info product is only an interest because of demand, not a launched offer. ^[raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
+
+The article separately labels a `$100K/Month Affiliate Play`: an acquaintance allegedly runs `CPI offers` from Glitchy such as Freecash with a new attention-retaining animation format. It also labels a `$50k/Month Organic Affiliate Play`: another person reportedly makes organic brand content for `$2k/month per page + an RPM + affiliate commissions`, using prior Facebook and Instagram page connections. The body does not supply the first acquaintance's numeric amount, offer contract, payout/tracking implementation, prompts, renderer, platform interface, or independent outcomes. ^[raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
+
+The source's learn-and-practice sequence names `D.R. Copywriting`, `Marketing Psychology`, `Omni`, `Seedance`, `Nano Banana Pro`, `Claude`, `Basic Directing`, and social-media algorithms; it recommends *Breakthrough Advertising*, intentional teardown of viral videos, and a source-described `20 hours` / roughly one-week learning estimate. It then says to choose Instagram, TikTok, or Youtube, go all in, make animations for affiliate offers via Glitchy, frame content around a known ICP (or learn how that ICP talks, feels, and behaves), and post outputs on X. These are source-described recommendations; no model/version, command, parameter, prompt, API, file format/path, or cross-tool handoff is given, and no adjacent workflow is inferred. ^[raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
+
+This branch complements [[ai-animation-factory]] as a commercial-animation workflow and [[glitchy-ai-income-system]] / [[affiliate-ai-ugc]] as affiliate-context evidence; it does not establish their existing toolchains. See also [[ai-generated-ads]].

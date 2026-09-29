@@ -1,10 +1,10 @@
 ---
 title: Glitchy AI UGC Income System
 created: 2026-05-20
-updated: 2026-08-08
+updated: 2026-09-29
 type: concept
 tags: [affiliate, ai, automation, monetization, ugc, instagram, peptide-marketing, funnel]
-sources: [raw/articles/glitchy-ai-income-system-2056846211710366035.md, raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md]
+sources: [raw/articles/glitchy-ai-income-system-2056846211710366035.md, raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md, raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
 related_entity: [[linus-ecom]]
 ---
 
@@ -50,3 +50,9 @@ The source says the offer converts on doctor appointments set rather than sales 
 - [[ai-influencer-path]]
 - [[ugc]]
 - [[monetization]]
+
+## Animation-led CPI and organic branches (Pounds, 2026-09-27)
+
+Pounds names Glitchy as the place to find an affiliate offer after learning AI-animation production. A source-described `$100K/Month Affiliate Play` says an acquaintance runs `CPI offers` from Glitchy such as Freecash with a fresh animation format; a separately labeled `$50k/Month Organic Affiliate Play` says another person produces organic brand content for `$2k/month per page + an RPM + affiliate commissions`, reportedly leveraging Facebook and Instagram page relationships. These are distinct from the Adaptive → MakeUGC loop and Pounds' earlier Whoosh/peptide branch: this source supplies neither a renderer/tool interface nor offer terms, approval, tracking, payout, audience geography, platform operations, conversion data, or independent performance evidence. ^[raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
+
+The article's stated path is skill-building (`D.R. Copywriting`, `Marketing Psychology`, `Omni`, `Seedance`, `Nano Banana Pro`, `Claude`, basic directing, and social-media algorithms), intentional viral-video analysis, a chosen platform, an ICP-informed problem-solving content angle, and X output. See [[pounddz]] for the source-specific claim set, [[ai-animation-factory]] for the commercial-animation boundary, and [[affiliate-ai-ugc]] for adjacent AI-UGC affiliate systems. ^[raw/articles/xarticle-how-i-make-20kmonth-with-pixar-animations-and-how--2104262810473787872.md]
