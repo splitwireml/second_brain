@@ -1,10 +1,10 @@
 ---
 title: "Claude Cowork SEO System"
 created: 2026-03-25
-updated: 2026-08-03
+updated: 2026-10-07
 type: concept
 tags: [tools, agent, ai-agent, local-seo, seo, marketing, browser-automation, workflow, prompt-engineering]
-sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md, raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md, raw/articles/alventra-marketing-claude-prompts-2026-07-27.md, raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
 ---
 
 # Claude Cowork SEO System
@@ -23,6 +23,7 @@ The raw captures remain immutable. This page is the derived technical artifact, 
 | April 19, 2026 | `bloggersarvesh-claude-cowork-seo-2037158013921042794.md` | The fuller 20-prompt stack: GBP, website, backlink/authority, content, entity, posting-pattern, and reporting work. |
 | July 20, 2026 | `bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md` | Same-author eight-audit refinement, review-velocity target, baseline/differentiator framing, and explicit Claude-versus-human boundary. |
 | July 27, 2026 | `alventra-marketing-claude-prompts-2026-07-27.md` | Public 22-prompt version, complete context bootstrap, exact thresholds and filters, detailed on-page audit, and detailed backlink-gap audit. |
+| August 19, 2026 | `xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md` | “Grok Bot” Chrome-operator variant; complete context, 20 literal quotes and exact 12-week plan; no independently verified model/API capability. |
 
 ### Source-integrity note
 
@@ -129,6 +130,59 @@ A practical implementation can treat the context folder as a reusable project in
 ### Unverified source or marketing claims
 
 Claims about ranking within days, response effects, photo percentages, 5–10× conversion differences, $100k/month in 90 days, hundreds of thousands in client revenue, and the agency's case-study outcomes remain attributed claims. They are not independent benchmarks in this wiki.
+
+## August 19, 2026 Grok Bot variant — exact context and execution order
+
+Sarvesh Shrivastava's later article calls the operator “Grok Bot” and retains the same four audit domains and 20-prompt/12-week order. It says to paste prompts, open Chrome, inspect GBP/Maps and log into SEO tools. It does **not** specify a Grok model/version, model API, extension installation, authentication implementation or tested browser-control product. The earlier Cowork extension, competitor files and public WordPress extensions remain separate source-specific mechanics; they are not silently transferred to Grok. ^[raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
+
+Detailed transfer concepts preserve **all 20 quotes verbatim** plus their surrounding rationale, not abbreviated prompt cards:
+
+- [[browser-agent-local-seo-gbp]] — GBP prompts 1–8, profile matrices, reviews, templates and calendars.
+- [[browser-agent-local-seo-website]] — website prompts 9–13, SEMrush/GSC filters, page copy and sentiment handoffs.
+- [[browser-agent-local-seo-authority]] — prompts 14–16, Ahrefs filters, exact directories/NAP and intent routing.
+- [[browser-agent-local-seo-content-tracking]] — prompts 17–20, content briefs, Wikidata/Rich Results/schema requests, posting history and first-party metrics.
+
+The malformed Markdown/tangled quote order in this export's prompts 10, 12, 14, 16, 17, 18 and 20 is canonical provenance. Each linked concept explains the task separately while retaining the original text unchanged; no “clean” public-page version substitutes for this export. ^[raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
+
+### Initial business context — verbatim
+
+~~~text
+before you run a single prompt - load your business context
+
+> "Here is everything you need to know about my business before we start any SEO work. Reference this every time I ask you to run an audit, build a strategy, or analyze competitors. Never ask me for this information again.  BUSINESS BASICS: Business name: [your business name] Address: [full address] Phone: [phone number] Website: [website URL] Google Business Profile: [GBP URL] Years in business: [X years]   Team size: [solo / small team / large team]  SERVICES + MARKET: Primary service: [what you do]   Secondary services: [service 2], [service 3], [service 4]   Service areas: [city 1], [city 2], [city 3], [city 4], [city 5]   Target customer: [who your best customer is] Average job value: [$X]  SEO GOALS: Top 5 keywords I want to rank for: [keyword 1], [keyword 2], [keyword 3], [keyword 4], [keyword 5]   Keywords I currently rank for: [keyword 1], [keyword 2] Keywords I should rank for but don't: [keyword 1], [keyword 2]  CURRENT STANDINGS: Google reviews: [X] total, [X] star rating, [X] new reviews per month   GBP monthly views: [X impressions if known] Monthly website traffic: [X visits if known] Current map pack status: [ranking for X, not ranking for Y] Biggest SEO problem right now: [one sentence - be honest]  COMPETITORS: [competitor name] - [GBP URL] - [website] - [why they're beating you if you know] [competitor name] - [GBP URL] - [website] - [why they're beating you if you know] [competitor name] - [GBP URL] - [website] - [why they're beating you if you know]  WHAT I'VE ALREADY TRIED: [List any SEO work already done - agency, DIY, tools used, what worked, what didn't]  HOW I WANT YOU TO WORK: Always prioritize quick wins over long-term plays unless i ask otherwise.   When you give me a recommendation, tell me the impact level (high/medium/low) and how long it will take to see results. Always output data in spreadsheet format when comparing competitors. When you're unsure about something, tell me - don't guess. Never ask me for this information again. Use it as the base for everything we do together."
+
+once this is loaded, every prompt you run gets sharper. Grok Bot stops answering a stranger's SEO question and starts answering yours.
+~~~
+
+The source's context is business facts plus operating preferences. It requests no repeated intake, quick wins, impact/time estimates, spreadsheet comparisons and explicit uncertainty; it does not implement persistent memory. Unlike earlier versions, it does not specify competitor-file paths or an actual spreadsheet filename. ^[raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
+
+### Week 1–12 execution plan — verbatim
+
+~~~text
+## how to use all 20 prompts
+
+don't run all 20 at once.   here's the order:
+
+week 1: load your business context first. then run prompts 1 and 2 (GBP categories and attributes). fastest fixes with the most immediate ranking impact. you could see changes within days.
+
+week 2: run prompts 3, 4, and 5 (reviews and GBP posts). now you have a review velocity target and a content calendar that runs itself.
+
+week 3: run prompts 6, 7, and 8 (services, description, photos). your entire GBP is now fully optimized.
+
+week 4: run prompts 9 and 12 (keyword gap and GSC analysis). now you know exactly which website pages to fix first.
+
+week 5-6: run prompts 10, 11, and 13 (website audit, city pages, review sentiment). your website and messaging start matching your GBP.
+
+week 7-8: run prompts 14, 15, and 16 (backlinks, citations, search intent mapping). your authority starts building in the right direction.
+
+week 9-10: run prompts 17, 18, and 19 (content gaps, entity optimisation, GBP posting patterns). your long-term competitive moat starts forming.
+
+week 11-12: run prompt 20 (monthly SEO report). measure what moved, double down on what's working, fix what isn't.
+
+90 days of consistent execution on this system and you will outrank businesses that have been established for years. i've watched it happen dozens of times.
+~~~
+
+The article's 14-year experience claim, “10% / other 90%” positioning, ranking-within-days/90-day outcomes and hundreds-of-thousands client revenue remain attributed to the author and [[alventra-marketing]]. No ranking, revenue, platform-behavior or Grok capability was independently verified in this local-only capture. ^[raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
 
 ## Related concepts
 

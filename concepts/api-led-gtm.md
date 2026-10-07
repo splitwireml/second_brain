@@ -1,10 +1,10 @@
 ---
 title: API-Led GTM
 created: 2026-05-06
-updated: 2026-09-22
+updated: 2026-10-07
 type: concept
 tags: [workflow, api, automation, b2b, claude-code, gtm, outbound]
-sources: [raw/articles/xarticle-the-complete-guide-to-api-led-gtm-2051029582070141119.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md]
+sources: [raw/articles/xarticle-the-complete-guide-to-api-led-gtm-2051029582070141119.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md, raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
 related_entity: [[michel-lieben]]
 author: [[michel-lieben]]
 ---
@@ -95,6 +95,12 @@ This is a source-specific operational catalog, not product documentation or a ve
 - Some stack components survive, especially enrichment and routing systems like Clay.
 - Creative output still needs review.
 - The first few weeks are slower because every skill starts as failed calls before it becomes reusable memory.
+
+## 2026-10-06 Acquisition Workflows — Separate Source Boundary
+
+[[adamrahmangtm]] supplies a complementary acquisition taxonomy in [[gtm-engineer]]: 12 trigger-driven workflows with buying-committee enrichment, double email verification, fit/timing scoring, and tiered sales handoffs. It names Claude Code/Gong objection extraction, Sumble/RB2B/PredictLeads change signals, HubSpot/OutboundSync CRM routing, MasterInbox interested-tag triggers, GetLeads/FullEnrich/BetterContact dials, Slack alerts, Apify/Serper review research, Jev/OpenRouter scoring, Firecrawl reading, DiscoLike lookalikes, HeyReach LinkedIn openers, and Salesfinity parallel calling. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+
+This is **not** an API implementation specification: its four-vendor waterfall is unnamed; its scoring prompt is mentioned but not reproduced; no model version, endpoint/schema, keys/configuration, local file paths, code, commands, retries, or orchestrator are supplied. Do not import this page's separate ColdIQ/Supabase/Instantly or `.env`/`.mcp.json` architecture into Rahman's stack. Keep his revgrowth.ai `/playbooks/*` paths with `utm_source=x`, `utm_medium=social`, and `utm_campaign=gtm-workflows-article` as unfetched source references. Commercial pipeline/conversation claims remain source-described and unverified. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
 
 ## Related Concepts
 

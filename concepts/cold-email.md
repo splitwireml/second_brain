@@ -1,10 +1,10 @@
 ---
 title: Cold Email
 created: 2026-05-31
-updated: 2026-08-03
+updated: 2026-10-07
 type: concept
 tags: [b2b, cold-email, lead-gen, marketing, outbound]
-sources: [raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/post-brannonhogue-youre-supposed-to-throw-away-75-of-your-cold-email-2083597307375735213.md]
+sources: [raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/post-brannonhogue-youre-supposed-to-throw-away-75-of-your-cold-email-2083597307375735213.md, raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
 ---
 
 # Cold Email
@@ -62,6 +62,14 @@ The source then scores leads into tiers 1, 2, and 3, removes tier 3, and reports
 The offer is a second gate: give away a solution to a main business problem completely for free rather than offering a generic “free audit,” stay selective about freeloaders, and use the first solved problem to reveal a second problem that can become paid work. Lead scoring also protects the free-service budget by excluding prospects with no budget.^[raw/articles/post-brannonhogue-youre-supposed-to-throw-away-75-of-your-cold-email-2083597307375735213.md]
 
 The local source does not specify the validation service, catch-all method, research interface/API, model version, tier rubric, prompts, offer, send cadence, infrastructure, or conversion measurements; its counts and outcomes remain source-described rather than independently verified.^[raw/articles/post-brannonhogue-youre-supposed-to-throw-away-75-of-your-cold-email-2083597307375735213.md]
+
+## 2026-10-06 Research, Waterfall, and Reply-to-Call Extension
+
+[[adamrahmangtm]] derives the ICP from call recordings, won/lost deals, and customer interviews; maps the market from multiple sources (DiscoLike, LinkedIn, Google Maps); layers signals, pain segments, and first-party data; qualifies every account; enriches contacts through a four-vendor waterfall; verifies every email twice; writes the offer per pain segment; and tests weekly. Replies route through Outboundsync into HubSpot with a Slack alert. The source does not name the four vendors/order, email-check providers, scoring prompt, sending infrastructure, or cadence; the `/playbooks/modern-outbound` linked implementation was not retrieved. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+
+The separate Reply to Warm Call workflow fires on an **interested** tag in MasterInbox: GetLeads/FullEnrich direct dial → Claude Code/Sumble account research → OutboundSync/HubSpot CRM handoff → Slack SDR ping → call within minutes. CRM Re-engagement uses Claude Code on Gong recordings to name budget/timing/missing-feature/wrong-person objections; monitors Sumble hiring/tool changes, RB2B return visits, and PredictLeads champion changes; spends no credits if the blocker stays unchanged; otherwise re-enriches and verifies twice, calling tier one and emailing the original objection to the rest. All 12 workflows and exact distinctions are in [[gtm-engineer]]. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+
+The author claims $30M+ pipeline across 10M+ cold emails; $3.7M building-materials pipeline from cold email plus CRM re-engagement; and 4,313 qualified conversations in 16 months from 1M+ cold emails for a branded-cup seller targeting coffee shops, bakeries, and caterers. These are unverified source reports: pipeline is not recognized revenue, conversations are not booked meetings, and no independently measured conversion rate or attribution model is supplied. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
 
 ## Related Concepts
 

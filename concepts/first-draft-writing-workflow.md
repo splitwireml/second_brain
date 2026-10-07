@@ -1,10 +1,10 @@
 ---
 title: First-Draft Writing Workflow
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-07
 type: concept
-tags: [content, content-strategy, copywriting, method, x-article, productivity]
-sources: [raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md]
+tags: [content, content-strategy, copywriting, method, x-article, productivity, speech, ai]
+sources: [raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md, raw/articles/xarticle-how-to-stop-working-in-the-next-10-years-the-compl-2107846605999063322.md]
 related_entity: [[nicolas-cole]]
 author: [[nicolas-cole]]
 ---
@@ -74,6 +74,14 @@ Step away from the draft and return after **a day or two** with fresh eyes. Cole
 ## Source-specific publishing context
 
 The article closes with “Boom! You did it” and says a simple system can make publishing consistently effortless. It promotes a free **Start Writing Online** crash course and a **13,000-word Ultimate Guide + email course**, saying that in **5 days** the reader will receive endless content ideas, the secret to writing every day, and a crash course to dominate their own category. These are promotional statements preserved as source-described context; the course, guide, outcomes, and any audience or opportunity claims were not independently verified. ^[raw/articles/xarticle-how-to-turn-a-blank-page-into-a-finished-draft-in--2081358806408106390.md]
+
+## Voice-message first-draft variant (Amir D, 2026-10-07)
+
+[[starks-arq]] describes a separate AI-assisted capture route: **voice message → processing → structure → first draft**. He says **“How to stop working in the next 10 years (the complete guide)”** began as a **12-minute voice message**, and recommends recording **one voice message a day** containing an idea, problem, or plan and letting AI turn it into a first draft. The stated instruction skill is to imagine, think, speak, structure an idea, and translate it into the right instruction. Named outputs include **articles, tweets, presentations, negotiations, films, commercials, marketing strategies, and ways to go viral**. Voice is framed as the interface rather than an app, dashboard, or prompt box: **“Speech → everything.”** ^[raw/articles/xarticle-how-to-stop-working-in-the-next-10-years-the-compl-2107846605999063322.md]
+
+The author says knowing a stopped voice message will be processed and produce a draft frees his mind for the next article, video, or teaching idea; freedom rather than the interface is his claimed product. He explicitly says the team uses **foundation models directly**, tailored to personal lives, **not Higgsfield or Lovable**. This is not Cole's six-step manual workflow, not evidence that Cole's five passes are automated, and not a named software architecture. The data/account connections, **ChatGPT: Settings → Data controls → Export data**, conversations archived **since 2023**, historical-pattern accountability, full seven-step personal workflow, and source-attributed performance/AGI claims are detailed in [[ai-productivity]]. ^[raw/articles/xarticle-how-to-stop-working-in-the-next-10-years-the-compl-2107846605999063322.md]
+
+**Evidence boundary:** the **12-minute** input and draft handoff are author-reported, not a reproduced run. The source gives no transcription provider, exact foundation model/version, prompt template beyond diagnostic questions, recording format, storage path, integration mechanism, structuring procedure, draft acceptance test, publication/review stage, or measured voice-to-draft latency. It does not show how emails, WhatsApp, notes, or chat archives are imported. Preserve the handoff without inventing a speech pipeline, scheduler, retrieval store, or adjacent Claude/Obsidian stack. ^[raw/articles/xarticle-how-to-stop-working-in-the-next-10-years-the-compl-2107846605999063322.md]
 
 ## Relationship to adjacent concepts
 

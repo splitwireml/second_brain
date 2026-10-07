@@ -1,10 +1,10 @@
 ---
 title: Agent Memory Architecture
 created: 2026-04-29
-updated: 2026-07-27
+updated: 2026-10-07
 type: concept
 tags: [agent, memory, architecture, knowledge-management]
-sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md, raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md]
+sources: [raw/articles/xarticle-why-karpathys-second-brain-breaks-at-agent-scale-h-2049082538686382397.md, raw/articles/xarticle-your-ais-memory-is-quietly-making-it-dumber-i-cut--2070966613994795489.md, raw/articles/xarticle-a-beginners-guide-to-metacognition-2079624266707054825.md, raw/articles/xarticle-how-to-build-and-scale-a-one-person-business-with--2081017272924361162.md, raw/articles/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md]
 related_entity: [[mercury-agent]]
 
 ---
@@ -93,3 +93,75 @@ The source's controls are a few-hundred-line cap for always-loaded memory, on-de
 - [[mercury-agent]] — open-source implementation of these principles
 - [[metacognition-human-ai-systems]]
 - [[will-chen]]
+
+## Marfin: context and memory as a dual-loop architecture
+
+In the August 14, 2026 article, [[marfinxx]] treats context as volatile RAM and memory as persistent SSD/database storage. Context without memory produces an amnesiac agent that relearns its environment every run; memory without context becomes an uncurated retrieval swamp with conflicting facts. The source proposes synchronizing the two through a Dual-Loop Cognitive Architecture, claims persistent cross-session memory with up to 60% less active-token consumption, and labels the execution deterministic. These are source claims; no benchmark, runtime implementation or determinism proof is provided. ^[raw/articles/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md]
+
+```
+Naive Approach:
+[Raw Logs + Entire Codebase + Old Chats] ──> [LLM Context Window] ──> Context Rot & High Cost
+
+The Unified Cognitive Stack:
+[Persistent Memory Substrate] ──(Selective Retrieval)──> [Dynamic Context Engine] ──> [Deterministic Execution]
+         ▲                                                               │
+         └──────────────────(Async Consolidation Loop)───────────────────┘
+```
+
+### Four distinct memory tiers
+
+| Memory Tier | Operational Role | Storage Substrate | Update Mechanism | Lifespan |
+| :--- | :--- | :--- | :--- | :--- |
+| **Working Memory** | Active prompt context, live scratchpad, tool outputs | GPU RAM / KV-Cache | Autoregressive token generation | Single inference turn |
+| **Short-Term Episodic** | Chronological record of recent user turns and tool logs | In-memory KV store / SQLite | Synchronous append per turn | Single working session |
+| **Long-Term Semantic** | Consolidated domain facts, user preferences, system models | Hybrid Vector DB + Knowledge Graph | Asynchronous offline reflection | Persistent cross-session |
+| **Procedural Memory** | Validated tool workflows, self-correction rules, execution skills | Versioned policy files / Git repo | Reflection trajectory updates | Permanent system lifecycle |
+
+This is Marfin’s four-tier operational hierarchy: working prompt/scratchpad/tool output lives for one inference turn; synchronously appended recent turns and tool logs form session-scoped short-term episodic memory; asynchronous offline reflection consolidates persistent semantic facts, preferences and system models; reflection trajectory updates produce validated procedural workflows, self-correction rules and execution skills in versioned policy files/Git for the permanent system lifecycle. It is not PAI’s work/knowledge/people/learning taxonomy, Machina’s three-level stopping rule, or Tony Simons’ 11-layer [[context-os]]. The described substrates are role-level alternatives, not evidence of one installed product stack. ^[raw/articles/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md]
+
+### Fast execution / slow maintenance: diagrams as source dataflow
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ FAST INNER LOOP (Real-Time Turn Execution - Sub-Second Latency)       │
+│                                                                        │
+│  User Query ──> [Hybrid Search: Vector + Graph + Keyword]              │
+│                         │                                              │
+│                         ▼                                              │
+│                 [MMR Diversity Re-Ranking]                             │
+│                         │                                              │
+│                         ▼                                              │
+│                 [Scope AST & Budget Allocator]                         │
+│                         │                                              │
+│                         ▼                                              │
+│  Fixed Prefix ──> [Structured KV-Cache Prompt] ──> [LLM Inference]    │
+│                                                          │             │
+│                                                          ▼             │
+│                                                  [Tool Execution]      │
+└──────────────────────────────────────────────────────────┬─────────────┘
+                                                           │ Raw Traces
+┌──────────────────────────────────────────────────────────▼─────────────┐
+│ SLOW OUTER LOOP (Asynchronous Background Maintenance - Zero User Wait) │
+│                                                                        │
+│  Raw Traces ──> [Atomic Fact Extractor: ADD / UPDATE / DELETE]         │
+│                        │                                               │
+│                        ▼                                               │
+│                 [Knowledge Graph Entity Linking]                       │
+│                        │                                               │
+│                        ▼                                               │
+│                 [Ebbinghaus Decay Scoring & Eviction]                  │
+│                        │                                               │
+│                        ▼                                               │
+│                 [Consolidated Long-Term Memory Substrate]              │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+The fast inner loop runs during live interaction, described as milliseconds or sub-second latency: User Query → Hybrid Search (Vector + Graph + Keyword; prose specifies Dense Vector + BM25 Keyword + Knowledge Graph traversal) → MMR Diversity Re-Ranking → Scope AST & Budget Allocator → Structured KV-Cache Prompt, with a separate Fixed Prefix feeding that prompt → LLM Inference → Tool Execution. Only top-K relevant nodes and a compressed memory slice enter the prompt. Tool execution emits Raw Traces into the slow outer loop. Claims of no inference/tool latency overhead remain unmeasured. ^[raw/articles/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md]
+
+The slow outer loop is asynchronous background maintenance, described as running when the agent is idle with zero user wait: Raw Traces → Atomic Fact Extractor (diagram labels ADD / UPDATE / DELETE) → Knowledge Graph Entity Linking → Ebbinghaus Decay Scoring & Eviction → Consolidated Long-Term Memory Substrate. The CRUD prose separately includes NOOP for noise. The outer loop analyzes raw execution logs, updates entity relations, recomputes decay scores, prunes obsolete memory and resolves contradictions without delaying replies. Consolidated memory returns by selective retrieval to the dynamic context engine on subsequent turns/sessions, not by retaining the entire chat in the active window. The blueprint’s extraction trigger is specifically end-of-session; no scheduler, queue, idle detector, concurrency protocol or transaction policy is supplied. ^[raw/articles/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md]
+
+### Source-described ecosystem, not a combined deployment
+
+Marfin lists Frontier Reasoning Models Fable 5, Claude Opus 5, GPT-5.6, Gemini 3.7 Flash and DeepSeek-V4 as providing native prefix caching, low-latency reasoning traces and high-fidelity tool dispatch. The article separately names Claude Fable 5 in its opening and Claude Sonnet 5 / Gemini 3.1 Pro in its caching section; these literal names are preserved without assuming availability or equivalence. Letta (formerly MemGPT) is described as operating-system-level management with core, archival and recall tiers; Zep Memory as a temporal knowledge graph for automated fact invalidation and relationship tracking; Cognee & Microsoft GraphRAG as graph-native pipelines connecting unstructured text to semantic entities; Aider & Claude Code as repository-mapping, scope-elision and KV-cache-optimization tools. A-MEM, Zep and Memory-R1 are cited for atomic-note CRUD. These examples are not instructions to connect all products, nor independent verification of their internals. ^[raw/articles/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md]
+
+The five source rules are: context is RAM and memory is SSD; cache the prefix and vary the tail; compress with ASTs/scope elision before injection instead of dumping raw logs; actively curate rather than accumulate raw volume; and decouple fast reasoning from asynchronous consolidation. Its claim that 50 curated atomic facts outperform 50,000 unmanaged conversational fragments has no supplied dataset or measurement. Detailed prompt ordering, AST example and retrieval parameter are in [[production-ai-systems-foundations]]; extraction JSON and forgetting are in [[agent-memory-systems]]. Keep this architecture distinct from Mercury Agent, Hermes/Context OS, PAI and the five-layer model-agnostic harness: the article establishes no implementation integration with them. ^[raw/articles/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md]

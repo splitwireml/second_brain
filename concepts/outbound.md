@@ -1,10 +1,10 @@
 ---
 title: Outbound
 created: 2026-05-31
-updated: 2026-08-03
+updated: 2026-10-07
 type: concept
 tags: [b2b, cold-email, lead-gen, outbound, sales]
-sources: [raw/articles/xarticle-building-a-3m-ai-sdr-team-2071370444285124950.md, raw/articles/xarticle-the-108010-rule-the-20-of-our-gtm-we-never-hand-to-2071586092223189382.md, raw/articles/xarticle-the-most-valuable-cold-outreach-masterclass-ever-c-2071980383520895262.md, raw/articles/xarticle-print-fck-you-money-selling-to-vc-funded-startups--2073585594857296349.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/post-brannonhogue-youre-supposed-to-throw-away-75-of-your-cold-email-2083597307375735213.md, raw/articles/xarticle-how-to-target-enterprise-companies-on-linkedin-and-2083725262890357129.md]
+sources: [raw/articles/xarticle-building-a-3m-ai-sdr-team-2071370444285124950.md, raw/articles/xarticle-the-108010-rule-the-20-of-our-gtm-we-never-hand-to-2071586092223189382.md, raw/articles/xarticle-the-most-valuable-cold-outreach-masterclass-ever-c-2071980383520895262.md, raw/articles/xarticle-print-fck-you-money-selling-to-vc-funded-startups--2073585594857296349.md, raw/articles/xarticle-the-fastest-path-from-zero-to-10kmonth-online-righ-2079543867683025123.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/post-brannonhogue-youre-supposed-to-throw-away-75-of-your-cold-email-2083597307375735213.md, raw/articles/xarticle-how-to-target-enterprise-companies-on-linkedin-and-2083725262890357129.md, raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
 ---
 
 # Outbound
@@ -95,6 +95,14 @@ The enterprise message should cover scale, risk, and integration; mention a curr
 The source frames one enterprise client as potentially worth more than fifty small ones and recommends treating each account as a project rather than replacing focused work with careless volume. Its footer claims Din runs cold outbound systems using LinkedIn and email for B2B businesses making $10k/month or more, has worked with 140+ companies across 30 industries, and sees ROI for most clients within 60–90 days; these are source-described commercial claims. ^[raw/articles/xarticle-how-to-target-enterprise-companies-on-linkedin-and-2083725262890357129.md]
 
 Evidence boundary: beyond LinkedIn, InMail, and work email, the local article supplies no named tool, model/version, automation framework, command, configuration value, parameter schema, prompt, API/interface, file format/path, or independent measurement of its reachability, ROI, company-count, industry-count, or timing claims. Those omissions remain explicit. ^[raw/articles/xarticle-how-to-target-enterprise-companies-on-linkedin-and-2083725262890357129.md]
+
+## 2026-10-06 Signal-to-Meeting Routing
+
+[[adamrahmangtm]] describes an acquisition system with seven workflows sharing buying-committee discovery → two email verifications → fit/timing scoring → call the best accounts and email the rest. His operational build checklist is contact waterfall, two email checks, scoring prompt, and Slack alert; [[gtm-engineer]] preserves all 12 named workflows, exact tool roles, and boundaries. Start with CRM Re-engagement and Champion Moves, then Reply to Warm Call and Form Fill to Call, one public signal, and finally Lookalike Audiences, Cold Email, and Cold Calling; do not build all 12 at once. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+
+The interested-tag trigger in MasterInbox finds a GetLeads/FullEnrich direct dial, uses Claude Code/Sumble account research, pushes through OutboundSync into HubSpot, and pings the SDR in Slack for a call within minutes. Champion moves require weekly LinkedIn/Sumble checking and second-source confirmation, then a tier-one mobile and old-owner Slack handoff for a personal LinkedIn note in the first few weeks before calling. Competitor Followers stacks Sumble competitor-tool use, Apify post engagement, and RB2B site visits; tier one gets a call and personal LinkedIn/Gmail outreach, tiers two and three an email campaign. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+
+Cold Calling derives the ICP from conversations, maps DiscoLike/Google Maps plus signals and first-party data, qualifies accounts, and obtains direct dials from GetLeads, FullEnrich, and BetterContact. Salesfinity works five lists at once: cold ICP list, newsletter subscribers, email replies, site visitors, missed deals. Reps talk only to answered calls; meetings sync to HubSpot and proceed toward closed won. Contractors, clinics, and shops are the source's phone-oriented owner examples. No guaranteed closed-won outcome, API concurrency configuration, or measured superiority is supplied. Unlike the separate Brannon Hogue source's discard-tier-3 policy, this article sometimes emails tiers two and three; these policies remain source-specific. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
 
 ## Related Concepts
 

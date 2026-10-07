@@ -2,6 +2,72 @@
 
 > Chronological record of all wiki actions. Append-only.
 
+## [2026-10-07] ingest | xarticle-how-to-stop-working-in-the-next-10-years-the-compl-2107846605999063322
+- Tweet ID: `2107846605999063322`; source file: `/Users/mali/Development/x-bookmarks/data/run-2026-10-07/2026-10-07/xarticle-how-to-stop-working-in-the-next-10-years-the-compl-2107846605999063322.md`.
+- Classification: substantive local X Article; new immutable raw, new exact-handle author entity, two existing concept updates.
+- Raw: `raw/articles/xarticle-how-to-stop-working-in-the-next-10-years-the-compl-2107846605999063322.md`; complete source preserved byte-for-byte (9411 bytes); SHA-256(source bytes): `5d0703b7a883870ba08de74744304d40378a747ea00647741f2ca64baa38661d`.
+- Typed pages created: `/Users/mali/wiki/entities/starks-arq.md`.
+- Typed pages touched: `/Users/mali/wiki/entities/starks-arq.md`, `/Users/mali/wiki/concepts/ai-productivity.md`, `/Users/mali/wiki/concepts/first-draft-writing-workflow.md`.
+- Summary: Captured exactly one 9,411-byte local export verbatim under an immutable real-newline wrapper; created the exact-handle Amir D entity and reused AI Productivity and First-Draft Writing Workflow. Preserved seven steps, ChatGPT export path, direct-foundation-model contrast, archived history since 2023, accountability questions, numeric claims, and explicit implementation omissions. No architecture or independently verified performance/AGI finding inferred. No index.md/log.md write; parent owns catalog and audit reconciliation.
+- Local-source boundary: synthesis used only the saved export; no Bird/API/web refetch or link resolution during ingestion. First-observed date is October 7; actual X bookmarking timestamp unavailable.
+- Parent final verification: raw payload equality/checksum, frontmatter sources, valid links, source-specific technical coverage and unique index/log entries checked; current live typed-page count 1208 matches index.md.
+- Lint: AST parse passed; touched typed/raw files clean; global wiki retains unrelated pre-existing issues (baseline 11).
+
+## [2026-10-07] ingest | xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989
+- Tweet ID: `2106744347836153989`; source file: `/Users/mali/Development/x-bookmarks/data/run-2026-10-07/2026-10-07/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md`.
+- Classification: substantive local X Article; provenance-only model/cache economics and routing guide.
+- Raw: `raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md`; complete source preserved byte-for-byte (14048 bytes); SHA-256(source bytes): `d1865000bbe0106462423bfa3bcee9bad11243ccde5fcf9747d12c670eb92b9f`.
+- Typed pages created: `/Users/mali/wiki/entities/gippp69.md`.
+- Typed pages touched: `/Users/mali/wiki/entities/gippp69.md`, `/Users/mali/wiki/concepts/ai-cost-optimization.md`, `/Users/mali/wiki/concepts/claude-code-model-effort.md`.
+- Summary: Captured one local source exactly, created the exact-handle author, and extended two mature concepts without an article-specific duplicate. Preserved cost/routing/monthly tables and complete accounting code; rates, availability, defaults and economics remain source-attributed, with assumed-versus-measured boundaries explicit. Source code was not executed; no external research or link resolution occurred.
+- Local-source boundary: synthesis used only the saved export; no Bird/API/web refetch or link resolution during ingestion. First-observed date is October 7; actual X bookmarking timestamp unavailable.
+- Parent final verification: raw payload equality/checksum, frontmatter sources, valid links, source-specific technical coverage and unique index/log entries checked; current live typed-page count 1208 matches index.md.
+- Lint: AST parse passed; touched typed/raw files clean; global wiki retains unrelated pre-existing issues (baseline 11).
+
+## [2026-10-07] ingest | xarticle-jake-ward-on-x-im-begging-you-pick-one-google-ai-o-2107453596107219294
+- Tweet ID: `2107453596107219294`; source file: `/Users/mali/Development/x-bookmarks/data/run-2026-10-07/2026-10-07/xarticle-jake-ward-on-x-im-begging-you-pick-one-google-ai-o-2107453596107219294.md`.
+- Classification: substantive short Google AI Overview research workflow; local export labels x_article; linked continuation unavailable.
+- Raw: `raw/articles/xarticle-jake-ward-on-x-im-begging-you-pick-one-google-ai-o-2107453596107219294.md`; complete source preserved byte-for-byte (1278 bytes); SHA-256(source bytes): `e2b5e3d3f6a68858b99c8abdb295ff66ec17ce2b2b2ce150b84adfab4896ef2f`.
+- Typed pages created: `/Users/mali/wiki/entities/jakezward.md`.
+- Typed pages touched: `/Users/mali/wiki/entities/jakezward.md`, `/Users/mali/wiki/concepts/generative-ai-search-optimization.md`.
+- Summary: Captured the exact 1,278-byte local export; created the missing exact-handle author entity and updated the mature Google AI-search concept. Preserved all five ordered stages, the 7-day observation window, the attributed unverified ranking-in-1,000s claim, and unavailable implementation/continuation boundaries. No duplicate concept or inferred continuation.
+- Local-source boundary: synthesis used only the saved export; no Bird/API/web refetch or link resolution during ingestion. First-observed date is October 7; actual X bookmarking timestamp unavailable.
+- Parent final verification: raw payload equality/checksum, frontmatter sources, valid links, source-specific technical coverage and unique index/log entries checked; current live typed-page count 1208 matches index.md.
+- Lint: AST parse passed; touched typed/raw files clean; global wiki retains unrelated pre-existing issues (baseline 11).
+
+## [2026-10-07] ingest | xarticle-i-went-from-filming-ugc-in-my-room-to-14b-views-in-2107530746923823444
+- Tweet ID: `2107530746923823444`; source file: `/Users/mali/Development/x-bookmarks/data/run-2026-10-07/2026-10-07/xarticle-i-went-from-filming-ugc-in-my-room-to-14b-views-in-2107530746923823444.md`.
+- Classification: substantive local X Article; complete human-creator UGC conversion and format-propagation guide.
+- Raw: `raw/articles/xarticle-i-went-from-filming-ugc-in-my-room-to-14b-views-in-2107530746923823444.md`; complete source preserved byte-for-byte (22752 bytes); SHA-256(source bytes): `0087bc761da1ccb7d62369ab5e7ca2260034d952377a134fcabd49e9774113e1`.
+- Typed pages created: `/Users/mali/wiki/concepts/format-propagation.md`, `/Users/mali/wiki/entities/hardlaunch.md`, `/Users/mali/wiki/entities/jenni-ai.md`, `/Users/mali/wiki/entities/mattgittleson.md`.
+- Typed pages touched: `/Users/mali/wiki/concepts/format-propagation.md`, `/Users/mali/wiki/concepts/mobile-app-organic-virality.md`, `/Users/mali/wiki/concepts/tiktok-account-infrastructure.md`, `/Users/mali/wiki/concepts/ugc.md`, `/Users/mali/wiki/entities/hardlaunch.md`, `/Users/mali/wiki/entities/jenni-ai.md`, `/Users/mali/wiki/entities/mattgittleson.md`.
+- Summary: Captured exactly one 22,752-byte local export verbatim under a real-newline immutable wrapper. Created the exact-handle Matt, HardLaunch and Jenni AI entities plus reusable Format Propagation; extended mature UGC, Mobile App Organic Virality and TikTok Account Infrastructure without merging distinct source toolchains. Preserved the four-stage guide, every numeric outcome/protocol, product-payoff hooks, comment work, taste/execution boundary, 50/25/25 and 20/75/5 allocations, and attributed platform/AI/economics claims. No external lookup or link resolution; index.md/log.md untouched for parent reconciliation.
+- Local-source boundary: synthesis used only the saved export; no Bird/API/web refetch or link resolution during ingestion. First-observed date is October 7; actual X bookmarking timestamp unavailable.
+- Parent final verification: raw payload equality/checksum, frontmatter sources, valid links, source-specific technical coverage and unique index/log entries checked; current live typed-page count 1208 matches index.md.
+- Lint: AST parse passed; touched typed/raw files clean; global wiki retains unrelated pre-existing issues (baseline 11).
+
+## [2026-10-07] ingest | xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302
+- Tweet ID: `2107548563085689302`; source file: `/Users/mali/Development/x-bookmarks/data/run-2026-10-07/2026-10-07/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md`.
+- Classification: substantive local X Article; recovered source; detailed acquisition-side GTM workflow synthesis.
+- Raw: `raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md`; complete source preserved byte-for-byte (14620 bytes); SHA-256(source bytes): `ec05dab90f035f7d392fce160767c1a9c25ffecd10cc7faa295b0217b06157ba`.
+- Typed pages created: `/Users/mali/wiki/entities/adamrahmangtm.md`.
+- Typed pages touched: `/Users/mali/wiki/entities/adamrahmangtm.md`, `/Users/mali/wiki/concepts/gtm-engineer.md`, `/Users/mali/wiki/concepts/outbound.md`, `/Users/mali/wiki/concepts/cold-email.md`, `/Users/mali/wiki/concepts/lead-gen.md`, `/Users/mali/wiki/concepts/api-led-gtm.md`.
+- Summary: Captured the complete 14,620-byte recovered export under an immutable real-newline wrapper; created the exact-handle Adam Rahman author entity and updated five existing concepts. GTM Engineer contains all 12 named workflows with tool roles, trigger/gate/hand-off stages, timing, playbook paths/UTM parameters, outcomes and explicit missing implementation/evidence boundaries. No article-specific or passing-tool pages created; no web/Bird/API/link resolution. Index/log untouched for parent-owned navigation reconciliation.
+- Local-source boundary: synthesis used only the saved export; no Bird/API/web refetch or link resolution during ingestion. First-observed date is October 7; actual X bookmarking timestamp unavailable.
+- Parent final verification: raw payload equality/checksum, frontmatter sources, valid links, source-specific technical coverage and unique index/log entries checked; current live typed-page count 1208 matches index.md.
+- Lint: AST parse passed; touched typed/raw files clean; global wiki retains unrelated pre-existing issues (baseline 11).
+
+## [2026-10-07] ingest | xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340
+- Tweet ID: `2088234998654472340`; source file: `/Users/mali/Development/x-bookmarks/data/run-2026-10-07/2026-10-07/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md`.
+- Classification: substantive local X Article; architectural blueprint with attributed, unverified model/tool/performance claims.
+- Raw: `raw/articles/xarticle-autonomous-agent-architecture-unifying-context-eng-2088234998654472340.md`; complete source preserved byte-for-byte (18394 bytes); SHA-256(source bytes): `56d7f4d5438a8d7182113e623236511aa3d64e0c10e0800faafd80100ffcf4a6`.
+- Typed pages created: `/Users/mali/wiki/entities/marfinxx.md`.
+- Typed pages touched: `/Users/mali/wiki/entities/marfinxx.md`, `/Users/mali/wiki/concepts/production-ai-systems-foundations.md`, `/Users/mali/wiki/concepts/agent-memory-architecture.md`, `/Users/mali/wiki/concepts/agent-memory-systems.md`.
+- Summary: Captured all 18394 source bytes including export YAML under a real-newline wrapper; SHA-256(source bytes) 56d7f4d5438a8d7182113e623236511aa3d64e0c10e0800faafd80100ffcf4a6. Created exact-handle marfinxx author and deepened three mature concepts rather than creating a near-duplicate context/memory topic. Preserved all three diagrams, four-tier table, PaymentProcessor code, both JSON contracts, all named models/tools, lifecycle/handoff stages, λ = 0.7 and importance_score 0.9. Explicitly retained tier-2 versus dynamic-tail placement tension and BM25 versus SQLite FTS5 wording, without an invented integrated product stack, decay formula, provider guarantee or deployment. Local-only; no source code execution, network calls or URL resolution. Technical checklist 41/41 passed; raw bytes/hash, JSON/Python AST, frontmatter sources and inbound/outbound links verified. Linter retained baseline 11 unrelated issues. index.md/log.md untouched; parent-owned catalog/audit reconciliation remains.
+- Local-source boundary: synthesis used only the saved export; no Bird/API/web refetch or link resolution during ingestion. First-observed date is October 7; actual X bookmarking timestamp unavailable.
+- Parent final verification: raw payload equality/checksum, frontmatter sources, valid links, source-specific technical coverage and unique index/log entries checked; current live typed-page count 1208 matches index.md.
+- Lint: AST parse passed; touched typed/raw files clean; global wiki retains unrelated pre-existing issues (baseline 11).
+
 ## [2026-09-24] ingest | xarticle-the-fastest-way-to-learn-a-skill-that-makes-you-mo-2102426156699918496
 
 - FILE: `/Users/mali/Development/x-bookmarks/data/run-2026-09-23/2026-09-22/xarticle-the-fastest-way-to-learn-a-skill-that-makes-you-mo-2102426156699918496.md`; run: `run-2026-09-23`; stable tweet ID: `2102426156699918496`; author: Biscuit (`@biscuitweb3`); source date: 2026-09-22.

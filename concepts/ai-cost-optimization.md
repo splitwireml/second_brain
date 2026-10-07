@@ -1,10 +1,10 @@
 ---
 title: AI Cost Optimization
 created: 2026-04-12
-updated: 2026-09-22
+updated: 2026-10-07
 type: concept
 tags: [tools, monetization, optimization]
-sources: [raw/articles/noisyb0y1-ai-cost-optimization-2026-04-10.md, raw/articles/thread-VaibhavSisinty-2071243569814491579.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md, raw/articles/sydney-runkle-x-article-2100754364545761643.md]
+sources: [raw/articles/noisyb0y1-ai-cost-optimization-2026-04-10.md, raw/articles/thread-VaibhavSisinty-2071243569814491579.md, raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md, raw/articles/sydney-runkle-x-article-2100754364545761643.md, raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md]
 ---
 
 # AI Cost Optimization
@@ -68,6 +68,88 @@ The hosted platforms' value proposition is the model zoo (30+ models, full creat
 The [[shortcut]] case study adds a workload-level cost lever: optimize the complete harness for a narrow domain instead of paying the context and tool-call tax of a general-purpose agent. The article reports 37 versus 61 tool calls per spreadsheet task and 3.7M versus 7.1M input tokens against Claude for Excel, alongside claims of 40% lower cost and 17% higher accuracy on Shortcut's internal finance evals. These are source-reported measurements, not independently audited here. ^[raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md]
 
 The broader pattern is to keep a stable task harness while routing subproblems to the best-fit model: the source describes using different models for general spreadsheet work, image/PDF perception, cost-sensitive tasks, and a smaller in-house worker model. Cost optimization therefore includes context design, tool economy, and model selection—not only prompt compression or cheaper inference. ^[raw/articles/xarticle-building-against-the-big-labs-that-are-trying-to-e-2076767931053294017.md]
+
+## Cache-aware agent-loop economics (Gipp, October 4, 2026)
+
+[[gippp69]] distinguishes a price sheet from cost per completed task: an agent resends its conversation, but a warm-cache turn reads old context, writes new tool results/user message/last answer, and produces thinking plus visible output. Only writes and output are doubled in the source's Sonnet 5.5/Opus 5.5 example; old-context reads are equal. Turn 3 reading 20K versus turn 30 reading 300K illustrates why long sessions shrink the ratio. These are source-described Messages API economics, not independently confirmed model availability, rates, defaults, caching behavior, or measured bills. The author attributes the list prices to Anthropic as of October 3, 2026. ^[raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md]
+
+### Source cost table (verbatim; not a current verified price sheet)
+```plaintext
+                         SONNET 5.5      OPUS 5.5
+fresh input              $2 / 1M         $4 / 1M
+output (incl. thinking)  $10 / 1M        $20 / 1M
+cache write, 5 min       $2.50 / 1M      $5 / 1M
+cache read               $0.20 / 1M      $0.20 / 1M   <- same
+context / max output     1M / 128K       1M / 128K
+API effort default       high            medium
+batch API                -50%            -50%
+
+per agent turn, my example loop (section 3)
+at 20K context           $0.033          $0.062       1.88x
+at 150K context          $0.059          $0.088       1.49x
+at 400K context          $0.109          $0.138       1.26x
+
+switching to Opus mid-task at 300K       $1.50 just to re-cache
+same switch with a 20K handoff           $0.10
+
+one cache miss at 150K (coffee break)    $0.38 Sonnet / $0.75 Opus
+1-hour cache pays off after              1 miss per ~45 turns
+1,000 tasks a month, switch late         ~$2,530
+1,000 tasks a month, hand off early      ~$1,820
+```
+
+The author's assumed warm-cache turn writes **5,500** new tokens and produces **1,500** output tokens. Per-turn cost is `(cached_context × read_rate + new_tokens × write_rate + output_tokens × output_rate) / 1M`, plus fresh input when present. At 150K, Sonnet reads `150,000 x $0.20 / 1M = $0.0300`, writes `5,500 x $2.50 / 1M = $0.0138` (rounded), and outputs `1,500 x $10 / 1M = $0.0150`, giving the source's `$0.0588`; Opus is `$0.0300 + $0.0275 + $0.0300 = $0.0875`. With **4,000** output tokens at the same 150K and 5,500 new tokens, the table becomes **$0.084 Sonnet / $0.138 Opus / 1.64x**, versus **$0.059 / $0.088 / 1.49x** at 1,500 output tokens. Hidden thinking is billed as output; more thinking/heavy tool output changes the ratios, and effort can change output spend even at the same nominal setting. ^[raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md]
+
+`cost per task = cost per turn x turns to finish`; the source's break-even rule is `Opus turns < Sonnet turns / (Opus turn cost / Sonnet turn cost)`. At 20K / 150K / 400K, ratios **1.88x / 1.49x / 1.26x** require roughly **47% / 33% / 21% fewer turns**. Its 150K worked example is `Sonnet 5.5: 30 turns x $0.0588 = $1.76` versus `Opus 5.5: 20 turns x $0.0875 = $1.75`. The text also gives a **$0.60** advantage for 40 Sonnet versus 20 Opus turns; this remains source-described arithmetic, not a measured efficiency advantage. Short, clear tasks at 20K require Opus to nearly halve turns; the author's Sonnet preference is a heuristic, not a measured win rate. ^[raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md]
+
+### Cache TTL and pause economics
+The source says the default **5-minute** cache expires across a longer pause and then the next turn rewrites context: at 150K, `150,000 x $2.50 / 1M = $0.38` Sonnet or `150,000 x $5 / 1M = $0.75` Opus, rounded. The **1-hour** write rates are **$4 / 1M** and **$8 / 1M** respectively; on 5,500 new tokens its extra per-turn prices are `5,500 x ($4 - $2.50) / 1M = $0.008` and `5,500 x ($8 - $5) / 1M = $0.017` (source rounding). One avoided 150K miss pays for approximately **45 turns** of premium writes. Its rule is 1-hour TTL if a gap over 5 minutes occurs at least once every ~45 turns; keep 5-minute TTL for uninterrupted runs. The cache-miss frequency is not measured, so this is conditional workload arithmetic, not a blanket recommendation. ^[raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md]
+
+### Messages API usage accounting (complete source script; not executed)
+Log each response's `usage` object with a task id in **`usage.jsonl`**, one JSON line per API call. The literal model identifiers, 5-minute rate table, fields, grouping, and output interface below are the source's, not validated API documentation. ^[raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md]
+```python
+import json
+from collections import defaultdict
+
+PRICE = {  # $ per 1M tokens, Oct 2026 list prices, 5-minute cache writes
+    "claude-sonnet-5-5": {"in": 2.0, "out": 10.0, "read": 0.20, "write": 2.50},
+    "claude-opus-5-5":   {"in": 4.0, "out": 20.0, "read": 0.20, "write": 5.00},
+}
+
+def call_cost(model, u):
+    p = PRICE[model]
+    return (u["input_tokens"] * p["in"]
+            + u["output_tokens"] * p["out"]
+            + u.get("cache_read_input_tokens", 0) * p["read"]
+            + u.get("cache_creation_input_tokens", 0) * p["write"]) / 1e6
+
+# usage.jsonl: one line per API call
+# {"task": "fix-auth", "model": "claude-sonnet-5-5", "passed": true, "usage": {...}}
+tasks = defaultdict(lambda: {"turns": 0, "cost": 0.0, "passed": False, "model": ""})
+for line in open("usage.jsonl"):
+    r = json.loads(line)
+    t = tasks[(r["model"], r["task"])]
+    t["turns"] += 1
+    t["cost"] += call_cost(r["model"], r["usage"])
+    t["passed"] = t["passed"] or r.get("passed", False)
+    t["model"] = r["model"]
+
+for model in PRICE:
+    rows = [t for t in tasks.values() if t["model"] == model]
+    done = [t for t in rows if t["passed"]]
+    if not rows:
+        continue
+    turns = sum(t["turns"] for t in rows) / len(rows)
+    per_turn = sum(t["cost"] for t in rows) / sum(t["turns"] for t in rows)
+    per_pass = sum(t["cost"] for t in rows) / max(len(done), 1)
+    print(f"{model:20} tasks {len(rows):3}  passed {len(done):3}  "
+          f"avg turns {turns:5.1f}  $/turn {per_turn:.4f}  $/pass {per_pass:.3f}")
+```
+
+`call_cost(model, u)` charges mandatory `input_tokens` and `output_tokens`, plus optional `cache_read_input_tokens` and `cache_creation_input_tokens` defaulting to zero. `(model, task)` grouping means a switched task is counted separately for each model; `passed` is OR-ed over that group's calls. The script emits a line for each model with rows: `tasks`, `passed`, `avg turns`, `$/turn`, `$/pass`. Read **$/turn ratio → avg turns ratio → $/pass**; failed attempts remain in the spend numerator. It does not print an empty model, and `max(len(done), 1)` avoids division by zero: with no passes the reported `$/pass` is total spend, not an observed successful-task cost. It contains no 1-hour/batch pricing, billing reconciliation, task-class matching, or logging implementation; do not invent those interfaces or example output. ^[raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md]
+
+### Evidence boundary and routing link
+The source explicitly has **not tested** the 5,500-new/1,500-output turn shape, Opus's turn-count advantage on real work, cache-miss rates, or monthly 80%/30-versus-20-turn/turn-6 detection assumptions. Heavy tool output, long hidden thinking, task type, and cold caches can change the result. Suggested measurement is one week of the operator's own logs, replacing starting rules with observed $/pass; no logs or script results were supplied or generated during this ingest. [[claude-code-model-effort]] preserves the source's early escalation, clean handoff, six-turn check, monthly example, and cache guards. Its Messages API top-level effort claim must not be conflated with another source's Claude Code `/effort` behavior. ^[raw/articles/xarticle-opus-55-is-2x-the-price-on-paper-in-a-long-agent-l-2106744347836153989.md]
 
 ## Effective Cost Math
 

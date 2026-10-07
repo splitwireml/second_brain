@@ -1,10 +1,10 @@
 ---
 title: "Alventra Marketing"
 created: 2026-03-25
-updated: 2026-07-27
+updated: 2026-10-07
 type: entity
 tags: [brand, marketing, monetization]
-sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md, raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md, raw/articles/alventra-marketing-claude-prompts-2026-07-27.md, raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
 ---
 
 # Alventra Marketing
@@ -30,6 +30,12 @@ A March 2026 source from [[bloggersarvesh]] describes the same [[claude-cowork-s
 Alventra's public prompt page presents an expanded "Top 22 Claude Prompts For SEO" library. It makes the operating system concrete: load a business-context folder once, keep competitor GBP files and uploaded profile details available to Claude Cowork, then run one prompt file per SEO task. The page names Chrome, Google Maps, Google Business Profile, SEMrush, Google Search Console, Ahrefs, Google Analytics 4, Wikidata, Rich Results Test, WordPress/Gutenberg, and Yoast or Rank Math as the operating surfaces. ^[raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
 
 The page extends the earlier 20-prompt system with a detailed on-page SEO audit and a filtered Ahrefs backlink-gap audit. Its workflow, prompt mechanics, and service positioning are source-described; ranking improvements, revenue outcomes, and the page's $1.7M case-study claim remain unverified marketing claims. ^[raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+
+## August 2026 Grok Bot variant
+
+The August 19 local article from [[bloggersarvesh]] markets the same 20-prompt local-SEO service under “Grok Bot”: every audit, every optimization and monthly execution for home-services businesses. The author's 90-day outranking and hundreds-of-thousands new-revenue statements remain promotional claims, not independently verified agency results. The source provides no Grok model/API or extension specification; it requests Chrome access to Maps/GBP, SEMrush, Ahrefs, GSC, GA4, Wikidata and Rich Results. ^[raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
+
+[[claude-cowork-seo-system]] retains the exact context intake and 12-week operating plan, while [[browser-agent-local-seo-gbp]], [[browser-agent-local-seo-website]], [[browser-agent-local-seo-authority]] and [[browser-agent-local-seo-content-tracking]] retain all 20 source quotes plus detailed contracts. The older public 22-prompt version remains separate; prompts 21–22 are not added to this 20-prompt source. ^[raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
 
 ## Business Model
 

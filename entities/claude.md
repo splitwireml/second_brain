@@ -1,10 +1,11 @@
 ---
 title: Claude
 created: 2026-05-14
-updated: 2026-08-10
+updated: 2026-10-07
 type: entity
 tags: [product, llm, ai]
-sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md, raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md, raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md]
+sources: [raw/articles/jouhatsu-code-with-claude-london-2026-05-21.md, raw/articles/xarticle-how-i-cook-killer-google-ads-advertorials-with-fab-2076724912937750754.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/xarticle-how-i-built-a-viral-youtube-channel-from-zero-usin-2079148684697391164.md, raw/articles/xarticle-youre-using-claude-wrong-if-you-dont-have-these-6--2080083376976044193.md, raw/articles/xarticle-how-i-use-claude-fable-5-to-build-10kmo-faceless-a-2080651345548480683.md, raw/articles/xarticle-how-to-turn-nexlev-mcp-opus-5-into-a-247-youtube-v-2081430939213906262.md, raw/articles/xarticle-weve-generated-5b-views-heres-how-to-go-viral-ever-2082122676580098492.md, raw/articles/xarticle-i-built-faceless-youtube-channel-with-claude-today-2084611385376285065.md, raw/articles/xarticle-make-money-with-ai-agents-on-reddit-full-guide-2086455451429060984.md, raw/articles/xarticle-how-to-use-claude-for-content-marketing-so-well-it-2107130633029927004.md]
+contradictions: [format-propagation]
 ---
 
 ## Overview
@@ -74,3 +75,9 @@ Chris's source uses Claude in two stages: an interactive one-question-at-a-time 
 - [[14-second-ai-vlog-method]]
 - [[model-context-protocol]]
 - [[aiwithremy]]
+
+### Virlo evidence-to-script workflow (October 5, 2026)
+
+Jaffa's local guide uses Claude as the conversational operator for [[virlo]] research, not as an unaided generator of viral ideas. Connect at `claude.ai` → profile → **Settings → Connectors** → **Add custom connector**, name it **Virlo**, use `https://dev.virlo.ai/api/mcp/mcp`, click **Connect**, and sign in with a Virlo account. The Claude Code alternative is `claude mcp add --transport http virlo https://dev.virlo.ai/api/mcp/mcp`, then `/mcp` sign-in. No model/version is named. ^[raw/articles/xarticle-how-to-use-claude-for-content-marketing-so-well-it-2107130633029927004.md]
+
+The context + nine prompts require niche/voice continuity, consent before creating agents, finalized-before-analysis, literal video citations/hooks, filtered real-person organic results, engagement-aware ranking, **20–30-second** talking-head scripts and daily research with a **last-7-days**, **under-300-words**, **3/2/1 + 5-scripts** Monday handoff. [[content-research-agents]] holds the mechanics and its two linked prompt libraries preserve every original prompt. This is a source-described workflow, not an executed integration or demonstrated performance improvement. Matt separately rejects AI-written scripts/hooks in [[format-propagation]]; neither position overwrites the other. ^[raw/articles/xarticle-how-to-use-claude-for-content-marketing-so-well-it-2107130633029927004.md] ^[raw/articles/xarticle-i-went-from-filming-ugc-in-my-room-to-14b-views-in-2107530746923823444.md]

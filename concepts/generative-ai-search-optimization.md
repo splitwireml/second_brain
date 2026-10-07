@@ -1,10 +1,10 @@
 ---
 title: Generative AI Search Optimization
 created: 2026-05-17
-updated: 2026-09-24
+updated: 2026-10-07
 type: concept
 tags: [ai, optimization, research]
-sources: [raw/articles/google-ai-optimization-guide-2026.md, raw/articles/xarticle-how-to-automate-seo-with-opus-55-full-course-2102758425386172842.md]
+sources: [raw/articles/google-ai-optimization-guide-2026.md, raw/articles/xarticle-how-to-automate-seo-with-opus-55-full-course-2102758425386172842.md, raw/articles/xarticle-jake-ward-on-x-im-begging-you-pick-one-google-ai-o-2107453596107219294.md]
 related_entity: [[google]]
 ---
 
@@ -71,6 +71,20 @@ The source warns that Search Console data arrives two or three days late, page-p
 Each scheduled week: refresh search and conversion state, compare it with the pre-change baseline, check the page for breakage, recommend one evidence-linked change, wait for approval before drafting or publishing, and append the outcome to the log. One change at a time preserves attribution; the source says to ignore ranking movement shorter than a couple of weeks, avoid touching a page already doing well without a strong reason, record a ranking gain with no extra signups as a miss, and record a conversion gain with flat rankings after a clearer CTA as a win. Bing citation trends are stated to be non-causal because model-side changes can move them, and instructions remain frozen during a test. The final human read protects brand voice; no experimental protocol, significance test, or causal proof is supplied.^[raw/articles/xarticle-how-to-automate-seo-with-opus-55-full-course-2102758425386172842.md]
 
 The source's first month is: **week 1** connect Search Console, DataForSEO, Firecrawl, Parallel, conversion tracking, optional Ahrefs, spending limits, and approvals; write the brief and import a few weeks of history. **Week 2** find the money page and run the four passes. **Week 3** draft, human-review, and personally publish one change while logging date and movement. **Week 4** schedule the loop, then allow a few more weeks before calling win or miss. The Viktor alternative connects the same tools and receives the recurring job. The timeline, free-credit promotion, workflow capability, and implied business benefit remain source-described rather than verified.^[raw/articles/xarticle-how-to-automate-seo-with-opus-55-full-course-2102758425386172842.md]
+
+## Single-overview seven-day research workflow (Jake Ward, 2026-10-06)
+
+The local post by [[jakezward]] supplies a compact observation-to-page workflow rather than an implementation guide:
+
+1. Pick **ONE Google AI Overview**.
+2. Track how it changes over **7 days**.
+3. Find the patterns with **AI**.
+4. **Reverse engineer the citations**.
+5. **Build your page around the findings**.
+
+These are the complete recoverable stages, in source order; the AI-pattern step follows tracking and precedes citation analysis. Ward claims he has used this process to rank in **1,000s of AI Overviews**. That remains an attributed, unverified self-report: the post provides no examples, ranking measurements, controlled comparison, or causal evidence. The 7 days are an observation window, not a promised time to rank. ^[raw/articles/xarticle-jake-ward-on-x-im-begging-you-pick-one-google-ai-o-2107453596107219294.md]
+
+Although the local export says `x_article`, it contains only the short post and an unavailable linked continuation. The continuation was not fetched or inferred. No capture API or tool, sampling frequency (including daily sampling), AI model/version, prompt, citation-analysis rubric, page specification, or independently verified outcomes are supplied. This is a research variant of the existing [[llm-seo]] citation-audit cluster, not proof of a separate AEO algorithm or a replacement for the Google-guidance foundations above. Do not import the separate Machina toolchain or weekly experiment schedule into Ward's unspecified implementation. ^[raw/articles/xarticle-jake-ward-on-x-im-begging-you-pick-one-google-ai-o-2107453596107219294.md]
 
 ## Related Concepts
 

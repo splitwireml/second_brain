@@ -1,10 +1,10 @@
 ---
 title: "Claude Cowork SEO System: Prompt Library"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-10-07
 type: concept
 tags: [seo, local-seo, claude-cowork, browser-automation, prompt-engineering, workflow, tools]
-sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md, raw/articles/alventra-marketing-claude-prompts-2026-07-27.md]
+sources: [raw/articles/bloggersarvesh-chief-of-seo-claude-cowork-2026-03-25.md, raw/articles/bloggersarvesh-claude-cowork-seo-2037158013921042794.md, raw/articles/bloggersarvesh-claude-seo-100k-month-playbook-2032130279494853118.md, raw/articles/alventra-marketing-claude-prompts-2026-07-27.md, raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
 ---
 
 # Claude Cowork SEO System: Prompt Library
@@ -245,6 +245,12 @@ The source's measurement principle is to connect search work to calls and revenu
 - Keep source-observed facts, recommendations, and promotional outcomes separate.
 - Treat exact thresholds as this source's operating defaults, not universal SEO laws.
 - Have a human approve category changes, copy, links, entity claims, and publication.
+
+## Grok Bot source-specific verbatim supplements
+
+The August 19, 2026 article uses the same audit domains but calls its Chrome operator “Grok Bot.” The clean operational cards above remain derived from earlier Claude/Cowork sources and are **not** substituted for this later export's exact wording. The initial business context and full week 1–12 plan are preserved in [[claude-cowork-seo-system]]. ^[raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
+
+Complete verbatim quotes, surrounding rationale and detailed browser/output contracts are split into linked technical sub-concepts rather than stretching this already-long library further: [[browser-agent-local-seo-gbp]] for 1–8, [[browser-agent-local-seo-website]] for 9–13, [[browser-agent-local-seo-authority]] for 14–16, and [[browser-agent-local-seo-content-tracking]] for 17–20. The broken Markdown and tangled quote order in 10, 12, 14, 16, 17, 18 and 20 remain unchanged. No Grok model/API or browser integration is proved by the source. ^[raw/articles/xarticle-top-20-grok-bot-prompts-for-seo-the-only-stack-you-2090071557590900974.md]
 
 ## Related
 
