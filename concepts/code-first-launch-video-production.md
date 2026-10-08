@@ -1,10 +1,10 @@
 ---
 title: Code-First Launch Video Production
 created: 2026-07-12
-updated: 2026-09-29
+updated: 2026-10-07
 type: concept
 tags: [ai-video, video-generation, agent, workflow, coding, content, marketing, product, framework, x-article]
-sources: [raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-how-i-make-10k-launch-videos-for-0-with-opus-55-fu-2104446706741825818.md]
+sources: [raw/articles/xarticle-how-we-made-our-yc-launch-video-in-15-days-with-fa-2075672770483269788.md, raw/articles/xarticle-how-i-make-10k-launch-videos-for-0-with-opus-55-fu-2104446706741825818.md, raw/articles/thread-0xCodila-2107119130239185232.md]
 related_entity: [[trope]]
 author: [[matt-chow]]
 ---
@@ -84,3 +84,18 @@ The source's craft rules are: change shape instead of fading, derive every scene
 - [[agentic-video-hyperframes]]
 - [[viral-launch-system]]
 - [[open-montage]]
+
+
+## Promotional motion-studio thread (2026-10-05)
+
+[[0xcodila]] claims companies are offering approximately $500 for 15-sec videos made with Opus 5.5 and Fable 5.5, and advertises an article about building a motion studio and share offers from scratch. The saved export contains only this promotional post, not the linked article or a demonstrated implementation. The quoted model names, payment claim and easiest-way-to-earn framing remain source claims, not independently verified availability, earnings or instructions. ^[raw/articles/thread-0xCodila-2107119130239185232.md]
+
+> It's probably the easiest way to make money with ONLY AI in 2026...
+>
+> Companies are already offering ~$500 for 15-sec videos made with Opus 5.5 &amp; Fable 5.5
+>
+> In this article, I'll walk you through building a motion studio and share offers from scratch: https://t.co/cPyuxX3x5E
+
+^[raw/articles/thread-0xCodila-2107119130239185232.md]
+
+No article continuation, motion-studio configuration, prompts, renderer, capture process or offer mechanics are available in this local source. Earlier Remotion/HTML/Playwright/ffmpeg workflows on this page belong to their own sources and are not inferred for Codila. ^[raw/articles/thread-0xCodila-2107119130239185232.md]

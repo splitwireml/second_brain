@@ -1,10 +1,10 @@
 ---
 title: Character-Consistent AI Video Workflow
 created: 2026-07-20
-updated: 2026-08-08
+updated: 2026-10-07
 type: concept
 tags: [ai-video, video-generation, image-generation, prompting, workflow]
-sources: [raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md, raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md, raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md, raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
+sources: [raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/xarticle-ai-video-workflow-2026-cinematic-masterpiece-2078133327714738454.md, raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md, raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md, raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md, raw/articles/xarticle-how-to-get-rich-in-the-attention-economy-ai-influe-2107476083851534377.md]
 related_entity: [[primee32]]
 author: [[primee32]]
 confidence: medium
@@ -65,6 +65,22 @@ The recurring identity guard is the literal instruction `face stable throughout,
 Tetsuo's Grok Imagine workflow reinforces the reference-first rule with a three-panel character sheet: head-cropped full-body front, full-body back, and square head-and-shoulders portrait on a light-grey backdrop. It warns that multiple face views can increase drift, that green screens bleed into generations, and that identity references should carry appearance while text carries action and hidden per-shot facts. Each beat then calls selected images through `@` element tags, with the current source-described ceiling of three references per generation. ^[raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
 
 The source adds 47° full-body/18° portrait optics, 5600K key plus cool rim, locked tripod distances, per-beat `ASSETS` lists, `STATE` notes, positive locks, and a `/imagine-character-sheet-prompt` → `/imagine-prompt-creator` handoff. These are source-described Grok mechanics, not guaranteed product requirements. See [[grok-imagine-short-film-pipeline]] and [[grok-imagine]]. ^[raw/articles/xarticle-how-to-make-a-short-film-with-grok-imagine-start-t-2085365652509040768.md]
+
+## Character-sheet contract for recurring influencer ads (Machina, 2026-10-06)
+
+Machina's Higgsfield-sponsored article adds an explicit identity acceptance contract to the recurring-ad workflow in [[ai-influencer-path]]. Collect niche-compatible Pinterest references on one board and look for patterns in faces, hair, wardrobe and setting. It places the sheet in **Nano Banana Pro**, attributing to Google support for **up to five characters** and **up to fourteen objects** in one workflow; that capacity is a source claim, not an independently verified consistency result. ^[raw/articles/xarticle-how-to-get-rich-in-the-attention-economy-ai-influe-2107476083851534377.md]
+
+| Stage | Source-described requirement | Handoff/acceptance condition |
+|---|---|---|
+| 1. Headshot | Neutral light, plain background, no text | Establish the face first |
+| 2. Full body | Generate from that same headshot | Carry the face into the full-body reference |
+| 3. Closed wardrobe line | Short allowed outfit list; nothing outside it | Judge subsequent ads against this closed wardrobe |
+| 4. Identity anchor | One recurring mark/detail in every shot | If the anchor is missing, **discard that frame** |
+| 5. Phone-photo realism | Slight grain, imperfect framing, real rooms, no studio gloss | Keep this realism rule in every ad's sheet contract |
+
+The article claims outfit drift makes the audience read a new person. It also describes a **Higgsfield AI Influencer** menu builder with **19 settings**, outputs **up to 4K**, and both close-up portrait and full-body references in one generation. For persistent identity, it attributes to Higgsfield's guide **Soul ID training on 20 or more photos**, then reusing that identity in every job. Each additional influencer gets its own sheet and Soul ID; neither sheet reuse nor Soul ID is presented here as a demonstrated zero-drift guarantee. [[higgsfield]] and [[nano-banana]] retain these named product roles. ^[raw/articles/xarticle-how-to-get-rich-in-the-attention-economy-ai-influe-2107476083851534377.md]
+
+For original ads, the image-to-video handoff is a **turnaround character sheet on white → tag the images into a Seedance 2.5 video prompt**. The source's **up to 50 references** claim is not a claim of 50 images specifically. Its explicit acceptance check is **test the character across a batch of renders before promising a brand anything**: an unnamed independent review is said to caution that a showcase does not establish repeatable character/product consistency and limits change by provider and plan. This ingest produced no renders or batch measurements. ^[raw/articles/xarticle-how-to-get-rich-in-the-attention-economy-ai-influe-2107476083851534377.md]
 
 ## Related
 

@@ -1,10 +1,10 @@
 ---
 title: Affiliate Marketing
 created: 2026-04-18
-updated: 2026-08-08
+updated: 2026-10-07
 type: concept
 tags: [affiliate-marketing, marketing, monetization, instagram, funnel, lead-magnet]
-sources: [raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md]
+sources: [raw/articles/xarticle-how-i-built-a-500day-affiliate-system-on-instagram-2085058455597990043.md, raw/articles/xarticle-how-to-build-a-viral-affiliate-machine-full-guide-2106825073541677542.md]
 ---
 
 # Affiliate Marketing
@@ -25,3 +25,19 @@ The owned-audience handoff is a Manychat keyword comment funnel to a free guide 
 - [[instagram-ugc-system]]
 - [[distribution]]
 - [[pounddz]]
+
+## Search-intent plus four-surface product affiliate system (Laur, 2026-10-04)
+
+[[laurgrowth]] adds a physical-product sale-commission branch through [[glitchy]], rather than Pounds' appointment/lead-capture/email funnel. Offer details and products come from the Glitchy library; pick one until it converts consistently, then a second, and ask the team for the strongest **EPC** before sending traffic. The source's **$28–$73 per sale**, **$0.50/<20-minute** generation economics and **$50,000/MONTH** target remain attributed assertions/hypotheses, not independently measured returns. ^[raw/articles/xarticle-how-to-build-a-viral-affiliate-machine-full-guide-2106825073541677542.md]
+
+| Platform/surface | Laur's source-described role and operating instruction |
+|---|---|
+| TikTok | **Post daily**, test volume and multiple hooks, find the winner; the source equates a high product-content **save rate** with high purchase intent |
+| Instagram | Claimed strongest ecommerce conversion; **28-40 demographic** allegedly has the highest organic-platform purchasing power, aligned with the library's products |
+| YouTube Shorts | Take the **best TikTok content**, **post it natively**; source claims a search-results advantage over TikTok |
+| YouTube long form | Product reviews/comparisons as compounding search assets that rank, keep generating clicks and allegedly earn passively for **months** |
+
+Laur says **make the content once; post it to all four** and let each surface serve its role. This instruction includes **TikTok, Instagram, YouTube Shorts and YouTube long form**; preserve the source's repurposing claim without inventing a long-form assembly procedure. The separate **Facebook** health-persona page is an additional branch, not one of those four surfaces. All save-rate, purchasing-power, ranking, search/conversion and passive-income statements are source claims; there are no comparative platform data or campaign results in the export. ^[raw/articles/xarticle-how-to-build-a-viral-affiliate-machine-full-guide-2106825073541677542.md]
+
+The proposed search-review viewer watches a **10 minute** review versus a **15 second TikTok**; an unnamed **4 minute Herz P1 review with 22k views** is a distinct anecdote. The offer-details → **omni flash** person-using imagery → **Claude** honest-pros/realistic-cons review/comparison → **first-line price/affiliate link above "show more"** handoff is fully preserved in [[affiliate-ai-ugc]], including verbatim review hook, price-link placeholder and comparison title. Payouts, referral and offer-selection/EPC handoff are in [[glitchy-ai-income-system]]. ^[raw/articles/xarticle-how-to-build-a-viral-affiliate-machine-full-guide-2106825073541677542.md]
+

@@ -1,10 +1,10 @@
 ---
 title: ColdIQ
 created: 2026-04-14
-updated: 2026-09-22
+updated: 2026-10-07
 type: entity
 tags: [agency, b2b, marketing, outbound, seo]
-sources: [raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md]
+sources: [raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md, raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
 ---
 
 # ColdIQ
@@ -57,3 +57,10 @@ ColdIQ's LinkedIn strategy (150+ posts/month across 24 team members) is a coordi
 ## Relationship to [[offer-traffic-digital-asset-framework]]
 
 ColdIQ's own growth is a live demonstration of the Offer × Traffic framework — strong offer, coordinated traffic, and owned workflow context compounding across repeated campaigns.
+
+## 2026-10-06 Five-Step Cold Email Course
+
+[[michel-lieben]] explicitly identifies ColdIQ as the unified GTM API he runs, with one key for 40+ data providers and an MCP server for Claude Code and Codex. He says its API resells PredictLeads, Apollo, Prospeo and FullEnrich, and the first 300 credits are free. The agency’s $7M ARR and 275+ clients are source claims, not audited findings; its commercial interest is disclosed rather than treated as neutral tool comparison. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+The course’s [[cold-email-account-tiering]] starts from folk closed-won deals and returns new wins to folk for next month’s scoring; tier 1 is handwritten and tier 2 pairs the user and signer with Expandi touches. [[cold-email-copy-frameworks]] and [[cold-email-deliverability]] preserve the full templates and operational gates; [[api-led-gtm]] keeps the source-specific stack prices and exclusions. This workflow does not silently adopt the separate earlier Supabase architecture or Adam Rahman’s HubSpot/OutboundSync workflow. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+

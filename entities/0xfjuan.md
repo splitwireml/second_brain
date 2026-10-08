@@ -1,10 +1,10 @@
 ---
 title: 0xfJuan
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-10-07
 type: entity
 tags: [person, content-creator, x-creator, marketing]
-sources: [raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
+sources: [raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md, raw/articles/xarticle-how-to-make-your-launch-unforgettable-2107458102710735032.md]
 ---
 
 # Juan (@0xfJuan)
@@ -35,9 +35,19 @@ When strangers post unprompted, DMs arrive, and the product is screenshotted int
 
 During the first 48 hours, the operator posts live milestones as plain numbers—signups, views, and waitlist size—replies publicly to late-arriving large accounts, and cuts new pieces from working material such as video clips, screenshots of unusual reactions, and a founder note. The source says to post nothing unrelated during that period, then remain visible for weeks because buyers may purchase later from the person they have continued seeing. ^[raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
 
+## Launch recall and buyer-fit follow-through (2026-10-06)
+
+Juan's later article extends the launch-day playbook with buyer memory and post-launch follow-through, detailed in [[viral-launch-system]]. He reports one post with **285K impressions and zero leads**, versus another with **55K impressions, four meetings, and one of those meetings turning into one of his biggest launches**. He also says he has spent **over $1M on X creators**. These are personal source-reported results and spending claims, not independently verified campaign data or general conversion benchmarks. ^[raw/articles/xarticle-how-to-make-your-launch-unforgettable-2107458102710735032.md]
+
+The proposed workflow is to identify the buyer's future use-case trigger; make the product name and use case clear in the video without its caption; keep positioning consistent across founder post, demo, creator posts, and landing page while allowing each creator's own voice; and test company-name recall the next day on someone uninvolved in production. Creators receive early product access, demonstrate audience-specific workflows/problems, and are evaluated through target-market replies, use-case descriptions, access requests, and team discussion rather than views alone. Conversation-producing creators get a second post within **1–2 weeks**, with a different workflow, an audience-question answer, or a consenting user's example. ^[raw/articles/xarticle-how-to-make-your-launch-unforgettable-2107458102710735032.md]
+
+Follow-up content draws on recurring questions, user creations, fixes, and requested demo detail; visible product updates become small launches. Returning buyers, recommendation tags, useful conversations, demo requests, and signups supply recall signals. Replies, DMs, sales calls, and **“Where did you hear about us?”** provide imperfect but useful attribution. The October article does not specify the earlier Claude/Claude Code/twitterapi.io research stack, an attribution implementation, or controlled evidence for these recommendations; its workflow remains a separate source-described marketing method. ^[raw/articles/xarticle-how-to-make-your-launch-unforgettable-2107458102710735032.md]
+
+**Commercial framing:** Juan offers a personal **Loom video** launch breakdown by DM and asks readers to DM **RECALL** for his **Launch Recall Checklist**, covering checks before distribution spend and the **two weeks after launch**. For launches in the **next 30 days**, readers are asked what they are building and who it is for, with a promised first-focus recommendation. These are promotional CTAs, not delivered assets or independently established service capabilities; neither the checklist nor the Loom video is present in the local export. ^[raw/articles/xarticle-how-to-make-your-launch-unforgettable-2107458102710735032.md]
+
 ## Evidence boundaries
 
-The local source names X, Claude, Claude Code, and twitterapi.io, but it supplies no Claude model or version, API endpoint, command, configuration value, parameter schema, prompt text, file format, file path, or implementation detail for the data pull or swipe file. The four stages, timings, counts, signal explanation, and performance figures above are source-described guidance or claims; they are not independent measurements. The article's personal Loom offer and free-fit launch-service invitation are promotional framing, not verified service capabilities. ^[raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
+The July source names X, Claude, Claude Code, and twitterapi.io, but it supplies no Claude model or version, API endpoint, command, configuration value, parameter schema, prompt text, file format, file path, or implementation detail for the data pull or swipe file. Its four stages, timings, counts, signal explanation, and performance figures above are source-described guidance or claims; they are not independent measurements. The July article's personal Loom offer and free-fit launch-service invitation are promotional framing, not verified service capabilities. ^[raw/articles/xarticle-how-to-get-your-launch-trending-on-x-full-guide-2082138861136736272.md]
 
 ## Related
 

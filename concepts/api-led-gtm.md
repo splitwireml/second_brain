@@ -4,7 +4,7 @@ created: 2026-05-06
 updated: 2026-10-07
 type: concept
 tags: [workflow, api, automation, b2b, claude-code, gtm, outbound]
-sources: [raw/articles/xarticle-the-complete-guide-to-api-led-gtm-2051029582070141119.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md, raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+sources: [raw/articles/xarticle-the-complete-guide-to-api-led-gtm-2051029582070141119.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md, raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md, raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
 related_entity: [[michel-lieben]]
 author: [[michel-lieben]]
 ---
@@ -101,6 +101,68 @@ This is a source-specific operational catalog, not product documentation or a ve
 [[adamrahmangtm]] supplies a complementary acquisition taxonomy in [[gtm-engineer]]: 12 trigger-driven workflows with buying-committee enrichment, double email verification, fit/timing scoring, and tiered sales handoffs. It names Claude Code/Gong objection extraction, Sumble/RB2B/PredictLeads change signals, HubSpot/OutboundSync CRM routing, MasterInbox interested-tag triggers, GetLeads/FullEnrich/BetterContact dials, Slack alerts, Apify/Serper review research, Jev/OpenRouter scoring, Firecrawl reading, DiscoLike lookalikes, HeyReach LinkedIn openers, and Salesfinity parallel calling. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
 
 This is **not** an API implementation specification: its four-vendor waterfall is unnamed; its scoring prompt is mentioned but not reproduced; no model version, endpoint/schema, keys/configuration, local file paths, code, commands, retries, or orchestrator are supplied. Do not import this page's separate ColdIQ/Supabase/Instantly or `.env`/`.mcp.json` architecture into Rahman's stack. Keep his revgrowth.ai `/playbooks/*` paths with `utm_source=x`, `utm_medium=social`, and `utm_campaign=gtm-workflows-article` as unfetched source references. Commercial pipeline/conversation claims remain source-described and unverified. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+
+## 2026-10-06 Five-Step Cold Email Course
+
+This is a separate source-specific five-step/15-day course, not a new universal implementation of the earlier eight-layer stack or Adam Rahman’s acquisition taxonomy. Exact installation, folder and folk/PredictLeads MCP commands and CRM/CSV prompts are in [[cold-email-account-tiering]]; Instantly’s hosted MCP/API v2, private all:all key example, read-only skill and approval-gated fixes are in [[cold-email-deliverability]]. There is no Supabase, HubSpot, Clay, .env, .mcp.json or unspecified orchestrator added to this course. Prices, capacities, API access, legal and performance statements below are the author’s historical assertions, not checked current facts. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+# The stack, from signal to send
+
+> Almost every tool in your GTM stack is a login screen wrapped around an API that does the actual work. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+The stack below runs from signal to send, with entry prices. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+## Signal
+
+- PredictLeads (intent signals): job openings, funding, technologies and news for 120M+ companies. 100 free API calls a month, then $0.04 a call ($40 minimum). ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+## Data
+
+- GetLeads (lead sourcing): 478M+ contacts, plus play 1's post engagers. 1,000 free credits once, Unlimited at $497 a month. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Apollo (lead sourcing): 240M contacts and 30M companies. Free with a 25-record selection limit, Basic at $49 per seat a month (annual). ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Prospeo (enrichment): verified emails and mobiles. $49 a month for 2,000 credits (1 per email, 10 per mobile). ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- FullEnrich (enrichment): a mobile-first waterfall across 20+ data sources. From $29 a month for 500 credits. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Explorium (enrichment): data on 150M+ companies and 800M+ people. From $29.99 for 500 credits. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+## Send
+
+- Hypertide (email infrastructure): $3.30 per Google inbox a month, or $25 a month per Microsoft (Entra) domain with 25 inboxes. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Instantly (outreach): warmup, sequences, limits and the API behind the morning check. Growth at $47 a month, lead-check credits from $47 for 1,500. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Expandi (outreach): the LinkedIn touches. $99 per LinkedIn seat a month. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+## Automate
+
+- n8n (AI agents): scheduled workflows, like a daily signal check. Free to self-host, cloud from €20 a month (annual). ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Vibe Prospecting (AI agents): builds lists from plain-English requests inside Claude or ChatGPT, on Explorium's data. 200 free credits a month. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Claude Code and Codex (orchestration): the coding agents that run this playbook's prompts. Codex comes with ChatGPT plans. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- ColdIQ (orchestration): one API key in front of 40+ data providers, with an MCP server for Claude Code and Codex. I run it, and its API resells PredictLeads, Apollo, Prospeo and FullEnrich from this stack. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+---
+
+# What this changes
+
+- Speed: the 14-day warmup happens once. Every later play goes out on inboxes that are already warm. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Cost: about $357 a month plus domains: $63.50 to send, about $178 for data and $115 for the workflow. The placement test (from $47 a month) and tier 2's Expandi seat ($99 a month) come on top, as do Sales Navigator, GetLeads engager pulls and ads for the plays that use them. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Labor: you handwrite for about 20 tier 1 accounts a month, and Claude Code writes the fields for the other 1,000 people. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Distribution: each extra Hypertide inbox adds up to 30 sends a day for $3.30 a month, plus a domain for every third inbox, and Instantly Growth covers 7 inboxes at full speed. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Revenue: the tiers come from accounts scored against your own closed-won deals, so pipeline lands in the segments that already pay you. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+Order two domains and five inboxes today, and switch on the warmup. The first warmup emails go out after midnight UTC, and day 15 is two weeks from there. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+ColdIQ, the unified API for GTM I run, puts the data from steps 2 and 3 behind one key for Claude Code and Codex. The first 300 credits are free on [coldiq.com](http://coldiq.com/). ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
 
 ## Related Concepts
 

@@ -1,10 +1,10 @@
 ---
 title: Seedance 2.0
 created: 2026-04-13
-updated: 2026-08-08
+updated: 2026-10-07
 type: entity
 tags: [product, tools, genai, marketing, video-generation]
-sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md, raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+sources: [raw/articles/stijn-feijen-claude-seedance-makeugc-system-2026-04-13.md, raw/articles/frederikfeldt-seedance-pricing-2026-04-16.md, raw/articles/viktoroddy-gemini-seedance-websites-2026-04-17.md, raw/articles/vadoo-seedance-2-0-commercial-playbook-2045849016664248762.md, raw/articles/seedance-2-0-new-default-video-model-2045221480120885529.md, raw/articles/gpt-image-2-seedance-2-character-consistency-workflow-2075327959586537848.md, raw/articles/14-second-ai-vlog-method.md, raw/articles/makeugc-ad-remake-viral-ad-workflow.md, raw/articles/xarticle-how-to-master-seedance-25-full-course-2084666171446726767.md, raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md, raw/articles/xarticle-how-to-get-rich-in-the-attention-economy-ai-influe-2107476083851534377.md]
 ---
 
 # Seedance 2.0
@@ -118,6 +118,12 @@ The source's fighter-jet montage uses one `@image1` for pilot, primary aircraft,
 Reference sheets use three face angles for a character and two or three environment angles. The guide reports `4–10` references per prompt for narrative work, but fewer references for montages to leave room for invention. It keeps native SFX for mechanical subjects, mostly omits native dialogue, adds music in Premiere, and says text in frame should be handled with captions and overlays in the edit. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
 
 The source-specific style branch runs Midjourney → GPT image models for conversion, upscaling, and style-locking → `4–10` Seedance references. Gemini is described as a style-detail extractor that turns loved imagery or cartoons into reusable keywords; the same style paragraph is pasted into Midjourney, GPT image, and Seedance. These tool roles and the claimed Into-the-Spider-Verse-like target are source-described, not independently evaluated. ^[raw/articles/xarticle-how-to-prompt-seedance-25-the-200iq-guide-2085364884154560549.md]
+
+## Seedance 2.5 original-ad branch (Machina, 2026-10-06)
+
+Machina's Higgsfield-sponsored article names **Seedance 2.5** for original formats after reference-led trend copying. It claims **up to 30 seconds**, aspect ratios **9:16 to 21:9**, **audio generated in the same pass**, and **up to 50 references**. Its handoff is image-first: **a turnaround character sheet on white → tag those images into the video prompt**. Unlike the earlier modality-specific 30-image/10-video/10-audio description, this source does not break down the 50 references by modality or give exact tag syntax; retain the source-specific descriptions rather than infer 50 images or a new API. ^[raw/articles/xarticle-how-to-get-rich-in-the-attention-economy-ai-influe-2107476083851534377.md]
+
+The production rules are **3.5 words per second** of spoken line, **one beat per generation** in short clips **stitched after**, **hook first** by rendering the opening line before anything else, and **1080p** for client delivery. The article attributes to an unnamed independent review a warning that a showcase does not prove repeatable **character or product consistency**, and **limits change by provider and plan**; **test the character across a batch of renders before promising a brand anything**. These remain attributed, unverified capabilities/constraints and instructions, not a reported batch-test result. See [[ai-influencer-path]] and [[character-consistent-ai-video-workflow]]. ^[raw/articles/xarticle-how-to-get-rich-in-the-attention-economy-ai-influe-2107476083851534377.md]
 
 ## References
 ## References

@@ -4,7 +4,7 @@ created: 2026-05-31
 updated: 2026-10-07
 type: concept
 tags: [b2b, cold-email, lead-gen, marketing, outbound]
-sources: [raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/post-brannonhogue-youre-supposed-to-throw-away-75-of-your-cold-email-2083597307375735213.md, raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+sources: [raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/post-brannonhogue-youre-supposed-to-throw-away-75-of-your-cold-email-2083597307375735213.md, raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md, raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
 ---
 
 # Cold Email
@@ -70,6 +70,66 @@ The local source does not specify the validation service, catch-all method, rese
 The separate Reply to Warm Call workflow fires on an **interested** tag in MasterInbox: GetLeads/FullEnrich direct dial → Claude Code/Sumble account research → OutboundSync/HubSpot CRM handoff → Slack SDR ping → call within minutes. CRM Re-engagement uses Claude Code on Gong recordings to name budget/timing/missing-feature/wrong-person objections; monitors Sumble hiring/tool changes, RB2B return visits, and PredictLeads champion changes; spends no credits if the blocker stays unchanged; otherwise re-enriches and verifies twice, calling tier one and emailing the original objection to the rest. All 12 workflows and exact distinctions are in [[gtm-engineer]]. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
 
 The author claims $30M+ pipeline across 10M+ cold emails; $3.7M building-materials pipeline from cold email plus CRM re-engagement; and 4,313 qualified conversations in 16 months from 1M+ cold emails for a branded-cup seller targeting coffee shops, bakeries, and caterers. These are unverified source reports: pipeline is not recognized revenue, conversations are not booked meetings, and no independently measured conversion rate or attribution model is supplied. ^[raw/articles/xarticle-12-gtm-engineering-workflows-that-drive-revenue-fu-2107548563085689302.md]
+
+## 2026-10-06 Five-Step Cold Email Course
+
+Michel Lieben’s October 6, 2026 course is preserved below as source material, not independently verified tool documentation, legal advice, pricing, platform policy or measured results. First-person statements belong to the author. Commands, prompts and templates are archival examples only: none were executed and no campaign was created. Only the source’s stated privacy, private-key, opt-out and approval constraints are retained. Linked destinations were not retrieved. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+This complete course’s ordered steps live in [[cold-email-deliverability]] (step 1, 15-day launch plan and morning/bulk-fix gates), [[cold-email-account-tiering]] (step 2), [[cold-email-campaign-plays]] (step 3), [[cold-email-copy-frameworks]] with [[cold-email-copy-frameworks-pain-and-team]] and [[cold-email-copy-frameworks-trigger-and-offer]] (all twelve step-4 cards), and [[cold-email-automation]] (step 5, sequence and nine copy rules). [[api-led-gtm]] retains the complete source stack and economics. No step, literal prompt or template was discarded to shorten this hub. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+Source policies remain distinct: this October course automates evidence-backed fields for tiers 2–3 while keeping tier 1 handwritten, unlike the earlier human-message-only framing. It queues tier 3 for later months, unlike Brannon Hogue’s tier-3 removal. Its catch-alls get a separate small list, not the other sources’ blanket exclusion. Adam Rahman’s twelve workflows and prior prose/source arrays are retained unchanged. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+How to Book Meetings With Cold Email in 2026 (Full Course) ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+Cold email is how a company nobody has heard of starts a conversation with the people it wants to sell to. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+I learned it the slow way. My first 4,000 cold emails got me 1 lead. I kept sending, kept reading the replies, kept fixing what broke, and the agency we built after that grew to $7M ARR and 275+ clients. Everything that worked went onto one page, my 2026 Cold Email Cheat Sheet. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+This playbook walks you through that page in the order you build it. By day 15 you'll have: ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Five warmed inboxes, set up and checked before they send a single cold email ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Your best 500 accounts, scored against your own closed-won deals and split into 3 tiers ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- A play for each tier, so every stranger gets a real reason to reply ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Email 1 and a 3-step sequence, written on one of 12 frameworks from the top 1% ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- A 90-second morning check that spots a struggling inbox before it hurts your domain ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+Every setting, prompt and template is here to copy. Your first campaign goes out on day 15. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+---
+
+# What every reply needs, in order
+
+Gmail and Outlook decide where an email lands from the reputation of the domain it comes from and of the IP that sends it, and a new domain has no reputation yet. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+A reply needs three layers, in this order: ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+1. An inbox Gmail and Outlook already trust, so the email lands where it gets read. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+2. A reason to reply this week, given to the one person who owns the problem. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+3. Words a reader takes in on a phone, carrying one idea about them. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+---
+
+# Why this works
+
+- One play per list makes the first line true for everyone on it. The whole list shares the fact your email opens on. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Custom details lift replies. In Hunter's 2026 report on 31M emails, two custom attributes (merge fields filled per lead) got 56% more replies than none. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Tracking off lifts them too. Hunter measured 68% more replies with tracking off, and Spamhaus tells filters to check every domain in a message, including the ones in links. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Offer CTAs get more replies. In the 30 Minutes to President's Club, Gong and Outbound Squad report on 85M+ cold emails, offer CTAs lifted reply rates by 28% and meeting asks cut them by 44%. All-lowercase subject lines got 11% more opens than sentence case, which backs the lowercase half of Tal's rule. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+- Follow-ups bring in replies. Instantly's 2026 benchmark credits them with 42% of all replies. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+---
+
+The final quoted evidence section reports Hunter’s 31M-email analysis, the 30 Minutes to President’s Club/Gong/Outbound Squad 85M+ report, Spamhaus guidance and Instantly’s 2026 benchmark. Their 56%, 68%, 28%, −44%, 11% and 42% figures remain author-attributed; the local article supplies no report datasets, methods or independent replication. An open-rate claim is not this campaign’s reply measurement. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
 
 ## Related Concepts
 

@@ -1,10 +1,10 @@
 ---
 title: Michel Lieben
 created: 2026-05-06
-updated: 2026-09-22
+updated: 2026-10-07
 type: entity
 tags: [person, b2b, content-creator, marketing, outbound, x-creator]
-sources: [raw/articles/xarticle-the-complete-guide-to-api-led-gtm-2051029582070141119.md, raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/michel-lieben-ai-lead-gen-agent-hermes-2051707320699396454.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-anatomy-of-a-linkedin-post-that-actually-gener-2059265591761055888.md, raw/articles/xarticle-httpstcou687ybqcft-2080395750668927290.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md]
+sources: [raw/articles/xarticle-the-complete-guide-to-api-led-gtm-2051029582070141119.md, raw/articles/michlieben-coldiq-4-layer-funnel-2026-04-14.md, raw/articles/michel-lieben-ai-lead-gen-agent-hermes-2051707320699396454.md, raw/articles/xarticle-how-to-replace-your-sales-tools-with-claude-code-w-2057868136268128388.md, raw/articles/xarticle-the-anatomy-of-a-linkedin-post-that-actually-gener-2059265591761055888.md, raw/articles/xarticle-httpstcou687ybqcft-2080395750668927290.md, raw/articles/xarticle-the-complete-cold-email-playbook-for-2026-its-a-di-2083199326004838508.md, raw/articles/xarticle-heres-every-top-api-you-need-for-doing-gtm-from-th-2102017602289803275.md, raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
 ---
 
 # Michel Lieben
@@ -43,6 +43,14 @@ The stated guardrails are operational: never put keys in prompts; send every API
 ## 2026-07-25 Link-post provenance
 
 - A local 2026-07-23 bookmark for @MichLieben is an export-failed bare shortened-URL post; the destination and topic are unavailable, so this records author-level link-post provenance only.^[raw/articles/xarticle-httpstcou687ybqcft-2080395750668927290.md]
+
+## 2026-10-06 Five-Step Cold Email Course
+
+The full local course by @MichLieben specifies five steps over 15 days: DNS/mailboxes/warmup → closed-won-driven TAM scoring and three effort tiers → nine plays → twelve exact copy frameworks → three-step sequence, launch checks and morning deliverability review. It claims the author’s first 4,000 emails produced one lead and the later agency grew to $7M ARR and 275+ clients; these are unverified author reports. The substantive canonical author page is reused; the older MichLieben stub was not merged or rewritten. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+[[cold-email]] is the course hub. Detailed reusable pages retain [[cold-email-account-tiering]], [[cold-email-campaign-plays]], all twelve [[cold-email-copy-frameworks]] and [[cold-email-deliverability]], with exact prompts, paths, thresholds and approval gates. Tier 1 stays handwritten/manual; tiers 2–3 use evidence-backed template-field generation. This differs from the earlier source’s “humans keep the words” boundary, so each instruction remains attributed to its own source. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
+
+The author discloses running ColdIQ: one API key and MCP server in front of 40+ providers, reselling PredictLeads, Apollo, Prospeo and FullEnrich, with 300 initial credits claimed free. [[api-led-gtm]] preserves this course’s own price/credit table and economics without importing a Supabase/HubSpot/Clay architecture. No source command, prompt, send, external lookup or URL resolution was executed during ingestion. ^[raw/articles/xarticle-how-to-book-meetings-with-cold-email-in-2026-full--2107499997906514147.md]
 
 ## Related
 
